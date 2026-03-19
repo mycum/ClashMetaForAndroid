@@ -1,0 +1,59 @@
+# Основные системные настройки
+mixed-port: 7890
+allow-lan: false
+tcp-concurrent: true
+find-process-mode: always
+global-client-fingerprint: random
+log-level: error
+ipv6: false
+
+# DNS с нулевым доверием
+dns:
+  enable: true
+  ipv6: false
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  nameserver:
+    - https://dns.google/dns-query
+    - https://cloudflare-dns.com/dns-query
+  fallback:
+    - https://9.9.9.9/dns-query
+  proxy-server-nameserver:
+    - https://8.8.8.8/dns-query
+
+# Провайдер серверов (Склад)
+proxy-providers:
+  black-vless:
+    type: http
+    url: "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_SS+All_RUS.txt"
+    interval: 10800 # Обновление списка раз в 3 часа
+    path: ./providers/black_vless.yaml
+    health-check:
+      enable: true
+      interval: 900   # Проверка раз в 15 минут
+      lazy: true      # НЕ проверять, если VPN не используется (экономия)
+      url: "http://149.154.167.51" # Проверка связи именно с Telegram
+
+# Автоматический выбор (Магазин)
+proxy-groups:
+  - name: "AUTO-MOD"
+    type: url-test
+    use:
+      - black-vless
+    exclude-filter: "(?i)ipv6"
+    url: "http://149.154.167.51" # Тест скорости через узлы Telegram
+    interval: 300   # Перепроверять лучший сервер каждые 5 минут при работе
+    tolerance: 100  # Не менять сервер, если разница в пинге меньше 100мс
+    lazy: true      # Экономия: не тестировать узлы, пока нет трафика
+
+# Правила маршрутизации (Безопасность)
+rules:
+  # Защита локальной сети (DIRECT)
+  - DOMAIN-SUFFIX,local,DIRECT
+  - IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
+  - IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
+  - IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
+  - IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
+
+  # Всё остальное - через наш умный автомат
+  - MATCH, AUTO-MOD
