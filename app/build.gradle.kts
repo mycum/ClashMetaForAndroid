@@ -1,6 +1,7 @@
 import java.net.URL
 import java.nio.file.Files
 import java.nio.file.StandardCopyOption
+import java.io.InputStream
 
 plugins {
     kotlin("android")
@@ -24,7 +25,7 @@ dependencies {
     implementation(libs.androidx.coordinator)
     implementation(libs.androidx.recyclerview)
     implementation(libs.google.material)
-    implementation(libs.quickie.bundled)
+    // Библиотека quickie удалена для облегчения веса APK
     implementation(libs.androidx.activity.ktx)
 }
 
@@ -34,21 +35,19 @@ tasks.getByName("clean", type = Delete::class) {
 
 val geoFilesDownloadDir = "src/main/assets"
 
-task("downloadGeoFiles") {
-
-    val geoFilesUrls = mapOf(
-        "https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geoip.metadb" to "geoip.metadb",
-        "https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geosite.dat" to "geosite.dat",
-        // "https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/country.mmdb" to "country.mmdb",
-        "https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/GeoLite2-ASN.mmdb" to "ASN.mmdb",
-    )
+// Используем современный способ регистрации задачи
+tasks.register("downloadGeoFiles") {
+    // Список пуст, чтобы ничего не скачивалось. Типы указаны явно для компилятора.
+    val geoFilesUrls = mapOf<String, String>()
 
     doLast {
         geoFilesUrls.forEach { (downloadUrl, outputFileName) ->
             val url = URL(downloadUrl)
             val outputPath = file("$geoFilesDownloadDir/$outputFileName")
             outputPath.parentFile.mkdirs()
-            url.openStream().use { input ->
+
+            // Явно указываем тип InputStream, чтобы Gradle не путался
+            url.openStream().use { input: InputStream ->
                 Files.copy(input, outputPath.toPath(), StandardCopyOption.REPLACE_EXISTING)
                 println("$outputFileName downloaded to $outputPath")
             }
@@ -57,11 +56,12 @@ task("downloadGeoFiles") {
 }
 
 afterEvaluate {
-    val downloadGeoFilesTask = tasks["downloadGeoFiles"]
+    // Безопасное обращение к задаче по имени
+    val downloadGeoFilesTask = tasks.named("downloadGeoFiles")
 
-    tasks.forEach {
-        if (it.name.startsWith("assemble")) {
-            it.dependsOn(downloadGeoFilesTask)
+    tasks.configureEach {
+        if (name.startsWith("assemble")) {
+            dependsOn(downloadGeoFilesTask)
         }
     }
 }

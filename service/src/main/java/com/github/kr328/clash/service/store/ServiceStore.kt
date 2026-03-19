@@ -27,13 +27,67 @@ class ServiceStore(context: Context) {
 
     var accessControlMode: AccessControlMode by store.enum(
         key = "access_control_mode",
-        defaultValue = AccessControlMode.AcceptAll,
+        defaultValue = AccessControlMode.AcceptSelected, // Изменили на AcceptSelected
         values = AccessControlMode.values()
     )
 
     var accessControlPackages by store.stringSet(
         key = "access_control_packages",
-        defaultValue = emptySet()
+        defaultValue = setOf(
+            // Telegram и популярные форки
+            "org.telegram.messenger",
+            "org.telegram.messenger.web",
+            "org.telegram.plus",
+            "org.thunderdog.challegram",
+            "tw.nekomimi.nekogram",
+            "exteragram.network",
+            "com.vk.im",
+
+            // WhatsApp
+            "com.whatsapp",
+            "com.whatsapp.w4b",
+
+            // YouTube: Официальный клиент и основные ReVanced / RVX моды
+            "com.google.android.youtube",
+            "app.revanced.android.youtube",
+            "app.rvx.android.youtube",
+            "anddea.youtube",
+            "rufus.youtube",
+            "com.vanced.android.youtube",
+
+            // YouTube Music: Официальный клиент и моды
+            "com.google.android.apps.youtube.music",
+            "app.revanced.android.apps.youtube.music",
+            "app.rvx.android.apps.youtube.music",
+            "anddea.youtube.music",
+            "rufus.youtube.music",
+            "com.vanced.android.apps.youtube.music",
+
+            // YouTube: Альтернативные Open-Source клиенты
+            "org.schabi.newpipe",
+            "com.github.libretube",
+            "free.rm.skytube.oss",
+            "free.rm.skytube.extra",
+            "com.kapp.youtube.final",
+
+            // YouTube для Android TV (SmartTube)
+            "com.liskovsoft.smarttubetv.release",
+            "com.liskovsoft.smarttubetv.beta",
+
+            // Дополнительные сервисы YouTube
+            "com.google.android.apps.youtube.kids",
+            "com.google.android.apps.youtube.creator",
+
+            // Instagram
+            "com.instagram.android",
+            "com.instander.android",
+
+            // Twitter (X)
+            "com.twitter.android",
+
+            // Discord
+            "com.discord"
+        )
     )
 
     var dnsHijacking by store.boolean(

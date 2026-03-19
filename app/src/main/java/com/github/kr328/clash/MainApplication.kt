@@ -30,7 +30,9 @@ class MainApplication : Application() {
         super.onCreate()
 
         val processName = currentProcessName
-        extractGeoFiles()
+
+        // Метод extractGeoFiles удален, так как мы не используем GEO-базы
+        // и удалили их из assets для уменьшения размера APK.
 
         Log.d("Process $processName started")
 
@@ -45,8 +47,8 @@ class MainApplication : Application() {
     private fun setupShortcuts() {
         val icon = IconCompat.createWithResource(this, R.mipmap.ic_launcher)
         val flags = Intent.FLAG_ACTIVITY_NEW_TASK or
-            Intent.FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS or
-            Intent.FLAG_ACTIVITY_NO_ANIMATION
+                Intent.FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS or
+                Intent.FLAG_ACTIVITY_NO_ANIMATION
 
         val toggle = ShortcutInfoCompat.Builder(this, "toggle_clash")
             .setShortLabel(getString(DesignR.string.shortcut_toggle_short))
@@ -85,41 +87,6 @@ class MainApplication : Application() {
             .build()
 
         ShortcutManagerCompat.setDynamicShortcuts(this, listOf(toggle, start, stop))
-    }
-
-    private fun extractGeoFiles() {
-        clashDir.mkdirs()
-
-        val updateDate = packageManager.getPackageInfo(packageName, 0).lastUpdateTime
-        val geoipFile = File(clashDir, "geoip.metadb")
-        if (geoipFile.exists() && geoipFile.lastModified() < updateDate) {
-            geoipFile.delete()
-        }
-        if (!geoipFile.exists()) {
-            FileOutputStream(geoipFile).use {
-                assets.open("geoip.metadb").copyTo(it)
-            }
-        }
-
-        val geositeFile = File(clashDir, "geosite.dat")
-        if (geositeFile.exists() && geositeFile.lastModified() < updateDate) {
-            geositeFile.delete()
-        }
-        if (!geositeFile.exists()) {
-            FileOutputStream(geositeFile).use {
-                assets.open("geosite.dat").copyTo(it)
-            }
-        }
-
-        val asnFile = File(clashDir, "ASN.mmdb")
-        if (asnFile.exists() && asnFile.lastModified() < updateDate) {
-            asnFile.delete()
-        }
-        if (!asnFile.exists()) {
-            FileOutputStream(asnFile).use {
-                assets.open("ASN.mmdb").copyTo(it)
-            }
-        }
     }
 
     fun finalize() {

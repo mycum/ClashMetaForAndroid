@@ -33,7 +33,53 @@ class ProfileManager(private val context: Context) : IProfileManager,
         launch {
             Database.database //.init
 
+            // Проверяем, если профилей еще нет - создаем дефолтный
+            if (ImportedDao().queryAllUUIDs().isEmpty()) {
+                setupDefaultProfile()
+            }
+
             ProfileReceiver.rescheduleAll(context)
+        }
+    }
+
+    // Добавь эту функцию в самый низ класса ProfileManager
+    private suspend fun setupDefaultProfile() {
+        try {
+            val uuid = generateProfileUUID()
+            val dir = context.importedDir.resolve(uuid.toString())
+
+            // Создаем структуру папок профиля
+            dir.mkdirs()
+            dir.resolve("providers").mkdir()
+
+            // Копируем наш конфиг из assets
+            context.assets.open("default_config.yaml").use { input ->
+                dir.resolve("config.yaml").outputStream().use { output ->
+                    input.copyTo(output)
+                }
+            }
+
+            // Создаем запись в базе данных
+            val imported = Imported(
+                uuid = uuid,
+                name = "Auto Mod",
+                type = Profile.Type.File,
+                source = "",
+                interval = 0,
+                upload = 0,
+                download = 0,
+                total = 0,
+                expire = 0,
+                createdAt = System.currentTimeMillis()
+            )
+
+            ImportedDao().insert(imported)
+
+            // Делаем профиль активным сразу
+            store.activeProfile = uuid
+        } catch (e: Exception) {
+            // Если что-то пошло не так (например, файла нет в assets), просто логируем
+            e.printStackTrace()
         }
     }
 
