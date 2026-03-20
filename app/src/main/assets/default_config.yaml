@@ -13,6 +13,9 @@ dns:
   ipv6: false
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
+  default-nameservers:
+    - 77.88.8.8 # Яндекс DNS (самый быстрый и безотказный в РФ)
+    - 193.58.251.251 # SkyDNS (РФ)
   nameserver:
     - https://dns.google/dns-query
     - https://cloudflare-dns.com/dns-query
@@ -25,12 +28,12 @@ dns:
 proxy-providers:
   black-vless:
     type: http
-    url: "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_SS+All_RUS.txt"
+    url: "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt"
     interval: 10800 # Обновление списка раз в 3 часа
     path: ./providers/black_vless.yaml
     health-check:
       enable: true
-      interval: 900   # Проверка раз в 15 минут
+      interval: 600   # Проверка раз в 10 минут
       lazy: true      # НЕ проверять, если VPN не используется (экономия)
       url: "http://149.154.167.51" # Проверка связи именно с Telegram
 
@@ -40,7 +43,7 @@ proxy-groups:
     type: url-test
     use:
       - black-vless
-    exclude-filter: "(?i)ipv6"
+  #  exclude-filter: "(?i)ipv6"
     url: "http://149.154.167.51" # Тест скорости через узлы Telegram
     interval: 300   # Перепроверять лучший сервер каждые 5 минут при работе
     tolerance: 100  # Не менять сервер, если разница в пинге меньше 100мс
