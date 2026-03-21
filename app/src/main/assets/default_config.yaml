@@ -35,7 +35,7 @@ proxy-providers:
       enable: true
       interval: 600   # Проверка раз в 10 минут
       lazy: true      # НЕ проверять, если VPN не используется (экономия)
-      url: "http://149.154.167.51" # Проверка связи именно с Telegram
+      url: "https://api.telegram.org" # Проверка связи именно с Telegram
 
 # Автоматический выбор (Магазин)
 proxy-groups:
@@ -44,7 +44,7 @@ proxy-groups:
     use:
       - black-vless
   #  exclude-filter: "(?i)ipv6"
-    url: "http://149.154.167.51" # Тест скорости через узлы Telegram
+    url: "https://web.telegram.org" # Тест скорости через узлы Telegram
     interval: 300   # Перепроверять лучший сервер каждые 5 минут при работе
     tolerance: 100  # Не менять сервер, если разница в пинге меньше 100мс
     lazy: true      # Экономия: не тестировать узлы, пока нет трафика

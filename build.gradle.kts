@@ -66,12 +66,12 @@ subprojects {
 
             // В блоке abiFilters добавь x86_64
             ndk {
-                abiFilters.addAll(listOf("arm64-v8a"))
+                abiFilters.addAll(listOf("arm64-v8a", "armeabi-v7a"))
             }
 
             externalNativeBuild {
                 cmake {
-                    abiFilters("arm64-v8a")
+                    abiFilters("arm64-v8a", "armeabi-v7a")
                 }
             }
 
@@ -186,8 +186,8 @@ subprojects {
 
             splits {
                 abi {
-                    isEnable = false
-                    isUniversalApk = false
+                    isEnable = true
+                    isUniversalApk = true
                     reset()
                     include("arm64-v8a", "armeabi-v7a", "x86", "x86_64")
                 }
