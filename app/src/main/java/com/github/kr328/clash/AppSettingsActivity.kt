@@ -47,7 +47,8 @@ class AppSettingsActivity : BaseActivity<AppSettingsDesign>(), Behavior {
                 RestartReceiver::class.componentName
             )
 
-            return status == PackageManager.COMPONENT_ENABLED_STATE_ENABLED
+            return status == PackageManager.COMPONENT_ENABLED_STATE_ENABLED ||
+                    status == PackageManager.COMPONENT_ENABLED_STATE_DEFAULT
         }
         set(value) {
             val status = if (value)

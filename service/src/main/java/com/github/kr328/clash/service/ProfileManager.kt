@@ -62,7 +62,7 @@ class ProfileManager(private val context: Context) : IProfileManager,
             // Создаем запись в базе данных
             val imported = Imported(
                 uuid = uuid,
-                name = "Auto Mod",
+                name = "Auto VPN",
                 type = Profile.Type.File,
                 source = "",
                 interval = 0,

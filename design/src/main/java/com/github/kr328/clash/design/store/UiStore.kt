@@ -21,7 +21,7 @@ class UiStore(context: Context) {
 
     var darkMode: DarkMode by store.enum(
         key = "dark_mode",
-        defaultValue = DarkMode.Auto,
+        defaultValue = DarkMode.ForceDark, // БЫЛО: DarkMode.Auto -> СТАЛО: ВСЕГДА ТЕМНАЯ
         values = DarkMode.values()
     )
 
@@ -32,7 +32,7 @@ class UiStore(context: Context) {
 
     var hideFromRecents: Boolean by store.boolean(
         key = "hide_from_recents",
-        defaultValue = false,
+        defaultValue = true,
     )
 
     var proxyExcludeNotSelectable by store.boolean(

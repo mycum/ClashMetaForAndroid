@@ -3,10 +3,8 @@ package com.github.kr328.clash
 import android.content.pm.PackageManager
 import android.os.Build
 import android.os.Bundle
-import android.os.PersistableBundle
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.activity.result.contract.ActivityResultContracts.RequestPermission
-import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
 import com.github.kr328.clash.common.util.intent
 import com.github.kr328.clash.common.util.ticker
@@ -17,8 +15,10 @@ import com.github.kr328.clash.util.stopClashService
 import com.github.kr328.clash.util.withClash
 import com.github.kr328.clash.util.withProfile
 import com.github.kr328.clash.core.bridge.*
+import com.github.kr328.clash.core.model.ProxySort
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.isActive
+import kotlinx.coroutines.launch
 import kotlinx.coroutines.selects.select
 import kotlinx.coroutines.withContext
 import java.util.concurrent.TimeUnit
@@ -72,11 +72,46 @@ class MainActivity : BaseActivity<MainDesign>() {
                             startActivity(HelpActivity::class.intent)
                         MainDesign.Request.OpenAbout ->
                             design.showAbout(queryAppVersionName())
+
+                        // НОВАЯ ЛОГИКА: Принудительный перетест серверов (Кнопка Молния)
+                        MainDesign.Request.RequestUrlTest -> {
+                            if (clashRunning) {
+                                // ЗАПУСКАЕМ В ОТДЕЛЬНОМ ПОТОКЕ (launch), чтобы не зависал интерфейс
+                                launch {
+                                    try {
+                                        // 1. Блокируем кнопки и запускаем анимацию
+                                        design.setTestingState(true)
+
+                                        withClash {
+                                            val groups = queryProxyGroupNames(false)
+                                            val mainGroup = groups.firstOrNull {
+                                                it.equals("PROXIES", true) ||
+                                                        it.equals("PROXY", true) ||
+                                                        it.equals("GLOBAL", true)
+                                            } ?: groups.firstOrNull()
+
+                                            if (mainGroup != null) {
+                                                // 2. Выполняем проверку (теперь она не блокирует UI)
+                                                healthCheck(mainGroup)
+                                            }
+                                        }
+                                        // Обновляем флажок на случай, если самый быстрый сервер сменился
+                                        design.fetchProxy()
+                                    } catch (_: Exception) {
+                                        // Игнорируем ошибки (например, если нет интернета)
+                                    } finally {
+                                        // 3. Гарантированно возвращаем интерфейс в норму
+                                        design.setTestingState(false)
+                                    }
+                                }
+                            }
+                        }
                     }
                 }
                 if (clashRunning) {
                     ticker.onReceive {
                         design.fetchTraffic()
+                        design.fetchProxy() // Запрашиваем имя прокси каждую секунду
                     }
                 }
             }
@@ -85,6 +120,8 @@ class MainActivity : BaseActivity<MainDesign>() {
 
     private suspend fun MainDesign.fetch() {
         setClashRunning(clashRunning)
+
+        if (clashRunning) fetchProxy() else setProxyName(null)
 
         val state = withClash {
             queryTunnelState()
@@ -107,6 +144,31 @@ class MainActivity : BaseActivity<MainDesign>() {
         }
     }
 
+    private suspend fun MainDesign.fetchProxy() {
+        if (!clashRunning) {
+            setProxyName(null)
+            return
+        }
+        val activeProxy = withClash {
+            try {
+                val groups = queryProxyGroupNames(false)
+
+                val mainGroup = groups.firstOrNull {
+                    it.equals("PROXIES", true) ||
+                            it.equals("PROXY", true) ||
+                            it.equals("GLOBAL", true)
+                } ?: groups.firstOrNull()
+
+                if (mainGroup != null) {
+                    queryProxyGroup(mainGroup, ProxySort.Default).now
+                } else null
+            } catch (_: Exception) {
+                null
+            }
+        }
+        setProxyName(activeProxy)
+    }
+
     private suspend fun MainDesign.startClash() {
         val active = withProfile { queryActive() }
 
@@ -116,7 +178,6 @@ class MainActivity : BaseActivity<MainDesign>() {
                     startActivity(ProfilesActivity::class.intent)
                 }
             }
-
             return
         }
 
@@ -132,7 +193,7 @@ class MainActivity : BaseActivity<MainDesign>() {
                 if (result.resultCode == RESULT_OK)
                     startClashService()
             }
-        } catch (e: Exception) {
+        } catch (_: Exception) {
             design?.showToast(R.string.unable_to_start_vpn, ToastDuration.Long)
         }
     }
@@ -147,9 +208,7 @@ class MainActivity : BaseActivity<MainDesign>() {
         super.onCreate(savedInstanceState)
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
             val requestPermissionLauncher =
-                registerForActivityResult(RequestPermission()
-                ) { isGranted: Boolean ->
-                }
+                registerForActivityResult(RequestPermission()) { _: Boolean -> }
             if (ContextCompat.checkSelfPermission(
                     this,
                     android.Manifest.permission.POST_NOTIFICATIONS

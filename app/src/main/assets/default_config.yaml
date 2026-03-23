@@ -6,6 +6,8 @@ find-process-mode: always
 global-client-fingerprint: random
 log-level: error
 ipv6: false
+geodata-loader: standard
+geo-auto-update: false
 
 # DNS с нулевым доверием
 dns:
@@ -14,15 +16,14 @@ dns:
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
   default-nameservers:
-    - 77.88.8.8 # Яндекс DNS (самый быстрый и безотказный в РФ)
-    - 193.58.251.251 # SkyDNS (РФ)
+    - 77.88.8.8          # Яндекс (для поиска DoH-серверов)
+    - 193.58.251.251     # SkyDNS
+  proxy-server-nameserver:
+    - https://8.8.8.8/dns-query # Для поиска узлов VLESS и GitHub
   nameserver:
     - https://dns.google/dns-query
     - https://cloudflare-dns.com/dns-query
-  fallback:
-    - https://9.9.9.9/dns-query
-  proxy-server-nameserver:
-    - https://8.8.8.8/dns-query
+    - https://9.9.9.9/dns-query # Quad9 переехал сюда из fallback
 
 # Провайдер серверов (Склад)
 proxy-providers:
@@ -39,7 +40,7 @@ proxy-providers:
 
 # Автоматический выбор (Магазин)
 proxy-groups:
-  - name: "AUTO-MOD"
+  - name: "AUTO-VPN"
     type: url-test
     use:
       - black-vless
@@ -59,4 +60,4 @@ rules:
   - IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
 
   # Всё остальное - через наш умный автомат
-  - MATCH, AUTO-MOD
+  - MATCH, AUTO-VPN

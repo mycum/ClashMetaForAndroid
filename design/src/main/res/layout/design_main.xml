@@ -16,6 +16,19 @@
         android:background="@color/telegood_bg_dark"
         android:animateLayoutChanges="true">
 
+        <View
+            android:id="@+id/glow_background"
+            android:layout_width="140dp"
+            android:layout_height="340dp"
+            android:background="@drawable/bg_pill_halos"
+            android:alpha="0"
+            android:scaleX="0.85"
+            android:scaleY="0.85"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
         <LinearLayout
             android:id="@+id/main_pill_button"
             android:layout_width="140dp"
@@ -70,18 +83,20 @@
                 android:layout_height="0dp"
                 android:layout_weight="1" />
 
-            <FrameLayout
+            <TextView
                 android:id="@+id/location_indicator"
                 android:layout_width="48dp"
                 android:layout_height="48dp"
                 android:layout_marginBottom="32dp"
-                android:background="@drawable/ic_baseline_domain"
-                android:alpha="@{clashRunning ? 1.0f : 0.4f}">
-            </FrameLayout>
+                android:gravity="center"
+                android:text="&#x1F30D;"
+                android:textSize="28sp"
+                android:alpha="@{clashRunning ? 1.0f : 0.4f}" />
 
         </LinearLayout>
 
         <ImageView
+            android:id="@+id/btn_proxy"
             android:layout_width="48dp"
             android:layout_height="48dp"
             android:padding="12dp"
@@ -96,6 +111,22 @@
             android:layout_marginStart="40dp"/>
 
         <ImageView
+            android:id="@+id/btn_health_check"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:padding="12dp"
+            android:src="@drawable/ic_baseline_flash_on"
+            app:tint="@color/telegood_icon_off"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:onClick="@{() -> self.request(Request.RequestUrlTest)}"
+            android:visibility="@{clashRunning ? View.VISIBLE : View.GONE}"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginBottom="40dp"/>
+
+        <ImageView
+            android:id="@+id/btn_settings"
             android:layout_width="48dp"
             android:layout_height="48dp"
             android:padding="12dp"
