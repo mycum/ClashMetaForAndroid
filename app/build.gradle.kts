@@ -67,5 +67,5 @@ afterEvaluate {
 }
 
 tasks.getByName("clean", type = Delete::class) {
-    delete(file(geoFilesDownloadDir))
+    //delete(file(geoFilesDownloadDir))
 }
