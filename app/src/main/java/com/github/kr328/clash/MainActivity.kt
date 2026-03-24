@@ -25,11 +25,12 @@ import java.util.concurrent.TimeUnit
 import com.github.kr328.clash.design.R
 
 class MainActivity : BaseActivity<MainDesign>() {
+    private var isTesting = false
+
     override suspend fun main() {
         val design = MainDesign(this)
 
         setContentDesign(design)
-
         design.fetch()
 
         val ticker = ticker(TimeUnit.SECONDS.toMillis(1))
@@ -48,59 +49,40 @@ class MainActivity : BaseActivity<MainDesign>() {
                 design.requests.onReceive {
                     when (it) {
                         MainDesign.Request.ToggleStatus -> {
-                            if (clashRunning)
-                                stopClashService()
-                            else
-                                design.startClash()
+                            if (clashRunning) stopClashService() else design.startClash()
                         }
-                        MainDesign.Request.OpenProxy ->
-                            startActivity(ProxyActivity::class.intent)
-                        MainDesign.Request.OpenProfiles ->
-                            startActivity(ProfilesActivity::class.intent)
-                        MainDesign.Request.OpenProviders ->
-                            startActivity(ProvidersActivity::class.intent)
+                        MainDesign.Request.OpenProxy -> startActivity(ProxyActivity::class.intent)
+                        MainDesign.Request.OpenProfiles -> startActivity(ProfilesActivity::class.intent)
+                        MainDesign.Request.OpenProviders -> startActivity(ProvidersActivity::class.intent)
                         MainDesign.Request.OpenLogs -> {
-                            if (LogcatService.running) {
-                                startActivity(LogcatActivity::class.intent)
-                            } else {
-                                startActivity(LogsActivity::class.intent)
-                            }
+                            if (LogcatService.running) startActivity(LogcatActivity::class.intent)
+                            else startActivity(LogsActivity::class.intent)
                         }
-                        MainDesign.Request.OpenSettings ->
-                            startActivity(SettingsActivity::class.intent)
-                        MainDesign.Request.OpenHelp ->
-                            startActivity(HelpActivity::class.intent)
-                        MainDesign.Request.OpenAbout ->
-                            design.showAbout(queryAppVersionName())
+                        MainDesign.Request.OpenSettings -> startActivity(SettingsActivity::class.intent)
+                        MainDesign.Request.OpenHelp -> startActivity(HelpActivity::class.intent)
+                        MainDesign.Request.OpenAbout -> design.showAbout(queryAppVersionName())
 
-                        // НОВАЯ ЛОГИКА: Принудительный перетест серверов (Кнопка Молния)
+                        // Умный автотест
                         MainDesign.Request.RequestUrlTest -> {
-                            if (clashRunning) {
-                                // ЗАПУСКАЕМ В ОТДЕЛЬНОМ ПОТОКЕ (launch), чтобы не зависал интерфейс
+                            if (clashRunning && !isTesting) {
                                 launch {
                                     try {
-                                        // 1. Блокируем кнопки и запускаем анимацию
+                                        isTesting = true
                                         design.setTestingState(true)
 
                                         withClash {
                                             val groups = queryProxyGroupNames(false)
-                                            val mainGroup = groups.firstOrNull {
-                                                it.equals("PROXIES", true) ||
-                                                        it.equals("PROXY", true) ||
-                                                        it.equals("GLOBAL", true)
-                                            } ?: groups.firstOrNull()
+                                            val targetGroup = groups.firstOrNull { it.equals("AUTO-VPN", true) }
+                                                ?: groups.firstOrNull { it != "GLOBAL" && it != "DIRECT" && it != "REJECT" }
 
-                                            if (mainGroup != null) {
-                                                // 2. Выполняем проверку (теперь она не блокирует UI)
-                                                healthCheck(mainGroup)
+                                            if (targetGroup != null) {
+                                                healthCheck(targetGroup)
                                             }
                                         }
-                                        // Обновляем флажок на случай, если самый быстрый сервер сменился
                                         design.fetchProxy()
                                     } catch (_: Exception) {
-                                        // Игнорируем ошибки (например, если нет интернета)
                                     } finally {
-                                        // 3. Гарантированно возвращаем интерфейс в норму
+                                        isTesting = false
                                         design.setTestingState(false)
                                     }
                                 }
@@ -111,7 +93,7 @@ class MainActivity : BaseActivity<MainDesign>() {
                 if (clashRunning) {
                     ticker.onReceive {
                         design.fetchTraffic()
-                        design.fetchProxy() // Запрашиваем имя прокси каждую секунду
+                        if (!isTesting) design.fetchProxy() // Обновляем флаг
                     }
                 }
             }
@@ -120,15 +102,10 @@ class MainActivity : BaseActivity<MainDesign>() {
 
     private suspend fun MainDesign.fetch() {
         setClashRunning(clashRunning)
-
         if (clashRunning) fetchProxy() else setProxyName(null)
 
-        val state = withClash {
-            queryTunnelState()
-        }
-        val providers = withClash {
-            queryProviders()
-        }
+        val state = withClash { queryTunnelState() }
+        val providers = withClash { queryProviders() }
 
         setMode(state.mode)
         setHasProviders(providers.isNotEmpty())
@@ -139,11 +116,10 @@ class MainActivity : BaseActivity<MainDesign>() {
     }
 
     private suspend fun MainDesign.fetchTraffic() {
-        withClash {
-            setForwarded(queryTrafficTotal())
-        }
+        withClash { setForwarded(queryTrafficTotal()) }
     }
 
+    // Получаем текущий сервер для отображения флага
     private suspend fun MainDesign.fetchProxy() {
         if (!clashRunning) {
             setProxyName(null)
@@ -152,12 +128,8 @@ class MainActivity : BaseActivity<MainDesign>() {
         val activeProxy = withClash {
             try {
                 val groups = queryProxyGroupNames(false)
-
-                val mainGroup = groups.firstOrNull {
-                    it.equals("PROXIES", true) ||
-                            it.equals("PROXY", true) ||
-                            it.equals("GLOBAL", true)
-                } ?: groups.firstOrNull()
+                val mainGroup = groups.firstOrNull { it.equals("AUTO-VPN", true) }
+                    ?: groups.firstOrNull { it != "GLOBAL" && it != "DIRECT" && it != "REJECT" }
 
                 if (mainGroup != null) {
                     queryProxyGroup(mainGroup, ProxySort.Default).now
@@ -174,26 +146,18 @@ class MainActivity : BaseActivity<MainDesign>() {
 
         if (active == null || !active.imported) {
             showToast(R.string.no_profile_selected, ToastDuration.Long) {
-                setAction(R.string.profiles) {
-                    startActivity(ProfilesActivity::class.intent)
-                }
+                setAction(R.string.profiles) { startActivity(ProfilesActivity::class.intent) }
             }
             return
         }
 
         val vpnRequest = startClashService()
-
         try {
             if (vpnRequest != null) {
-                val result = startActivityForResult(
-                    ActivityResultContracts.StartActivityForResult(),
-                    vpnRequest
-                )
-
-                if (result.resultCode == RESULT_OK)
-                    startClashService()
+                val result = startActivityForResult(ActivityResultContracts.StartActivityForResult(), vpnRequest)
+                if (result.resultCode == RESULT_OK) startClashService()
             }
-        } catch (_: Exception) {
+        } catch (e: Exception) {
             design?.showToast(R.string.unable_to_start_vpn, ToastDuration.Long)
         }
     }
@@ -207,12 +171,8 @@ class MainActivity : BaseActivity<MainDesign>() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
-            val requestPermissionLauncher =
-                registerForActivityResult(RequestPermission()) { _: Boolean -> }
-            if (ContextCompat.checkSelfPermission(
-                    this,
-                    android.Manifest.permission.POST_NOTIFICATIONS
-                ) != PackageManager.PERMISSION_GRANTED) {
+            val requestPermissionLauncher = registerForActivityResult(RequestPermission()) { _: Boolean -> }
+            if (ContextCompat.checkSelfPermission(this, android.Manifest.permission.POST_NOTIFICATIONS) != PackageManager.PERMISSION_GRANTED) {
                 requestPermissionLauncher.launch(android.Manifest.permission.POST_NOTIFICATIONS)
             }
         }
