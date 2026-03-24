@@ -90,10 +90,10 @@ class MainActivity : BaseActivity<MainDesign>() {
                         }
                     }
                 }
+                // Теперь мы не запрашиваем трафик каждую секунду, только обновляем флаг
                 if (clashRunning) {
                     ticker.onReceive {
-                        design.fetchTraffic()
-                        if (!isTesting) design.fetchProxy() // Обновляем флаг
+                        if (!isTesting) design.fetchProxy()
                     }
                 }
             }
@@ -103,20 +103,6 @@ class MainActivity : BaseActivity<MainDesign>() {
     private suspend fun MainDesign.fetch() {
         setClashRunning(clashRunning)
         if (clashRunning) fetchProxy() else setProxyName(null)
-
-        val state = withClash { queryTunnelState() }
-        val providers = withClash { queryProviders() }
-
-        setMode(state.mode)
-        setHasProviders(providers.isNotEmpty())
-
-        withProfile {
-            setProfileName(queryActive()?.name)
-        }
-    }
-
-    private suspend fun MainDesign.fetchTraffic() {
-        withClash { setForwarded(queryTrafficTotal()) }
     }
 
     // Получаем текущий сервер для отображения флага

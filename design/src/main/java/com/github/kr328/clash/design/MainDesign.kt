@@ -6,7 +6,6 @@ import android.view.View
 import android.view.animation.AnimationUtils
 import androidx.appcompat.app.AlertDialog
 import androidx.core.content.ContextCompat
-import com.github.kr328.clash.core.model.TunnelState
 import com.github.kr328.clash.design.databinding.DesignAboutBinding
 import com.github.kr328.clash.design.databinding.DesignMainBinding
 import com.github.kr328.clash.design.util.layoutInflater
@@ -44,12 +43,6 @@ class MainDesign(context: Context) : Design<MainDesign.Request>(context) {
             }
         }
     }
-
-    // --- Пустые заглушки для совместимости со старой архитектурой ---
-    suspend fun setProfileName(name: String?) {}
-    suspend fun setForwarded(value: Long) {}
-    suspend fun setMode(mode: TunnelState.Mode) {}
-    suspend fun setHasProviders(has: Boolean) {}
 
     // --- Парсер имени сервера во флаги ---
     suspend fun setProxyName(name: String?) {
