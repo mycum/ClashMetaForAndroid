@@ -44,7 +44,7 @@ proxy-groups:
     type: url-test
     use:
       - black-vless
-  #  exclude-filter: "(?i)ipv6"
+    #  exclude-filter: "(?i)ipv6"
     url: "https://web.telegram.org" # Тест скорости через узлы Telegram
     interval: 300   # Перепроверять лучший сервер каждые 5 минут при работе
     tolerance: 100  # Не менять сервер, если разница в пинге меньше 100мс
