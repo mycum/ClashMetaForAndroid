@@ -33,7 +33,8 @@ class MainActivity : BaseActivity<MainDesign>() {
         setContentDesign(design)
         design.fetch()
 
-        val ticker = ticker(TimeUnit.SECONDS.toMillis(1))
+        // Легкий таймер (раз в 2 секунды) только для того, чтобы вовремя показать флаг после теста
+        val ticker = ticker(TimeUnit.SECONDS.toMillis(2))
 
         while (isActive) {
             select<Unit> {
@@ -62,13 +63,16 @@ class MainActivity : BaseActivity<MainDesign>() {
                         MainDesign.Request.OpenHelp -> startActivity(HelpActivity::class.intent)
                         MainDesign.Request.OpenAbout -> design.showAbout(queryAppVersionName())
 
-                        // Умный автотест
+                        // Логика кнопки "Молния"
                         MainDesign.Request.RequestUrlTest -> {
                             if (clashRunning && !isTesting) {
                                 launch {
                                     try {
                                         isTesting = true
                                         design.setTestingState(true)
+
+                                        // Принудительно включаем "синий кружок" на время ручного теста
+                                        design.setProxyName(null, true)
 
                                         withClash {
                                             val groups = queryProxyGroupNames(false)
@@ -79,6 +83,7 @@ class MainActivity : BaseActivity<MainDesign>() {
                                                 healthCheck(targetGroup)
                                             }
                                         }
+                                        // Как только тест завершен - запрашиваем актуальный флаг
                                         design.fetchProxy()
                                     } catch (_: Exception) {
                                     } finally {
@@ -90,9 +95,10 @@ class MainActivity : BaseActivity<MainDesign>() {
                         }
                     }
                 }
-                // Теперь мы не запрашиваем трафик каждую секунду, только обновляем флаг
+
                 if (clashRunning) {
                     ticker.onReceive {
+                        // Обновляем флаг только если не идет тестирование
                         if (!isTesting) design.fetchProxy()
                     }
                 }
@@ -102,13 +108,12 @@ class MainActivity : BaseActivity<MainDesign>() {
 
     private suspend fun MainDesign.fetch() {
         setClashRunning(clashRunning)
-        if (clashRunning) fetchProxy() else setProxyName(null)
+        if (clashRunning) fetchProxy() else setProxyName(null, false)
     }
 
-    // Получаем текущий сервер для отображения флага
     private suspend fun MainDesign.fetchProxy() {
         if (!clashRunning) {
-            setProxyName(null)
+            setProxyName(null, false)
             return
         }
         val activeProxy = withClash {
@@ -124,7 +129,7 @@ class MainActivity : BaseActivity<MainDesign>() {
                 null
             }
         }
-        setProxyName(activeProxy)
+        setProxyName(activeProxy, true)
     }
 
     private suspend fun MainDesign.startClash() {

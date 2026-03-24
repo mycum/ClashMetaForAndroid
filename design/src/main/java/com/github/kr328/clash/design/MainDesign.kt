@@ -24,7 +24,7 @@ class MainDesign(context: Context) : Design<MainDesign.Request>(context) {
 
     override val root: View get() = binding.root
 
-    // --- Управление состоянием тестирования (Молния) ---
+    // Управление состоянием тестирования (блокировка кнопок и анимация молнии)
     suspend fun setTestingState(isTesting: Boolean) {
         withContext(Dispatchers.Main) {
             binding.btnProxy.isEnabled = !isTesting
@@ -44,14 +44,22 @@ class MainDesign(context: Context) : Design<MainDesign.Request>(context) {
         }
     }
 
-    // --- Парсер имени сервера во флаги ---
-    suspend fun setProxyName(name: String?) {
+    // Умный парсер имени сервера
+    suspend fun setProxyName(name: String?, isRunning: Boolean) {
         withContext(Dispatchers.Main) {
-            if (name == null) {
-                binding.locationIndicator.text = "🌍"
+            // 1. VPN выключен или идет подключение
+            if (!isRunning || name.isNullOrEmpty()) {
+                binding.locationIndicator.text = "\uD83D\uDD35"
                 return@withContext
             }
 
+            // 2. Сервер еще не выбран (ядро отдало системное имя группы)
+            if (name == "AUTO-VPN" || name == "DIRECT" || name == "REJECT" || name == "GLOBAL") {
+                binding.locationIndicator.text = "\uD83D\uDD35"
+                return@withContext
+            }
+
+            // 3. Ищем готовый эмодзи флага в имени
             val flagRegex = Regex("[\\uD83C\\uDDE6-\\uD83C\\uDDFF]{2}")
             val match = flagRegex.find(name)
             if (match != null) {
@@ -59,6 +67,7 @@ class MainDesign(context: Context) : Design<MainDesign.Request>(context) {
                 return@withContext
             }
 
+            // 4. Ищем по тексту
             val upper = name.uppercase()
             fun hasWord(word: String) = Regex("\\b$word\\b").containsMatchIn(upper)
 
@@ -77,13 +86,13 @@ class MainDesign(context: Context) : Design<MainDesign.Request>(context) {
                 hasWord("CH") || hasWord("SWITZERLAND") -> "🇨🇭"
                 hasWord("JP") || hasWord("JAPAN") -> "🇯🇵"
                 hasWord("CA") || hasWord("CANADA") -> "🇨🇦"
-                else -> "🌍"
+                else -> "\uD83C\uDF0D" // Сервер подключен, но страну не распознали
             }
             binding.locationIndicator.text = emoji
         }
     }
 
-    // --- Ваша пространственная анимация главной кнопки ---
+    // Пространственная анимация главной кнопки
     suspend fun setClashRunning(running: Boolean) {
         withContext(Dispatchers.Main) {
             if (isCurrentlyRunning == running) return@withContext
