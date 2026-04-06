@@ -1,0 +1,35 @@
+name: Update and Fix Proxy List
+
+# Запускаем скрипт каждый час и оставляем кнопку для ручного запуска
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-list:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Download and fix proxy list
+        run: |
+          # Создаем папку, если её нет
+          mkdir -p proxy_lists
+          
+          # Скачиваем оригинальный список
+          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt > proxy_lists/fixed_proxies.txt
+          
+          # Магия исправления: удаляем 'obfs=none&' и '&obfs=none'
+          sed -i 's/obfs=none&//g' proxy_lists/fixed_proxies.txt
+          sed -i 's/&obfs=none//g' proxy_lists/fixed_proxies.txt
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Auto-update: fixed proxy list"
+          file_pattern: proxy_lists/fixed_proxies.txt
