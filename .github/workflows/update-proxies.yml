@@ -2,8 +2,8 @@ name: Update, Fix, Filter and Rename Proxies
 
 on:
   schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+    - cron: '0 */3 * * *' # Запуск каждые 3 часа
+  workflow_dispatch:      # Кнопка ручного запуска
 
 permissions:
   contents: write
@@ -22,11 +22,11 @@ jobs:
           # Скачиваем оригинальный список
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt > proxy_lists/fixed_proxies.txt
           
-          # 1. Исправляем баг Hysteria2
+          # 1. Исправляем баг Hysteria2 (удаляем obfs)
           sed -i 's/obfs=none&//g' proxy_lists/fixed_proxies.txt
           sed -i 's/&obfs=none//g' proxy_lists/fixed_proxies.txt
           
-          # 2. Python-скрипт: GeoIP фильтрация + Переименование
+          # 2. Python-скрипт: GeoIP фильтрация + Уникальное переименование
           cat << 'EOF' > filter.py
           import urllib.request, json, re, socket, urllib.parse
           
@@ -35,7 +35,7 @@ jobs:
               
           hosts = []
           for line in lines:
-              # Выцепляем домен или IP из ссылки (между @ и : или ?)
+              # Выцепляем домен или IP из ссылки
               match = re.search(r'@([^:/?#]+)', line)
               hosts.append(match.group(1) if match else "")
               
@@ -49,7 +49,7 @@ jobs:
           unique_ips = list(set([ip for ip in ips if ip]))
           ip_info = {}
           
-          # Запрашиваем не только код (countryCode), но и название страны (country)
+          # Запрашиваем GeoIP пачками
           for i in range(0, len(unique_ips), 100):
               batch = unique_ips[i:i+100]
               req = urllib.request.Request('http://ip-api.com/batch?fields=query,countryCode,country', 
@@ -62,15 +62,16 @@ jobs:
               except:
                   pass
                   
-          # Функция превращения кода страны (US) в эмодзи флага (🇺🇸)
+          # Генератор флагов из кода страны
           def get_flag(code):
               if not code or len(code) != 2: return "🌍"
               return chr(ord(code[0]) + 127397) + chr(ord(code[1]) + 127397)
                   
           clean_lines = []
+          country_counts = {}
+          
           for line, ip in zip(lines, ips):
               line = line.strip()
-              # Оставляем комментарии автора файла как есть
               if not line or line.startswith('#'):
                   clean_lines.append(line + '\n')
                   continue
@@ -79,17 +80,19 @@ jobs:
               code = info.get('countryCode')
               name = info.get('country', 'Unknown')
               
-              # УБИВАЕМ СЕРВЕРЫ ИЗ РФ БЕЗЖАЛОСТНО
-              if code == 'RU':
+              # ЖЕСТКИЙ ФИЛЬТР: Убиваем все, что явно имеет отношение к РФ
+              if code == 'RU' or ".ru" in line or "Russia" in line or "%F0%9F%87%B7%F0%9F%87%BA" in line or "%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" in line:
                   continue
                   
-              # Генерируем новое идеальное имя
+              # Генерируем уникальное имя с порядковым номером
               if code:
-                  new_name = f"{get_flag(code)} {name}"
+                  country_counts[code] = country_counts.get(code, 0) + 1
+                  new_name = f"{get_flag(code)} {name} {country_counts[code]}"
               else:
-                  new_name = "🌍 Unknown"
+                  country_counts['Unknown'] = country_counts.get('Unknown', 0) + 1
+                  new_name = f"🌍 Unknown {country_counts['Unknown']}"
                   
-              # Отрезаем старое имя и приклеиваем новое в URL-кодировке
+              # Формируем итоговую ссылку
               base_url = line.split('#')[0]
               new_line = base_url + '#' + urllib.parse.quote(new_name) + '\n'
               clean_lines.append(new_line)
@@ -103,5 +106,5 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Auto-update: filtered RU and renamed all proxies"
+          commit_message: "Auto-update: fixed, filtered RU, and uniquely renamed proxies"
           file_pattern: proxy_lists/fixed_proxies.txt
