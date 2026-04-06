@@ -1,4 +1,4 @@
-name: Update, Clean and Number Proxies
+name: Update, Fix and Optimize Proxy List
 
 on:
   schedule:
@@ -22,18 +22,18 @@ jobs:
           # Скачиваем оригинальный список
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt > proxy_lists/fixed_proxies.txt
           
-          # 1. Исправляем баг Hysteria2
+          # 1. Базовое исправление Hysteria2
           sed -i 's/obfs=none&//g' proxy_lists/fixed_proxies.txt
           sed -i 's/&obfs=none//g' proxy_lists/fixed_proxies.txt
           
-          # 2. Умный Python-скрипт
+          # 2. Python-скрипт для глубокой очистки и нормализации
           cat << 'EOF' > filter.py
           import urllib.request, json, re, socket, urllib.parse
 
           with open('proxy_lists/fixed_proxies.txt', 'r') as f:
               lines = f.readlines()
 
-          # Выцепляем хосты и превращаем в IP
+          # Собираем хосты для GeoIP
           hosts = []
           for line in lines:
               match = re.search(r'@([^:/?#]+)', line)
@@ -46,7 +46,7 @@ jobs:
               except:
                   ips.append("")
 
-          # GeoIP проверка пачками
+          # Пакетная проверка GeoIP
           unique_ips = list(set([ip for ip in ips if ip]))
           ip_info = {}
           for i in range(0, len(unique_ips), 100):
@@ -77,41 +77,43 @@ jobs:
               parts = line.split('#')
               base_url = parts[0]
               
-              # ИСПРАВЛЕНИЕ: Выкидываем откровенно битые ссылки (с пробелами и китайскими флагами в URL)
-              # Это уберет ошибку "Unknown parse outbound" в Hiddify
-              if " " in base_url or "🇨🇳" in base_url:
-                  continue
+              # НОРМАЛИЗАЦИЯ: Убираем лишнее экранирование в Shadowsocks плагинах
+              # Это лечит ошибку "Unknown parse outbound"
+              base_url = base_url.replace('%5C%3D', '=').replace('%3B', ';')
+              
+              # Очищаем URL от невидимых символов и пробелов
+              base_url = "".join(base_url.split())
 
-              original_name = urllib.parse.unquote(parts[1]) if len(parts) > 1 else "🌍 Unknown"
-
-              # ЖЕСТКИЙ ФИЛЬТР РФ: Сначала по тексту
-              if "Russia" in original_name or "🇷🇺" in original_name or "Россия" in original_name or ".ru" in base_url:
+              # Получаем имя
+              original_name = urllib.parse.unquote(parts[1]) if len(parts) > 1 else "Unknown"
+              
+              # Глобальный фильтр RU (по тексту и домену)
+              if any(x in original_name for x in ["Russia", "🇷🇺", "Россия"]) or ".ru" in base_url:
                   continue
 
               info = ip_info.get(ip, {})
               geo_code = info.get('countryCode')
               geo_name = info.get('country')
 
-              # ЖЕСТКИЙ ФИЛЬТР РФ: Затем по физическому IP (GeoIP)
+              # Фильтр RU по физическому адресу
               if geo_code == 'RU':
                   continue
 
-              # ЛОГИКА ИМЕНОВАНИЯ:
+              # Логика переименования
               if "Anycast" in original_name:
-                  # Если это Anycast, даем ему РЕАЛЬНУЮ страну и флаг из GeoIP
                   if geo_code and geo_name:
                       base_name = f"{get_flag(geo_code)} {geo_name}"
                   else:
                       base_name = "🌐 Anycast"
               else:
-                  # Для остальных оставляем оригинальную страну, очищая от мусора ( | [BL] ) и городов (, Seattle)
+                  # Очищаем оригинальное название от городов и мусора
                   base_name = original_name.split('|')[0].strip().split(',')[0].strip()
 
-              # НУМЕРАЦИЯ ДЛЯ УНИКАЛЬНОСТИ
+              # Нумерация
               country_counts[base_name] = country_counts.get(base_name, 0) + 1
               final_name = f"{base_name} {country_counts[base_name]}"
 
-              # Собираем ссылку обратно
+              # Сборка
               new_line = base_url + '#' + urllib.parse.quote(final_name) + '\n'
               clean_lines.append(new_line)
 
@@ -124,5 +126,5 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Auto-update: Strict GeoIP filter, Anycast resolved, syntax fixed"
+          commit_message: "Auto-update: fixed RU, normalized SS syntax, Anycast resolved"
           file_pattern: proxy_lists/fixed_proxies.txt
