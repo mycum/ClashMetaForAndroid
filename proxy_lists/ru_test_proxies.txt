@@ -1,0 +1,8 @@
+# profile-title: 🏴 ЧЕРНЫЕ СПИСКИ 🏴 BLACK LISTS | Mobile-150
+# profile-update-interval: 5
+# Date/Time: 2026-04-06 / 18:09 (Moscow)
+# Количество: 66
+# For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
+
+vless://f6973cb4-fd8a-4f78-81bd-30c6dfca4f6f@de.aeza.alexanderoff.ru:5555?security=reality&type=grpc&headerType=&serviceName=vless&authority=&mode=gun&sni=www.apple.com&fp=chrome&pbk=kl7xDzETYkdbKuL0djJbD7Y9xvkdSgRGVt7F5lNHTn0&sid=71808e83aa79b0#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%201
+vless://5844340d-634b-4fef-8524-db3ba38112f0@nl46.tcpnet.fun:443?alpn=h2&encryption=none&fp=firefox&host=nl46.tcpnet.fun&mode=auto&path=ffb6d92c-b193-40a8-8b67-39a975ad3852&security=tls&sni=nl46.tcpnet.fun&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%202
