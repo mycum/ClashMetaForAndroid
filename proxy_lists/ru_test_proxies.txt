@@ -1,7 +1,11 @@
 # profile-title: 🏴 ЧЕРНЫЕ СПИСКИ 🏴 BLACK LISTS | Mobile-150
 # profile-update-interval: 5
-# Date/Time: 2026-04-06 / 21:49 (Moscow)
-# Количество: 72
+# Date/Time: 2026-04-06 / 23:42 (Moscow)
+# Количество: 95
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://5844340d-634b-4fef-8524-db3ba38112f0@nl46.tcpnet.fun:443?alpn=h2&encryption=none&fp=firefox&host=nl46.tcpnet.fun&mode=auto&path=ffb6d92c-b193-40a8-8b67-39a975ad3852&security=tls&sni=nl46.tcpnet.fun&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%201
+vless://9e6da4f8-a8fc-431e-890b-e3801e7a539a@bitter-paper.ru:443?type=tcp&encryption=none&security=reality&pbk=fDSoMLGTvZSC5qldN-6st5-Oepi0nztmSVwI8nRiVzc&fp=random&sni=white-frog.bitter-paper.ru&sid=9e1183d41aa225c6&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%201
+vless://4f0b281e-8a49-4a2d-9e54-3abe1c9b9d1f@est2.trost-shield.ru:57276?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=chrome&pbk=3tD71p4AzAQ9f9efDz02HqD4sxoYzu_YRf7S6B-f2Vg&sid=88&packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%202
+vless://8a2801e5-fbfd-4c6a-8b27-a805bcbb4731@nl13.node.ibst.me:4054?type=tcp&security=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%203
+vless://dbd93330-cd4f-4764-9523-4d5225c1cee1@tw81.plus-hit.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh1.vk.com&fp=random&security=reality&pbk=Py03aPnCma9Ip4xCvtBsK77NScUYphSw46RmdjFSvls&sid=582953670ceca2c4&packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%204
+vless://5844340d-634b-4fef-8524-db3ba38112f0@nl46.tcpnet.fun:443?alpn=h2&encryption=none&fp=firefox&host=nl46.tcpnet.fun&mode=auto&path=ffb6d92c-b193-40a8-8b67-39a975ad3852&security=tls&sni=nl46.tcpnet.fun&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%205
