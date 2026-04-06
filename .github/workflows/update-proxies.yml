@@ -22,15 +22,18 @@ jobs:
           # Скачиваем оригинальный список
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt > proxy_lists/fixed_proxies.txt
           
-          # 1. Магия исправления: удаляем 'obfs=none'
+          # 1. Исправляем ошибки Hysteria2
           sed -i 's/obfs=none&//g' proxy_lists/fixed_proxies.txt
           sed -i 's/&obfs=none//g' proxy_lists/fixed_proxies.txt
           
-          # 2. Удаляем все строки, содержащие слово "Russia"
-          sed -i '/Russia/d' proxy_lists/fixed_proxies.txt
+          # 2. Мощный отсев российских серверов по 3 параметрам:
+          # - Ищет английское "Russia"
+          # - Ищет эмодзи флага РФ (URL-encoded)
+          # - Ищет русское "Россия" (URL-encoded)
+          sed -i '/Russia/d; /%F0%9F%87%B7%F0%9F%87%BA/d; /%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F/d' proxy_lists/fixed_proxies.txt
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Auto-update: fixed and filtered proxy list"
+          commit_message: "Auto-update: fixed and aggressively filtered proxy list"
           file_pattern: proxy_lists/fixed_proxies.txt
