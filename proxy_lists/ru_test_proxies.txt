@@ -1,7 +1,13 @@
 # profile-title: 🏴 ЧЕРНЫЕ СПИСКИ 🏴 BLACK LISTS | Mobile-150
 # profile-update-interval: 5
-# Date/Time: 2026-04-07 / 17:03 (Moscow)
-# Количество: 87
+# Date/Time: 2026-04-07 / 18:58 (Moscow)
+# Количество: 97
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://e559b201-72bb-4eb4-9d0e-7e2b029dfe63@5.129.255.89:4328?encryption=none&flow=xtls-rprx-vision&security=reality&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%201
+vless://e5787a46-9abd-0065-8838-a183238eb2c5@auto.mustgate.ru:443?security=reality&sni=auto.mustgate.ru&pbk=hgPrLztdgoiNzP0XKNqP5UR3KZU8dzqu4gIbA2_TbFY&sid=75f8575e5396a2fe&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%201
+vless://e5787a46-9abd-0066-8838-a183238eb2c5@rs.marketmust.ru:443?security=reality&sni=rs.marketmust.ru&pbk=hgPrLztdgoiNzP0XKNqP5UR3KZU8dzqu4gIbA2_TbFY&sid=75f8575e5396a2fe&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%202
+vless://f368a002-a4b6-424c-a75d-7473a717a14d@vpn.emdev.ru:443?type=tcp&security=reality&pbk=l0zuO4QC98V3-9qLm11kITL4qk2MDLGluFh8Le-cpyg&fp=random&sni=yahoo.com&sid=f73200f229&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%203
+vless://e5787a46-9abd-0068-8838-a183238eb2c5@rs.marketmust.ru:443?security=reality&sni=rs.marketmust.ru&pbk=hgPrLztdgoiNzP0XKNqP5UR3KZU8dzqu4gIbA2_TbFY&sid=75f8575e5396a2fe&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%204
+vless://e5787a46-9abd-0067-8838-a183238eb2c5@rs.marketmust.ru:443?security=reality&sni=rs.marketmust.ru&pbk=hgPrLztdgoiNzP0XKNqP5UR3KZU8dzqu4gIbA2_TbFY&sid=75f8575e5396a2fe&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%205
+vless://711ead67-a217-40e8-a82a-9515d1d18426@ru.lumo.llc:22230?security=reality&sni=apple.com&fp=edge&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%206
+vless://e5787a46-9abd-00e4-8838-a183238eb2c5@rs.marketmust.ru:443?security=reality&sni=rs.marketmust.ru&pbk=hgPrLztdgoiNzP0XKNqP5UR3KZU8dzqu4gIbA2_TbFY&sid=75f8575e5396a2fe&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%207
