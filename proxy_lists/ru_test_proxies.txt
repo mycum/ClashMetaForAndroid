@@ -1,17 +1,16 @@
 # profile-title: 🏴 ЧЕРНЫЕ СПИСКИ 🏴 BLACK LISTS | Mobile-150
 # profile-update-interval: 5
-# Date/Time: 2026-04-08 / 09:11 (Moscow)
+# Date/Time: 2026-04-08 / 13:07 (Moscow)
 # Количество: 115
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://e559b201-72bb-4eb4-9d0e-7e2b029dfe63@217.149.30.221:4418?encryption=none&flow=xtls-rprx-vision&security=reality&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%201
-vless://e9cd226a-23bf-4d1c-a014-18be972c4d33@vpn3.izibox.ru:443?fp=random&headerType=&host=&path=&pbk=5TW-JhwGUpFYYXuRmBYW5yEvJIBjs1tEHa-Oyfd1lSs&security=reality&sid=4ab6f3195d212f89&sni=sun9-88.vkuserphoto.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%202
-vless://f368a002-a4b6-424c-a75d-7473a717a14d@vpn.emdev.ru:443?type=tcp&security=reality&pbk=l0zuO4QC98V3-9qLm11kITL4qk2MDLGluFh8Le-cpyg&fp=random&sni=yahoo.com&sid=f73200f229&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%203
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@ru166.mechvpn.online:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ru166.mechvpn.online&alpn=h3,h2&fp=chrome&packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%204
+vless://90c9c25c-df6c-4438-83d3-ef97166a9184@89.19.208.200:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&fp=qq&security=reality&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&sid=&packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%201
+vless://e559b201-72bb-4eb4-9d0e-7e2b029dfe63@217.149.30.195:4393?encryption=none&flow=xtls-rprx-vision&security=reality&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%202
+vless://e559b201-72bb-4eb4-9d0e-7e2b029dfe63@194.26.229.124:4392?encryption=none&flow=xtls-rprx-vision&security=reality&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%203
+vless://e559b201-72bb-4eb4-9d0e-7e2b029dfe63@155.212.215.77:4359?encryption=none&flow=xtls-rprx-vision&security=reality&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%204
 vless://e559b201-72bb-4eb4-9d0e-7e2b029dfe63@217.149.30.113:4357?encryption=none&flow=xtls-rprx-vision&security=reality&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%205
-vless://e559b201-72bb-4eb4-9d0e-7e2b029dfe63@217.149.30.211:4471?encryption=none&flow=xtls-rprx-vision&security=reality&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%206
-vless://2f2b5d0f-a471-43dd-bb90-13bcff691537@213.165.54.4:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=cdnjs.com&fp=chrome&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=bc97736f81817c41#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%207
+vless://e559b201-72bb-4eb4-9d0e-7e2b029dfe63@217.149.30.221:4320?encryption=none&flow=xtls-rprx-vision&security=reality&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%206
+vless://e559b201-72bb-4eb4-9d0e-7e2b029dfe63@217.149.30.221:4359?encryption=none&flow=xtls-rprx-vision&security=reality&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%207
 vless://e559b201-72bb-4eb4-9d0e-7e2b029dfe63@155.212.215.37:4445?encryption=none&flow=xtls-rprx-vision&security=reality&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%208
 vless://e559b201-72bb-4eb4-9d0e-7e2b029dfe63@155.212.215.74:4439?encryption=none&flow=xtls-rprx-vision&security=reality&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%209
-vless://e559b201-72bb-4eb4-9d0e-7e2b029dfe63@217.149.30.17:4304?encryption=none&flow=xtls-rprx-vision&security=reality&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%2010
-vless://5844340d-634b-4fef-8524-db3ba38112f0@nl46.tcpnet.fun:443?alpn=h2&encryption=none&fp=firefox&host=nl46.tcpnet.fun&mode=auto&path=ffb6d92c-b193-40a8-8b67-39a975ad3852&security=tls&sni=nl46.tcpnet.fun&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%2011
+vless://5844340d-634b-4fef-8524-db3ba38112f0@nl46.tcpnet.fun:443?alpn=h2&encryption=none&fp=firefox&host=nl46.tcpnet.fun&mode=auto&path=ffb6d92c-b193-40a8-8b67-39a975ad3852&security=tls&sni=nl46.tcpnet.fun&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%2010
