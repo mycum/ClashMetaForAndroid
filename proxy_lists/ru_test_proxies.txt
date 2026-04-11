@@ -1,8 +1,11 @@
 # profile-title: 🏴 ЧЕРНЫЕ СПИСКИ 🏴 BLACK LISTS | Mobile-150
 # profile-update-interval: 5
-# Date/Time: 2026-04-11 / 12:07 (Moscow)
+# Date/Time: 2026-04-11 / 14:55 (Moscow)
 # Количество: 150
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://65632d4a-0e5a-4d96-a492-c1b1c7ab0305@nd.nitroo-tech.ru:23355?authority=&encryption=none&fp=chrome&pbk=ZaiARE0PFYXN6XQhxjFSGzpthEGHmytMX8LCq9gSek8&security=reality&serviceName=api&sid=41b06f&sni=www.apple.com&spx=/&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%201
-vless://7e7452f2-1004-45ed-a55a-f9d474e152c7@nl-tx.sbrf-cdn342.ru:443?alpn=http/1.1&encryption=none&flow=xtls-rprx-vision&fp=qq&packetEncoding=xudp&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%202
+vless://2491c11c-b958-4553-96f7-1aaa7cad8320@193.233.75.157:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zTH3m7h5RrVagZ5WnwEEoJIpFhHFW0bcKKf68h7eMno&security=reality&sni=business.max.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%201
+vless://497f686b-7a2f-40fd-bed6-8f7d0713cb18@ge.ami-vpn.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Tmm9gIM_u5nPrJJXnAGqhVUkVoB0cv8iWO23kHUjvWw&sni=www.1688.com#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%202
+vless://54d371df-2c2b-40e0-b91a-3f21ba13bd53@lu01.encryptapp.org:443?security=reality&type=grpc&headerType=none&authority=&serviceName=&flow=&mode=gun&sni=5post-gate.x5.ru&fp=qq&pbk=9wU6QMJ3oApheC5WqVO0vjuS2B4IgUb0CWXD-_rmOgE&sid=#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%203
+vless://cb8ef789-2eb0-455a-909d-879fe09cf9d4@nl.nodes.rocketnetwork.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&security=reality&sid=428ef87fd47a3a32&sni=nl.nodes.rocketnetwork.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%204
+vless://7e7452f2-1004-45ed-a55a-f9d474e152c7@fr-tx.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&packetEncoding=xudp&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%205
