@@ -1,16 +1,8 @@
 # profile-title: 🏴 ЧЕРНЫЕ СПИСКИ 🏴 BLACK LISTS | Mobile-150
 # profile-update-interval: 5
-# Date/Time: 2026-04-12 / 18:17 (Moscow)
+# Date/Time: 2026-04-12 / 20:20 (Moscow)
 # Количество: 150
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://e6207eb2-1cc3-45c2-aa16-263d6b32940e@nd.nitroo-tech.ru:23355?type=grpc&security=reality&encryption=none&fp=chrome&pbk=ZaiARE0PFYXN6XQhxjFSGzpthEGHmytMX8LCq9gSek8&sid=41b06f&sni=www.apple.com&serviceName=api#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%201
-vless://8759777f-acea-4bcb-a892-71625f9803aa@de.nitroo-tech.ru:443?security=reality&encryption=none&pbk=cPhsXTYFruJ8QY0_CP8d0Qx0w4U2h1S6VtLcZLnqBhs&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=f12208e216#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%202
-vless://fe86f436-4cfb-4afd-b0bb-2f643d66931f@small-rain.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=CIPQjzJnvMnFd-W9rgF0yKp3thVD6B9OyVG3NFZUEA8&sid=039f9f519dc23e98&sni=cold-field.small-rain.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%203
-hysteria2://hysteria2_fastlane_2x2a7v5u0%3AGGvdrUHVRqbNxsNwCxZ9lJZItCTHEhKF@5.181.21.132:1935?security=tls&sni=at1.h.smartaisupport.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%204
-hysteria2://hysteria2_fastlane_vd3pjwmbe%3AGhjs8QY0SA4gRGzCiFTuavRs8bzp7ayV@150.241.78.128:1935?security=tls&sni=de9.h.fastlanehosting.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%205
-hysteria2://hysteria2_fastlane_vd3pjwmbe%3AGhjs8QY0SA4gRGzCiFTuavRs8bzp7ayV@150.241.78.128:1935?sni=de9.h.fastlanehosting.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%206
-hysteria2://hysteria2_fastlane_vtyy8z9sr%3ACNWooM4kUKgQEznlDOC5jUD2BTO5QTqw@2.27.29.158:1935?security=tls&sni=de10.h.fastlanehosting.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%207
-hysteria2://hysteria2_fastlane_e5l6q0xf3%3AASZpI9OsalNXZxMukhyo4yL3J4O2ivZc@2.27.28.103:1935?sni=de4.h.fastlanehosting.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%208
-hysteria2://hysteria2_fastlane_le2w1mqx9%3ApoJIreS1Mlgxha6eDdkPrpT7dfh0tkZ2@2.27.28.105:1935?security=tls&sni=de7.h.fastlanehosting.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%209
-hysteria2://hysteria2_fastlane_6q2dd73gw%3AJBrZVnSLjfd6kxX1XP9VHEFliEl5OohG@138.124.183.9:1935?security=tls&sni=us1.h.smartaisupport.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%2010
+vless://3b7e7ab6-feb0-4c12-b575-b5b2b8e7b8e5@de5.lazeroe.com:443?encryption=none&type=xhttp&path=%2Fws&mode=auto&security=reality&sni=de5.lazeroe.com&fp=chrome&pbk=i1kgdvvNoTAdTsmFcdFBItn1wakoTNZHC1F7nTCpLlo&sid=6f9ae5be33ead6f9#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%201
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@ru70.mechvpn.online:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&alpn=h3%2Ch2%2Chttp/1.1#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%202
