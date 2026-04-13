@@ -11,6 +11,8 @@ permissions:
 jobs:
   update-list:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -19,27 +21,25 @@ jobs:
         run: |
           mkdir -p proxy_lists
           
-          # 1. Оригинальные списки
+          # Скачиваем все источники
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt > proxy_lists/raw_proxies.txt
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt >> proxy_lists/raw_proxies.txt
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt >> proxy_lists/raw_proxies.txt
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt >> proxy_lists/raw_proxies.txt
-          
-          # 2. Иранский пылесос Telegram-каналов (Yebekhe)
           curl -s https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/subscriptions/xray/normal/mix >> proxy_lists/raw_proxies.txt
           
-                  
+          # Удаляем мусорные плагины на лету
           sed -i 's/obfs=none&//g' proxy_lists/raw_proxies.txt
           sed -i 's/&obfs=none//g' proxy_lists/raw_proxies.txt
           
           cat << 'EOF' > filter.py
-          import urllib.request, json, re, socket, urllib.parse, base64
+          import urllib.request, json, re, socket, urllib.parse, base64, html
           from concurrent.futures import ThreadPoolExecutor
 
-          with open('proxy_lists/raw_proxies.txt', 'r') as f:
+          with open('proxy_lists/raw_proxies.txt', 'r', encoding='utf-8') as f:
               lines = f.readlines()
 
-          # 1. ПАРСИНГ, КОНВЕРТАЦИЯ И ДЕДУПЛИКАЦИЯ
+          # 1. ГЛУБОКАЯ ОЧИСТКА И ДЕДУПЛИКАЦИЯ
           unique_proxies = []
           seen_nodes = set()
 
@@ -47,11 +47,16 @@ jobs:
               line = line.strip()
               if not line or line.startswith('#'): continue
 
+              # Лечим поврежденный формат (&amp; и прочее)
+              # Сначала убираем URL-кодирование, потом HTML-кодирование
+              line = line.replace('&amp%3B', '&').replace('&amp;', '&').replace('%3B', ';')
+              line = html.unescape(line)
+
               parts = line.split('#')
               base_url = parts[0]
               original_name = urllib.parse.unquote(parts[1]) if len(parts) > 1 else "Unknown"
 
-              # Конвертер фейковых SS в VLESS
+              # Конвертер фейковых SS
               if base_url.startswith('ss://'):
                   try:
                       match = re.search(r'ss://([^@]+)@([^/?#]+)/?\?([^#]+)', base_url)
@@ -59,34 +64,27 @@ jobs:
                           b64_info, host_port, query = match.groups()
                           b64_info += "=" * ((4 - len(b64_info) % 4) % 4)
                           userinfo = base64.b64decode(b64_info).decode('utf-8')
-                          
                           if userinfo.startswith('none:'):
                               uuid = userinfo.split(':', 1)[1]
-                              query = urllib.parse.unquote(query)
                               qs = urllib.parse.parse_qs(query)
                               plugin_str = qs.get('plugin', [''])[0]
-                              
                               opts = plugin_str.split(';')
                               ws_host, ws_path, tls = "", "/", "none"
                               for opt in opts:
                                   if opt.startswith('host='): ws_host = opt[5:]
                                   elif opt.startswith('path='): ws_path = opt[5:].replace('\\=', '=')
                                   elif opt == 'tls': tls = "tls"
-                                  
                               base_url = f"vless://{uuid}@{host_port}?type=ws&security={tls}&host={ws_host}&path={urllib.parse.quote(ws_path)}"
-                  except Exception:
-                      pass 
+                  except Exception: pass 
 
-              # Синтаксический мусор
               if " " in base_url or "🇨🇳" in base_url: continue
               if base_url.startswith('ss://') and "v2ray-plugin" in urllib.parse.unquote(base_url).lower(): continue
 
-              # Вытаскиваем Хост и Порт для дедупликации и будущего пинга
+              # Дедупликация
               match = re.search(r'@([^/?#]+)', base_url)
               if match:
                   host_port = match.group(1)
-                  if host_port in seen_nodes:
-                      continue
+                  if host_port in seen_nodes: continue
                   seen_nodes.add(host_port)
                   
                   hp_parts = host_port.split(':')
@@ -98,79 +96,61 @@ jobs:
                           'port': int(hp_parts[1])
                       })
 
-          print(f"🔍 После дедупликации найдено уникальных узлов: {len(unique_proxies)}")
+          print(f"🔍 Найдено уникальных узлов после чистки: {len(unique_proxies)}")
 
-          # 2. ФИЗИЧЕСКИЙ ТЕСТ ДОСТУПНОСТИ (TCP PING)
+          # 2. ФИЗИЧЕСКИЙ TCP PING
           def check_port(proxy):
               try:
                   ip = socket.gethostbyname(proxy['host'])
                   socket.create_connection((ip, proxy['port']), timeout=3)
                   proxy['ip'] = ip
                   return proxy
-              except Exception:
-                  return None
+              except: return None
 
           alive_proxies = []
-          print("⚡ Начинаю проверку портов (таймаут 3 сек)...")
-          with ThreadPoolExecutor(max_workers=20) as executor:
+          with ThreadPoolExecutor(max_workers=30) as executor:
               results = executor.map(check_port, unique_proxies)
               for r in results:
-                  if r is not None:
-                      alive_proxies.append(r)
+                  if r: alive_proxies.append(r)
 
-          print(f"✅ Выжило физически активных серверов: {len(alive_proxies)}")
-          print(f"❌ Удалено мертвых серверов: {len(unique_proxies) - len(alive_proxies)}")
+          print(f"✅ Физически живых: {len(alive_proxies)}")
 
-          # 3. GEOIP ДЛЯ ВЫЖИВШИХ
+          # 3. GEOIP
           unique_ips = list(set([p['ip'] for p in alive_proxies if 'ip' in p]))
           ip_info = {}
           for i in range(0, len(unique_ips), 100):
               batch = unique_ips[i:i+100]
-              req = urllib.request.Request('http://ip-api.com/batch?fields=query,countryCode,country', 
-                                           data=json.dumps(batch).encode(), 
-                                           headers={'Content-Type': 'application/json'})
+              req = urllib.request.Request('http://ip-api.com/batch?fields=query,countryCode,country', data=json.dumps(batch).encode(), headers={'Content-Type': 'application/json'})
               try:
                   with urllib.request.urlopen(req) as resp:
                       for r in json.loads(resp.read().decode()):
                           ip_info[r.get('query')] = r
-              except:
-                  pass
+              except: pass
 
           def get_flag(code):
               if not code or len(code) != 2: return "🌍"
               return chr(ord(code[0]) + 127397) + chr(ord(code[1]) + 127397)
 
-          clean_lines = []
+          final_links = []
           country_counts = {}
 
-          # 4. ФОРМИРОВАНИЕ ИТОГОВОГО СПИСКА
           for proxy in alive_proxies:
               info = ip_info.get(proxy.get('ip', ''), {})
               geo_code = info.get('countryCode')
               geo_name = info.get('country')
 
-              if "Anycast" in proxy['original_name']:
-                  if geo_code and geo_name:
-                      base_name = f"{get_flag(geo_code)} {geo_name}"
-                  else:
-                      base_name = "🌐 Anycast"
+              if "Anycast" in proxy['original_name'] or not proxy['original_name']:
+                  base_name = f"{get_flag(geo_code)} {geo_name}" if geo_code else "🌐 Unknown"
               else:
                   base_name = proxy['original_name'].split('|')[0].strip().split(',')[0].strip()
 
               country_counts[base_name] = country_counts.get(base_name, 0) + 1
               final_name = f"{base_name} {country_counts[base_name]}"
+              final_links.append(f"{proxy['base_url']}#{urllib.parse.quote(final_name)}\n")
 
-              new_line = proxy['base_url'] + '#' + urllib.parse.quote(final_name) + '\n'
-              clean_lines.append(new_line)
-
-          final_output = [
-              "# profile-title: ⏳ Raw Nodes (Waiting for Local DPI Test)\n",
-              "# profile-update-interval: 3\n",
-              f"# 🟢 Готово к DPI тесту: {len(clean_lines)}\n"
-          ] + clean_lines
-
-          with open('proxy_lists/raw_proxies.txt', 'w') as f:
-              f.writelines(final_output)
+          # 4. СОХРАНЯЕМ В RAW_PROXIES (БЕЗ ШАПОК И ЛИШНИХ СИМВОЛОВ)
+          with open('proxy_lists/raw_proxies.txt', 'w', encoding='utf-8') as f:
+              f.writelines(final_links)
           EOF
           
           python3 filter.py
@@ -178,5 +158,5 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-update: Generated raw_proxies.txt for Local DPI Test"
+          commit_message: "Fix: HTML unescape and formatting for Mihomo"
           file_pattern: proxy_lists/raw_proxies.txt
