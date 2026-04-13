@@ -33,7 +33,7 @@ class MainActivity : BaseActivity<MainDesign>() {
         setContentDesign(design)
         design.fetch()
 
-        // Легкий таймер (раз в 2 секунды) только для того, чтобы вовремя показать флаг после теста
+        // Легкий таймер (раз в 2 секунды) для обновления статуса
         val ticker = ticker(TimeUnit.SECONDS.toMillis(2))
 
         while (isActive) {
@@ -42,8 +42,27 @@ class MainActivity : BaseActivity<MainDesign>() {
                     when (it) {
                         Event.ActivityStart,
                         Event.ServiceRecreated,
-                        Event.ClashStop, Event.ClashStart,
-                        Event.ProfileLoaded, Event.ProfileChanged -> design.fetch()
+                        Event.ClashStop,
+                        Event.ProfileLoaded,
+                        Event.ProfileChanged -> design.fetch()
+
+                        Event.ClashStart -> {
+                            design.fetch()
+                            // ПРИНУДИТЕЛЬНЫЙ СБРОС НА АВТО ПРИ ЗАПУСКЕ (Защита от ошибки пользователя)
+                            launch {
+                                withClash {
+                                    try {
+                                        val groups = queryProxyGroupNames(false)
+                                        val targetGroup = groups.firstOrNull { it.equals("AUTO-VPN", true) }
+                                            ?: groups.firstOrNull { it != "GLOBAL" && it != "DIRECT" && it != "REJECT" }
+
+                                        if (targetGroup != null) {
+                                            patchSelector(targetGroup, "⚡ Авто-выбор")
+                                        }
+                                    } catch (_: Exception) {}
+                                }
+                            }
+                        }
                         else -> Unit
                     }
                 }
@@ -69,10 +88,7 @@ class MainActivity : BaseActivity<MainDesign>() {
                                 launch {
                                     try {
                                         isTesting = true
-                                        design.setTestingState(true)
-
-                                        // Принудительно включаем "синий кружок" на время ручного теста
-                                        design.setProxyName(null, true)
+                                        design.setTestingState(true) // Включаем анимацию вращения молнии
 
                                         withClash {
                                             val groups = queryProxyGroupNames(false)
@@ -80,15 +96,17 @@ class MainActivity : BaseActivity<MainDesign>() {
                                                 ?: groups.firstOrNull { it != "GLOBAL" && it != "DIRECT" && it != "REJECT" }
 
                                             if (targetGroup != null) {
+                                                // ДОБАВЛЕНО: Принудительный сброс на авто-режим перед тестом!
+                                                patchSelector(targetGroup, "⚡ Авто-выбор")
+
+                                                // Запускаем тест серверов
                                                 healthCheck(targetGroup)
                                             }
                                         }
-                                        // Как только тест завершен - запрашиваем актуальный флаг
-                                        design.fetchProxy()
                                     } catch (_: Exception) {
                                     } finally {
                                         isTesting = false
-                                        design.setTestingState(false)
+                                        design.setTestingState(false) // Выключаем анимацию
                                     }
                                 }
                             }
@@ -98,8 +116,8 @@ class MainActivity : BaseActivity<MainDesign>() {
 
                 if (clashRunning) {
                     ticker.onReceive {
-                        // Обновляем флаг только если не идет тестирование
-                        if (!isTesting) design.fetchProxy()
+                        // Опрашиваем ядро ВСЕГДА. Интерфейс больше не зависает во время теста пинга!
+                        design.fetchProxy()
                     }
                 }
             }
@@ -123,7 +141,17 @@ class MainActivity : BaseActivity<MainDesign>() {
                     ?: groups.firstOrNull { it != "GLOBAL" && it != "DIRECT" && it != "REJECT" }
 
                 if (mainGroup != null) {
-                    queryProxyGroup(mainGroup, ProxySort.Default).now
+                    // Получаем статус главной группы
+                    val groupStatus = queryProxyGroup(mainGroup, ProxySort.Default)
+                    var currentNow = groupStatus.now
+
+                    // Если внутри выбран "⚡ Авто-выбор", запрашиваем статус уже у него!
+                    if (currentNow == "⚡ Авто-выбор") {
+                        val autoGroupStatus = queryProxyGroup("⚡ Авто-выбор", ProxySort.Default)
+                        currentNow = autoGroupStatus.now
+                    }
+
+                    currentNow
                 } else null
             } catch (_: Exception) {
                 null

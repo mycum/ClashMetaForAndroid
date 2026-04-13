@@ -40,15 +40,11 @@ class ProxyViewState(
             title = proxy.name
 
             if (link == null) {
-                subtitle = proxy.type.name
+                subtitle = "Автоматический выбор"
             } else {
                 if (linkNow !== link.now) {
                     linkNow = link.now
-
-                    subtitle = "%s(%s)".format(
-                        proxy.type.name,
-                        link.now.ifEmpty { "*" }
-                    )
+                    subtitle = link.now.ifEmpty { "Поиск сервера..." }
                 }
             }
         } else {
@@ -58,7 +54,7 @@ class ProxyViewState(
 
         if (delay != proxy.delay) {
             delay = proxy.delay
-            delayText = if (proxy.delay in 0..Short.MAX_VALUE) proxy.delay.toString() else ""
+            delayText = if (proxy.delay in 0..Short.MAX_VALUE) "${proxy.delay} ms" else ""
         }
 
         if (parentNow !== parent.now) {

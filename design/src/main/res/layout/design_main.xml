@@ -83,15 +83,24 @@
                 android:layout_height="0dp"
                 android:layout_weight="1" />
 
-            <TextView
-                android:id="@+id/location_indicator"
+            <FrameLayout
+                android:id="@+id/flag_container"
                 android:layout_width="48dp"
                 android:layout_height="48dp"
                 android:layout_marginBottom="32dp"
                 android:gravity="center"
-                android:text="&#x1F30D;"
-                android:textSize="28sp"
-                android:alpha="@{clashRunning ? 1.0f : 0.4f}" />
+                android:alpha="@{clashRunning ? 1.0f : 0.4f}">
+
+                <TextView
+                    android:id="@+id/location_indicator"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:text="&#x1F30D;"
+                    android:textSize="28sp"
+                    />
+
+            </FrameLayout>
 
         </LinearLayout>
 

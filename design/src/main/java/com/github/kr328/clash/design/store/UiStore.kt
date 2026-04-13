@@ -21,7 +21,7 @@ class UiStore(context: Context) {
 
     var darkMode: DarkMode by store.enum(
         key = "dark_mode",
-        defaultValue = DarkMode.ForceDark, // БЫЛО: DarkMode.Auto -> СТАЛО: ВСЕГДА ТЕМНАЯ
+        defaultValue = DarkMode.ForceDark,
         values = DarkMode.values()
     )
 
@@ -35,9 +35,10 @@ class UiStore(context: Context) {
         defaultValue = true,
     )
 
+    // ИСПРАВЛЕНО: Теперь интерфейс будет жестко фильтровать (скрывать) некликабельные группы (url-test)
     var proxyExcludeNotSelectable by store.boolean(
         key = "proxy_exclude_not_selectable",
-        defaultValue = false,
+        defaultValue = true,
     )
 
     var proxyLine: Int by store.int(

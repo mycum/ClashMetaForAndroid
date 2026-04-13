@@ -15,15 +15,23 @@ import kotlinx.coroutines.sync.withPermit
 class ProxyActivity : BaseActivity<ProxyDesign>() {
     override suspend fun main() {
         val mode = withClash { queryOverride(Clash.OverrideSlot.Session).mode }
-        val names = withClash { queryProxyGroupNames(uiStore.proxyExcludeNotSelectable) }
-        val states = List(names.size) { ProxyState("?") }
-        val unorderedStates = names.indices.map { names[it] to states[it] }.toMap()
+
+        // 1. Получаем ТОЛЬКО видимые группы для отрисовки вкладок
+        val visibleNames = withClash { queryProxyGroupNames(true) }
+        // 2. Получаем АБСОЛЮТНО ВСЕ группы (включая скрытый "⚡ Авто-выбор") для отслеживания серверов
+        val allNames = withClash { queryProxyGroupNames(false) }
+
+        // Создаем единую карту состояний для всех существующих групп в ядре
+        val unorderedStates = allNames.associateWith { ProxyState("?") }
+        // Привязываем видимые вкладки к их состояниям из карты
+        val states = visibleNames.map { unorderedStates[it]!! }
+
         val reloadLock = Semaphore(10)
 
         val design = ProxyDesign(
             this,
             mode,
-            names,
+            visibleNames,
             uiStore
         )
 
@@ -37,12 +45,11 @@ class ProxyActivity : BaseActivity<ProxyDesign>() {
                     when (it) {
                         Event.ProfileLoaded -> {
                             val newNames = withClash {
-                                queryProxyGroupNames(uiStore.proxyExcludeNotSelectable)
+                                queryProxyGroupNames(true)
                             }
 
-                            if (newNames != names) {
+                            if (newNames != visibleNames) {
                                 startActivity(ProxyActivity::class.intent)
-
                                 finish()
                             }
                         }
@@ -53,11 +60,10 @@ class ProxyActivity : BaseActivity<ProxyDesign>() {
                     when (it) {
                         ProxyDesign.Request.ReLaunch -> {
                             startActivity(ProxyActivity::class.intent)
-
                             finish()
                         }
                         ProxyDesign.Request.ReloadAll -> {
-                            names.indices.forEach { idx ->
+                            visibleNames.indices.forEach { idx ->
                                 design.requests.trySend(ProxyDesign.Request.Reload(idx))
                             }
                         }
@@ -65,12 +71,22 @@ class ProxyActivity : BaseActivity<ProxyDesign>() {
                             launch {
                                 val group = reloadLock.withPermit {
                                     withClash {
-                                        queryProxyGroup(names[it.index], uiStore.proxySort)
+                                        queryProxyGroup(visibleNames[it.index], uiStore.proxySort)
                                     }
                                 }
                                 val state = states[it.index]
 
                                 state.now = group.now
+
+                                // ИСПРАВЛЕНИЕ: "Мягко" опрашиваем вложенные автоматические группы
+                                group.proxies.forEach { p ->
+                                    if (p.type.group && unorderedStates.containsKey(p.name)) {
+                                        val subGroup = withClash { queryProxyGroup(p.name, uiStore.proxySort) }
+                                        if (subGroup != null) {
+                                            unorderedStates[p.name]?.now = subGroup.now
+                                        }
+                                    }
+                                }
 
                                 design.updateGroup(
                                     it.index,
@@ -83,8 +99,7 @@ class ProxyActivity : BaseActivity<ProxyDesign>() {
                         }
                         is ProxyDesign.Request.Select -> {
                             withClash {
-                                patchSelector(names[it.index], it.name)
-
+                                patchSelector(visibleNames[it.index], it.name)
                                 states[it.index].now = it.name
                             }
 
@@ -93,9 +108,8 @@ class ProxyActivity : BaseActivity<ProxyDesign>() {
                         is ProxyDesign.Request.UrlTest -> {
                             launch {
                                 withClash {
-                                    healthCheck(names[it.index])
+                                    healthCheck(visibleNames[it.index])
                                 }
-
                                 design.requests.send(ProxyDesign.Request.Reload(it.index))
                             }
                         }
@@ -104,9 +118,7 @@ class ProxyActivity : BaseActivity<ProxyDesign>() {
 
                             withClash {
                                 val o = queryOverride(Clash.OverrideSlot.Session)
-
                                 o.mode = it.mode
-
                                 patchOverride(Clash.OverrideSlot.Session, o)
                             }
                         }

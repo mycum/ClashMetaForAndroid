@@ -1,5 +1,6 @@
 package com.github.kr328.clash.design
 
+import android.annotation.SuppressLint
 import android.content.Context
 import android.content.res.ColorStateList
 import android.view.View
@@ -24,15 +25,10 @@ class MainDesign(context: Context) : Design<MainDesign.Request>(context) {
 
     override val root: View get() = binding.root
 
-    // Управление состоянием тестирования (блокировка кнопок и анимация молнии)
+    private val flagRegex = Regex("[\\uD83C\\uDDE6-\\uD83C\\uDDFF]{2}")
+
     suspend fun setTestingState(isTesting: Boolean) {
         withContext(Dispatchers.Main) {
-            binding.btnProxy.isEnabled = !isTesting
-            binding.btnSettings.isEnabled = !isTesting
-
-            binding.btnProxy.alpha = if (isTesting) 0.5f else 1.0f
-            binding.btnSettings.alpha = if (isTesting) 0.5f else 1.0f
-
             if (isTesting) {
                 binding.btnHealthCheck.setImageResource(R.drawable.ic_baseline_sync)
                 val rotation = AnimationUtils.loadAnimation(context, R.anim.rotate_infinite)
@@ -44,55 +40,24 @@ class MainDesign(context: Context) : Design<MainDesign.Request>(context) {
         }
     }
 
-    // Умный парсер имени сервера
+    @SuppressLint("SetTextI18n")
     suspend fun setProxyName(name: String?, isRunning: Boolean) {
         withContext(Dispatchers.Main) {
-            // 1. VPN выключен или идет подключение
-            if (!isRunning || name.isNullOrEmpty()) {
+            if (!isRunning || name.isNullOrEmpty() || name in listOf("AUTO-VPN", "DIRECT", "REJECT", "GLOBAL")) {
                 binding.locationIndicator.text = "\uD83D\uDD35"
                 return@withContext
             }
 
-            // 2. Сервер еще не выбран (ядро отдало системное имя группы)
-            if (name == "AUTO-VPN" || name == "DIRECT" || name == "REJECT" || name == "GLOBAL") {
-                binding.locationIndicator.text = "\uD83D\uDD35"
-                return@withContext
-            }
-
-            // 3. Ищем готовый эмодзи флага в имени
-            val flagRegex = Regex("[\\uD83C\\uDDE6-\\uD83C\\uDDFF]{2}")
             val match = flagRegex.find(name)
             if (match != null) {
                 binding.locationIndicator.text = match.value
                 return@withContext
             }
 
-            // 4. Ищем по тексту
-            val upper = name.uppercase()
-            fun hasWord(word: String) = Regex("\\b$word\\b").containsMatchIn(upper)
-
-            val emoji = when {
-                hasWord("NL") || hasWord("NETHERLANDS") -> "🇳🇱"
-                hasWord("US") || hasWord("AMERICA") -> "🇺🇸"
-                hasWord("UK") || hasWord("GB") || hasWord("ENGLAND") -> "🇬🇧"
-                hasWord("DE") || hasWord("GERMANY") -> "🇩🇪"
-                hasWord("FR") || hasWord("FRANCE") -> "🇫🇷"
-                hasWord("RU") || hasWord("RUSSIA") -> "🇷🇺"
-                hasWord("SG") || hasWord("SINGAPORE") -> "🇸🇬"
-                hasWord("FI") || hasWord("FINLAND") -> "🇫🇮"
-                hasWord("TR") || hasWord("TURKEY") -> "🇹🇷"
-                hasWord("PL") || hasWord("POLAND") -> "🇵🇱"
-                hasWord("SE") || hasWord("SWEDEN") -> "🇸🇪"
-                hasWord("CH") || hasWord("SWITZERLAND") -> "🇨🇭"
-                hasWord("JP") || hasWord("JAPAN") -> "🇯🇵"
-                hasWord("CA") || hasWord("CANADA") -> "🇨🇦"
-                else -> "\uD83C\uDF0D" // Сервер подключен, но страну не распознали
-            }
-            binding.locationIndicator.text = emoji
+            binding.locationIndicator.text = "\uD83C\uDF0D"
         }
     }
 
-    // Пространственная анимация главной кнопки
     suspend fun setClashRunning(running: Boolean) {
         withContext(Dispatchers.Main) {
             if (isCurrentlyRunning == running) return@withContext

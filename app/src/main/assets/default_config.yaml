@@ -23,32 +23,41 @@ dns:
   nameserver:
     - https://dns.google/dns-query
     - https://cloudflare-dns.com/dns-query
-    - https://9.9.9.9/dns-query # Quad9 переехал сюда из fallback
+    - https://9.9.9.9/dns-query
 
 # Провайдер серверов (Склад)
 proxy-providers:
   black-vless:
     type: http
-    url: "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt"
+    url: "https://raw.githubusercontent.com/mycum/ClashMetaForAndroid/refs/heads/main/proxy_lists/fixed_proxies.txt"
     interval: 10800 # Обновление списка раз в 3 часа
     path: ./providers/black_vless.yaml
     health-check:
       enable: true
       interval: 600   # Проверка раз в 10 минут
       lazy: true      # НЕ проверять, если VPN не используется (экономия)
-      url: "https://api.telegram.org" # Проверка связи именно с Telegram
+      url: "https://api.telegram.org" # Строгая проверка доступности Telegram
 
 # Автоматический выбор (Магазин)
 proxy-groups:
-  - name: "AUTO-VPN"
+  # 1. Тестируем пинг в фоне
+  - name: "⚡ Авто-выбор"
     type: url-test
+    hidden: true
     use:
       - black-vless
-    #  exclude-filter: "(?i)ipv6"
-    url: "https://web.telegram.org" # Тест скорости через узлы Telegram
+    url: "https://api.telegram.org" # Строгая проверка доступности Telegram
     interval: 300   # Перепроверять лучший сервер каждые 5 минут при работе
-    tolerance: 100  # Не менять сервер, если разница в пинге меньше 100мс
+    tolerance: 150  # Не менять сервер, если разница в пинге меньше 150мс
     lazy: true      # Экономия: не тестировать узлы, пока нет трафика
+
+  # 2. Главная витрина, которую видит пользователь
+  - name: "AUTO-VPN"
+    type: select
+    proxies:
+      - "⚡ Авто-выбор" # Эта кнопка всегда будет на первом месте
+    use:
+      - black-vless    # А под ней ручной список серверов
 
 # Правила маршрутизации (Безопасность)
 rules:
@@ -58,6 +67,7 @@ rules:
   - IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
   - IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
   - IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
+  - DOMAIN,raw.githubusercontent.com,⚡ Авто-выбор
 
-  # Всё остальное - через наш умный автомат
+  # Всё остальное - через автомат
   - MATCH, AUTO-VPN
