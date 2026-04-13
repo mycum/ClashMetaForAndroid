@@ -149,7 +149,7 @@ jobs:
                   final_links.append(f"{url}#{urllib.parse.quote(final_name)}\n")
 
           header = [
-              "# profile-title: 🚀 Premium High-Bypass Proxies\n",
+              "# profile-title: 🚀 Telegood VPN\n",
               "# profile-update-interval: 3\n",
               f"# 🟢 Total Variants: {len(final_links)}\n\n"
           ]
