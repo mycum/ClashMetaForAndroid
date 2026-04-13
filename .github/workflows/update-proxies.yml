@@ -44,17 +44,15 @@ jobs:
 
               base_url = line.split('#')[0]
               
-              # Вытаскиваем Узел и Порт (например, 8.35.211.108:2096)
+              # Вытаскиваем Узел и Порт для поиска дубликатов (например, 8.35.211.108:2096)
               match = re.search(r'@([^/?#]+)', base_url)
               if match:
                   node_key = match.group(1)
-                  # Если мы уже видели этот IP:Port - пропускаем
                   if node_key in seen_nodes:
                       continue
                   seen_nodes.add(node_key)
                   
               unique_lines.append(line)
-          # --------------------------
 
           hosts = []
           for line in unique_lines:
@@ -68,6 +66,7 @@ jobs:
               except:
                   ips.append("")
 
+          # Запрашиваем GeoIP (теперь только для расшифровки Anycast)
           unique_ips = list(set([ip for ip in ips if ip]))
           ip_info = {}
           for i in range(0, len(unique_ips), 100):
@@ -98,6 +97,7 @@ jobs:
               base_url = parts[0]
               original_name = urllib.parse.unquote(parts[1]) if len(parts) > 1 else "Unknown"
               
+              # --- КОНВЕРТЕР SS -> VLESS ---
               if base_url.startswith('ss://'):
                   try:
                       match = re.search(r'ss://([^@]+)@([^/?#]+)/?\?([^#]+)', base_url)
@@ -125,7 +125,7 @@ jobs:
                   except Exception as e:
                       pass 
 
-              # Синтаксический фильтр
+              # Синтаксический фильтр (оставляем, чтобы парсеры не ломались)
               if " " in base_url or "🇨🇳" in base_url:
                   continue
               if base_url.startswith('ss://') and "v2ray-plugin" in urllib.parse.unquote(base_url).lower():
@@ -135,9 +135,8 @@ jobs:
               geo_code = info.get('countryCode')
               geo_name = info.get('country')
 
-              # ФИЛЬТР RU ТОЛЬКО ПО ФИЗИЧЕСКОМУ IP
-              if geo_code == 'RU':
-                  continue
+              # !!! МЫ БОЛЬШЕ НЕ ФИЛЬТРУЕМ РОССИЮ (НИ ПО ТЕКСТУ, НИ ПО GEOIP) !!!
+              # Всю работу по отсеву медленных серверов берет на себя url-test внутри приложения.
 
               # Переименование
               if "Anycast" in original_name:
@@ -168,5 +167,5 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Auto-update: Added smart deduplication by Node:Port"
+          commit_message: "Auto-update: Removed ALL GeoIP blocks, relying on client-side routing"
           file_pattern: proxy_lists/fixed_proxies.txt
