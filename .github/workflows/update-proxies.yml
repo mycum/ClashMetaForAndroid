@@ -21,7 +21,7 @@ jobs:
         run: |
           mkdir -p proxy_lists
           
-          # 1. Скачиваем ВСЕ источники (ВНИМАНИЕ: только первая команда с '>')
+          # Скачиваем источники (первый с >, остальные с >>)
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt > proxy_lists/raw_proxies.txt
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt >> proxy_lists/raw_proxies.txt
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt >> proxy_lists/raw_proxies.txt
@@ -32,6 +32,7 @@ jobs:
           import urllib.request, json, re, socket, urllib.parse, base64, html
           from concurrent.futures import ThreadPoolExecutor
 
+          print("📂 Загрузка и первичная обработка...")
           with open('proxy_lists/raw_proxies.txt', 'r', encoding='utf-8') as f:
               lines = f.readlines()
 
@@ -42,16 +43,15 @@ jobs:
               line = line.strip()
               if not line or line.startswith('#'): continue
 
-              # --- СУПЕР-ЧИСТКА МУСОРА ---
-              # Удаляем amp;, кривые точки с запятой и лишние знаки
+              # Лечим кривые ссылки (удаляем &amp; и дубли разделителей)
               line = line.replace('&amp;', '&').replace('&amp%3B', '&').replace('%3B', ';').replace('&;', '&').replace('?amp;', '?')
               line = html.unescape(line)
 
               parts = line.split('#')
               base_url = parts[0]
-              original_name = urllib.parse.unquote(parts[1]) if len(parts) > 1 else "Unknown"
+              original_name = urllib.parse.unquote(parts[1]) if len(parts) > 1 else ""
 
-              # Конвертер SS
+              # Конвертер фейковых SS
               if base_url.startswith('ss://'):
                   try:
                       match = re.search(r'ss://([^@]+)@([^/?#]+)/?\?([^#]+)', base_url)
@@ -70,11 +70,10 @@ jobs:
                                   elif opt.startswith('path='): ws_path = opt[5:].replace('\\=', '=')
                                   elif opt == 'tls': tls = "tls"
                               base_url = f"vless://{uuid}@{host_port}?type=ws&security={tls}&host={ws_host}&path={urllib.parse.quote(ws_path)}"
-                  except Exception: pass 
+                  except: pass
 
+              # Очистка и дедупликация
               if " " in base_url or "🇨🇳" in base_url: continue
-              if base_url.startswith('ss://') and "v2ray-plugin" in urllib.parse.unquote(base_url).lower(): continue
-
               match = re.search(r'@([^/?#]+)', base_url)
               if match:
                   host_port = match.group(1)
@@ -82,7 +81,9 @@ jobs:
                   seen_nodes.add(host_port)
                   hp_parts = host_port.split(':')
                   if len(hp_parts) == 2:
-                      unique_proxies.append({'base_url': base_url, 'original_name': original_name, 'host': hp_parts[0], 'port': int(hp_parts[1])})
+                      unique_proxies.append({'url': base_url, 'name': original_name, 'host': hp_parts[0], 'port': int(hp_parts[1])})
+
+          print(f"🔍 Уникальных узлов: {len(unique_proxies)}")
 
           def check_port(proxy):
               try:
@@ -92,40 +93,40 @@ jobs:
                   return proxy
               except: return None
 
+          print("⚡ Физический пинг...")
           alive_proxies = []
           with ThreadPoolExecutor(max_workers=30) as executor:
               results = executor.map(check_port, unique_proxies)
               for r in results:
                   if r: alive_proxies.append(r)
 
-          unique_ips = list(set([p['ip'] for p in alive_proxies if 'ip' in p]))
+          print(f"✅ Живых: {len(alive_proxies)}")
+
+          # GeoIP (упрощено)
+          unique_ips = list(set([p['ip'] for p in alive_proxies]))
           ip_info = {}
           for i in range(0, len(unique_ips), 100):
-              batch = unique_ips[i:i+100]
-              req = urllib.request.Request('http://ip-api.com/batch?fields=query,countryCode,country', data=json.dumps(batch).encode(), headers={'Content-Type': 'application/json'})
               try:
+                  batch = unique_ips[i:i+100]
+                  req = urllib.request.Request('http://ip-api.com/batch?fields=query,countryCode,country', data=json.dumps(batch).encode())
                   with urllib.request.urlopen(req) as resp:
                       for r in json.loads(resp.read().decode()): ip_info[r.get('query')] = r
               except: pass
 
-          def get_flag(code):
-              if not code or len(code) != 2: return "🌍"
-              return chr(ord(code[0]) + 127397) + chr(ord(code[1]) + 127397)
+          def get_flag(c): return chr(ord(c[0]) + 127397) + chr(ord(c[1]) + 127397) if c else "🌍"
 
           final_links = []
-          country_counts = {}
-          for proxy in alive_proxies:
-              info = ip_info.get(proxy.get('ip', ''), {})
-              geo_code, geo_name = info.get('countryCode'), info.get('country')
-              base_name = original_name = proxy['original_name'].split('|')[0].strip().split(',')[0].strip()
-              if "Anycast" in original_name or not original_name:
-                  base_name = f"{get_flag(geo_code)} {geo_name}" if geo_code else "🌐 Unknown"
-              country_counts[base_name] = country_counts.get(base_name, 0) + 1
-              final_links.append(f"{proxy['base_url']}#{urllib.parse.quote(f'{base_name} {country_counts[base_name]}')}\n")
+          counts = {}
+          for p in alive_proxies:
+              geo = ip_info.get(p['ip'], {})
+              base_name = p['name'].split('|')[0].strip().split(',')[0].strip() if p['name'] else f"{get_flag(geo.get('countryCode'))} {geo.get('country', 'Unknown')}"
+              if "Anycast" in base_name: base_name = f"{get_flag(geo.get('countryCode'))} {geo.get('country')}"
+              counts[base_name] = counts.get(base_name, 0) + 1
+              final_links.append(f"{p['url']}#{urllib.parse.quote(f'{base_name} {counts[base_name]}')}\n")
 
-          # Сохраняем ТОЛЬКО чистые ссылки без заголовков
           with open('proxy_lists/raw_proxies.txt', 'w', encoding='utf-8') as f:
               f.writelines(final_links)
+          print("💾 Сохранено в raw_proxies.txt")
           EOF
           
           python3 filter.py
@@ -133,5 +134,5 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Fix: Proper append logic and link cleaning"
+          commit_message: "Auto-sync: Raw nodes for DPI test"
           file_pattern: proxy_lists/raw_proxies.txt
