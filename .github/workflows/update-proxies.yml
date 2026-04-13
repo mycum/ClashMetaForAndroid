@@ -20,18 +20,14 @@ jobs:
           mkdir -p proxy_lists
           
           # 1. Оригинальные списки
-          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt > proxy_lists/raw_proxies.txt
+          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt > proxy_lists/raw_proxies.txt
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt >> proxy_lists/raw_proxies.txt
+          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt > proxy_lists/raw_proxies.txt
           
           # 2. Иранский пылесос Telegram-каналов (Yebekhe)
-          curl -s https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/mix >> proxy_lists/raw_proxies.txt
+          curl -s https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/subscriptions/xray/normal/mix >> proxy_lists/raw_proxies.txt
           
-          # 3. Китайский мега-агрегатор (Lexiie)
-          curl -s https://raw.githubusercontent.com/Lexiie/all_proxy/main/file/txt/all_proxy.txt >> proxy_lists/raw_proxies.txt
-          
-          # 4. Международный VLESS/Reality пул (NiREvil)
-          curl -s https://raw.githubusercontent.com/NiREvil/vless/main/sub/v2rayng-wg.txt >> proxy_lists/raw_proxies.txt
-          
+                  
           sed -i 's/obfs=none&//g' proxy_lists/raw_proxies.txt
           sed -i 's/&obfs=none//g' proxy_lists/raw_proxies.txt
           
