@@ -35,7 +35,6 @@ jobs:
           with open('proxy_lists/raw_temp.txt', 'r', encoding='utf-8') as f:
               lines = f.readlines()
 
-          # Группировка: {(host, port): [list_of_unique_urls]}
           node_groups = {}
           url_to_name = {}
 
@@ -50,21 +49,40 @@ jobs:
               base_url = parts[0]
               name = urllib.parse.unquote(parts[1]) if len(parts) > 1 else ""
 
-              # Лечим Shadowsocks
+              # Лечим Shadowsocks и фейковые VLESS
               if base_url.startswith('ss://'):
+                  # 1. Конвертер фейковых VLESS
                   try:
-                      if '@' in base_url:
-                          match = re.search(r'ss://([^@]+)@([^/?#]+)', base_url)
-                          if match:
-                              b64_info, host_port = match.groups()
-                              b64_info += "=" * ((4 - len(b64_info) % 4) % 4)
-                              userinfo = base64.b64decode(b64_info).decode('utf-8')
-                              if ':' in userinfo:
-                                  method, password = userinfo.split(':', 1)
-                                  if method.lower() == 'auto':
-                                      new_userinfo = f"chacha20-ietf-poly1305:{password}"
-                                      new_b64 = base64.b64encode(new_userinfo.encode('utf-8')).decode('utf-8')
-                                      base_url = base_url.replace(match.group(1), new_b64)
+                      match = re.search(r'ss://([^@]+)@([^/?#]+)/?\?([^#]+)', base_url)
+                      if match:
+                          b64, hp, q = match.groups()
+                          b64 += "=" * ((4 - len(b64) % 4) % 4)
+                          userinfo = base64.b64decode(b64).decode('utf-8')
+                          
+                          if userinfo.startswith('none:'):
+                              uuid = userinfo.split(':', 1)[1]
+                              q = urllib.parse.unquote(q)
+                              opts = q.split(';') if ';' in q else urllib.parse.parse_qs(q).get('plugin', [''])[0].split(';')
+                              ws_host, ws_path, tls = "", "/", "none"
+                              for opt in opts:
+                                  if opt.startswith('host='): ws_host = opt[5:]
+                                  elif opt.startswith('path='): ws_path = opt[5:]
+                                  elif opt == 'tls': tls = "tls"
+                              base_url = f"vless://{uuid}@{hp}?type=ws&security={tls}&host={ws_host}&path={urllib.parse.quote(ws_path)}"
+                  except: pass
+                  
+                  # 2. Фикс "cipher: auto" для настоящих SS
+                  try:
+                      match = re.search(r'ss://([^@]+)@', base_url)
+                      if match:
+                          b64 = match.group(1)
+                          b64 += "=" * ((4 - len(b64) % 4) % 4)
+                          userinfo = base64.b64decode(b64).decode('utf-8')
+                          if ':' in userinfo:
+                              method, password = userinfo.split(':', 1)
+                              if method.lower() == 'auto':
+                                  new_b64 = base64.b64encode(f"chacha20-ietf-poly1305:{password}".encode('utf-8')).decode('utf-8')
+                                  base_url = base_url.replace(match.group(1), new_b64)
                   except: pass
 
               # Определяем host:port
@@ -117,7 +135,6 @@ jobs:
 
           for (host, port), ip in alive_ips.items():
               geo = ip_info.get(ip, {})
-              # Для каждого IP берем ВСЕ варианты ссылок (разные SNI/протоколы)
               for url in node_groups[(host, port)]:
                   raw_name = url_to_name.get(url, "")
                   
@@ -125,7 +142,6 @@ jobs:
                       cc = geo.get('countryCode')
                       base_name = f"{get_flag(cc)} {geo.get('country', 'Unknown')}"
                   else:
-                      # Очищаем имя от лишних тегов, оставляя флаг и страну
                       base_name = raw_name.split('|')[0].split(',')[0].strip()
 
                   name_counts[base_name] = name_counts.get(base_name, 0) + 1
