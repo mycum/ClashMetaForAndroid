@@ -19,17 +19,27 @@ jobs:
         run: |
           mkdir -p proxy_lists
           
-          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt > proxy_lists/fixed_proxies.txt
-          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt >> proxy_lists/fixed_proxies.txt
+          # 1. Оригинальные списки
+          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt > proxy_lists/raw_proxies.txt
+          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt >> proxy_lists/raw_proxies.txt
           
-          sed -i 's/obfs=none&//g' proxy_lists/fixed_proxies.txt
-          sed -i 's/&obfs=none//g' proxy_lists/fixed_proxies.txt
+          # 2. Иранский пылесос Telegram-каналов (Yebekhe)
+          curl -s https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/mix >> proxy_lists/raw_proxies.txt
+          
+          # 3. Китайский мега-агрегатор (Lexiie)
+          curl -s https://raw.githubusercontent.com/Lexiie/all_proxy/main/file/txt/all_proxy.txt >> proxy_lists/raw_proxies.txt
+          
+          # 4. Международный VLESS/Reality пул (NiREvil)
+          curl -s https://raw.githubusercontent.com/NiREvil/vless/main/sub/v2rayng-wg.txt >> proxy_lists/raw_proxies.txt
+          
+          sed -i 's/obfs=none&//g' proxy_lists/raw_proxies.txt
+          sed -i 's/&obfs=none//g' proxy_lists/raw_proxies.txt
           
           cat << 'EOF' > filter.py
           import urllib.request, json, re, socket, urllib.parse, base64
           from concurrent.futures import ThreadPoolExecutor
 
-          with open('proxy_lists/fixed_proxies.txt', 'r') as f:
+          with open('proxy_lists/raw_proxies.txt', 'r') as f:
               lines = f.readlines()
 
           # 1. ПАРСИНГ, КОНВЕРТАЦИЯ И ДЕДУПЛИКАЦИЯ
@@ -157,12 +167,12 @@ jobs:
               clean_lines.append(new_line)
 
           final_output = [
-              "# profile-title: 🚀 Premium Proxies (Alive)\n",
+              "# profile-title: ⏳ Raw Nodes (Waiting for Local DPI Test)\n",
               "# profile-update-interval: 3\n",
-              f"# 🟢 Узлов в работе: {len(clean_lines)}\n"
+              f"# 🟢 Готово к DPI тесту: {len(clean_lines)}\n"
           ] + clean_lines
 
-          with open('proxy_lists/fixed_proxies.txt', 'w') as f:
+          with open('proxy_lists/raw_proxies.txt', 'w') as f:
               f.writelines(final_output)
           EOF
           
@@ -171,5 +181,5 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-update: Alive nodes only (TCP Ping Filtered)"
-          file_pattern: proxy_lists/fixed_proxies.txt
+          commit_message: "Auto-update: Generated raw_proxies.txt for Local DPI Test"
+          file_pattern: proxy_lists/raw_proxies.txt
