@@ -1,4 +1,4 @@
-name: Update, Fix, Convert and Clean Proxies
+name: Update, Clean and Ping Proxies
 
 on:
   schedule:
@@ -13,9 +13,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Process Proxy List
+      - name: Process and Ping Proxy List
         run: |
           mkdir -p proxy_lists
           
@@ -27,47 +27,95 @@ jobs:
           
           cat << 'EOF' > filter.py
           import urllib.request, json, re, socket, urllib.parse, base64
+          from concurrent.futures import ThreadPoolExecutor
 
           with open('proxy_lists/fixed_proxies.txt', 'r') as f:
               lines = f.readlines()
 
-          # --- УМНАЯ ДЕДУПЛИКАЦИЯ ---
-          unique_lines = []
+          # 1. ПАРСИНГ, КОНВЕРТАЦИЯ И ДЕДУПЛИКАЦИЯ
+          unique_proxies = []
           seen_nodes = set()
-          
+
           for line in lines:
               line = line.strip()
-              if not line or line.startswith('#'):
-                  if "profile-" not in line.lower() and "количество" not in line.lower() and "date/time" not in line.lower():
-                      unique_lines.append(line + '\n')
-                  continue
+              if not line or line.startswith('#'): continue
 
-              base_url = line.split('#')[0]
-              
-              # Вытаскиваем Узел и Порт для поиска дубликатов (например, 8.35.211.108:2096)
+              parts = line.split('#')
+              base_url = parts[0]
+              original_name = urllib.parse.unquote(parts[1]) if len(parts) > 1 else "Unknown"
+
+              # Конвертер фейковых SS в VLESS
+              if base_url.startswith('ss://'):
+                  try:
+                      match = re.search(r'ss://([^@]+)@([^/?#]+)/?\?([^#]+)', base_url)
+                      if match:
+                          b64_info, host_port, query = match.groups()
+                          b64_info += "=" * ((4 - len(b64_info) % 4) % 4)
+                          userinfo = base64.b64decode(b64_info).decode('utf-8')
+                          
+                          if userinfo.startswith('none:'):
+                              uuid = userinfo.split(':', 1)[1]
+                              query = urllib.parse.unquote(query)
+                              qs = urllib.parse.parse_qs(query)
+                              plugin_str = qs.get('plugin', [''])[0]
+                              
+                              opts = plugin_str.split(';')
+                              ws_host, ws_path, tls = "", "/", "none"
+                              for opt in opts:
+                                  if opt.startswith('host='): ws_host = opt[5:]
+                                  elif opt.startswith('path='): ws_path = opt[5:].replace('\\=', '=')
+                                  elif opt == 'tls': tls = "tls"
+                                  
+                              base_url = f"vless://{uuid}@{host_port}?type=ws&security={tls}&host={ws_host}&path={urllib.parse.quote(ws_path)}"
+                  except Exception:
+                      pass 
+
+              # Синтаксический мусор
+              if " " in base_url or "🇨🇳" in base_url: continue
+              if base_url.startswith('ss://') and "v2ray-plugin" in urllib.parse.unquote(base_url).lower(): continue
+
+              # Вытаскиваем Хост и Порт для дедупликации и будущего пинга
               match = re.search(r'@([^/?#]+)', base_url)
               if match:
-                  node_key = match.group(1)
-                  if node_key in seen_nodes:
+                  host_port = match.group(1)
+                  if host_port in seen_nodes:
                       continue
-                  seen_nodes.add(node_key)
+                  seen_nodes.add(host_port)
                   
-              unique_lines.append(line)
+                  hp_parts = host_port.split(':')
+                  if len(hp_parts) == 2:
+                      unique_proxies.append({
+                          'base_url': base_url,
+                          'original_name': original_name,
+                          'host': hp_parts[0],
+                          'port': int(hp_parts[1])
+                      })
 
-          hosts = []
-          for line in unique_lines:
-              match = re.search(r'@([^:/?#]+)', line)
-              hosts.append(match.group(1) if match else "")
+          print(f"🔍 После дедупликации найдено уникальных узлов: {len(unique_proxies)}")
 
-          ips = []
-          for h in hosts:
+          # 2. ФИЗИЧЕСКИЙ ТЕСТ ДОСТУПНОСТИ (TCP PING)
+          def check_port(proxy):
               try:
-                  ips.append(socket.gethostbyname(h) if h else "")
-              except:
-                  ips.append("")
+                  ip = socket.gethostbyname(proxy['host'])
+                  socket.create_connection((ip, proxy['port']), timeout=3)
+                  proxy['ip'] = ip
+                  return proxy
+              except Exception:
+                  return None
 
-          # Запрашиваем GeoIP (теперь только для расшифровки Anycast)
-          unique_ips = list(set([ip for ip in ips if ip]))
+          alive_proxies = []
+          print("⚡ Начинаю проверку портов (таймаут 3 сек)...")
+          with ThreadPoolExecutor(max_workers=20) as executor:
+              results = executor.map(check_port, unique_proxies)
+              for r in results:
+                  if r is not None:
+                      alive_proxies.append(r)
+
+          print(f"✅ Выжило физически активных серверов: {len(alive_proxies)}")
+          print(f"❌ Удалено мертвых серверов: {len(unique_proxies) - len(alive_proxies)}")
+
+          # 3. GEOIP ДЛЯ ВЫЖИВШИХ
+          unique_ips = list(set([p['ip'] for p in alive_proxies if 'ip' in p]))
           ip_info = {}
           for i in range(0, len(unique_ips), 100):
               batch = unique_ips[i:i+100]
@@ -88,74 +136,30 @@ jobs:
           clean_lines = []
           country_counts = {}
 
-          for line, ip in zip(unique_lines, ips):
-              if line.startswith('#'):
-                  clean_lines.append(line)
-                  continue
-
-              parts = line.split('#')
-              base_url = parts[0]
-              original_name = urllib.parse.unquote(parts[1]) if len(parts) > 1 else "Unknown"
-              
-              # --- КОНВЕРТЕР SS -> VLESS ---
-              if base_url.startswith('ss://'):
-                  try:
-                      match = re.search(r'ss://([^@]+)@([^/?#]+)/?\?([^#]+)', base_url)
-                      if match:
-                          b64_info, host_port, query = match.groups()
-                          b64_info += "=" * ((4 - len(b64_info) % 4) % 4)
-                          userinfo = base64.b64decode(b64_info).decode('utf-8')
-                          
-                          if userinfo.startswith('none:'):
-                              uuid = userinfo.split(':', 1)[1]
-                              query = urllib.parse.unquote(query)
-                              qs = urllib.parse.parse_qs(query)
-                              plugin_str = qs.get('plugin', [''])[0]
-                              
-                              opts = plugin_str.split(';')
-                              ws_host = ""
-                              ws_path = "/"
-                              tls = "none"
-                              for opt in opts:
-                                  if opt.startswith('host='): ws_host = opt[5:]
-                                  elif opt.startswith('path='): ws_path = opt[5:].replace('\\=', '=')
-                                  elif opt == 'tls': tls = "tls"
-                                  
-                              base_url = f"vless://{uuid}@{host_port}?type=ws&security={tls}&host={ws_host}&path={urllib.parse.quote(ws_path)}"
-                  except Exception as e:
-                      pass 
-
-              # Синтаксический фильтр (оставляем, чтобы парсеры не ломались)
-              if " " in base_url or "🇨🇳" in base_url:
-                  continue
-              if base_url.startswith('ss://') and "v2ray-plugin" in urllib.parse.unquote(base_url).lower():
-                  continue
-
-              info = ip_info.get(ip, {})
+          # 4. ФОРМИРОВАНИЕ ИТОГОВОГО СПИСКА
+          for proxy in alive_proxies:
+              info = ip_info.get(proxy.get('ip', ''), {})
               geo_code = info.get('countryCode')
               geo_name = info.get('country')
 
-              # !!! МЫ БОЛЬШЕ НЕ ФИЛЬТРУЕМ РОССИЮ (НИ ПО ТЕКСТУ, НИ ПО GEOIP) !!!
-              # Всю работу по отсеву медленных серверов берет на себя url-test внутри приложения.
-
-              # Переименование
-              if "Anycast" in original_name:
+              if "Anycast" in proxy['original_name']:
                   if geo_code and geo_name:
                       base_name = f"{get_flag(geo_code)} {geo_name}"
                   else:
                       base_name = "🌐 Anycast"
               else:
-                  base_name = original_name.split('|')[0].strip().split(',')[0].strip()
+                  base_name = proxy['original_name'].split('|')[0].strip().split(',')[0].strip()
 
               country_counts[base_name] = country_counts.get(base_name, 0) + 1
               final_name = f"{base_name} {country_counts[base_name]}"
 
-              new_line = base_url + '#' + urllib.parse.quote(final_name) + '\n'
+              new_line = proxy['base_url'] + '#' + urllib.parse.quote(final_name) + '\n'
               clean_lines.append(new_line)
 
           final_output = [
-              "# profile-title: 🚀 Premium Anti-Censorship Proxies\n",
-              "# profile-update-interval: 3\n"
+              "# profile-title: 🚀 Premium Proxies (Alive)\n",
+              "# profile-update-interval: 3\n",
+              f"# 🟢 Узлов в работе: {len(clean_lines)}\n"
           ] + clean_lines
 
           with open('proxy_lists/fixed_proxies.txt', 'w') as f:
@@ -165,7 +169,7 @@ jobs:
           python3 filter.py
 
       - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-update: Removed ALL GeoIP blocks, relying on client-side routing"
+          commit_message: "Auto-update: Alive nodes only (TCP Ping Filtered)"
           file_pattern: proxy_lists/fixed_proxies.txt
