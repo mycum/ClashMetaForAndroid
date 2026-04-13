@@ -21,146 +21,132 @@ jobs:
         run: |
           mkdir -p proxy_lists
           
-          # Качаем ТОЛЬКО базы Игарька (иранский источник удален)
-          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt > proxy_lists/raw_proxies.txt
-          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt >> proxy_lists/raw_proxies.txt
-          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt >> proxy_lists/raw_proxies.txt
-          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt >> proxy_lists/raw_proxies.txt
+          # Скачиваем базы Игарька
+          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt > proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt >> proxy_lists/raw_temp.txt
           
           cat << 'EOF' > filter.py
           import urllib.request, json, re, socket, urllib.parse, base64, html
           from concurrent.futures import ThreadPoolExecutor
 
-          print("📂 Загрузка баз Игарька...")
-          with open('proxy_lists/raw_proxies.txt', 'r', encoding='utf-8') as f:
+          print("📂 Загрузка и подготовка...")
+          with open('proxy_lists/raw_temp.txt', 'r', encoding='utf-8') as f:
               lines = f.readlines()
 
-          unique_proxies = []
-          seen_nodes = set()
+          # Группировка: {(host, port): [list_of_unique_urls]}
+          node_groups = {}
+          url_to_name = {}
 
           for line in lines:
               line = line.strip()
               if not line or line.startswith('#'): continue
-
-              # Лечим HTML-мусор, но НЕ ТРОГАЕМ эмодзи
+              
               line = line.replace('&amp;', '&').replace('&amp%3B', '&').replace('%3B', ';').replace('&;', '&').replace('?amp;', '?')
               line = html.unescape(line)
 
               parts = line.split('#')
               base_url = parts[0]
-              original_name = urllib.parse.unquote(parts[1]) if len(parts) > 1 else ""
+              name = urllib.parse.unquote(parts[1]) if len(parts) > 1 else ""
 
-              # Конвертируем и лечим Shadowsocks
+              # Лечим Shadowsocks
               if base_url.startswith('ss://'):
                   try:
-                      match = re.search(r'ss://([^@]+)@([^/?#]+)/?\?([^#]+)', base_url)
-                      if match:
-                          b64_info, host_port, query = match.groups()
-                          b64_info += "=" * ((4 - len(b64_info) % 4) % 4)
-                          userinfo = base64.b64decode(b64_info).decode('utf-8')
-                          
-                          if userinfo.startswith('none:'):
-                              uuid = userinfo.split(':', 1)[1]
-                              qs = urllib.parse.parse_qs(query)
-                              plugin_str = qs.get('plugin', [''])[0]
-                              opts = plugin_str.split(';')
-                              ws_host, ws_path, tls = "", "/", "none"
-                              for opt in opts:
-                                  if opt.startswith('host='): ws_host = opt[5:]
-                                  elif opt.startswith('path='): ws_path = opt[5:].replace('\\=', '=')
-                                  elif opt == 'tls': tls = "tls"
-                              base_url = f"vless://{uuid}@{host_port}?type=ws&security={tls}&host={ws_host}&path={urllib.parse.quote(ws_path)}"
+                      if '@' in base_url:
+                          match = re.search(r'ss://([^@]+)@([^/?#]+)', base_url)
+                          if match:
+                              b64_info, host_port = match.groups()
+                              b64_info += "=" * ((4 - len(b64_info) % 4) % 4)
+                              userinfo = base64.b64decode(b64_info).decode('utf-8')
+                              if ':' in userinfo:
+                                  method, password = userinfo.split(':', 1)
+                                  if method.lower() == 'auto':
+                                      new_userinfo = f"chacha20-ietf-poly1305:{password}"
+                                      new_b64 = base64.b64encode(new_userinfo.encode('utf-8')).decode('utf-8')
+                                      base_url = base_url.replace(match.group(1), new_b64)
                   except: pass
-                  
-                  try:
-                      match = re.search(r'ss://([^@]+)@', base_url)
-                      if match:
-                          b64_info = match.group(1)
-                          b64_info += "=" * ((4 - len(b64_info) % 4) % 4)
-                          userinfo = base64.b64decode(b64_info).decode('utf-8')
-                          if ':' not in userinfo: continue 
-                          method, password = userinfo.split(':', 1)
-                          if not password.strip(): continue 
-                          if method.lower() == 'auto':
-                              new_userinfo = f"chacha20-ietf-poly1305:{password}"
-                              new_b64 = base64.b64encode(new_userinfo.encode('utf-8')).decode('utf-8')
-                              base_url = base_url.replace(match.group(1), new_b64)
-                  except: continue 
 
-              if " " in base_url or "🇨🇳" in base_url: continue
+              # Определяем host:port
               match = re.search(r'@([^/?#]+)', base_url)
               if match:
-                  host_port = match.group(1)
-                  if host_port in seen_nodes: continue
-                  seen_nodes.add(host_port)
-                  hp_parts = host_port.split(':')
+                  hp = match.group(1)
+                  hp_parts = hp.split(':')
                   if len(hp_parts) == 2:
-                      unique_proxies.append({'url': base_url, 'name': original_name, 'host': hp_parts[0], 'port': int(hp_parts[1])})
+                      target = (hp_parts[0], int(hp_parts[1]))
+                      if target not in node_groups: node_groups[target] = []
+                      if base_url not in node_groups[target]:
+                          node_groups[target].append(base_url)
+                          url_to_name[base_url] = name
 
-          print(f"🔍 Найдено уникальных серверов: {len(unique_proxies)}")
+          print(f"🔍 Найдено {len(node_groups)} уникальных IP:Port")
 
-          def check_port(proxy):
+          def check_node(hp):
+              host, port = hp
               try:
-                  ip = socket.gethostbyname(proxy['host'])
-                  socket.create_connection((ip, proxy['port']), timeout=3)
-                  proxy['ip'] = ip
-                  return proxy
-              except: return None
+                  ip = socket.gethostbyname(host)
+                  s = socket.create_connection((ip, port), timeout=3)
+                  s.close()
+                  return hp, ip
+              except: return hp, None
 
-          print("⚡ TCP пинг...")
-          alive_proxies = []
-          with ThreadPoolExecutor(max_workers=30) as executor:
-              results = executor.map(check_port, unique_proxies)
-              for r in results:
-                  if r: alive_proxies.append(r)
+          print("⚡ TCP пинг серверов...")
+          alive_ips = {}
+          with ThreadPoolExecutor(max_workers=40) as executor:
+              results = executor.map(check_node, node_groups.keys())
+              for hp, ip in results:
+                  if ip: alive_ips[hp] = ip
 
-          print(f"✅ Физически работают: {len(alive_proxies)}")
+          print(f"✅ Живых серверов: {len(alive_ips)}")
 
-          unique_ips = list(set([p['ip'] for p in alive_proxies]))
+          # GeoIP
+          unique_resolved_ips = list(set(alive_ips.values()))
           ip_info = {}
-          for i in range(0, len(unique_ips), 100):
+          for i in range(0, len(unique_resolved_ips), 100):
               try:
-                  batch = unique_ips[i:i+100]
+                  batch = unique_resolved_ips[i:i+100]
                   req = urllib.request.Request('http://ip-api.com/batch?fields=query,countryCode,country', data=json.dumps(batch).encode())
                   with urllib.request.urlopen(req) as resp:
                       for r in json.loads(resp.read().decode()): ip_info[r.get('query')] = r
               except: pass
 
-          def get_flag(c):
-              if not c or len(c) != 2: return "🌍"
-              return chr(ord(c[0]) + 127397) + chr(ord(c[1]) + 127397)
+          def get_flag(c): return chr(ord(c[0]) + 127397) + chr(ord(c[1]) + 127397) if (c and len(c)==2) else "🌍"
 
           final_links = []
-          counts = {}
-          for p in alive_proxies:
-              raw_name = p['name'].strip()
-              geo = ip_info.get(p['ip'], {})
-              
-              # Умная обработка Anycast и пустых имен
-              if not raw_name or "Anycast" in raw_name or "🌐" in raw_name:
-                  cc = geo.get('countryCode')
-                  if cc:
+          name_counts = {}
+
+          for (host, port), ip in alive_ips.items():
+              geo = ip_info.get(ip, {})
+              # Для каждого IP берем ВСЕ варианты ссылок (разные SNI/протоколы)
+              for url in node_groups[(host, port)]:
+                  raw_name = url_to_name.get(url, "")
+                  
+                  if not raw_name or "Anycast" in raw_name or "🌐" in raw_name:
+                      cc = geo.get('countryCode')
                       base_name = f"{get_flag(cc)} {geo.get('country', 'Unknown')}"
                   else:
-                      base_name = "🌍 Unknown"
-              else:
-                  # Берем флаг и страну Игарька, отсекая города и теги
-                  base_name = raw_name.split('|')[0].split(',')[0].strip()
+                      # Очищаем имя от лишних тегов, оставляя флаг и страну
+                      base_name = raw_name.split('|')[0].split(',')[0].strip()
 
-              counts[base_name] = counts.get(base_name, 0) + 1
-              final_name = f"{base_name} {counts[base_name]}"
-              
-              final_links.append(f"{p['url']}#{urllib.parse.quote(final_name)}\n")
+                  name_counts[base_name] = name_counts.get(base_name, 0) + 1
+                  final_name = f"{base_name} [{name_counts[base_name]}]"
+                  final_links.append(f"{url}#{urllib.parse.quote(final_name)}\n")
 
-          with open('proxy_lists/raw_proxies.txt', 'w', encoding='utf-8') as f:
-              f.writelines(final_links)
-          print("💾 Сохранено в raw_proxies.txt")
+          header = [
+              "# profile-title: 🚀 Premium High-Bypass Proxies\n",
+              "# profile-update-interval: 3\n",
+              f"# 🟢 Total Variants: {len(final_links)}\n\n"
+          ]
+
+          with open('proxy_lists/fixed_proxies.txt', 'w', encoding='utf-8') as f:
+              f.writelines(header + final_links)
           EOF
           
           python3 filter.py
+          rm proxy_lists/raw_temp.txt
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-sync: Igareck's proxies with precise GeoIP flags"
-          file_pattern: proxy_lists/raw_proxies.txt
+          commit_message: "Auto-sync: All variants for live nodes preserved"
+          file_pattern: proxy_lists/fixed_proxies.txt
