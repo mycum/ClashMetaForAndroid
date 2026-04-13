@@ -32,7 +32,7 @@ jobs:
           import urllib.request, json, re, socket, urllib.parse, base64, html
           from concurrent.futures import ThreadPoolExecutor
 
-          print("📂 Загрузка и первичная обработка...")
+          print("📂 Загрузка и глубокая очистка...")
           with open('proxy_lists/raw_proxies.txt', 'r', encoding='utf-8') as f:
               lines = f.readlines()
 
@@ -51,7 +51,7 @@ jobs:
               base_url = parts[0]
               original_name = urllib.parse.unquote(parts[1]) if len(parts) > 1 else ""
 
-              # Конвертер фейковых SS
+              # АВТО-ЛЕКАРЬ SHADOWSOCKS
               if base_url.startswith('ss://'):
                   try:
                       match = re.search(r'ss://([^@]+)@([^/?#]+)/?\?([^#]+)', base_url)
@@ -59,6 +59,8 @@ jobs:
                           b64_info, host_port, query = match.groups()
                           b64_info += "=" * ((4 - len(b64_info) % 4) % 4)
                           userinfo = base64.b64decode(b64_info).decode('utf-8')
+                          
+                          # Конвертируем фейковые SS в VLESS
                           if userinfo.startswith('none:'):
                               uuid = userinfo.split(':', 1)[1]
                               qs = urllib.parse.parse_qs(query)
@@ -71,6 +73,26 @@ jobs:
                                   elif opt == 'tls': tls = "tls"
                               base_url = f"vless://{uuid}@{host_port}?type=ws&security={tls}&host={ws_host}&path={urllib.parse.quote(ws_path)}"
                   except: pass
+                  
+                  # Лечим настоящие SS от краша "cipher: auto" и пустых паролей
+                  try:
+                      match = re.search(r'ss://([^@]+)@', base_url)
+                      if match:
+                          b64_info = match.group(1)
+                          b64_info += "=" * ((4 - len(b64_info) % 4) % 4)
+                          userinfo = base64.b64decode(b64_info).decode('utf-8')
+                          
+                          if ':' not in userinfo: continue # Нет пароля - выкидываем
+                          method, password = userinfo.split(':', 1)
+                          
+                          if not password.strip(): continue # Пустой пароль - выкидываем
+                          
+                          # Меняем 'auto' на нормальный шифр и собираем Base64 обратно
+                          if method.lower() == 'auto':
+                              new_userinfo = f"chacha20-ietf-poly1305:{password}"
+                              new_b64 = base64.b64encode(new_userinfo.encode('utf-8')).decode('utf-8')
+                              base_url = base_url.replace(match.group(1), new_b64)
+                  except: continue # Если SS совсем сломан - пропускаем
 
               # Очистка и дедупликация
               if " " in base_url or "🇨🇳" in base_url: continue
@@ -83,7 +105,7 @@ jobs:
                   if len(hp_parts) == 2:
                       unique_proxies.append({'url': base_url, 'name': original_name, 'host': hp_parts[0], 'port': int(hp_parts[1])})
 
-          print(f"🔍 Уникальных узлов: {len(unique_proxies)}")
+          print(f"🔍 Уникальных и вылеченных узлов: {len(unique_proxies)}")
 
           def check_port(proxy):
               try:
@@ -102,7 +124,7 @@ jobs:
 
           print(f"✅ Живых: {len(alive_proxies)}")
 
-          # GeoIP (упрощено)
+          # GeoIP
           unique_ips = list(set([p['ip'] for p in alive_proxies]))
           ip_info = {}
           for i in range(0, len(unique_ips), 100):
@@ -122,7 +144,11 @@ jobs:
               base_name = p['name'].split('|')[0].strip().split(',')[0].strip() if p['name'] else f"{get_flag(geo.get('countryCode'))} {geo.get('country', 'Unknown')}"
               if "Anycast" in base_name: base_name = f"{get_flag(geo.get('countryCode'))} {geo.get('country')}"
               counts[base_name] = counts.get(base_name, 0) + 1
-              final_links.append(f"{p['url']}#{urllib.parse.quote(f'{base_name} {counts[base_name]}')}\n")
+              
+              # Убираем недопустимые символы из имени
+              clean_name = re.sub(r'[^\w\s\-\.\(\)\[\]]', '', f'{base_name} {counts[base_name]}').strip()
+              
+              final_links.append(f"{p['url']}#{urllib.parse.quote(clean_name)}\n")
 
           with open('proxy_lists/raw_proxies.txt', 'w', encoding='utf-8') as f:
               f.writelines(final_links)
@@ -134,5 +160,5 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-sync: Raw nodes for DPI test"
+          commit_message: "Auto-sync: Healed raw nodes for DPI test"
           file_pattern: proxy_lists/raw_proxies.txt
