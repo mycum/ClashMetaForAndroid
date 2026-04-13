@@ -1,13 +1,10 @@
-# profile-title: 🚀 Premium Anti-Censorship Proxies
+# profile-title: 🚀 Premium Proxies (Alive)
 # profile-update-interval: 3
-# For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
-
-#Unknown%201
+# 🟢 Узлов в работе: 143
 vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&encryption=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=79a1e14b#%F0%9F%87%AE%F0%9F%87%B9%20Italy%201
 vless://a3a90d47-df89-496b-a578-814d8c85d8fc@rusw-3.coinbridge.nl:443?mode=gun&security=reality&encryption=none&authority=coinbridge.nl&pbk=_PUvVU7EjN678sdosgO-jX8svQ3fKOROq0BCVrx9NzE&fp=chrome&spx=%2FMkYQ4BoBEWDl9Ll&allowinsecure=0&type=grpc&serviceName=data-sync&sni=coinbridge.nl&sid=62f087ac#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%201
 vless://4b557e83-e164-45f2-a6eb-84a5793918b7@auto-6.barryvpn.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jWypoXVjtagJ3N5TZu4LUY4jxPzuCoZME-WWwmR01TA&sid=ae&sni=ru-streaming-2.barryvpn.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%201
-vless://42be7c39-60b4-4c0d-94b5-f108348b3abe@72.56.233.15:4462?encryption=none&flow=xtls-rprx-vision&security=reality&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%201
-vless://8ae7b082-8ada-4352-a66e-c0ab7e48d3ed@45.132.50.33:443?security=reality&encryption=none&pbk=LVLC9gVIWMnhY40dxLLvBnxMxPsX4tgSkaEGjWbfERM&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rockcult.ru&sid=52356565757846#%F0%9F%87%B7%F0%9F%87%BA%20Russia%202
+vless://8ae7b082-8ada-4352-a66e-c0ab7e48d3ed@45.132.50.33:443?security=reality&encryption=none&pbk=LVLC9gVIWMnhY40dxLLvBnxMxPsX4tgSkaEGjWbfERM&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rockcult.ru&sid=52356565757846#%F0%9F%87%B7%F0%9F%87%BA%20Russia%201
 vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.103:2083?fp=chrome&host=aier.eu.cc&path=/&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%201
 vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.108:2096?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%202
 vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.10:2096?encryption=none&security=tls&insecure=0&allowInsecure=0&type=ws&host=aier.eu.cc&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%203
@@ -117,55 +114,33 @@ vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@45.40.147.16:443?type=ws&security=t
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@69.84.182.16:443?type=ws&security=tls&host=ylnhh.us.ci&path=/14b02e2a-8930-4afb-8412-ea4a4954ca5b/%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20106
 vless://3e96ef7d-8637-42c2-ac73-75182196e755@170.114.45.38:443?type=ws&security=tls&host=mfvpn.fuchen.indevs.in&path=3e96ef7d-8637-42c2-ac73-75182196e755/%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20107
 vless://3e96ef7d-8637-42c2-ac73-75182196e755@46.32.186.85:443?type=ws&security=tls&host=mfvpn.fuchen.indevs.in&path=3e96ef7d-8637-42c2-ac73-75182196e755/%3Fed%3D2560#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%201
-hysteria2://hysteria2_fastlane_6q2dd73gw%3AJBrZVnSLjfd6kxX1XP9VHEFliEl5OohG@138.124.183.9:1935?sni=us1.h.smartaisupport.ru#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20108
-# For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
-
-#Unknown%202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzb21lYm9keQ@195.85.19.146:30011?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D20xteamxa9-sg2-a7xr.update.microsoft.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%201
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@103.43.191.121:8443?type=ws&security=tls&host=ylnhh.us.ci&path=14b02e2a-8930-4afb-8412-ea4a4954ca5b/%3Fed%3D2560#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%201
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@104.238.70.16:443?type=ws&security=tls&host=ylnhh.us.ci&path=/14b02e2a-8930-4afb-8412-ea4a4954ca5b/%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20109
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@104.238.70.16:443?type=ws&security=tls&host=ylnhh.us.ci&path=/14b02e2a-8930-4afb-8412-ea4a4954ca5b/%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20108
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@158.51.109.218:443?type=ws&security=tls&host=ylnhh.us.ci&path=14b02e2a-8930-4afb-8412-ea4a4954ca5b/%3Fed%3D2560#%F0%9F%87%AF%F0%9F%87%B5%20Japan%201
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@198.12.144.16:443?type=ws&security=tls&host=ylnhh.us.ci&path=/14b02e2a-8930-4afb-8412-ea4a4954ca5b/%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20110
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@198.12.144.16:443?type=ws&security=tls&host=ylnhh.us.ci&path=/14b02e2a-8930-4afb-8412-ea4a4954ca5b/%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20109
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@209.17.118.112:20524?type=ws&security=tls&host=ylnhh.us.ci&path=14b02e2a-8930-4afb-8412-ea4a4954ca5b/%3Fed%3D2560#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%202
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@45.147.248.115:443?type=ws&security=tls&host=ylnhh.us.ci&path=/14b02e2a-8930-4afb-8412-ea4a4954ca5b/%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA%20Germany%201
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@50.62.90.16:443?type=ws&security=tls&host=ylnhh.us.ci&path=/14b02e2a-8930-4afb-8412-ea4a4954ca5b/%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20111
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@50.62.90.16:443?type=ws&security=tls&host=ylnhh.us.ci&path=/14b02e2a-8930-4afb-8412-ea4a4954ca5b/%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20110
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@78.40.216.169:443?type=ws&security=tls&host=ylnhh.us.ci&path=/14b02e2a-8930-4afb-8412-ea4a4954ca5b/%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA%20Germany%202
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@94.159.98.123:443?type=ws&security=tls&host=ylnhh.us.ci&path=/14b02e2a-8930-4afb-8412-ea4a4954ca5b/%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA%20Germany%203
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@94.159.98.140:443?type=ws&security=tls&host=ylnhh.us.ci&path=/14b02e2a-8930-4afb-8412-ea4a4954ca5b/%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA%20Germany%204
-vless://3e96ef7d-8637-42c2-ac73-75182196e755@103.133.1.38:443?type=ws&security=tls&host=mfvpn.fuchen.indevs.in&path=3e96ef7d-8637-42c2-ac73-75182196e755/%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20112
+vless://3e96ef7d-8637-42c2-ac73-75182196e755@103.133.1.38:443?type=ws&security=tls&host=mfvpn.fuchen.indevs.in&path=3e96ef7d-8637-42c2-ac73-75182196e755/%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20111
 vless://3e96ef7d-8637-42c2-ac73-75182196e755@193.68.89.220:8443?type=ws&security=tls&host=mfvpn.fuchen.indevs.in&path=3e96ef7d-8637-42c2-ac73-75182196e755/%3Fed%3D2560#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%202
 vless://3e96ef7d-8637-42c2-ac73-75182196e755@195.123.210.147:443?type=ws&security=tls&host=mfvpn.fuchen.indevs.in&path=3e96ef7d-8637-42c2-ac73-75182196e755/%3Fed%3D2560#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%203
 vless://3e96ef7d-8637-42c2-ac73-75182196e755@195.135.254.173:8443?type=ws&security=tls&host=mfvpn.fuchen.indevs.in&path=3e96ef7d-8637-42c2-ac73-75182196e755/%3Fed%3D2560#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%204
-vless://3e96ef7d-8637-42c2-ac73-75182196e755@199.181.197.38:443?type=ws&security=tls&host=mfvpn.fuchen.indevs.in&path=3e96ef7d-8637-42c2-ac73-75182196e755/%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20113
-vless://3e96ef7d-8637-42c2-ac73-75182196e755@31.58.226.196:8443?type=ws&security=tls&host=mfvpn.fuchen.indevs.in&path=3e96ef7d-8637-42c2-ac73-75182196e755/%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20114
-vless://3e96ef7d-8637-42c2-ac73-75182196e755@31.58.50.110:2053?type=ws&security=tls&host=mfvpn.fuchen.indevs.in&path=3e96ef7d-8637-42c2-ac73-75182196e755/%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20115
+vless://3e96ef7d-8637-42c2-ac73-75182196e755@199.181.197.38:443?type=ws&security=tls&host=mfvpn.fuchen.indevs.in&path=3e96ef7d-8637-42c2-ac73-75182196e755/%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20112
+vless://3e96ef7d-8637-42c2-ac73-75182196e755@31.58.226.196:8443?type=ws&security=tls&host=mfvpn.fuchen.indevs.in&path=3e96ef7d-8637-42c2-ac73-75182196e755/%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20113
+vless://3e96ef7d-8637-42c2-ac73-75182196e755@31.58.50.110:2053?type=ws&security=tls&host=mfvpn.fuchen.indevs.in&path=3e96ef7d-8637-42c2-ac73-75182196e755/%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20114
 vless://3e96ef7d-8637-42c2-ac73-75182196e755@46.32.185.152:443?type=ws&security=tls&host=mfvpn.fuchen.indevs.in&path=3e96ef7d-8637-42c2-ac73-75182196e755/%3Fed%3D2560#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%205
 vless://3e96ef7d-8637-42c2-ac73-75182196e755@47.76.146.102:443?type=ws&security=tls&host=mfvpn.fuchen.indevs.in&path=3e96ef7d-8637-42c2-ac73-75182196e755/%3Fed%3D2560#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%202
 vless://3e96ef7d-8637-42c2-ac73-75182196e755@5.253.189.215:443?type=ws&security=tls&host=mfvpn.fuchen.indevs.in&path=3e96ef7d-8637-42c2-ac73-75182196e755/%3Fed%3D2560#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%203
 vless://3e96ef7d-8637-42c2-ac73-75182196e755@77.110.96.166:8443?type=ws&security=tls&host=mfvpn.fuchen.indevs.in&path=3e96ef7d-8637-42c2-ac73-75182196e755/%3Fed%3D2560#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%202
 vless://3e96ef7d-8637-42c2-ac73-75182196e755@8.219.154.217:8443?type=ws&security=tls&host=mfvpn.fuchen.indevs.in&path=3e96ef7d-8637-42c2-ac73-75182196e755/%3Fed%3D2560#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%203
 vless://3e96ef7d-8637-42c2-ac73-75182196e755@94.183.190.73:2053?type=ws&security=tls&host=mfvpn.fuchen.indevs.in&path=3e96ef7d-8637-42c2-ac73-75182196e755/%3Fed%3D2560#%F0%9F%87%AB%F0%9F%87%AE%20Finland%201
-hysteria2://hysteria2_fastlane_o073bs8g3%3AnVqTWRPkE589d7FZtLKjwgnwNxztfAgv@2.27.28.104:1935?security=tls&sni=de5.h.fastlanehosting.ru#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%201
-hysteria2://hysteria2_fastlane_ev14fzgmm%3ATWksDbZ7rvJkAyxMC6JT1tD5V2rlOtKi@64.188.107.79:1935/?sni=fn1.h.fastlanehosting.ru#%F0%9F%87%AB%F0%9F%87%AE%20Finland%202
-hysteria2://dongtaiwang.com@163.172.113.118:40022?sni=www.microsoft.com&insecure=1&mport=41000-42000#%F0%9F%87%AB%F0%9F%87%B7%20France%201
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20France%202
-hysteria2://hysteria2_fastlane_bxxd5epp2%3AR4UP7slGDg2b8A5c5qkSYInbeTJw677J@2.27.28.106:1935/?sni=de8.h.fastlanehosting.ru#%F0%9F%87%AB%F0%9F%87%B7%20France%203
-hysteria2://b688ce0f-9201-4e8e-a67a-f3be2c6aa201@de.mjhy2.com:1443?insecure=1&sni=de.mjhy2.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%205
-hysteria2://9e0f72bb-7ad6-4383-994a-497569a94d74@hkt.ccwink.cc:56309?sni=hkt.ccwink.cc#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%203
-hysteria2://7845e26a-328b-4b26-8922-d358f6474596@45.192.192.120:4643?insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%204
-hysteria2://79d73809-f5ed-4099-8588-ba77578def1d@iij.mggl.wang:35789?sni=iij.mggl.wang&insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Japan%202
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-016.fastervpn.world:443?insecure=1&sni=vpn-jp-016.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5%20Japan%203
-hysteria2://38428a74-c651-47a5-b2c9-4bec5a1809cf@103.62.49.76:35000?insecure=1&sni=www.apple.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%204
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-007.fastervpn.world:443?insecure=1&sni=vpn-jp-007.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5%20Japan%205
-hysteria2://GEbo3x7TXbmNkdmABqS4mZP7Ax5fjFBPbheKauGJJ9Sw@dbp.qzz.io:8443?insecure=1&sni=dbp.qzz.io#%F0%9F%87%AF%F0%9F%87%B5%20Japan%206
 hysteria2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%204
-hysteria2://7151e6b8-0d8e-4548-a9f2-af52ccc2cdfe@89.23.107.251:4433/?insecure=1&sni=nl1.xiaoliyu.cyou#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%205
-hysteria2://hysteria2_fastlane_qszb6rkh0%3A6Yk5GwoZmszsRaxmLJGqJGo2SIuXeNr5@144.31.134.98:1935/?insecure=1&sni=nl1.h.smartaisupport.ru#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%206
-hysteria2://hysteria2_fastlane_le2w1mqx9%3ApoJIreS1Mlgxha6eDdkPrpT7dfh0tkZ2@2.27.28.105:1935?security=tls&sni=de7.h.fastlanehosting.ru#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%201
-hysteria2://hysteria2_fastlane_ecivyd6kj%3AvSeiMjvxbeLFHTlp0J817t9XL6MlzQGt@91.132.160.243:1935/?sni=de6.h.fastlanehosting.ru#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%201
-hysteria2://38428a74-c651-47a5-b2c9-4bec5a1809cf@134.195.101.199:443?insecure=1&sni=www.apple.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20116
 trojan://R8kaB0JYLv@happynewyear.sahanwickramasinghevip.shop:443?security=tls&alpn=h2,http/1.1&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=webex.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%204
-trojan://hmR46dYjqH@154.3.37.35:41916/?type=grpc&serviceName=&authority=&security=reality&pbk=NkBoOON_wUnunfFPyxfUj9Fy-4ytuGn82d6Kp-1LNk0&fp=chrome&sni=www.icloud.com&sid=5db27b&spx=/#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%205
+trojan://hmR46dYjqH@154.3.37.35:41916/?type=grpc&serviceName=&authority=&security=reality&pbk=NkBoOON_wUnunfFPyxfUj9Fy-4ytuGn82d6Kp-1LNk0&fp=chrome&sni=www.icloud.com&sid=5db27b&spx=/#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%203
 trojan://trojan@114.207.99.233:11434?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%201
-trojan://trojan@152.53.200.167:8444?security=tls&sni=jflsjlaf.pages.dev&fp=chrome&type=ws&host=jflsjlaf.pages.dev&path=/#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%207
-trojan://trojan@152.53.200.98:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=//#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%208
+trojan://trojan@152.53.200.167:8444?security=tls&sni=jflsjlaf.pages.dev&fp=chrome&type=ws&host=jflsjlaf.pages.dev&path=/#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%205
+trojan://trojan@152.53.200.98:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=//#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%206
