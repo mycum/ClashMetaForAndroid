@@ -1,6 +1,16 @@
 # profile-title: 🏴 ЧЕРНЫЕ СПИСКИ 🏴 BLACK LISTS | Mobile-150
 # profile-update-interval: 5
-# Date/Time: 2026-04-13 / 00:27 (Moscow)
+# Date/Time: 2026-04-13 / 05:06 (Moscow)
 # Количество: 150
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
+vless://42be7c39-60b4-4c0d-94b5-f108348b3abe@72.56.243.126:4357?encryption=none&flow=xtls-rprx-vision&security=reality&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%201
+vless://32f9c4c8-de92-4cfc-818b-5329ae2b7a81@193.233.230.196:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=telegavpn.com&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%202
+vless://f8c5b018-f51a-4137-be8a-50a451630589@ru150.tcpnet.fun:5432?mode=gun&security=reality&encryption=none&authority=&pbk=WNsIqrfrK3gEmFFkeP2Ja8lvt9vGpFyxV612QdqYPC8&fp=firefox&allowinsecure=0&type=grpc&serviceName=grpc&sni=www.samsung.com&sid=489da765#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%203
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@ru70.mechvpn.online:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&alpn=h3%2Ch2%2Chttp/1.1#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%204
+vless://8ae7b082-8ada-4352-a66e-c0ab7e48d3ed@45.132.50.33:443?security=reality&encryption=none&pbk=LVLC9gVIWMnhY40dxLLvBnxMxPsX4tgSkaEGjWbfERM&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rockcult.ru&sid=52356565757846#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%205
+vless://8ae7b082-8ada-4352-a66e-c0ab7e48d3ed@83.147.247.226:443?security=reality&encryption=none&pbk=LVLC9gVIWMnhY40dxLLvBnxMxPsX4tgSkaEGjWbfERM&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rockcult.ru&sid=52356565757846#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%206
+vless://42be7c39-60b4-4c0d-94b5-f108348b3abe@5.129.223.80:4414?encryption=none&flow=xtls-rprx-vision&security=reality&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%207
+vless://fe86f436-4cfb-4afd-b0bb-2f643d66931f@small-rain.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=CIPQjzJnvMnFd-W9rgF0yKp3thVD6B9OyVG3NFZUEA8&sid=039f9f519dc23e98&sni=cold-field.small-rain.ru&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%208
+hysteria2://hysteria2_fastlane_bxxd5epp2%3AR4UP7slGDg2b8A5c5qkSYInbeTJw677J@2.27.28.106:1935?security=tls&sni=de8.h.fastlanehosting.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%209
+hysteria2://hysteria2_fastlane_bxxd5epp2%3AR4UP7slGDg2b8A5c5qkSYInbeTJw677J@2.27.28.106:1935?sni=de8.h.fastlanehosting.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20Quarantine%2010
