@@ -19,7 +19,6 @@ jobs:
         run: |
           mkdir -p proxy_lists
           
-          # Скачиваем оба списка
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt > proxy_lists/fixed_proxies.txt
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt >> proxy_lists/fixed_proxies.txt
           
@@ -32,8 +31,33 @@ jobs:
           with open('proxy_lists/fixed_proxies.txt', 'r') as f:
               lines = f.readlines()
 
-          hosts = []
+          # --- УМНАЯ ДЕДУПЛИКАЦИЯ ---
+          unique_lines = []
+          seen_nodes = set()
+          
           for line in lines:
+              line = line.strip()
+              if not line or line.startswith('#'):
+                  if "profile-" not in line.lower() and "количество" not in line.lower() and "date/time" not in line.lower():
+                      unique_lines.append(line + '\n')
+                  continue
+
+              base_url = line.split('#')[0]
+              
+              # Вытаскиваем Узел и Порт (например, 8.35.211.108:2096)
+              match = re.search(r'@([^/?#]+)', base_url)
+              if match:
+                  node_key = match.group(1)
+                  # Если мы уже видели этот IP:Port - пропускаем
+                  if node_key in seen_nodes:
+                      continue
+                  seen_nodes.add(node_key)
+                  
+              unique_lines.append(line)
+          # --------------------------
+
+          hosts = []
+          for line in unique_lines:
               match = re.search(r'@([^:/?#]+)', line)
               hosts.append(match.group(1) if match else "")
 
@@ -65,11 +89,9 @@ jobs:
           clean_lines = []
           country_counts = {}
 
-          for line, ip in zip(lines, ips):
-              line = line.strip()
-              if not line or line.startswith('#'):
-                  if "profile-" not in line.lower() and "количество" not in line.lower() and "date/time" not in line.lower():
-                      clean_lines.append(line + '\n')
+          for line, ip in zip(unique_lines, ips):
+              if line.startswith('#'):
+                  clean_lines.append(line)
                   continue
 
               parts = line.split('#')
@@ -103,7 +125,7 @@ jobs:
                   except Exception as e:
                       pass 
 
-              # 1. Синтаксический фильтр
+              # Синтаксический фильтр
               if " " in base_url or "🇨🇳" in base_url:
                   continue
               if base_url.startswith('ss://') and "v2ray-plugin" in urllib.parse.unquote(base_url).lower():
@@ -113,8 +135,7 @@ jobs:
               geo_code = info.get('countryCode')
               geo_name = info.get('country')
 
-              # 2. ФИЛЬТР RU ТОЛЬКО ПО ФИЗИЧЕСКОМУ IP
-              # (Мы больше не удаляем по тексту .ru, спасая серверы с маскировкой)
+              # ФИЛЬТР RU ТОЛЬКО ПО ФИЗИЧЕСКОМУ IP
               if geo_code == 'RU':
                   continue
 
@@ -147,5 +168,5 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Auto-update: Removed strict RU text filter, preserved SNI spoofing"
+          commit_message: "Auto-update: Added smart deduplication by Node:Port"
           file_pattern: proxy_lists/fixed_proxies.txt
