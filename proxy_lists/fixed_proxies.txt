@@ -1,5 +1,5 @@
 # profile-title: Telegood VPN
-# 🛡️ Verified: 103
+# 🛡️ Verified: 99
 
 vless://75807638-6f19-2328-ae08-38492ee85c88@ing-13.anti-vpn.ru:52006?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=&fp=chrome&alpn=http%252525252525252F1.1&allowInsecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B1%5D
 vless://75807638-6f19-2328-ae08-38492ee85c88@ing-13.anti-vpn.ru:52006?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=&fp=chrome&alpn=http%2525252525252F1.1&allowInsecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B2%5D
@@ -68,8 +68,6 @@ vless://4b481152-ba7f-4445-8cc0-d33d58546e23@7qqrbome80g.country-26.de-nfast.com
 vless://4b481152-ba7f-4445-8cc0-d33d58546e23@7qqrbome80g.country-26.de-nfast.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&sni=tradingview.com&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B64%5D
 vless://337582a5-3705-11f1-953f-dc08fb041e0d@msk2.gosocial.today:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=A7rUZxACVEZDLxE5yl0bwplc6HMl2XBDasR9X8hy-CA&sid=ca6b5dd0&sni=msk2.gosocial.today#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B68%5D
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster11.anti-vpn.ru:52006?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=&fp=chrome&alpn=http%25252525252525252F1.1&allowInsecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B73%5D
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster11.anti-vpn.ru:52006?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=&fp=chrome&alpn=http%252525252F1.1&allowInsecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B74%5D
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster11.anti-vpn.ru:52006?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=&fp=chrome&alpn=http%25252F1.1&allowInsecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B75%5D
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster11.anti-vpn.ru:52006?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=&fp=chrome&alpn=http%252F1.1&allowInsecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B76%5D
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster11.anti-vpn.ru:52006?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=&fp=chrome&alpn=http%252525252525252F1.1&allowInsecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B77%5D
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster11.anti-vpn.ru:52006?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=&fp=chrome&alpn=http%252525252525252525252F1.1&allowInsecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B1%5D
@@ -99,8 +97,6 @@ vless://75807638-6f19-07d0-ae08-38492ee85c88@cmm-13.anti-vpn.ru:52006?security=t
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cmm-13.anti-vpn.ru:52006?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=&fp=chrome&alpn=http%252F1.1&allowInsecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B105%5D
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@89.213.230.170:443?encryption=none&security=tls&insecure=0&allowInsecure=0&type=ws&host=2026.hhhhh.eu.org&path=%2F89.213.230.170%3A443#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B11%5D
 vless://0599bdbc-b131-42cc-9b5c-03857e111eb9@213.171.31.55:9881?encryption=none&flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4&security=reality&sid=&sni=io.ozone.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20%5B1%5D
-vless://0599bdbc-b131-42cc-9b5c-03857e111eb9@213.171.31.55:9882?encryption=none&flow=xtls-rprx-vision&fp=random&packetEncoding=xudp&pbk=srYLsJ-AMYXRUMvzxveyGG2HNUiclZp7rV5Jkbhfuk8&security=reality&sid=&sni=www.amd.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D%20%5B1%5D
 vless://fe48a53f-472b-4179-bf4a-7cdebf5d7844@84.201.154.239:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B141%5D
-hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B34%5D
 hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&allowInsecure=true#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B35%5D
 hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&sni=www.cloudflare.com&allowInsecure=true#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B36%5D
