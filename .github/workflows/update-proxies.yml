@@ -31,18 +31,26 @@ jobs:
           import urllib.request, json, re, socket, urllib.parse, base64, html, os
           from concurrent.futures import ThreadPoolExecutor
 
-          print("📂 Загрузка баз...")
+          print("📂 Загрузка новых баз от Игарька...")
           lines = []
           
           # 1. Читаем свежие базы
           with open('proxy_lists/raw_temp.txt', 'r', encoding='utf-8') as f:
-              lines.extend(f.readlines())
+              new_lines = f.readlines()
+              lines.extend(new_lines)
+          print(f"   📥 Получено свежих ссылок: {len(new_lines)}")
 
           # 2. ПОДМЕШИВАЕМ ТЕКУЩИЙ ЗОЛОТОЙ ЗАПАС
+          old_count = 0
           if os.path.exists('proxy_lists/fixed_proxies.txt'):
-              print("💾 Добавляем старые серверы для речека (накопительная система)...")
+              print("💾 Поднятие старого золотого запаса...")
               with open('proxy_lists/fixed_proxies.txt', 'r', encoding='utf-8') as f:
-                  lines.extend(f.readlines())
+                  old_lines = f.readlines()
+                  old_count = len([l for l in old_lines if not l.startswith('#') and l.strip()])
+                  lines.extend(old_lines)
+              print(f"   🛡️ Из текущего файла добавлено: {old_count} ссылок")
+          
+          print(f"📊 Всего ссылок в котле до фильтрации дубликатов: {len(new_lines) + old_count}")
 
           node_groups = {}
           url_to_name = {}
