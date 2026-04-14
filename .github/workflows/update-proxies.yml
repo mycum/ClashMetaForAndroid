@@ -21,19 +21,28 @@ jobs:
         run: |
           mkdir -p proxy_lists
           
-          # Скачиваем базы Игарька
+          # Скачиваем новые базы Игарька
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt > proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt >> proxy_lists/raw_temp.txt
           
           cat << 'EOF' > filter.py
-          import urllib.request, json, re, socket, urllib.parse, base64, html
+          import urllib.request, json, re, socket, urllib.parse, base64, html, os
           from concurrent.futures import ThreadPoolExecutor
 
-          print("📂 Загрузка и подготовка...")
+          print("📂 Загрузка баз...")
+          lines = []
+          
+          # 1. Читаем свежие базы
           with open('proxy_lists/raw_temp.txt', 'r', encoding='utf-8') as f:
-              lines = f.readlines()
+              lines.extend(f.readlines())
+
+          # 2. ПОДМЕШИВАЕМ ТЕКУЩИЙ ЗОЛОТОЙ ЗАПАС
+          if os.path.exists('proxy_lists/fixed_proxies.txt'):
+              print("💾 Добавляем старые серверы для речека (накопительная система)...")
+              with open('proxy_lists/fixed_proxies.txt', 'r', encoding='utf-8') as f:
+                  lines.extend(f.readlines())
 
           node_groups = {}
           url_to_name = {}
@@ -47,68 +56,97 @@ jobs:
 
               parts = line.split('#')
               base_url = parts[0]
-              name = urllib.parse.unquote(parts[1]) if len(parts) > 1 else ""
+              
+              raw_name = urllib.parse.unquote(parts[1]) if len(parts) > 1 else ""
+              # Очищаем старые номера от предыдущих запусков
+              raw_name = re.sub(r'\s*\[\d+\]$', '', raw_name)
+              
+              target = None
 
-              # Лечим Shadowsocks и фейковые VLESS
-              if base_url.startswith('ss://'):
-                  # 1. Конвертер фейковых VLESS
+              # --- РАСПАКОВКА VMESS ---
+              if base_url.startswith('vmess://'):
                   try:
-                      match = re.search(r'ss://([^@]+)@([^/?#]+)/?\?([^#]+)', base_url)
-                      if match:
-                          b64, hp, q = match.groups()
-                          b64 += "=" * ((4 - len(b64) % 4) % 4)
-                          userinfo = base64.b64decode(b64).decode('utf-8')
-                          
-                          if userinfo.startswith('none:'):
-                              uuid = userinfo.split(':', 1)[1]
-                              q = urllib.parse.unquote(q)
-                              opts = q.split(';') if ';' in q else urllib.parse.parse_qs(q).get('plugin', [''])[0].split(';')
-                              ws_host, ws_path, tls = "", "/", "none"
-                              for opt in opts:
-                                  if opt.startswith('host='): ws_host = opt[5:]
-                                  elif opt.startswith('path='): ws_path = opt[5:]
-                                  elif opt == 'tls': tls = "tls"
-                              base_url = f"vless://{uuid}@{hp}?type=ws&security={tls}&host={ws_host}&path={urllib.parse.quote(ws_path)}"
-                  except: pass
-                  
-                  # 2. Фикс "cipher: auto" для настоящих SS
-                  try:
-                      match = re.search(r'ss://([^@]+)@', base_url)
-                      if match:
-                          b64 = match.group(1)
-                          b64 += "=" * ((4 - len(b64) % 4) % 4)
-                          userinfo = base64.b64decode(b64).decode('utf-8')
-                          if ':' in userinfo:
-                              method, password = userinfo.split(':', 1)
-                              if method.lower() == 'auto':
-                                  new_b64 = base64.b64encode(f"chacha20-ietf-poly1305:{password}".encode('utf-8')).decode('utf-8')
-                                  base_url = base_url.replace(match.group(1), new_b64)
+                      b64_str = base_url[8:]
+                      b64_str += "=" * ((4 - len(b64_str) % 4) % 4)
+                      v_json = json.loads(base64.b64decode(b64_str).decode('utf-8'))
+                      host = str(v_json.get('add', ''))
+                      port = int(v_json.get('port', 0))
+                      if host and port:
+                          target = (host, port)
                   except: pass
 
-              # Определяем host:port
-              match = re.search(r'@([^/?#]+)', base_url)
-              if match:
-                  hp = match.group(1)
-                  hp_parts = hp.split(':')
-                  if len(hp_parts) == 2:
-                      target = (hp_parts[0], int(hp_parts[1]))
-                      if target not in node_groups: node_groups[target] = []
-                      if base_url not in node_groups[target]:
-                          node_groups[target].append(base_url)
-                          url_to_name[base_url] = name
+              # --- ОБРАБОТКА SS, VLESS, TROJAN, HYSTERIA ---
+              else:
+                  # Лечим Shadowsocks и фейковые VLESS
+                  if base_url.startswith('ss://'):
+                      try:
+                          match = re.search(r'ss://([^@]+)@([^/?#]+)/?\?([^#]+)', base_url)
+                          if match:
+                              b64, hp, q = match.groups()
+                              b64 += "=" * ((4 - len(b64) % 4) % 4)
+                              userinfo = base64.b64decode(b64).decode('utf-8')
+                              
+                              if userinfo.startswith('none:'):
+                                  uuid = userinfo.split(':', 1)[1]
+                                  q = urllib.parse.unquote(q)
+                                  opts = q.split(';') if ';' in q else urllib.parse.parse_qs(q).get('plugin', [''])[0].split(';')
+                                  ws_host, ws_path, tls = "", "/", "none"
+                                  for opt in opts:
+                                      if opt.startswith('host='): ws_host = opt[5:]
+                                      elif opt.startswith('path='): ws_path = opt[5:]
+                                      elif opt == 'tls': tls = "tls"
+                                  base_url = f"vless://{uuid}@{hp}?type=ws&security={tls}&host={ws_host}&path={urllib.parse.quote(ws_path)}"
+                      except: pass
+                      
+                      try:
+                          match = re.search(r'ss://([^@]+)@', base_url)
+                          if match:
+                              b64 = match.group(1)
+                              b64 += "=" * ((4 - len(b64) % 4) % 4)
+                              userinfo = base64.b64decode(b64).decode('utf-8')
+                              if ':' in userinfo:
+                                  method, password = userinfo.split(':', 1)
+                                  if method.lower() == 'auto':
+                                      new_b64 = base64.b64encode(f"chacha20-ietf-poly1305:{password}".encode('utf-8')).decode('utf-8')
+                                      base_url = base_url.replace(match.group(1), new_b64)
+                      except: pass
 
-          print(f"🔍 Найдено {len(node_groups)} уникальных IP:Port")
+                  # Определяем host:port для стандартных ссылок
+                  match = re.search(r'@([^/?#]+)', base_url)
+                  if match:
+                      hp = match.group(1)
+                      hp_parts = hp.split(':')
+                      if len(hp_parts) == 2:
+                          target = (hp_parts[0], int(hp_parts[1]))
+
+              # Добавляем в группы
+              if target:
+                  if target not in node_groups: node_groups[target] = []
+                  if base_url not in node_groups[target]:
+                      node_groups[target].append(base_url)
+                      url_to_name[base_url] = raw_name
+
+          print(f"🔍 Найдено {len(node_groups)} уникальных IP:Port (после слияния баз)")
 
           def check_node(hp):
               host, port = hp
+              # Проверка на UDP-протоколы (Hysteria)
+              is_udp_only = any(url.startswith('hysteria') or url.startswith('hy2') for url in node_groups[hp])
               try:
+                  # Проверяем резолв домена (жив ли он вообще)
                   ip = socket.gethostbyname(host)
+                  
+                  # Если это Hysteria, пропускаем TCP-пинг, так как он всё равно провалится
+                  if is_udp_only:
+                      return hp, ip
+                      
+                  # Для остальных делаем TCP-пинг
                   s = socket.create_connection((ip, port), timeout=3)
                   s.close()
                   return hp, ip
               except: return hp, None
 
-          print("⚡ TCP пинг серверов...")
+          print("⚡ Умный пинг серверов (TCP + UDP Bypass)...")
           alive_ips = {}
           with ThreadPoolExecutor(max_workers=40) as executor:
               results = executor.map(check_node, node_groups.keys())
@@ -131,13 +169,14 @@ jobs:
           def get_flag(c): return chr(ord(c[0]) + 127397) + chr(ord(c[1]) + 127397) if (c and len(c)==2) else "🌍"
 
           def score_link(url):
-              # Выставляем баллы качества формату (чем выше, тем лучше)
               score = 0
               if 'flow=xtls-rprx-vision' in url: score += 10
               if 'type=grpc' in url: score += 8
               if 'hysteria2://' in url or 'hy2://' in url: score += 7
               if 'trojan://' in url: score += 6
               if 'type=ws' in url: score += 5
+              if 'vmess://' in url: score += 4
+              if 'ss://' in url: score += 3
               return score
 
           final_links = []
@@ -146,11 +185,10 @@ jobs:
           for (host, port), ip in alive_ips.items():
               geo = ip_info.get(ip, {})
               
-              # Берем все ссылки узла и сортируем их от лучших к худшим
               links = node_groups[(host, port)]
               links.sort(key=score_link, reverse=True)
               
-              # ОСТАВЛЯЕМ ТОЛЬКО 2 ЛУЧШИХ ВАРИАНТА
+              # Оставляем только 2 лучших варианта для каждого узла
               best_links = links[:2]
               
               for url in best_links:
@@ -182,5 +220,5 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-sync: Top 2 best formats preserved per node"
+          commit_message: "Auto-sync: Cumulative update (Top 2 + Hy2/VMess support)"
           file_pattern: proxy_lists/fixed_proxies.txt
