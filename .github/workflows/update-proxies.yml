@@ -197,7 +197,7 @@ jobs:
               links.sort(key=score_link, reverse=True)
               
               # Оставляем только 2 лучших варианта для каждого узла
-              best_links = links
+              best_links = links[:2]
               
               for url in best_links:
                   raw_name = url_to_name.get(url, "")
