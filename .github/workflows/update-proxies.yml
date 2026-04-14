@@ -130,12 +130,30 @@ jobs:
 
           def get_flag(c): return chr(ord(c[0]) + 127397) + chr(ord(c[1]) + 127397) if (c and len(c)==2) else "🌍"
 
+          def score_link(url):
+              # Выставляем баллы качества формату (чем выше, тем лучше)
+              score = 0
+              if 'flow=xtls-rprx-vision' in url: score += 10
+              if 'type=grpc' in url: score += 8
+              if 'hysteria2://' in url or 'hy2://' in url: score += 7
+              if 'trojan://' in url: score += 6
+              if 'type=ws' in url: score += 5
+              return score
+
           final_links = []
           name_counts = {}
 
           for (host, port), ip in alive_ips.items():
               geo = ip_info.get(ip, {})
-              for url in node_groups[(host, port)]:
+              
+              # Берем все ссылки узла и сортируем их от лучших к худшим
+              links = node_groups[(host, port)]
+              links.sort(key=score_link, reverse=True)
+              
+              # ОСТАВЛЯЕМ ТОЛЬКО 2 ЛУЧШИХ ВАРИАНТА
+              best_links = links[:2]
+              
+              for url in best_links:
                   raw_name = url_to_name.get(url, "")
                   
                   if not raw_name or "Anycast" in raw_name or "🌐" in raw_name:
@@ -164,5 +182,5 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-sync: All variants for live nodes preserved"
+          commit_message: "Auto-sync: Top 2 best formats preserved per node"
           file_pattern: proxy_lists/fixed_proxies.txt
