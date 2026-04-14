@@ -210,7 +210,22 @@ jobs:
 
                   name_counts[base_name] = name_counts.get(base_name, 0) + 1
                   final_name = f"{base_name} [{name_counts[base_name]}]"
-                  final_links.append(f"{url}#{urllib.parse.quote(final_name)}\n")
+                  
+                  # --- ИСПРАВЛЕНИЕ ДЛЯ VMESS (Прячем имя внутрь Base64) ---
+                  if url.startswith('vmess://'):
+                      try:
+                          b64_str = url[8:]
+                          b64_str += "=" * ((4 - len(b64_str) % 4) % 4)
+                          v_json = json.loads(base64.b64decode(b64_str).decode('utf-8'))
+                          # Инжектируем правильное имя внутрь
+                          v_json['ps'] = final_name
+                          # Собираем чистый Base64 без решеток
+                          new_b64 = base64.b64encode(json.dumps(v_json, separators=(',', ':')).encode('utf-8')).decode('utf-8')
+                          final_links.append(f"vmess://{new_b64}\n")
+                      except: pass
+                  else:
+                      # Для остальных форматов всё по стандарту
+                      final_links.append(f"{url}#{urllib.parse.quote(final_name)}\n")
 
           header = [
               "# profile-title: 🚀 Telegood VPN\n",
