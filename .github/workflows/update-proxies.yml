@@ -24,7 +24,7 @@ jobs:
           # Скачиваем новые базы Игарька
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt > proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt >> proxy_lists/raw_temp.txt
+          # curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt >> proxy_lists/raw_temp.txt
           
           cat << 'EOF' > filter.py
