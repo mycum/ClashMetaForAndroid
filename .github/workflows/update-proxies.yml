@@ -245,3 +245,6 @@ jobs:
         with:
           commit_message: "Auto-sync: Cumulative update (Top 2 + Hy2/VMess support)"
           file_pattern: proxy_lists/fixed_proxies.txt
+
+      - name: Ping Phone to start RKN Check
+        run: curl -d "START_TEST" ntfy.sh/${{ secrets.NTFY_TOPIC }}
