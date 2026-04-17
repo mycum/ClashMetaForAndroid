@@ -1,19 +1,14 @@
-# profile-title: Telegood VPN (FAST)
-# 🛡️ Verified: 33
-# 📊 Stats: Вход: 150 | Пинг: 33 (-117)
+# profile-title: Telegood VPN (DEEP)
+# 🛡️ Verified: 26
+# 📊 Stats: Вход: 33 | Пинг: 29 (-4) | Скорость >= 100KB/s: 26 (-3)
 
-vless://19ef3d02-1c55-4fec-9794-6def8cbac396@bl3-mwscloud.onnstreaming.ru:443?flow=xtls-rprx-vision&fp=chrome&pbk=5yAKDAAQ6mDjzplTCDL0D7xBiAmgRxWBOcTQuy5XAB8&security=reality&sid=353df31b921e9884&sni=bl3-mwscloud.onnstreaming.ru&type=tcp#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%5B1%5D
 vless://19ef3d02-1c55-4fec-9794-6def8cbac396@usace-cdncloud.onnstreaming.ru:443?flow=xtls-rprx-vision&fp=chrome&pbk=a2tG4WygpOMmfHadIp6t4xKTvNESG1_-T12wyUb0fXw&security=reality&sid=cb80795fada6a060&sni=usace-cdncloud.onnstreaming.ru&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1%5D
-vless://c5bbdac7-6ff5-4762-87bf-870f55a03581@ge.pink-world.ru:443?security=reality&sni=ge.pink-world.ru&fp=chrome&pbk=_wJJxZfV51dD72qGexYZIyqeKDFXWDGClp5D-gF1lVk&sid=5bb4c3a77963e3fa&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B3%5D
 vless://2fdd6b51-4fe2-4e2f-803a-3eb284bf038e@dex1.braidx.tech:443?flow=xtls-rprx-vision&fp=chrome&pbk=2s97j3ehJylQb7OJnl-5aESG5L50_5RzDTRlBzFtwkE&security=reality&sid=02b5e6bf16f08d2c&sni=dex1.braidx.tech&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B5%5D
 vless://75807638-6f19-01f4-ae08-38492ee85c88@cluster-de-1.firstvideocdn.ru:52006?flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B1%5D
 vless://75807638-6f19-2710-ae08-38492ee85c88@cluster-de-1.firstvideocdn.ru:52006?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B2%5D
 vless://19ef3d02-1c55-4fec-9794-6def8cbac396@st-2.globalcache.onnstreaming.ru:443?flow=xtls-rprx-vision&fp=chrome&pbk=NOhuaiHfc8Tv7VrFKnNgr-VN594kxtUCslNEBhySvXQ&security=reality&sid=aa69f619e4414362&sni=st-2.globalcache.onnstreaming.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B1%5D
-vless://75807638-6f19-2710-ae08-38492ee85c88@cluster-de-2.firstvideocdn.ru:52006?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B5%5D
 vless://19ef3d02-1c55-4fec-9794-6def8cbac396@nlcdn.onnstreaming.ru:443?flow=xtls-rprx-vision&fp=random&pbk=5Ue5-VJna6z6YkILSBr-0bNJRvgYWiogE6CpcVT-HlU&security=reality&sid=cb19fee3b9333636&sni=nlcdn.onnstreaming.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B2%5D
 vless://322ffd77-9adc-4e10-8302-a8bcc14555a0@rc11.alexanderoff.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gateway.icloud.com&fp=chrome&pbk=-ZIDWF9CykNoZYNpO6Vi7BdDyZl_hJUYxuIRmPnuxBk&sid=c6118398#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B3%5D
-vless://2fdd6b51-4fe2-4e2f-803a-3eb284bf038e@72.56.249.114:443?flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&type=tcp&path=%2f#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B7%5D
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B10%5D
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-2.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B12%5D
 vless://26524cce-d514-4014-a426-365fb266a14d@47.82.155.79:443?&security=tls&fp=chrome&sni=snippet.danfeng.rr.kg&type=ws&headerType=none&host=snippet.danfeng.rr.kg&path=%2Fdanfeng#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B5%5D
 vless://26524cce-d514-4014-a426-365fb266a14d@47.82.155.79:443?encryption=none&security=tls&sni=snippet.danfeng.rr.kg&insecure=0&allowInsecure=0&type=ws&host=snippet.danfeng.rr.kg&path=%2Fdanfeng#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B6%5D
@@ -24,11 +19,9 @@ hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056?encryption=no
 hysteria2://3286b74d-a633-401f-8e22-6e8e61c5f1d9@45.192.195.52:5555?alpn=h3&insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B10%5D
 hysteria2://3286b74d-a633-401f-8e22-6e8e61c5f1d9@45.192.195.52:5555?insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B11%5D
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-016.fastervpn.world:443?insecure=1&sni=vpn-jp-016.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B8%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEhvbmcgS29uZyBbMTJdIiwiYWRkIjoiYS5jZG4tYmlsaWJpbGkuY24iLCJwb3J0IjoiNTg3MTIiLCJpZCI6IjQ5NTFjZDViLTZjZjktNDA5Yi1hMzNmLTk0ZTkzMDlhODUwYSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJob3N0IjoiIiwicGF0aCI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
 hysteria2://372f3c21-ca44-4982-a830-d0b81e08a7c8@sg1.shiyuandian.shop:2056?sni=sg1.shiyuandian.shop&insecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B10%5D
 hysteria2://372f3c21-ca44-4982-a830-d0b81e08a7c8@sg1.shiyuandian.shop:2056?insecure=1&sni=sg1.shiyuandian.shop#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B11%5D
 vless://c5bbdac7-6ff5-4762-87bf-870f55a03581@nld.pink-world.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=tB6tQr-pmLTdMM8DVOb9KsS27lDkAjjelbdu_Gp1SR0&security=reality&sid=f27d8b541b5f48bf&sni=nld.pink-world.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B10%5D
-vless://75807638-6f19-0fa0-ae08-38492ee85c88@cluster-europe-2.firstvideocdn.ru:52006?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B17%5D
 vless://651a858c-2975-4b96-96b7-82745b38714c@85.17.244.68:443?type=ws&encryption=none&path=%2FWITH_CHACHA20_POLY1305_SHA256&host=api.frest.ir&security=tls&fp=chrome&alpn=http%2F1.1&sni=api.frest.ir#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B6%5D
 vmess://eyJhZGQiOiI5NC4xMzEuMTA4LjM2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijk4NTVmMWYwLWE4MDAtNDBkNC04YjM4LWM3ZDNlYjc5MzAyZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZjcgVHVya2V5IFsxXSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiI5NC4xMzEuMTA4LjM2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijk4NTVmMWYwLWE4MDAtNDBkNC04YjM4LWM3ZDNlYjc5MzAyZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZjcgVHVya2V5IFsyXSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
