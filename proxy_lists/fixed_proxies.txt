@@ -1,33 +1,17 @@
-# profile-title: Telegood VPN (FAST)
-# 🛡️ Verified: 29
-# 📊 Stats: Вход: 275 | Пинг: 29 (-246)
+# profile-title: Telegood VPN (DEEP)
+# 🛡️ Verified: 13
+# 📊 Stats: Вход: 29 | Пинг: 19 (-10) | Скорость >= 200KB/s: 13 (-6)
 
-vless://c5bbdac7-6ff5-4762-87bf-870f55a03581@nld.pink-world.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=tB6tQr-pmLTdMM8DVOb9KsS27lDkAjjelbdu_Gp1SR0&security=reality&sid=f27d8b541b5f48bf&sni=nld.pink-world.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B16%5D
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@143.14.189.132:443?encryption=none&security=tls&sni=sn1.skylee5.cloudns.ch&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sn1.skylee5.cloudns.ch&path=%2F#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B5%5D
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@143.14.189.132:443?type=ws&security=tls&encryption=none&sni=sn1.skylee5.cloudns.ch&host=sn1.skylee5.cloudns.ch#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B6%5D
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@219.76.13.177:443?type=ws&security=tls&encryption=none&sni=sn1.skylee5.cloudns.ch&host=sn1.skylee5.cloudns.ch#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B11%5D
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@219.76.13.183:443?type=ws&security=tls&encryption=none&fp=chrome&sni=sn1.skylee5.cloudns.ch&host=sn1.skylee5.cloudns.ch#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B14%5D
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@69.63.210.157:443?type=ws&security=tls&encryption=none&sni=sn1.skylee5.cloudns.ch&host=sn1.skylee5.cloudns.ch#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B26%5D
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@8.218.118.182:443?encryption=none&security=tls&sni=sn1.skylee5.cloudns.ch&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sn1.skylee5.cloudns.ch&path=%2F#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B15%5D
-vless://26524cce-d514-4014-a426-365fb266a14d@20.184.128.93:80?fp=chrome&host=s3vz.user-service.chinav.indevs.in&path=%2Fdanfeng&security=tls&sni=s3vz.user-service.chinav.indevs.in&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B27%5D
-hysteria2://fb211338854624f161f1Ea3D9584E2DEFE7c10A3@sde.dbp.qzz.io:8443?insecure=1&sni=dbp.qzz.io#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B15%5D
 hysteria2://6b7c1278-ff9d-11ee-84ca-f23c913c8d2b@12f7c432-t6t0g0-t87m8y-1pr35.hk1.hyhuawei.com:443?security=tls&insecure=1&sni=12f7c432-t6t0g0-t87m8y-1pr35.hk1.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B20%5D
 hysteria2://6b7c1278-ff9d-11ee-84ca-f23c913c8d2b@12f7c432-t6t0g0-t87m8y-1pr35.hk1.hyhuawei.com:443/?insecure=1&sni=12f7c432-t6t0g0-t87m8y-1pr35.hk1.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B21%5D
 hysteria2://3286b74d-a633-401f-8e22-6e8e61c5f1d9@45.192.195.52:5555?alpn=h3&insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B22%5D
 hysteria2://3286b74d-a633-401f-8e22-6e8e61c5f1d9@45.192.195.52:5555?encryption=none&sni=45.192.195.52&alpn=h3&insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B23%5D
-hysteria2://b2325ebb-21a3-46db-ae98-44884ef6dc44@fre.guren1.me:8443?sni=python.org&insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B24%5D
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-016.fastervpn.world:443/?insecure=1&sni=vpn-jp-016.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B6%5D
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-016.fastervpn.world:443?encryption=none&sni=vpn-jp-016.fastervpn.world&insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B7%5D
-hysteria2://ca6a629c-7c7e-4ee4-84b5-ab8984fd9579@46.38.157.183:10001?insecure=1&sni=46.38.157.183#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B46%5D
-hysteria2://f8815861-9fa8-48a9-83b1-086823aff16e@46.38.157.183:10002?insecure=1&sni=46.38.157.183#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B47%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIE1hbGF5c2lhIFsxXSIsImFkZCI6InYzMC5oZGFjZC5jb20iLCJwb3J0IjoiMzA4MzAiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiMjAwMTpiYzg6MzJkNzozMDI6OjEwIiwicGF0aCI6ImVkPTIwNDgiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIE1hbGF5c2lhIFsyXSIsImFkZCI6InYzMC5oZGFjZC5jb20iLCJwb3J0IjoiMzA4MzAiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoid3d3My5nYWl1b2hyLmNsb3VkLWlwLmNjIiwicGF0aCI6Ii9yaW91dGdoZXdpdW9ycmg5ODIzciIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
 hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056/?insecure=1&sni=flkf.mangshe.xyz#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B19%5D
 hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056?encryption=none&sni=37.114.49.38&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B20%5D
-hysteria2://123456789StrongPass@144.31.224.14:443/?insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B22%5D
-hysteria2://123456789StrongPass@144.31.224.14:443?encryption=none&sni=www.cloudflare.com&insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B23%5D
-hysteria2://a722e51b-325e-4238-a480-02fe7d0dab28@46.38.157.183:10003?insecure=1&sni=46.38.157.183#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B48%5D
-hysteria2://ab077d22-f952-45dd-843d-46ce0c60de19@46.38.157.183:10005?insecure=1&sni=46.38.157.183#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B49%5D
-hysteria2://fc4dd6fd-4a35-42f5-8208-bbb089747292@46.38.157.183:10004?insecure=1&sni=46.38.157.183#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B50%5D
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.160.251.110:443?&security=tls&fp=chrome&sni=sn1.skylee5.cloudns.ch&type=ws&headerType=none&host=sn1.skylee5.cloudns.ch&path=%2F#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B10%5D
 vless://26524cce-d514-4014-a426-365fb266a14d@47.79.20.214:10393?fp=chrome&host=s3vz.user-service.chinav.indevs.in&path=%2Fdanfeng&security=tls&sni=s3vz.user-service.chinav.indevs.in&type=ws#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B27%5D
