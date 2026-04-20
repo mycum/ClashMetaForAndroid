@@ -40,7 +40,7 @@ jobs:
               lines.extend(new_lines)
           print(f"   📥 Получено свежих ссылок: {len(new_lines)}")
 
-          # 2. ПОДМЕШИВАЕМ ТЕКУЩИЙ ЗОЛОТОЙ ЗАПАС
+          # 2. ПОДМЕШИВАЕМ ТЕКУЩИЙ ЗОЛОТОЙ ЗАПАС (берем из чистовика!)
           old_count = 0
           if os.path.exists('proxy_lists/fixed_proxies.txt'):
               print("💾 Поднятие старого золотого запаса...")
@@ -138,17 +138,11 @@ jobs:
 
           def check_node(hp):
               host, port = hp
-              # Проверка на UDP-протоколы (Hysteria)
               is_udp_only = any(url.startswith('hysteria') or url.startswith('hy2') for url in node_groups[hp])
               try:
-                  # Проверяем резолв домена (жив ли он вообще)
                   ip = socket.gethostbyname(host)
-                  
-                  # Если это Hysteria, пропускаем TCP-пинг, так как он всё равно провалится
                   if is_udp_only:
                       return hp, ip
-                      
-                  # Для остальных делаем TCP-пинг
                   s = socket.create_connection((ip, port), timeout=3)
                   s.close()
                   return hp, ip
@@ -163,7 +157,6 @@ jobs:
 
           print(f"✅ Живых серверов: {len(alive_ips)}")
 
-          # GeoIP
           unique_resolved_ips = list(set(alive_ips.values()))
           ip_info = {}
           for i in range(0, len(unique_resolved_ips), 100):
@@ -196,7 +189,6 @@ jobs:
               links = node_groups[(host, port)]
               links.sort(key=score_link, reverse=True)
               
-              # Оставляем только 2 лучших варианта для каждого узла
               best_links = links[:2]
               
               for url in best_links:
@@ -211,20 +203,16 @@ jobs:
                   name_counts[base_name] = name_counts.get(base_name, 0) + 1
                   final_name = f"{base_name} [{name_counts[base_name]}]"
                   
-                  # --- ИСПРАВЛЕНИЕ ДЛЯ VMESS (Прячем имя внутрь Base64) ---
                   if url.startswith('vmess://'):
                       try:
                           b64_str = url[8:]
                           b64_str += "=" * ((4 - len(b64_str) % 4) % 4)
                           v_json = json.loads(base64.b64decode(b64_str).decode('utf-8'))
-                          # Инжектируем правильное имя внутрь
                           v_json['ps'] = final_name
-                          # Собираем чистый Base64 без решеток
                           new_b64 = base64.b64encode(json.dumps(v_json, separators=(',', ':')).encode('utf-8')).decode('utf-8')
                           final_links.append(f"vmess://{new_b64}\n")
                       except: pass
                   else:
-                      # Для остальных форматов всё по стандарту
                       final_links.append(f"{url}#{urllib.parse.quote(final_name)}\n")
 
           header = [
@@ -233,7 +221,8 @@ jobs:
               f"# 🟢 Total Variants: {len(final_links)}\n\n"
           ]
 
-          with open('proxy_lists/fixed_proxies.txt', 'w', encoding='utf-8') as f:
+          # ИЗМЕНЕНИЕ 1: Сохраняем черновик в raw_proxies.txt
+          with open('proxy_lists/raw_proxies.txt', 'w', encoding='utf-8') as f:
               f.writelines(header + final_links)
           EOF
           
@@ -243,8 +232,9 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-sync: Cumulative update (Top 2 + Hy2/VMess support)"
-          file_pattern: proxy_lists/fixed_proxies.txt
+          commit_message: "Auto-sync: New raw proxies ready for deep test"
+          # ИЗМЕНЕНИЕ 2: Пушим только raw_proxies.txt
+          file_pattern: proxy_lists/raw_proxies.txt
 
       - name: Ping Phone to start RKN Check
         run: curl -d "START_TEST" ntfy.sh/${{ secrets.NTFY_TOPIC }}
