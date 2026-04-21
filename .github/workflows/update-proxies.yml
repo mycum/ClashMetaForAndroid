@@ -2,7 +2,7 @@ name: Update, Clean and Ping Proxies
 
 on:
   schedule:
-    - cron: '17 */2 * * *'
+    - cron: '57 */2 * * *'
   workflow_dispatch:
 
 permissions:
