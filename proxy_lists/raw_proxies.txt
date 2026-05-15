@@ -1,19 +1,21 @@
 # profile-title: 🚀 Telegood VPN
 # profile-update-interval: 3
-# 🟢 Total Variants: 98
+# 🟢 Total Variants: 86
 
 vless://5234854d-106b-41ee-8fc7-4acc6a1158a2@fi1.persik.host:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=XfPQWevD1SzZqZFH9OwgpZMtn32lXcGtHBL8HpTeazI&security=reality&sid=895edc3d&sni=fi1.persik.host&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B1%5D
 vless://b9d56e59-02ee-4af0-9963-b3650f8a1387@pivo2.ikisky.com:443?flow=xtls-rprx-vision&fp=chrome&pbk=hOUwTtuq2-jG7uKSgnrKIWxj3HdPYvvL7Kj3nrFTKA4&security=reality&sid=49c667cd18477438&sni=pivo2.ikisky.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B1%5D
 vless://b9d56e59-02ee-4af0-9963-b3650f8a1387@pivo3.ikisky.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=pivo3.ikisky.com&fp=chrome&pbk=hOUwTtuq2-jG7uKSgnrKIWxj3HdPYvvL7Kj3nrFTKA4&sid=49c667cd18477438#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B2%5D
-vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@de.ko.prod.n7.homes:8444?type=xhttp&headerType=none&security=reality&encryption=none&sni=google.com&fp=firefox&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B3%5D
 vless://75807638-6f19-2710-ae08-38492ee85c88@de.active-engine.ru:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=de.active-engine.ru&type=tcp&id=a6a238ed#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B1%5D
 vless://75807638-6f19-2710-ae08-38492ee85c88@de.active-engine.ru:52006?type=tcp&headerType=none&security=tls&encryption=none&sni=de.active-engine.ru&flow=xtls-rprx-vision&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B2%5D
 vless://70b2ab78-b430-4455-a172-dd2ab0bee668@139.59.126.150:443?type=tcp&headerType=none&security=tls&encryption=none&sni=netflix.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B1%5D
 vless://70b2ab78-b430-4455-a172-dd2ab0bee668@shadownetxfree.zorox.store:443?allowInsecure=1&sni=netflix.com&alpn=h2%2Chttp%2F1.1&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B2%5D
+vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@162.248.162.34:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=maps.apple.com&fp=random&pbk=fS59W37_i8457GqkbB9_kdCfLCtWbl14qmVRnm2ty2I&sid=2da4299da566b7&path=%2Fapi%2Finternal%2Fd8f4e2a91c6b&host=maps.apple.com#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B1%5D
 vless://8a51e095-10ad-46c3-992e-724781323b75@nl-1.work.botov.space:443?type=ws&headerType=none&security=none&encryption=none&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B1%5D
 vless://3bd48b98-b398-448a-8a63-5771057e0135@147.45.111.65:443?fp=chrome&sid=ca5096&sni=apple.com&flow=xtls-rprx-vision&spx=/&type=tcp&security=reality&pbk=GsKY4XpP6sr905aHvCrj0JEHhgcAD5aEcmbjyLSNjAU#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B1%5D
 vless://3bd48b98-b398-448a-8a63-5771057e0135@194.135.38.120:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=GsKY4XpP6sr905aHvCrj0JEHhgcAD5aEcmbjyLSNjAU&sid=ca5096&sni=cdp.x5.ru&spx=/#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B2%5D
 vless://57e362cc-2c3f-43c9-84b7-e0680aecb2a4@srv35.datatowers.net:443?type=tcp&headerType=none&security=reality&encryption=none&sni=srv35.datatowers.net&fp=chrome&pbk=Ufkz__Q3m_d8NFR08OVtXx3hLaV4-x7UesrVKduEIn0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B3%5D
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@138.128.192.254:2053?fp=chrome&headertype=none&host=sni.skylee4.cloudns.ch&path=%2Fproxyip%3DProxyIP.CMLiussss.net&security=tls&sni=sni.skylee4.cloudns.ch&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B1%5D
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@138.128.192.254:2053?headertype=&host=sni.skylee4.cloudns.ch&path=%2Fproxyip%3DProxyIP.CMLiussss.net&security=tls&sni=sni.skylee4.cloudns.ch&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B2%5D
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@219.76.13.183:443?headertype=none&host=sn1.skylee5.cloudns.ch&path=%2Ffp%3Dchrome&security=tls&sni=sn1.skylee5.cloudns.ch&type=ws#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B1%5D
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@219.76.13.183:443?host=sn1.skylee5.cloudns.ch&path=%2Ffp%3Dchromefp%3Dchrome&security=tls&sni=sn1.skylee5.cloudns.ch&type=ws#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B2%5D
 vless://26524cce-d514-4014-a426-365fb266a14d@113.130.241.219:10911?&security=tls&fp=chrome&sni=wybfkrp6.gateway-edge.danfeng.cyou&type=ws&headerType=none&host=wybfkrp6.gateway-edge.danfeng.cyou&path=%2Fdanfeng%3Fed%3D2560fp%3Dchrome#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B1%5D
@@ -43,8 +45,8 @@ hysteria2://661ce23b-7fe9-4217-8abe-76c28b687691@finprem.nimarko.org:443?alpn=h3
 hysteria2://661ce23b-7fe9-4217-8abe-76c28b687691@finprem.nimarko.org:443?headerType=none&encryption=none&sni=finprem.nimarko.org&alpn=h3&insecure=0#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B3%5D
 hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B1%5D
 hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com&insecure=1&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B2%5D
-hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056/?insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B4%5D
-hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056?headerType=none&encryption=none&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B5%5D
+hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056/?insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B3%5D
+hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056?headerType=none&encryption=none&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B4%5D
 hysteria2://917bb394-8d91-4eee-956d-b81aba3aed70@hkmax01.376897.xyz:8080?sni=hkmax01.376897.xyz#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B4%5D
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@116.206.92.123:443?headerType=none&encryption=none&insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B1%5D
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@116.206.92.123:443?insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B2%5D
@@ -62,12 +64,11 @@ hysteria2://917bb394-8d91-4eee-956d-b81aba3aed70@5gzdx.233235.xyz:8080?sni=5gzdx
 hysteria2://ef6a309e-c300-4907-92a4-f2869eba4be6@92.112.124.13:10802?headerType=none&encryption=none&insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B2%5D
 hysteria2://ef6a309e-c300-4907-92a4-f2869eba4be6@92.112.124.13:10802?headerType=none&encryption=none&sni=www.bing.com&insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B3%5D
 hysteria2://661ce23b-7fe9-4217-8abe-76c28b687691@nd.nimarko.org:443?headerType=none&encryption=none&sni=nd.nimarko.org&alpn=h3&insecure=0#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B3%5D
-hysteria2://661ce23b-7fe9-4217-8abe-76c28b687691@nd.nimarko.org:443?alpn=h3&insecure=0&sni=nd.nimarko.org#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B4%5D
 hysteria2://917bb394-8d91-4eee-956d-b81aba3aed70@tw3.757866.xyz:8080?insecure=1&sni=tw3.757866.xyz#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%5B8%5D
 hysteria2://917bb394-8d91-4eee-956d-b81aba3aed70@tw3.757866.xyz:8080?sni=tw3.757866.xyz#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%5B9%5D
 hysteria2://661ce23b-7fe9-4217-8abe-76c28b687691@bl.nimarko.org:443?sni=bl.nimarko.org#%F0%9F%87%A7%F0%9F%87%BE%20Belarus%20%5B1%5D
-hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@178.18.147.66:29900?headerType=none&encryption=none&sni=www.microsoft.com&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B6%5D
-hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@178.18.147.66:29900?sni=www.microsoft.com&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B7%5D
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@178.18.147.66:29900?headerType=none&encryption=none&sni=www.microsoft.com&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B5%5D
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@178.18.147.66:29900?sni=www.microsoft.com&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B6%5D
 trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&fp=chrome&type=ws&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B3%5D
 trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&fp=firefox&type=ws&path=%2Fassignment&host=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B4%5D
 trojan://humanity@185.18.250.252:443?allowInsecure=1&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B5%5D
@@ -82,21 +83,8 @@ trojan://162534@47.245.62.4:8443/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2
 trojan://162534@91.218.143.126:2053/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B3%5D
 hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@195.133.53.33:443?insecure=1&sni=s516.okgfw.top&mport=443#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B4%5D
 hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@195.133.53.33:443?sni=s516.okgfw.top&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B5%5D
-vless://7bd29cac-f692-48a3-88d1-505f7e55f0d0@georg.sbrf-cdn342.ru:443?security=tls&flow=xtls-rprx-vision&type=tcp#%F0%9F%87%AC%F0%9F%87%AA%20Georgia%20%5B1%5D
-vless://7bd29cac-f692-48a3-88d1-505f7e55f0d0@georg.sbrf-cdn342.ru:443?sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AC%F0%9F%87%AA%20Georgia%20%5B2%5D
-vless://85b5cb2e-2617-4930-b6a4-4aeaf3b7b9aa@de.sbrf-cdn342.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision&insecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B8%5D
-vless://85b5cb2e-2617-4930-b6a4-4aeaf3b7b9aa@de.sbrf-cdn342.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B9%5D
-vless://5234854d-106b-41ee-8fc7-4acc6a1158a2@de1.persik.host:443?flow=xtls-rprx-vision&fp=random&headertype=none&pbk=Wussb3Mki1IqtlASsx19TawQ9P2qHZL6M8sVxps6xx4&security=reality&sid=3f6a3ab281699a9d&sni=de1.persik.host&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B10%5D
-vless://b1b24586-cccf-458d-b125-d621c3710676@pl1.astrocore.cloud:443?type=tcp&headerType=none&security=reality&encryption=none&sni=pl1.astrocore.cloud&fp=chrome&pbk=X2Sb6CKcI_yEV4gu9KUAmL9mcL-xpC1Ngks06NYIaxw&sid=f129f93e&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B4%5D
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@165.231.215.17:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=EyzTSZxq5qlUT2xW0l7VP-DzIh2ucabMan9ekEv9Owo&sid=&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B5%5D
-vless://7bd29cac-f692-48a3-88d1-505f7e55f0d0@5.253.31.10:443?security=tls&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&type=tcp&host=uae.sbrf-cdn342.ru&path=%2F&fp=random&alpn=http/1.1#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B6%5D
-vless://e6dd980c-1978-4e3c-b689-af2f0399366e@nlp.musicperec.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.amd.com&fp=chrome&pbk=k76Ze8R0E5NyZwvBZT1A4n0zlVXxTeHQDAs0bBqiGQw&sid=0c4d6e2f&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B7%5D
-vless://3275a667-4a67-4d43-b0ba-54da2d1145dd@us.gryaz-vpn.com:19131?type=tcp&security=reality&pbk=yxRy8t-W5pCOglMeGNTeen8vQPK1SG0sM49vL6GLpjo&fp=random&sni=cloudflare.com&sid=0a8a84dcb5&spx=%2F&flow=xtls-rprx-vision-udp443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B1%5D
-vless://85b5cb2e-2617-4930-b6a4-4aeaf3b7b9aa@us-bridge.sbrf-cdn342.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=sub.sbrf-cdn342.ru&fp=random&alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B2%5D
-vless://26524cce-d514-4014-a426-365fb266a14d@94.183.235.105:2053?&security=tls&fp=chrome&sni=wybfkrp6.gateway-edge.danfeng.cyou&type=ws&headerType=none&host=wybfkrp6.gateway-edge.danfeng.cyou&path=%2Fdanfengfp%3Dfirefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B4%5D
-vless://26524cce-d514-4014-a426-365fb266a14d@94.183.235.105:2053?allowInsecure=0&sni=wybfkrp6.gateway-edge.danfeng.cyou&type=ws&host=wybfkrp6.gateway-edge.danfeng.cyou&path=/danfengfp=firefox&security=tls#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B5%5D
-vless://75807638-6f19-01f4-ae08-38492ee85c88@cl-de-2.edgeflux.ru:52006?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=cl-de-2.edgeflux.ru&fp=chrome&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B6%5D
-vless://75807638-6f19-01f4-ae08-38492ee85c88@cl-de-2.edgeflux.ru:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=cl-de-2.edgeflux.ru&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none%22%5C%22%2C#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B7%5D
-vless://3c81c716-4fd5-11f1-8a2c-525400a7149e@45.150.109.175:443?security=reality&encryption=none&pbk=tK34zUQC-KyBK3gIdH51TnOQx5pi7AbAoSZbRZlL8jw&headerType=none&fp=randomized&spx=%2Fexplore&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B8%5D
+vless://5234854d-106b-41ee-8fc7-4acc6a1158a2@de1.persik.host:443?flow=xtls-rprx-vision&fp=random&headertype=none&pbk=Wussb3Mki1IqtlASsx19TawQ9P2qHZL6M8sVxps6xx4&security=reality&sid=3f6a3ab281699a9d&sni=de1.persik.host&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B7%5D
+vless://3275a667-4a67-4d43-b0ba-54da2d1145dd@us.gryaz-vpn.com:19131?type=tcp&security=reality&pbk=yxRy8t-W5pCOglMeGNTeen8vQPK1SG0sM49vL6GLpjo&fp=random&sni=cloudflare.com&sid=0a8a84dcb5&spx=%2F&flow=xtls-rprx-vision-udp443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B3%5D
+vless://3c81c716-4fd5-11f1-8a2c-525400a7149e@45.150.109.175:443?security=reality&encryption=none&pbk=tK34zUQC-KyBK3gIdH51TnOQx5pi7AbAoSZbRZlL8jw&headerType=none&fp=randomized&spx=%2Fexplore&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B4%5D
 vless://0dc22208-cea4-4423-b3c3-a36957e23233@91.225.217.26:443?fp=chrome&pbk=Zd5BqaW-kyJqZANUH2cIARr466QZw09pNngYjsEK1w8&security=reality&sid=30fa&sni=yahoo.com&spx=%2F&type=tcp#%F0%9F%87%B7%F0%9F%87%B8%20Serbia%20%5B1%5D
 vless://e60f8ade-411b-4ceb-b3bd-2439676b4695@91.225.217.27:443?type=tcp&security=reality&fp=chrome&pbk=66I_EZijZ-HoERv8Xzmv5KydHjz4dp81Grb8CJpIy38&sid=cb89&sni=yahoo.com&spx=/#%F0%9F%87%B7%F0%9F%87%B8%20Serbia%20%5B2%5D
