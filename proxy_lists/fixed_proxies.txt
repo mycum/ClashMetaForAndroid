@@ -1,15 +1,12 @@
 # profile-title: Telegood VPN (DEEP)
-# 🛡️ Verified: 11
-# 📊 Stats: Вход: 62 | Пинг: 19 (-43) | Скорость >= 300KB/s: 11 (-8)
+# 🛡️ Verified: 8
+# 📊 Stats: Вход: 63 | Пинг: 26 (-37) | Скорость >= 300KB/s: 8 (-18)
 
-vless://3c81c716-4fd5-11f1-8a2c-525400a7149e@172.86.68.161:443?security=reality&encryption=none&pbk=XFv4Qy1Pfx_Wj_oLqIqfVpBiykT2zr35X0mwEOME2Wg&headerType=none&fp=randomized&spx=%2Fs-autos&type=tcp&flow=xtls-rprx-vision&sni=www.kleinanzeigen.de#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B2%5D
+vless://ed855dcd-3e76-4b0e-8953-a5fe96c7867f@de-nuremberg.chocolatemango.live:443?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=de-nuremberg.chocolatemango.live#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B1%5D
+vless://5fb4beab-89b7-48b4-9517-172a4221cbad@de4-mwscloud.onnstreaming.ru:443?type=tcp&security=reality&encryption=none&pbk=0L2az4daQfRLsPZPMnDuU6VLA5yJWL3qIcOTfF3Sn2g&fp=random&sni=de4-mwscloud.onnstreaming.ru&sid=70030fabf700a5d7&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B2%5D
+vless://6183c1c0-2853-4e83-b31b-19527950b23b@151.241.100.177:9443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo&sid=#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B1%5D
+vless://ed855dcd-3e76-4b0e-8953-a5fe96c7867f@ovh.furkbalancer.net:2053?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=de.chocolatemango.live#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B4%5D
+vless://ed855dcd-3e76-4b0e-8953-a5fe96c7867f@ovh.furkbalancer.net:2087?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=pl.learnyouthinspire.co.uk#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B5%5D
 vless://d61b605c-e186-483e-ae53-7deaf7c56098@vpn-1.usp-vpn.store:443?security=reality&encryption=none&echfq=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=vpn-1.usp-vpn.store&sid=90cfb50d12729375#%F0%9F%87%B8%F0%9F%87%AE%20Slovenia%20%5B1%5D
-vless://3c81c716-4fd5-11f1-8a2c-525400a7149e@45.150.109.175:443?flow=xtls-rprx-vision&fp=randomized&headertype=none&pbk=tK34zUQC-KyBK3gIdH51TnOQx5pi7AbAoSZbRZlL8jw&security=reality&sni=tradingview.com&spx=%2Fexplore&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B2%5D
-vless://3e4694ad-c0f8-4ddc-ba03-6222cbe5f988@tr.safepass.click:443?type=xhttp&security=reality&encryption=none&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&fp=chrome&sni=www.samsung.com&path=%2F&mode=auto#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5B1%5D
-vless://57e362cc-2c3f-43c9-84b7-e0680aecb2a4@srv35.datatowers.net:443?type=tcp&headerType=none&security=reality&encryption=none&sni=srv35.datatowers.net&fp=chrome&pbk=Ufkz__Q3m_d8NFR08OVtXx3hLaV4-x7UesrVKduEIn0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B3%5D
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@219.76.13.183:443?host=sn1.skylee5.cloudns.ch&path=%2Ffp%3Dchromefp%3Dchrome&security=tls&sni=sn1.skylee5.cloudns.ch&type=ws#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B1%5D
-hysteria2://661ce23b-7fe9-4217-8abe-76c28b687691@finprem.nimarko.org:443?alpn=h3&insecure=0&sni=finprem.nimarko.org#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B3%5D
-hysteria2://661ce23b-7fe9-4217-8abe-76c28b687691@finprem.nimarko.org:443?headerType=none&encryption=none&sni=finprem.nimarko.org&alpn=h3&insecure=0#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B4%5D
-hysteria2://661ce23b-7fe9-4217-8abe-76c28b687691@pols.nimarko.org:4443?headerType=none&encryption=none&sni=pols.nimarko.org&alpn=h3&insecure=0#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B7%5D
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl194.mechvpn.online:443?type=tcp&headerType=none&security=tls&encryption=none&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&flow=xtls-rprx-vision&insecure=0#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B9%5D
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl194.mechvpn.online:443?type=tcp&headerType=none&security=tls&encryption=none&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&flow=xtls-rprx-vision&insecure=0#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B6%5D
 vless://e60f8ade-411b-4ceb-b3bd-2439676b4695@91.225.217.27:443?type=tcp&security=reality&fp=chrome&pbk=66I_EZijZ-HoERv8Xzmv5KydHjz4dp81Grb8CJpIy38&sid=cb89&sni=yahoo.com&spx=/#%F0%9F%87%B7%F0%9F%87%B8%20Serbia%20%5B1%5D
