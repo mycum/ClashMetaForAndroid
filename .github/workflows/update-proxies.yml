@@ -53,6 +53,8 @@ jobs:
           url_to_name = {}
 
           for line in lines:
+              # 🧹 Санитарный кордон: выжигаем все управляющие и невидимые символы
+              line = re.sub(r'[\x00-\x1F\x7F]', '', line)
               line = line.strip()
               if not line or line.startswith('#'): continue
               
