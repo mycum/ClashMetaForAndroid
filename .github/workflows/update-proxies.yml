@@ -1,4 +1,23 @@
-- name: Process and Ping Proxy List
+name: Update, Clean and Ping Proxies
+
+on:
+  schedule:
+    - cron: '17 */2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-list:
+    runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Process and Ping Proxy List
         run: |
           mkdir -p proxy_lists
           
@@ -133,6 +152,7 @@
               except: pass
 
           def get_flag(c): return chr(ord(c[0]) + 127397) + chr(ord(c[1]) + 127397) if (c and len(c)==2) else "🌍"
+          
           def score_link(url):
               score = 0
               if 'flow=xtls-rprx-vision' in url: score += 10
@@ -143,7 +163,6 @@
               if 'vmess://' in url: score += 4
               return score
 
-          # --- УЛЬТИМАТИВНЫЙ НОРМАЛИЗАТОР ССЫЛОК (Выпрямитель) ---
           def normalize_and_format(url, final_name):
               if url.startswith('vmess://'):
                   try:
@@ -168,7 +187,7 @@
                       def get_val(k): return q_dict.get(k, [''])[0]
 
                       if u.scheme in ['trojan', 'vless']:
-                          set_val('fp', 'chrome') # Маскировка от РКН
+                          set_val('fp', 'chrome')
                           is_tls = get_val('security') in ['tls', 'xtls', 'reality'] or u.port in [443, 8443, 2053, 2083]
                           if is_tls:
                               if not get_val('security'): set_val('security', 'tls')
@@ -178,7 +197,7 @@
                           
                           if get_val('type') == 'ws' or get_val('path'):
                               set_val('type', 'ws')
-                              set_val('alpn', 'http/1.1') # Фикс WebSocket
+                              set_val('alpn', 'http/1.1')
                               if not get_val('path'): set_val('path', '/')
                       elif u.scheme in ['hysteria2', 'hy2']:
                           set_val('fp', 'chrome')
@@ -224,3 +243,12 @@
           
           python3 filter.py
           rm proxy_lists/raw_temp.txt
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-sync: New raw proxies ready for deep test"
+          file_pattern: proxy_lists/raw_proxies.txt
+
+      - name: Ping Phone to start RKN Check
+        run: curl -d "START_TEST" ntfy.sh/${{ secrets.NTFY_TOPIC }}
