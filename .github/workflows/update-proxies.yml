@@ -131,7 +131,7 @@ jobs:
               try:
                   batch = unique_resolved_ips[i:i+100]
                   req = urllib.request.Request('http://ip-api.com/batch?fields=query,countryCode,country', data=json.dumps(batch).encode())
-                  with urllib.request.urlopen(req) as resp:
+                  with urllib.request.urlopen(req, timeout=5) as resp:
                       for r in json.loads(resp.read().decode()): ip_info[r.get('query')] = r
               except Exception as e:
                   print(f"IP-API Batch Warning: {e}")
