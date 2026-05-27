@@ -219,7 +219,7 @@ jobs:
               geo = ip_info.get(ip, {})
               links = node_groups[(host, port)]
               links.sort(key=score_link, reverse=True)
-              best_links = links[:3]
+              best_links = links[:6]
               
               for url in best_links:
                   raw_name = url_to_name.get(url, "")
