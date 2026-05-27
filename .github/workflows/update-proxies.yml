@@ -21,24 +21,24 @@ jobs:
         run: |
           mkdir -p proxy_lists
           
-          # Скачиваем новые базы Игарька
-          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt > proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/All_Configs_Sub.txt >> proxy_lists/raw_temp.txt
+          # Скачиваем новые базы (включая все источники)
+          curl -s [https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt) > proxy_lists/raw_temp.txt
+          curl -s [https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt) >> proxy_lists/raw_temp.txt
+          curl -s [https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt) >> proxy_lists/raw_temp.txt
+          curl -s [https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt) >> proxy_lists/raw_temp.txt
+          curl -s [https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/All_Configs_Sub.txt](https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/All_Configs_Sub.txt) >> proxy_lists/raw_temp.txt
                     
           cat << 'EOF' > filter.py
           import urllib.request, json, re, socket, urllib.parse, base64, html, os
           from concurrent.futures import ThreadPoolExecutor
 
-          print("📂 Загрузка новых баз от Игарька...")
+          print("📂 Загрузка новых баз...")
           lines = []
           
           with open('proxy_lists/raw_temp.txt', 'r', encoding='utf-8') as f:
               new_lines = f.readlines()
               lines.extend(new_lines)
-          print(f"   📥 Получено свежих ссылок: {len(new_lines)}")
+          print(f"   📥 Получено сырых строк: {len(new_lines)}")
 
           old_count = 0
           if os.path.exists('proxy_lists/fixed_proxies.txt'):
@@ -49,17 +49,40 @@ jobs:
                   lines.extend(old_lines)
               print(f"   🛡️ Из текущего файла добавлено: {old_count} ссылок")
           
-          print(f"📊 Всего ссылок в котле до фильтрации: {len(new_lines) + old_count}")
+          print(f"📊 Всего строк до фильтрации: {len(new_lines) + old_count}")
+
+          # --- ЮВЕЛИРНЫЙ БЛОК ПРЕДВАРИТЕЛЬНОЙ ОЧИСТКИ ---
+          clean_lines = []
+          for line in lines:
+              # 1. Базовая дезинфекция (выжигаем невидимые управляющие символы)
+              line = re.sub(r'[\x00-\x1F\x7F]', '', line).strip()
+              if not line or line.startswith('#'): continue
+
+              # 2. Безопасное разрезание "поездов". 
+              # Режем строку по пробелу или %20 ТОЛЬКО если дальше идет протокол.
+              # Это сохранит пробелы внутри названий (например #My Proxy), но разрежет склейку.
+              line = re.sub(r'(?:%20|\s)+(?i)(?=(?:vmess|vless|trojan|ss|hysteria2|hy2)://)', '\n', line)
+
+              for p in line.split('\n'):
+                  p = p.strip()
+                  if not p: continue
+
+                  # 3. Обрезка мусорных хвостов.
+                  # Иранские парсеры часто клеят vmess, 🔗 или бектики ``` в самый конец Base64.
+                  # $ означает, что мы срезаем это ТОЛЬКО в самом конце строки.
+                  p = re.sub(r'(?i)(?:vmess|vless|trojan|ss|hysteria2|hy2|```|🔗)+$', '', p).strip()
+
+                  if p.startswith(('vmess://', 'vless://', 'trojan://', 'ss://', 'hysteria2://', 'hy2://')):
+                      clean_lines.append(p)
+                      
+          print(f"🧹 После расшифровки склеек и обрезки мусора получено валидных ссылок: {len(clean_lines)}")
+          # ------------------------------------------------
 
           node_groups = {}
           url_to_name = {}
 
-          for line in lines:
-              # 🧹 Санитарный кордон: выжигаем все управляющие и невидимые символы
-              line = re.sub(r'[\x00-\x1F\x7F]', '', line)
-              line = line.strip()
-              if not line or line.startswith('#'): continue
-              
+          # Теперь в старую логику передаются идеально чистые строки
+          for line in clean_lines:
               line = line.replace('&amp;', '&').replace('&amp%3B', '&').replace('%3B', ';').replace('&;', '&').replace('?amp;', '?')
               line = html.unescape(line)
 
@@ -74,6 +97,7 @@ jobs:
               if base_url.startswith('vmess://'):
                   try:
                       b64_str = base_url[8:]
+                      # Добавляем паддинг для Base64 (теперь безопасно, т.к. слово vmess удалено из хвоста)
                       b64_str += "=" * ((4 - len(b64_str) % 4) % 4)
                       v_json = json.loads(base64.b64decode(b64_str).decode('utf-8'))
                       host = str(v_json.get('add', ''))
@@ -150,7 +174,7 @@ jobs:
           for i in range(0, len(unique_resolved_ips), 100):
               try:
                   batch = unique_resolved_ips[i:i+100]
-                  req = urllib.request.Request('http://ip-api.com/batch?fields=query,countryCode,country', data=json.dumps(batch).encode())
+                  req = urllib.request.Request('[http://ip-api.com/batch?fields=query,countryCode,country](http://ip-api.com/batch?fields=query,countryCode,country)', data=json.dumps(batch).encode())
                   with urllib.request.urlopen(req) as resp:
                       for r in json.loads(resp.read().decode()): ip_info[r.get('query')] = r
               except: pass
