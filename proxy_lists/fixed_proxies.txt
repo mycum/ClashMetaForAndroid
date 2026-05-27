@@ -1,14 +1,14 @@
-# profile-title: 🚀 Telegood VPN (ТОП-32 от 27.05.2026 22:43)
+# profile-title: 🚀 Telegood VPN (ТОП-32 от 27.05.2026 23:22)
 # 🛡️ Verified Elite: 10
-# 📊 Stats: Вход: 2035 | Пинг: 45 | >400KB/s: 10 | Итого в ТОП: 10
+# 📊 Stats: Вход: 316 | Пинг: 26 | >400KB/s: 10 | Итого в ТОП: 10
 
-vless://e258977b-e413-4718-a3af-02d75492c349@69.84.182.49:2096?path=%2F&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B16%5D
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@208.103.161.4:443?encryption=none&type=ws&security=tls&path=%2Fplay%2Fsettings&host=pagescm.freen32.cc.cd&sni=pagescm.freen32.cc.cd&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B17%5D
-vless://9ebab373-19fe-4535-aa95-4e348ea300f1@s28315.cdn.ngenix.net:443?encryption=none&host=s28315.cdn.ngenix.net&path=%2Fws&security=tls&sni=s28315.cdn.ngenix.net&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B5%5D
-vless://58b56c44-2d46-4488-9ce5-a337e7217e21@144.31.24.49:8443?encryption=none&type=grpc&serviceName=xyz&mode=gun&security=reality&sni=ads.x5.ru&fp=qq&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B%2ACIDR%5D%20%5B1%5D
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@uae.sbrf-cdn342.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=sub.sbrf-cdn342.ru&fp=random&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=0#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B1%5D
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@208.103.161.4:443?encryption=none&type=ws&security=tls&path=%2Fplay%2Fsettings&host=pagescm.freen32.cc.cd&sni=pagescm.freen32.cc.cd&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B16%5D
+vless://e258977b-e413-4718-a3af-02d75492c349@69.84.182.49:2096?path=%2F&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B15%5D
 vless://43e02f55-266c-4e87-84b0-f50c9fa66aea@31.76.93.39:8070?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B4%5D
-vless://e3c68e9e-5bf3-4e4b-abac-806053baa43a@uss.mynethub99.top:80?type=tcp&encryption=none&security=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B5%5D
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fr-tx.sbrf-cdn342.ru:443?flow=xtls-rprx-vision&headertype=none&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B2%5D
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@64.186.225.13:8443?encryption=none&type=ws&sni=sni.skylee4.cloudns.ch&security=tls&fp=chrome&host=sni.skylee4.cloudns.ch&path=/proxyip=ProxyIP.CMLiussss.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B14%5D
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@64.186.225.13:8443?&security=tls&sni=sni.skylee4.cloudns.ch&type=ws&headerType=none&host=sni.skylee4.cloudns.ch&path=%2Fproxyip%3DProxyIP.CMLiussss.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B15%5D
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?sni=sub.sbrf-cdn342.ru&alpn=http/1.1&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B4%5D
+vless://7903e1c8-13c7-4091-9a17-253bddad208e@speedtest.net:80?&security=false&fp=chrome&type=ws&headerType=none&host=Asaaabi.global.ssl.fastly.net&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B7%5D
+vless://d98e6ac5-e873-402a-bcce-78e2887c936b@170.205.37.59:443?security=reality&encryption=none&pbk=zvRguC1cm7gKkQpNarOCaAUAvcSXUWH10-pUEfneYSI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=014c3d76dee82247#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B4%5D
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fr-tx.sbrf-cdn342.ru:443?sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision-udp443&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B3%5D
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@64.186.225.13:8443?&security=tls&sni=sni.skylee4.cloudns.ch&type=ws&headerType=none&host=sni.skylee4.cloudns.ch&path=%2Fproxyip%3DProxyIP.CMLiussss.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B14%5D
+vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@l6.l-itx.info:2053?security=tls&type=ws&headerType=&path=%2Fws&host=itx-server.digital&sni=9275c19dd85e935c.itx-server.digital&fp=#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B5%5D
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@64.186.225.13:8443?encryption=none&type=ws&sni=sni.skylee4.cloudns.ch&security=tls&fp=chrome&host=sni.skylee4.cloudns.ch&path=/proxyip=ProxyIP.CMLiussss.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B13%5D
