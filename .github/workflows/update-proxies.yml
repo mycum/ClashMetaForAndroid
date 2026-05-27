@@ -22,14 +22,24 @@ jobs:
           mkdir -p proxy_lists
           
           # Скачиваем новые базы
-          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt > proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/vmess.txt >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/trojan.txt >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/ss.txt >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/vless.txt >> proxy_lists/raw_temp.txt
+          # Скачиваем новые базы с принудительным переносом строк
+          > proxy_lists/raw_temp.txt # Очищаем файл перед стартом
+          
+          urls=(
+            "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt"
+            "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt"
+            "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt"
+            "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt"
+            "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/vmess.txt"
+            "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/trojan.txt"
+            "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/ss.txt"
+            "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/vless.txt"
+          )
+          
+          for url in "${urls[@]}"; do
+            curl -s "$url" >> proxy_lists/raw_temp.txt
+            echo "" >> proxy_lists/raw_temp.txt
+          done
           
           cat << 'EOF' > filter.py
           import urllib.request, json, re, socket, urllib.parse, base64, html, os, time
