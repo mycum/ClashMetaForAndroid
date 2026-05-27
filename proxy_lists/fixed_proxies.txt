@@ -1,12 +1,12 @@
-# profile-title: 🚀 Telegood VPN (ТОП-32 от 27.05.2026 20:23)
+# profile-title: 🚀 Telegood VPN (ТОП-32 от 27.05.2026 20:31)
 # 🛡️ Verified Elite: 8
-# 📊 Stats: Вход: 65 | Пинг: 23 | >400KB/s: 8 | Итого в ТОП: 8
+# 📊 Stats: Вход: 63 | Пинг: 20 | >400KB/s: 8 | Итого в ТОП: 8
 
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@208.103.161.4:443?encryption=none&type=ws&security=tls&path=%2Fplay%2Fsettings&host=pagescm.freen32.cc.cd&sni=pagescm.freen32.cc.cd&allowInsecure=0#Node_35
-vless://e258977b-e413-4718-a3af-02d75492c349@69.84.182.49:2096?encryption=none&type=ws&security=tls&path=%2F&host=jp.aniua.qzz.io&sni=jp.aniua.qzz.io&allowInsecure=0#Node_36
-vless://f4bad870-4b45-4a46-bec6-d05fa31df1cb@nl2.clgate.network:443?encryption=none&type=xhttp&path=%2F&host=m.twitch.tv&mode=stream-up&security=reality&sni=m.twitch.tv&fp=chrome&pbk=r2B2KwffHmyjWrmwKmI0o3uW9UEsn2l_Ko0UmyTjKgM#Node_26
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=0#Node_24
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@uae.sbrf-cdn342.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=sub.sbrf-cdn342.ru&fp=random&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=0#Node_25
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fr-tx.sbrf-cdn342.ru:443?security=tls&encryption=none&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#Node_2
-vless://f4bad870-4b45-4a46-bec6-d05fa31df1cb@de.clgate.network:443?encryption=none&type=xhttp&path=%2F&host=m.twitch.tv&mode=stream-up&security=reality&sni=m.twitch.tv&fp=chrome&pbk=r2B2KwffHmyjWrmwKmI0o3uW9UEsn2l_Ko0UmyTjKgM#Node_11
-vless://7402e534-54dc-34cc-ac5b-c85ac6e236fd@s881.ccgfw.top:443?security=tls&type=tcp&sni=s881.ccgfw.top&fp=chrome&flow=xtls-rprx-vision&encryption=none#Node_31
+vless://9ebab373-19fe-4535-aa95-4e348ea300f1@78.41.110.238:443?encryption=none&type=ws&security=tls&path=%2Fws&host=s28315.cdn.ngenix.net&sni=s28315.cdn.ngenix.net#Node_53
+vless://9ebab373-19fe-4535-aa95-4e348ea300f1@46.235.185.25:443?encryption=none&type=ws&security=tls&path=%2Fws&host=s28315.cdn.ngenix.net&sni=s28315.cdn.ngenix.net#Node_52
+vless://e258977b-e413-4718-a3af-02d75492c349@69.84.182.49:2096?encryption=none&type=ws&security=tls&path=%2F&host=jp.aniua.qzz.io&sni=jp.aniua.qzz.io&allowInsecure=0#Node_37
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@208.103.161.4:443?encryption=none&type=ws&security=tls&path=%2Fplay%2Fsettings&host=pagescm.freen32.cc.cd&sni=pagescm.freen32.cc.cd&allowInsecure=0#Node_36
+vless://6a719f2b-b629-462d-975a-9c0daa3edb75@208.103.161.7:2083?encryption=none&type=ws&security=tls&path=%2FQDHqawq0xGrFP7Pa%2FMTU4LjE4MC4xMi4xMTc%3D%3Fed%3D2560&host=raviddd.pages.dev&sni=rAviDdD.paGEs.DEv&fp=chrome&allowInsecure=0#Node_35
+vless://3861a7d0-8fff-4e9e-a3d7-b96089d4ee0b@ch-1.shadowhub.cc:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=OgJz7oQ3aYL5w5mQjdMp0QgCTwRoPuj0LgEZlBtpTRY&fp=chrome&allowinsecure=0&type=xhttp&sni=static.gcore.pro&sid=6fce2d08#Node_22
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=sub.sbrf-cdn342.ru&fp=chrome&alpn=http/1.1&flow=xtls-rprx-vision&insecure=0#Node_24
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fr-tx.sbrf-cdn342.ru:443?security=tls&encryption=none&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#Node_3
