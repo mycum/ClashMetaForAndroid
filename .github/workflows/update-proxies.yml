@@ -35,9 +35,29 @@ jobs:
           lines = []
           
           with open('proxy_lists/raw_temp.txt', 'r', encoding='utf-8') as f:
-              new_lines = f.readlines()
-              lines.extend(new_lines)
-          print(f"   📥 Получено свежих ссылок: {len(new_lines)}")
+              raw_content = f.read().splitlines()
+
+          new_lines = []
+          for line in raw_content:
+              line = line.strip()
+              if not line: continue
+              
+              # Детектор подписок: если строка состоит только из символов Base64 и не имеет протокола (://)
+              if re.match(r'^[A-Za-z0-9+/]+={0,2}$', line) and len(line) > 30:
+                  try:
+                      # Добавляем выравнивание (padding) на случай, если ссылка обрезана
+                      padded = line + "=" * ((4 - len(line) % 4) % 4)
+                      decoded_text = base64.b64decode(padded).decode('utf-8')
+                      # Разбиваем декодированную простыню на отдельные ссылки и добавляем в котел
+                      new_lines.extend(decoded_text.splitlines())
+                  except:
+                      # Если не расшифровалось, оставляем как есть
+                      new_lines.append(line)
+              else:
+                  new_lines.append(line)
+
+          lines.extend(new_lines)
+          print(f"   📥 Распаковано свежих ссылок: {len(new_lines)}")
 
           if os.path.exists('proxy_lists/fixed_proxies.txt'):
               print("💾 Поднятие старого золотого запаса...")
