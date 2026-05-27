@@ -17,18 +17,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Process and Ping Proxy List
+      - name: 1. Download Raw Lists (Bash)
         run: |
           mkdir -p proxy_lists
-          
-          # Скачиваем новые базы (включая все источники)
-          curl -s [https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt) > proxy_lists/raw_temp.txt
-          curl -s [https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt) >> proxy_lists/raw_temp.txt
-          curl -s [https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt) >> proxy_lists/raw_temp.txt
-          curl -s [https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt) >> proxy_lists/raw_temp.txt
-          curl -s [https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/All_Configs_Sub.txt](https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/All_Configs_Sub.txt) >> proxy_lists/raw_temp.txt
-                    
-          cat << 'EOF' > filter.py
+          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt > proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/All_Configs_Sub.txt >> proxy_lists/raw_temp.txt
+
+      - name: 2. Filter, Parse and Ping (Python)
+        shell: python
+        run: |
           import urllib.request, json, re, socket, urllib.parse, base64, html, os
           from concurrent.futures import ThreadPoolExecutor
 
@@ -59,17 +59,13 @@ jobs:
               if not line or line.startswith('#'): continue
 
               # 2. Безопасное разрезание "поездов". 
-              # Режем строку по пробелу или %20 ТОЛЬКО если дальше идет протокол.
-              # Это сохранит пробелы внутри названий (например #My Proxy), но разрежет склейку.
               line = re.sub(r'(?:%20|\s)+(?i)(?=(?:vmess|vless|trojan|ss|hysteria2|hy2)://)', '\n', line)
 
               for p in line.split('\n'):
                   p = p.strip()
                   if not p: continue
 
-                  # 3. Обрезка мусорных хвостов.
-                  # Иранские парсеры часто клеят vmess, 🔗 или бектики ``` в самый конец Base64.
-                  # $ означает, что мы срезаем это ТОЛЬКО в самом конце строки.
+                  # 3. Обрезка мусорных хвостов от иранских парсеров
                   p = re.sub(r'(?i)(?:vmess|vless|trojan|ss|hysteria2|hy2|```|🔗)+$', '', p).strip()
 
                   if p.startswith(('vmess://', 'vless://', 'trojan://', 'ss://', 'hysteria2://', 'hy2://')):
@@ -81,7 +77,6 @@ jobs:
           node_groups = {}
           url_to_name = {}
 
-          # Теперь в старую логику передаются идеально чистые строки
           for line in clean_lines:
               line = line.replace('&amp;', '&').replace('&amp%3B', '&').replace('%3B', ';').replace('&;', '&').replace('?amp;', '?')
               line = html.unescape(line)
@@ -97,7 +92,6 @@ jobs:
               if base_url.startswith('vmess://'):
                   try:
                       b64_str = base_url[8:]
-                      # Добавляем паддинг для Base64 (теперь безопасно, т.к. слово vmess удалено из хвоста)
                       b64_str += "=" * ((4 - len(b64_str) % 4) % 4)
                       v_json = json.loads(base64.b64decode(b64_str).decode('utf-8'))
                       host = str(v_json.get('add', ''))
@@ -267,16 +261,17 @@ jobs:
 
           with open('proxy_lists/raw_proxies.txt', 'w', encoding='utf-8') as f:
               f.writelines(header + final_links)
-          EOF
           
-          python3 filter.py
-          rm proxy_lists/raw_temp.txt
+          # Убираем за собой мусор
+          if os.path.exists('proxy_lists/raw_temp.txt'):
+              os.remove('proxy_lists/raw_temp.txt')
+          print("🎉 Успешно завершено!")
 
-      - name: Commit and push changes
+      - name: 3. Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Auto-sync: New raw proxies ready for deep test"
           file_pattern: proxy_lists/raw_proxies.txt
 
-      - name: Ping Phone to start RKN Check
+      - name: 4. Ping Phone to start RKN Check
         run: curl -d "START_TEST" ntfy.sh/${{ secrets.NTFY_TOPIC }}
