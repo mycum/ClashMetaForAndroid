@@ -321,6 +321,11 @@ jobs:
 
           print(f"🚀 Сгенерировано {len(final_json_data)} конфигов для Mihomo.")
           
+          # СОХРАНЯЕМ ЧИСТЫЕ ССЫЛКИ ДЛЯ ПК
+          with open('proxy_lists/audit_for_pc.txt', 'w', encoding='utf-8') as f:
+              for item in final_json_data:
+                  f.write(item["link"] + '\n')
+          
           with open('proxy_lists/raw_proxies.json', 'w', encoding='utf-8') as f:
               json.dump(final_json_data, f, ensure_ascii=False, indent=2)
           EOF
