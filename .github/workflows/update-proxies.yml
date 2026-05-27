@@ -59,7 +59,8 @@ jobs:
               if not line or line.startswith('#'): continue
 
               # 2. Безопасное разрезание "поездов". 
-              line = re.sub(r'(?:%20|\s)+(?i)(?=(?:vmess|vless|trojan|ss|hysteria2|hy2)://)', '\n', line)
+              # ИСПРАВЛЕНО: Флаг (?i) перенесен в самое начало выражения для совместимости с Python 3.12+
+              line = re.sub(r'(?i)(?:%20|\s)+(?=(?:vmess|vless|trojan|ss|hysteria2|hy2)://)', '\n', line)
 
               for p in line.split('\n'):
                   p = p.strip()
