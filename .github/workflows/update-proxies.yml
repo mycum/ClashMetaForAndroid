@@ -36,7 +36,6 @@ jobs:
           print("📂 Загрузка баз...")
           lines = []
           
-          # Читаем исходные файлы
           with open('proxy_lists/raw_temp.txt', 'r', encoding='utf-8') as f:
               raw_content = f.read().splitlines()
 
@@ -45,17 +44,13 @@ jobs:
               line = line.strip()
               if not line: continue
               
-              # 🔧 ИСПРАВЛЕНО: Агрессивный декодер подписок (URL-safe Base64)
               if '://' not in line and len(line) > 30:
                   try:
-                      # Приводим URL-safe Base64 к стандарту
                       b64_string = line.replace('-', '+').replace('_', '/')
                       padded = b64_string + "=" * ((4 - len(b64_string) % 4) % 4)
                       decoded_text = base64.b64decode(padded).decode('utf-8')
-                      # Если расшифровалось успешно, разбиваем на строки
                       new_lines.extend(decoded_text.splitlines())
                   except:
-                      # Если это был не Base64, оставляем как есть
                       new_lines.append(line)
               else:
                   new_lines.append(line)
@@ -122,7 +117,6 @@ jobs:
                               base_url = f"vless://{uuid}@{hp}?type=ws&security={tls}&host={ws_host}&path={urllib.parse.quote(ws_path)}"
                   except: pass
 
-              # 🔧 ИСПРАВЛЕНО: Правильный парсинг для всех протоколов, включая VMESS
               target = None
               if base_url.startswith(('vless://', 'trojan://')):
                   target = get_node_key(base_url)
@@ -155,7 +149,6 @@ jobs:
                   ip = socket.gethostbyname(host)
                   if is_udp_only: return target_key, ip
                   
-                  # 🔧 ИСПРАВЛЕНО: Честный TCP-пинг с жестким таймаутом (1.2 сек)
                   s = socket.create_connection((ip, int(target_key[1])), timeout=1.2)
                   s.close()
                   return target_key, ip
@@ -253,7 +246,7 @@ jobs:
                           if host: base["ws-opts"]["headers"] = {"Host": host}
                       return {"config": base, "link": safe_link}
 
-                 elif u.scheme == "vless":
+                  elif u.scheme == "vless":
                       base.update({"type": "vless", "uuid": password, "skip-cert-verify": True, "network": get_param('type', 'tcp'), "client-fingerprint": get_param('fp', 'chrome')})
                       sni = get_param('sni') or get_param('peer') or get_param('host')
                       sec = get_param('security', 'none')
@@ -266,7 +259,6 @@ jobs:
                       if sec == 'reality':
                           base["reality-opts"] = {"public-key": get_param('pbk'), "short-id": get_param('sid')}
                       
-                      # 🔧 ИСПРАВЛЕНО: Теперь flow добавляется всегда, если он есть в ссылке
                       flow = get_param('flow')
                       if flow:
                           base['flow'] = flow
