@@ -21,25 +21,15 @@ jobs:
         run: |
           mkdir -p proxy_lists
           
-          # Скачиваем новые базы
-          # Скачиваем новые базы с принудительным переносом строк
-          > proxy_lists/raw_temp.txt # Очищаем файл перед стартом
-          
-          urls=(
-            "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt"
-            "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt"
-            "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt"
-            "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt"
-            "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/vmess.txt"
-            "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/trojan.txt"
-            "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/ss.txt"
-            "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/vless.txt"
-          )
-          
-          for url in "${urls[@]}"; do
-            curl -s "$url" >> proxy_lists/raw_temp.txt
-            echo "" >> proxy_lists/raw_temp.txt
-          done
+          # Скачиваем новые базы и ставим принудительные переносы строк (защита от склеивания)
+          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt > proxy_lists/raw_temp.txt
+          echo "" >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt >> proxy_lists/raw_temp.txt
+          echo "" >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt >> proxy_lists/raw_temp.txt
+          echo "" >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt >> proxy_lists/raw_temp.txt
+          echo "" >> proxy_lists/raw_temp.txt
           
           cat << 'EOF' > filter.py
           import urllib.request, json, re, socket, urllib.parse, base64, html, os, time
@@ -56,19 +46,20 @@ jobs:
               line = line.strip()
               if not line: continue
               
+              # Умный детектор подписок: нет протокола и строка длинная
               if '://' not in line and len(line) > 30:
                   try:
-                      b64_string = line.replace('-', '+').replace('_', '/')
-                      padded = b64_string + "=" * ((4 - len(b64_string) % 4) % 4)
-                      decoded_text = base64.b64decode(padded).decode('utf-8')
+                      padded = line + "=" * ((4 - len(line) % 4) % 4)
+                      # Используем urlsafe_b64decode для всеядности
+                      decoded_text = base64.urlsafe_b64decode(padded).decode('utf-8')
                       new_lines.extend(decoded_text.splitlines())
                   except:
                       new_lines.append(line)
               else:
                   new_lines.append(line)
 
-          lines.extend(new_lines)
-          print(f"   📥 Распаковано свежих ссылок: {len(new_lines)}")
+          lines.extend([l for l in new_lines if l.strip()])
+          print(f"   📥 Распаковано свежих ссылок: {len(lines)}")
 
           if os.path.exists('proxy_lists/fixed_proxies.txt'):
               print("💾 Поднятие старого золотого запаса...")
@@ -78,26 +69,8 @@ jobs:
                   lines.extend(old_lines)
               print(f"   🛡️ Из текущего файла добавлено: {old_count} ссылок")
 
-          def get_node_key(base_url):
-              try:
-                  if base_url.startswith(('vless://', 'trojan://')):
-                      u = urllib.parse.urlparse(base_url)
-                      q = urllib.parse.parse_qs(u.query.replace('%3B', '&').replace(';', '&'))
-                      pbk = q.get('pbk', [''])[0]
-                      sni = q.get('sni', [''])[0]
-                      if pbk: return (u.hostname, u.port, pbk, sni)
-              except: pass
-              
-              match = re.search(r'@([^/?#]+)', base_url)
-              if match:
-                  hp = match.group(1)
-                  hp_parts = hp.split(':')
-                  if len(hp_parts) == 2: return (hp_parts[0], int(hp_parts[1]))
-              return None
-
-          node_groups = {}
-          url_to_name = {}
-
+          # 1. Первичная обработка и извлечение хостов
+          ss_converted_lines = []
           for line in lines:
               line = re.sub(r'[\x00-\x1F\x7F]', '', line).strip()
               if not line or line.startswith('#'): continue
@@ -116,7 +89,7 @@ jobs:
                       if match:
                           b64, hp, q = match.groups()
                           b64 += "=" * ((4 - len(b64) % 4) % 4)
-                          userinfo = base64.b64decode(b64).decode('utf-8')
+                          userinfo = base64.urlsafe_b64decode(b64).decode('utf-8')
                           if userinfo.startswith('none:'):
                               uuid = userinfo.split(':', 1)[1]
                               q = urllib.parse.unquote(q)
@@ -128,49 +101,71 @@ jobs:
                                   elif opt == 'tls': tls = "tls"
                               base_url = f"vless://{uuid}@{hp}?type=ws&security={tls}&host={ws_host}&path={urllib.parse.quote(ws_path)}"
                   except: pass
+              ss_converted_lines.append((base_url, raw_name))
 
-              target = None
-              if base_url.startswith(('vless://', 'trojan://')):
-                  target = get_node_key(base_url)
-              elif base_url.startswith('vmess://'):
+          def get_host_port(url):
+              if url.startswith('vmess://'):
                   try:
-                      b64_str = base_url[8:]
+                      b64_str = url[8:]
                       b64_str += "=" * ((4 - len(b64_str) % 4) % 4)
-                      v_json = json.loads(base64.b64decode(b64_str).decode('utf-8'))
-                      host = str(v_json.get('add', ''))
-                      port = int(v_json.get('port', 0))
-                      if host and port: target = (host, port)
-                  except: pass
+                      v_json = json.loads(base64.urlsafe_b64decode(b64_str).decode('utf-8'))
+                      return (str(v_json.get('add', '')), int(v_json.get('port', 0)))
+                  except: return None
+              match = re.search(r'@([^/?#]+)', url)
+              if match:
+                  hp = match.group(1).split(':')
+                  if len(hp) == 2: return (hp[0], int(hp[1]))
+              return None
 
-              if not target:
-                  match = re.search(r'@([^/?#]+)', base_url)
-                  if match:
-                      hp_parts = match.group(1).split(':')
-                      if len(hp_parts) == 2: target = (hp_parts[0], int(hp_parts[1]))
+          unique_hw_map = {}
+          for base_url, raw_name in ss_converted_lines:
+              hp = get_host_port(base_url)
+              if hp:
+                  if hp not in unique_hw_map: unique_hw_map[hp] = []
+                  unique_hw_map[hp].append((base_url, raw_name))
 
-              if target:
-                  if target not in node_groups: node_groups[target] = []
-                  if base_url not in node_groups[target]:
-                      node_groups[target].append(base_url)
-                      url_to_name[base_url] = raw_name
-
-          def check_node(target_key):
-              host = target_key[0]
-              is_udp_only = any(url.startswith('hysteria') or url.startswith('hy2') for url in node_groups[target_key])
+          # 2. Быстрый TCP-пинг уникальных адресов
+          def fast_tcp_ping(hp):
+              host, port = hp
               try:
                   ip = socket.gethostbyname(host)
-                  if is_udp_only: return target_key, ip
-                  
-                  s = socket.create_connection((ip, int(target_key[1])), timeout=1.2)
+                  s = socket.create_connection((ip, port), timeout=1.5)
                   s.close()
-                  return target_key, ip
-              except: return target_key, None
+                  return hp, ip
+              except: return hp, None
 
-          print("⚡ Умный пинг серверов (TCP + UDP Bypass)...")
+          print(f"⚡ TCP-пинг уникальных адресов ({len(unique_hw_map)} шт.)...")
           alive_ips = {}
-          with ThreadPoolExecutor(max_workers=40) as executor:
-              for target_key, ip in executor.map(check_node, node_groups.keys()):
-                  if ip: alive_ips[target_key] = ip
+          with ThreadPoolExecutor(max_workers=50) as executor:
+              for hp, ip in executor.map(fast_tcp_ping, unique_hw_map.keys()):
+                  if ip: alive_ips[hp] = ip
+
+          print(f"   ✅ Выжило базовых узлов: {len(alive_ips)}")
+
+          # 3. Глубокая дедупликация (для REALITY)
+          def get_deep_key(base_url, hp):
+              try:
+                  if base_url.startswith(('vless://', 'trojan://')):
+                      u = urllib.parse.urlparse(base_url)
+                      q = urllib.parse.parse_qs(u.query.replace('%3B', '&').replace(';', '&'))
+                      pbk = q.get('pbk', [''])[0]
+                      sni = q.get('sni', [''])[0]
+                      if pbk: return (u.hostname, u.port, pbk, sni)
+              except: pass
+              return hp
+
+          node_groups = {}
+          url_to_name = {}
+          deep_key_to_ip = {}
+
+          for hp, ip in alive_ips.items():
+              for base_url, raw_name in unique_hw_map[hp]:
+                  deep_key = get_deep_key(base_url, hp)
+                  if deep_key not in node_groups: node_groups[deep_key] = []
+                  if base_url not in node_groups[deep_key]:
+                      node_groups[deep_key].append(base_url)
+                      url_to_name[base_url] = raw_name
+                      deep_key_to_ip[deep_key] = ip
 
           unique_resolved_ips = list(set(alive_ips.values()))
           ip_info = {}
@@ -214,7 +209,7 @@ jobs:
                   if main_part.startswith('vmess://'):
                       b64_str = main_part[8:]
                       b64_str += "=" * ((4 - len(b64_str) % 4) % 4)
-                      v = json.loads(base64.b64decode(b64_str).decode('utf-8'))
+                      v = json.loads(base64.urlsafe_b64decode(b64_str).decode('utf-8'))
                       base = {"name": node_name, "type": "vmess", "server": str(v.get("add", "")), "port": int(v.get("port", 0)), "uuid": str(v.get("id", "")), "alterId": int(v.get("aid", 0)), "cipher": v.get("scy", "auto"), "network": v.get("net", "tcp"), "udp": True}
                       if str(v.get("tls")) == "tls":
                           base["tls"] = True
@@ -270,10 +265,8 @@ jobs:
                       
                       if sec == 'reality':
                           base["reality-opts"] = {"public-key": get_param('pbk'), "short-id": get_param('sid')}
-                      
-                      flow = get_param('flow')
-                      if flow:
-                          base['flow'] = flow
+                      elif sec == 'tls':
+                          if get_param('flow') == 'xtls-rprx-vision': base['flow'] = 'xtls-rprx-vision'
 
                       if base["network"] == "ws":
                           base["alpn"] = [get_param('alpn', 'http/1.1')]
@@ -295,11 +288,11 @@ jobs:
           final_json_data = []
           name_counts = {}
 
-          for target_key, ip in alive_ips.items():
+          for deep_key, urls in node_groups.items():
+              ip = deep_key_to_ip[deep_key]
               geo = ip_info.get(ip, {})
-              links = node_groups[target_key]
-              links.sort(key=score_link, reverse=True)
-              best_links = links[:max_variants(links)]
+              urls.sort(key=score_link, reverse=True)
+              best_links = urls[:max_variants(urls)]
               
               for url in best_links:
                   raw_name = url_to_name.get(url, "")
@@ -332,11 +325,6 @@ jobs:
                       final_json_data.append(parsed_obj)
 
           print(f"🚀 Сгенерировано {len(final_json_data)} конфигов для Mihomo.")
-          
-          # СОХРАНЯЕМ ЧИСТЫЕ ССЫЛКИ ДЛЯ ПК
-          with open('proxy_lists/audit_for_pc.txt', 'w', encoding='utf-8') as f:
-              for item in final_json_data:
-                  f.write(item["link"] + '\n')
           
           with open('proxy_lists/raw_proxies.json', 'w', encoding='utf-8') as f:
               json.dump(final_json_data, f, ensure_ascii=False, indent=2)
