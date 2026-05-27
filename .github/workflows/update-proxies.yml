@@ -253,7 +253,7 @@ jobs:
                           if host: base["ws-opts"]["headers"] = {"Host": host}
                       return {"config": base, "link": safe_link}
 
-                  elif u.scheme == "vless":
+                 elif u.scheme == "vless":
                       base.update({"type": "vless", "uuid": password, "skip-cert-verify": True, "network": get_param('type', 'tcp'), "client-fingerprint": get_param('fp', 'chrome')})
                       sni = get_param('sni') or get_param('peer') or get_param('host')
                       sec = get_param('security', 'none')
@@ -265,8 +265,11 @@ jobs:
                       
                       if sec == 'reality':
                           base["reality-opts"] = {"public-key": get_param('pbk'), "short-id": get_param('sid')}
-                      elif sec == 'tls':
-                          if get_param('flow') == 'xtls-rprx-vision': base['flow'] = 'xtls-rprx-vision'
+                      
+                      # 🔧 ИСПРАВЛЕНО: Теперь flow добавляется всегда, если он есть в ссылке
+                      flow = get_param('flow')
+                      if flow:
+                          base['flow'] = flow
 
                       if base["network"] == "ws":
                           base["alpn"] = [get_param('alpn', 'http/1.1')]
