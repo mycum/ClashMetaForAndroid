@@ -1,13 +1,13 @@
-# profile-title: 🚀 Telegood VPN (ТОП-32 от 27.05.2026 11:19)
+# profile-title: 🚀 Telegood VPN (ТОП-32 от 27.05.2026 12:19)
 # 🛡️ Verified Elite: 9
-# 📊 Stats: Вход: 189 | Пинг: 23 | >600KB/s: 13 | Итого в ТОП: 9
+# 📊 Stats: Вход: 116 | Пинг: 21 | >400KB/s: 12 | Итого в ТОП: 9
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.12.75.30:8880?type=ws&host=vms.lifetime21.workers.dev&path=%2F%3Fed%3D2560&fp=chrome&alpn=http%2F1.1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B4%5D
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.138.30:8880?type=ws&host=vms.lifetime04.workers.dev&path=%2F&fp=chrome&alpn=http%2F1.1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B23%5D
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.12.75.50:8880?type=ws&host=vms.lifetime21.workers.dev&path=%2F%3Fed%3D2560&fp=chrome&alpn=http%2F1.1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B7%5D
-vless://9ebab373-19fe-4535-aa95-4e348ea300f1@s28315.cdn.ngenix.net:443?type=ws&headerType=none&security=tls&encryption=none&sni=s28315.cdn.ngenix.net&path=%2Fws&host=s28315.cdn.ngenix.net&insecure=0&fp=chrome&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B6%5D
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@45.91.53.54:443?type=tcp&security=reality&pbk=WMy1KN-awWYkz-3jct8VM4qvCeK3ICvJj3wzam6pAyE&fp=chrome&sni=pimg.mycdn.me&sid=b8f9f01b#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%5B1%5D
-vless://9d59677e-df00-4918-bb03-e428cfc7c606@de5.safepass.click:443?fp=chrome&mode=auto&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&security=reality&sni=www.samsung.com&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B16%5D
-vless://e3da803c-9c04-4ffb-a0f2-32cda93dd868@ch-1.shadowhub.cc:443?encryption=none&type=xhttp&mode=auto&security=reality&sni=static.gcore.pro&fp=chrome&pbk=OgJz7oQ3aYL5w5mQjdMp0QgCTwRoPuj0LgEZlBtpTRY&sid=6fce2d08#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B1%5D
-vless://384e0806-fcee-4f92-b671-bfc6a4794148@speedtest.net:80?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&encryption=none&type=ws&path=%2F&host=oijji.global.ssl.fastly.net&fp=chrome&alpn=http%2F1.1#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B3%5D
+vless://9ebab373-19fe-4535-aa95-4e348ea300f1@46.235.185.25:443?encryption=none&type=ws&security=tls&path=%2Fws&host=s28315.cdn.ngenix.net&sni=s28315.cdn.ngenix.net&fp=chrome&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20%5B3%5D
+vless://9ebab373-19fe-4535-aa95-4e348ea300f1@s28315.cdn.ngenix.net:443?encryption=none&host=s28315.cdn.ngenix.net&path=%2Fws&security=tls&sni=s28315.cdn.ngenix.net&type=ws&fp=chrome&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20%5B5%5D
+vless://3c40e1d2-80d1-4fe2-82e6-064e38bdf7e5@85.193.91.14:443?type=tcp&security=reality&fp=chrome&pbk=cVCzyZ7hxqDXuv6uf4VDOmI2IOUdVVjoLGiclNiwuRc&sid=af0e&sni=yahoo.com&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B2%5D
+vless://f8820b34-6290-4fe2-8fb5-26f90117a4a5@free05.tunnely.ru:8080?encryption=none&type=ws&path=%2Fws%2F&security=none&fp=chrome&alpn=http%2F1.1#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B1%5D
 vless://IR_NETLIFY@89.22.236.213:54346?encryption=none&security=none&type=tcp&headerType=none&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B5%5D
+hysteria2://2f4c3fc5-8fa2-4576-a583-8f98a6026887@hkt.ccwink.cc:56309?sni=hkt.ccwink.cc&insecure=1&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B3%5D
+vless://00000000-0000-4000-8000-000000000000@107.149.239.177:16443?allowInsecure=1&sni=qi4rysu2u-e8j2zzhk.bsld.de5.net&type=ws&host=qi4rysu2u-e8j2zzhk.bsld.de5.net&path=%2F%40Marisa_kristifp%3Dchrome&security=tls&fp=chrome&alpn=http%2F1.1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B10%5D
+hysteria2://6nne3n3cuvhyvdyo@jp.zlr.dpdns.org:14817?alpn=h3&sni=jp.zlr.dpdns.org&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B1%5D
+vless://f7162a02-110c-4966-ba00-c840a9b07980@46.226.166.195:39354?path=%2Fworks&encryption=none&host=46.226.166.195&type=ws&fp=chrome&alpn=http%2F1.1#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B1%5D
