@@ -1,24 +1,14 @@
-# profile-title: 🚀 Telegood VPN (ТОП-32 от 27.05.2026 21:08)
-# 🛡️ Verified Elite: 20
-# 📊 Stats: Вход: 321 | Пинг: 44 | >400KB/s: 20 | Итого в ТОП: 20
+# profile-title: 🚀 Telegood VPN (ТОП-32 от 27.05.2026 22:17)
+# 🛡️ Verified Elite: 10
+# 📊 Stats: Вход: 316 | Пинг: 39 | >400KB/s: 10 | Итого в ТОП: 10
 
-vless://9ebab373-19fe-4535-aa95-4e348ea300f1@46.235.185.25:443?encryption=none&type=ws&security=tls&path=%2Fws&host=s28315.cdn.ngenix.net&sni=s28315.cdn.ngenix.net#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B1%5D
-vless://9ebab373-19fe-4535-aa95-4e348ea300f1@78.41.110.238:443?encryption=none&type=ws&security=tls&path=%2Fws&host=s28315.cdn.ngenix.net&sni=s28315.cdn.ngenix.net#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B2%5D
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@208.103.161.4:443?encryption=none&type=ws&security=tls&path=%2Fplay%2Fsettings&host=pagescm.freen32.cc.cd&sni=pagescm.freen32.cc.cd&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B13%5D
-vless://e258977b-e413-4718-a3af-02d75492c349@69.84.182.49:2096?encryption=none&type=ws&security=tls&path=%2F&host=jp.aniua.qzz.io&sni=jp.aniua.qzz.io&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B12%5D
-vless://9ebab373-19fe-4535-aa95-4e348ea300f1@212.193.155.32:443?encryption=none&type=ws&security=tls&path=%2Fws&host=s28315.cdn.ngenix.net&sni=s28315.cdn.ngenix.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20%5B2%5D
-vless://43e02f55-266c-4e87-84b0-f50c9fa66aea@31.76.93.39:8070?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B4%5D
-vless://f4bad870-4b45-4a46-bec6-d05fa31df1cb@fi2.clgate.network:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=m.twitch.tv&fp=chrome&pbk=r2B2KwffHmyjWrmwKmI0o3uW9UEsn2l_Ko0UmyTjKgM&path=%2F#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B1%5D
-trojan://ASoZeIVwzX4w4wxwig@de-3.tr202605.com:443?type=tcp&security=tls&headerType=none&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B7%5D
-trojan://ASoZeIVwzX4w4wxwig@nl-1.tr202605.com:443?type=tcp&security=tls&headerType=none&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B13%5D
-trojan://ASoZeIVwzX4w4wxwig@uk-1.tr202605.com:443?type=tcp&security=tls&headerType=none&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B7%5D
-vless://3861a7d0-8fff-4e9e-a3d7-b96089d4ee0b@ch-1.shadowhub.cc:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=OgJz7oQ3aYL5w5mQjdMp0QgCTwRoPuj0LgEZlBtpTRY&fp=chrome&allowinsecure=0&type=xhttp&sni=static.gcore.pro&sid=6fce2d08#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B1%5D
-vless://4aaac4d7-a9c3-4f5e-8112-64cca5e6a14c@185.215.184.109.blanesik.space:443?type=grpc&security=tls&sni=185.215.184.109.blanesik.space&fp=chrome&alpn=h2&serviceName=%2Fsequre%2Fgrpc&encryption=none#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B1%5D
-trojan://telegram-id-directvpn@63.182.182.4:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B8%5D
+vless://e258977b-e413-4718-a3af-02d75492c349@69.84.182.49:2096?encryption=none&type=ws&security=tls&path=%2F&host=jp.aniua.qzz.io&sni=jp.aniua.qzz.io&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B17%5D
+trojan://humanity@165.215.250.14:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&allowInsecure=1&ech=ip.gs+udp://8.8.8.8#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B21%5D
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@208.103.161.4:443?encryption=none&type=ws&security=tls&path=%2Fplay%2Fsettings&host=pagescm.freen32.cc.cd&sni=pagescm.freen32.cc.cd&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B18%5D
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fr-tx.sbrf-cdn342.ru:443?flow=xtls-rprx-vision&headertype=none&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B2%5D
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=0#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B6%5D
 vless://e3c68e9e-5bf3-4e4b-abac-806053baa43a@uss.mynethub99.top:80?type=tcp&encryption=none&security=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B5%5D
-vless://f4bad870-4b45-4a46-bec6-d05fa31df1cb@de.clgate.network:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=m.twitch.tv&fp=chrome&pbk=r2B2KwffHmyjWrmwKmI0o3uW9UEsn2l_Ko0UmyTjKgM&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B2%5D
-vless://384e0806-fcee-4f92-b671-bfc6a4794148@speedtest.net:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=ws&path=/&host=oijji.global.ssl.fastly.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B6%5D
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@64.186.225.13:8443?encryption=none&type=ws&sni=sni.skylee4.cloudns.ch&security=tls&fp=chrome&host=sni.skylee4.cloudns.ch&path=/proxyip=ProxyIP.CMLiussss.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B9%5D
-trojan://ASoZeIVwzX4w4wxwig@uk-1.tr202605.com:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B6%5D
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@64.186.225.13:8443?&security=tls&sni=sni.skylee4.cloudns.ch&type=ws&headerType=none&host=sni.skylee4.cloudns.ch&path=%2Fproxyip%3DProxyIP.CMLiussss.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B10%5D
-trojan://ASoZeIVwzX4w4wxwig@uk-1.tr202605.com:443?security=tls&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B5%5D
+vless://f4bad870-4b45-4a46-bec6-d05fa31df1cb@fi2.clgate.network:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=m.twitch.tv&fp=chrome&pbk=r2B2KwffHmyjWrmwKmI0o3uW9UEsn2l_Ko0UmyTjKgM&path=%2F#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B1%5D
+vless://43e02f55-266c-4e87-84b0-f50c9fa66aea@31.76.93.39:8070?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B4%5D
+vless://e258977b-e413-4718-a3af-02d75492c349@69.84.182.49:2096?path=%2F&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B16%5D
+trojan://humanity@165.215.250.14:443?type=ws&security=tls&path=/assignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&fp=chrome&allowInsecure=1&ech=ip.gs+udp://8.8.8.8#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B19%5D
