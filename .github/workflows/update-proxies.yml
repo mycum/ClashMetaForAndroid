@@ -338,7 +338,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Auto-sync: New JSON configs ready for deep test"
-          file_pattern: proxy_lists/raw_proxies.json
+          file_pattern: proxy_lists/*
 
       - name: Ping Phone to start RKN Check
         run: curl -d "START_TEST" ntfy.sh/${{ secrets.NTFY_TOPIC }}
