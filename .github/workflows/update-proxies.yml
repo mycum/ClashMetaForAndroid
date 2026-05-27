@@ -26,8 +26,8 @@ jobs:
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/vless.txt >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/trojan.txt >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/All_Configs_Sub.txt >> proxy_lists/raw_temp.txt
+          # curl -s https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/trojan.txt >> proxy_lists/raw_temp.txt
           
           cat << 'EOF' > filter.py
           import urllib.request, json, re, socket, urllib.parse, base64, html, os, time
