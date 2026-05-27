@@ -31,9 +31,34 @@ jobs:
           import urllib.request, json, re, socket, urllib.parse, base64, html, os
           from concurrent.futures import ThreadPoolExecutor
 
+          def get_node_key(base_url):
+              try:
+                  if base_url.startswith(('vless://', 'trojan://')):
+                      u = urllib.parse.urlparse(base_url)
+                      q = urllib.parse.parse_qs(u.query)
+                      pbk = q.get('pbk', [''])[0]
+                      sni = q.get('sni', [''])[0]
+                      if pbk:
+                          return (u.hostname, u.port, pbk, sni)
+              except:
+                  pass
+              match = re.search(r'@([^/?#]+)', base_url)
+              if match:
+                  hp = match.group(1)
+                  hp_parts = hp.split(':')
+                  if len(hp_parts) == 2:
+                      return (hp_parts[0], int(hp_parts[1]))
+              return None
+
+          def max_variants(links):
+              if any('security=reality' in x for x in links):
+                  return 8
+              if any(x.startswith('trojan://') for x in links):
+                  return 5
+              return 3
+
           print("📂 Загрузка новых баз от Игарька...")
           lines = []
-          
           with open('proxy_lists/raw_temp.txt', 'r', encoding='utf-8') as f:
               new_lines = f.readlines()
               lines.extend(new_lines)
@@ -54,7 +79,6 @@ jobs:
           url_to_name = {}
 
           for line in lines:
-              # 🧹 Санитарный кордон: выжигаем все управляющие и невидимые символы
               line = re.sub(r'[\x00-\x1F\x7F]', '', line)
               line = line.strip()
               if not line or line.startswith('#'): continue
@@ -64,12 +88,10 @@ jobs:
 
               parts = line.split('#')
               base_url = parts[0]
-              
               raw_name = urllib.parse.unquote(parts[1]) if len(parts) > 1 else ""
               raw_name = re.sub(r'\s*\[\d+\]$', '', raw_name)
               
               target = None
-
               if base_url.startswith('vmess://'):
                   try:
                       b64_str = base_url[8:]
@@ -87,7 +109,6 @@ jobs:
                               b64, hp, q = match.groups()
                               b64 += "=" * ((4 - len(b64) % 4) % 4)
                               userinfo = base64.b64decode(b64).decode('utf-8')
-                              
                               if userinfo.startswith('none:'):
                                   uuid = userinfo.split(':', 1)[1]
                                   q = urllib.parse.unquote(q)
@@ -112,7 +133,6 @@ jobs:
                                       new_b64 = base64.b64encode(f"chacha20-ietf-poly1305:{password}".encode('utf-8')).decode('utf-8')
                                       base_url = base_url.replace(match.group(1), new_b64)
                       except: pass
-
                   match = re.search(r'@([^/?#]+)', base_url)
                   if match:
                       hp = match.group(1)
@@ -120,26 +140,26 @@ jobs:
                       if len(hp_parts) == 2:
                           target = (hp_parts[0], int(hp_parts[1]))
 
+              target = get_node_key(base_url) if base_url.startswith(('vless://', 'trojan://')) else target
+
               if target:
-                  if target not in node_groups: node_groups[target] = []
+                  if target not in node_groups:
+                      node_groups[target] = []
                   if base_url not in node_groups[target]:
                       node_groups[target].append(base_url)
                       url_to_name[base_url] = raw_name
 
           def check_node(hp):
-              host, port = hp
-              is_udp_only = any(url.startswith('hysteria') or url.startswith('hy2') for url in node_groups[hp])
+              host = hp[0]
               try:
                   ip = socket.gethostbyname(host)
-                  if is_udp_only: return hp, ip
-                  s = socket.create_connection((ip, port), timeout=3)
-                  s.close()
                   return hp, ip
-              except: return hp, None
+              except:
+                  return hp, None
 
           print("⚡ Умный пинг серверов (TCP + UDP Bypass)...")
           alive_ips = {}
-          with ThreadPoolExecutor(max_workers=40) as executor:
+          with ThreadPoolExecutor(max_workers=200) as executor:
               results = executor.map(check_node, node_groups.keys())
               for hp, ip in results:
                   if ip: alive_ips[hp] = ip
@@ -158,6 +178,8 @@ jobs:
           
           def score_link(url):
               score = 0
+              if 'security=reality' in url: score += 15
+              if 'pbk=' in url: score += 15
               if 'flow=xtls-rprx-vision' in url: score += 10
               if 'type=grpc' in url: score += 8
               if 'hysteria2://' in url or 'hy2://' in url: score += 7
@@ -185,10 +207,8 @@ jobs:
                   try:
                       u = urllib.parse.urlparse(url)
                       q_dict = urllib.parse.parse_qs(u.query.replace('%3B', '&').replace(';', '&'))
-                      
                       def set_val(k, v): q_dict[k] = [v]
                       def get_val(k): return q_dict.get(k, [''])[0]
-
                       if u.scheme in ['trojan', 'vless']:
                           set_val('fp', 'chrome')
                           is_tls = get_val('security') in ['tls', 'xtls', 'reality'] or u.port in [443, 8443, 2053, 2083]
@@ -197,7 +217,6 @@ jobs:
                               sni = get_val('sni') or get_val('peer') or get_val('host')
                               if sni: set_val('sni', sni)
                               elif u.hostname and not re.match(r'^\d+\.\d+\.\d+\.\d+$', u.hostname): set_val('sni', u.hostname)
-                          
                           if get_val('type') == 'ws' or get_val('path'):
                               set_val('type', 'ws')
                               set_val('alpn', 'http/1.1')
@@ -206,7 +225,6 @@ jobs:
                           set_val('fp', 'chrome')
                           sni = get_val('sni') or u.hostname
                           set_val('sni', sni)
-
                       new_query = urllib.parse.urlencode(q_dict, doseq=True)
                       new_url = urllib.parse.urlunparse((u.scheme, u.netloc, u.path, u.params, new_query, ""))
                       return f"{new_url}#{urllib.parse.quote(final_name)}\n"
@@ -214,23 +232,19 @@ jobs:
 
           final_links = []
           name_counts = {}
-
           for (host, port), ip in alive_ips.items():
               geo = ip_info.get(ip, {})
               links = node_groups[(host, port)]
               links.sort(key=score_link, reverse=True)
-              best_links = links[:3]
-              
+              best_links = links[:max_variants(links)]
               for url in best_links:
                   raw_name = url_to_name.get(url, "")
                   if not raw_name or "Anycast" in raw_name or "🌐" in raw_name:
                       cc = geo.get('countryCode')
                       base_name = f"{get_flag(cc)} {geo.get('country', 'Unknown')}"
                   else: base_name = raw_name.split('|')[0].split(',')[0].strip()
-
                   name_counts[base_name] = name_counts.get(base_name, 0) + 1
                   final_name = f"{base_name} [{name_counts[base_name]}]"
-                  
                   normalized = normalize_and_format(url, final_name)
                   if normalized: final_links.append(normalized)
 
@@ -239,7 +253,6 @@ jobs:
               "# profile-update-interval: 3\n",
               f"# 🟢 Total Variants: {len(final_links)}\n\n"
           ]
-
           with open('proxy_lists/raw_proxies.txt', 'w', encoding='utf-8') as f:
               f.writelines(header + final_links)
           EOF
