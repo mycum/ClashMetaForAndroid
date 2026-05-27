@@ -17,28 +17,27 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: 1. Download Raw Lists (Bash)
+      - name: Process and Ping Proxy List
         run: |
           mkdir -p proxy_lists
+          
+          # Скачиваем новые базы Игарька
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt > proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/All_Configs_Sub.txt >> proxy_lists/raw_temp.txt
-
-      - name: 2. Filter, Parse and Ping (Python)
-        shell: python
-        run: |
+          
+          cat << 'EOF' > filter.py
           import urllib.request, json, re, socket, urllib.parse, base64, html, os
           from concurrent.futures import ThreadPoolExecutor
 
-          print("📂 Загрузка новых баз...")
+          print("📂 Загрузка новых баз от Игарька...")
           lines = []
           
           with open('proxy_lists/raw_temp.txt', 'r', encoding='utf-8') as f:
               new_lines = f.readlines()
               lines.extend(new_lines)
-          print(f"   📥 Получено сырых строк: {len(new_lines)}")
+          print(f"   📥 Получено свежих ссылок: {len(new_lines)}")
 
           old_count = 0
           if os.path.exists('proxy_lists/fixed_proxies.txt'):
@@ -49,36 +48,17 @@ jobs:
                   lines.extend(old_lines)
               print(f"   🛡️ Из текущего файла добавлено: {old_count} ссылок")
           
-          print(f"📊 Всего строк до фильтрации: {len(new_lines) + old_count}")
-
-          # --- ЮВЕЛИРНЫЙ БЛОК ПРЕДВАРИТЕЛЬНОЙ ОЧИСТКИ ---
-          clean_lines = []
-          for line in lines:
-              # 1. Базовая дезинфекция (выжигаем невидимые управляющие символы)
-              line = re.sub(r'[\x00-\x1F\x7F]', '', line).strip()
-              if not line or line.startswith('#'): continue
-
-              # 2. Безопасное разрезание "поездов". 
-              # ИСПРАВЛЕНО: Флаг (?i) перенесен в самое начало выражения для совместимости с Python 3.12+
-              line = re.sub(r'(?i)(?:%20|\s)+(?=(?:vmess|vless|trojan|ss|hysteria2|hy2)://)', '\n', line)
-
-              for p in line.split('\n'):
-                  p = p.strip()
-                  if not p: continue
-
-                  # 3. Обрезка мусорных хвостов от иранских парсеров
-                  p = re.sub(r'(?i)(?:vmess|vless|trojan|ss|hysteria2|hy2|```|🔗)+$', '', p).strip()
-
-                  if p.startswith(('vmess://', 'vless://', 'trojan://', 'ss://', 'hysteria2://', 'hy2://')):
-                      clean_lines.append(p)
-                      
-          print(f"🧹 После расшифровки склеек и обрезки мусора получено валидных ссылок: {len(clean_lines)}")
-          # ------------------------------------------------
+          print(f"📊 Всего ссылок в котле до фильтрации: {len(new_lines) + old_count}")
 
           node_groups = {}
           url_to_name = {}
 
-          for line in clean_lines:
+          for line in lines:
+              # 🧹 Санитарный кордон: выжигаем все управляющие и невидимые символы
+              line = re.sub(r'[\x00-\x1F\x7F]', '', line)
+              line = line.strip()
+              if not line or line.startswith('#'): continue
+              
               line = line.replace('&amp;', '&').replace('&amp%3B', '&').replace('%3B', ';').replace('&;', '&').replace('?amp;', '?')
               line = html.unescape(line)
 
@@ -169,7 +149,7 @@ jobs:
           for i in range(0, len(unique_resolved_ips), 100):
               try:
                   batch = unique_resolved_ips[i:i+100]
-                  req = urllib.request.Request('[http://ip-api.com/batch?fields=query,countryCode,country](http://ip-api.com/batch?fields=query,countryCode,country)', data=json.dumps(batch).encode())
+                  req = urllib.request.Request('http://ip-api.com/batch?fields=query,countryCode,country', data=json.dumps(batch).encode())
                   with urllib.request.urlopen(req) as resp:
                       for r in json.loads(resp.read().decode()): ip_info[r.get('query')] = r
               except: pass
@@ -239,7 +219,7 @@ jobs:
               geo = ip_info.get(ip, {})
               links = node_groups[(host, port)]
               links.sort(key=score_link, reverse=True)
-              best_links = links[:5]
+              best_links = links[:8]
               
               for url in best_links:
                   raw_name = url_to_name.get(url, "")
@@ -262,17 +242,16 @@ jobs:
 
           with open('proxy_lists/raw_proxies.txt', 'w', encoding='utf-8') as f:
               f.writelines(header + final_links)
+          EOF
           
-          # Убираем за собой мусор
-          if os.path.exists('proxy_lists/raw_temp.txt'):
-              os.remove('proxy_lists/raw_temp.txt')
-          print("🎉 Успешно завершено!")
+          python3 filter.py
+          rm proxy_lists/raw_temp.txt
 
-      - name: 3. Commit and push changes
+      - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Auto-sync: New raw proxies ready for deep test"
           file_pattern: proxy_lists/raw_proxies.txt
 
-      - name: 4. Ping Phone to start RKN Check
+      - name: Ping Phone to start RKN Check
         run: curl -d "START_TEST" ntfy.sh/${{ secrets.NTFY_TOPIC }}
