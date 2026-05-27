@@ -1,13 +1,12 @@
-# profile-title: 🚀 Telegood VPN (ТОП-32 от 27.05.2026 12:19)
-# 🛡️ Verified Elite: 9
-# 📊 Stats: Вход: 116 | Пинг: 21 | >400KB/s: 12 | Итого в ТОП: 9
+# profile-title: 🚀 Telegood VPN (ТОП-32 от 27.05.2026 13:19)
+# 🛡️ Verified Elite: 8
+# 📊 Stats: Вход: 139 | Пинг: 21 | >400KB/s: 12 | Итого в ТОП: 8
 
+vless://9ebab373-19fe-4535-aa95-4e348ea300f1@212.193.155.32:443?encryption=none&type=ws&security=tls&path=%2Fws&host=s28315.cdn.ngenix.net&sni=s28315.cdn.ngenix.net&fp=chrome&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20%5B2%5D
+vless://9ebab373-19fe-4535-aa95-4e348ea300f1@78.41.110.238:443?encryption=none&type=ws&security=tls&path=%2Fws&host=s28315.cdn.ngenix.net&sni=s28315.cdn.ngenix.net&fp=chrome&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20%5B6%5D
 vless://9ebab373-19fe-4535-aa95-4e348ea300f1@46.235.185.25:443?encryption=none&type=ws&security=tls&path=%2Fws&host=s28315.cdn.ngenix.net&sni=s28315.cdn.ngenix.net&fp=chrome&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20%5B3%5D
-vless://9ebab373-19fe-4535-aa95-4e348ea300f1@s28315.cdn.ngenix.net:443?encryption=none&host=s28315.cdn.ngenix.net&path=%2Fws&security=tls&sni=s28315.cdn.ngenix.net&type=ws&fp=chrome&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20%5B5%5D
-vless://3c40e1d2-80d1-4fe2-82e6-064e38bdf7e5@85.193.91.14:443?type=tcp&security=reality&fp=chrome&pbk=cVCzyZ7hxqDXuv6uf4VDOmI2IOUdVVjoLGiclNiwuRc&sid=af0e&sni=yahoo.com&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B2%5D
-vless://f8820b34-6290-4fe2-8fb5-26f90117a4a5@free05.tunnely.ru:8080?encryption=none&type=ws&path=%2Fws%2F&security=none&fp=chrome&alpn=http%2F1.1#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B1%5D
+vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@l11.l-itx.info:2053?security=tls&type=ws&path=%2Fws&host=itx-server.digital&sni=itx-server.digital&fp=chrome&alpn=http%2F1.1#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B%2ACIDR%5D%20%5B1%5D
+vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@l13.l-itx.info:2053?security=tls&type=ws&path=%2Fws&host=itx-server.digital&sni=itx-server.digital&fp=chrome&alpn=http%2F1.1#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20%5B2%5D
+vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@a.l-itx.info:2053?security=tls&type=ws&path=%2Fws&host=itx-server.digital&sni=89300733153383a5.itx-server.digital&fp=chrome&alpn=http%2F1.1#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20%5B1%5D
+vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@l4.l-itx.info:2053?security=tls&type=ws&path=%2Fws&host=itx-server.digital&sni=itx-server.digital&fp=chrome&alpn=http%2F1.1#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20%5B4%5D
 vless://IR_NETLIFY@89.22.236.213:54346?encryption=none&security=none&type=tcp&headerType=none&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B5%5D
-hysteria2://2f4c3fc5-8fa2-4576-a583-8f98a6026887@hkt.ccwink.cc:56309?sni=hkt.ccwink.cc&insecure=1&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B3%5D
-vless://00000000-0000-4000-8000-000000000000@107.149.239.177:16443?allowInsecure=1&sni=qi4rysu2u-e8j2zzhk.bsld.de5.net&type=ws&host=qi4rysu2u-e8j2zzhk.bsld.de5.net&path=%2F%40Marisa_kristifp%3Dchrome&security=tls&fp=chrome&alpn=http%2F1.1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B10%5D
-hysteria2://6nne3n3cuvhyvdyo@jp.zlr.dpdns.org:14817?alpn=h3&sni=jp.zlr.dpdns.org&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B1%5D
-vless://f7162a02-110c-4966-ba00-c840a9b07980@46.226.166.195:39354?path=%2Fworks&encryption=none&host=46.226.166.195&type=ws&fp=chrome&alpn=http%2F1.1#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B1%5D
