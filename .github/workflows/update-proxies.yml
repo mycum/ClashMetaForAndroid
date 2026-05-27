@@ -36,7 +36,7 @@ jobs:
           print("📂 Загрузка баз...")
           lines = []
           
-          # Читаем скачанные файлы с поддержкой расшифровки Base64-подписок
+          # Читаем исходные файлы
           with open('proxy_lists/raw_temp.txt', 'r', encoding='utf-8') as f:
               raw_content = f.read().splitlines()
 
@@ -45,12 +45,17 @@ jobs:
               line = line.strip()
               if not line: continue
               
-              if re.match(r'^[A-Za-z0-9+/]+={0,2}$', line) and len(line) > 30:
+              # 🔧 ИСПРАВЛЕНО: Агрессивный декодер подписок (URL-safe Base64)
+              if '://' not in line and len(line) > 30:
                   try:
-                      padded = line + "=" * ((4 - len(line) % 4) % 4)
+                      # Приводим URL-safe Base64 к стандарту
+                      b64_string = line.replace('-', '+').replace('_', '/')
+                      padded = b64_string + "=" * ((4 - len(b64_string) % 4) % 4)
                       decoded_text = base64.b64decode(padded).decode('utf-8')
+                      # Если расшифровалось успешно, разбиваем на строки
                       new_lines.extend(decoded_text.splitlines())
                   except:
+                      # Если это был не Base64, оставляем как есть
                       new_lines.append(line)
               else:
                   new_lines.append(line)
@@ -75,7 +80,7 @@ jobs:
                       sni = q.get('sni', [''])[0]
                       if pbk: return (u.hostname, u.port, pbk, sni)
               except: pass
-
+              
               match = re.search(r'@([^/?#]+)', base_url)
               if match:
                   hp = match.group(1)
@@ -117,7 +122,20 @@ jobs:
                               base_url = f"vless://{uuid}@{hp}?type=ws&security={tls}&host={ws_host}&path={urllib.parse.quote(ws_path)}"
                   except: pass
 
-              target = get_node_key(base_url) if base_url.startswith(('vless://', 'trojan://')) else None
+              # 🔧 ИСПРАВЛЕНО: Правильный парсинг для всех протоколов, включая VMESS
+              target = None
+              if base_url.startswith(('vless://', 'trojan://')):
+                  target = get_node_key(base_url)
+              elif base_url.startswith('vmess://'):
+                  try:
+                      b64_str = base_url[8:]
+                      b64_str += "=" * ((4 - len(b64_str) % 4) % 4)
+                      v_json = json.loads(base64.b64decode(b64_str).decode('utf-8'))
+                      host = str(v_json.get('add', ''))
+                      port = int(v_json.get('port', 0))
+                      if host and port: target = (host, port)
+                  except: pass
+
               if not target:
                   match = re.search(r'@([^/?#]+)', base_url)
                   if match:
@@ -136,7 +154,9 @@ jobs:
               try:
                   ip = socket.gethostbyname(host)
                   if is_udp_only: return target_key, ip
-                  s = socket.create_connection((ip, int(target_key[1])), timeout=3)
+                  
+                  # 🔧 ИСПРАВЛЕНО: Честный TCP-пинг с жестким таймаутом (1.2 сек)
+                  s = socket.create_connection((ip, int(target_key[1])), timeout=1.2)
                   s.close()
                   return target_key, ip
               except: return target_key, None
@@ -179,7 +199,6 @@ jobs:
               if any(x.startswith('trojan://') for x in links): return 5
               return 3
 
-          # 🔧 ИСПРАВЛЕНО: Теперь функция принимает красивое имя и вшивает именно его в финальную ссылку
           def parse_to_mihomo(link, node_name, beautiful_name):
               try:
                   link = link.strip()
@@ -278,21 +297,17 @@ jobs:
               for url in best_links:
                   raw_name = url_to_name.get(url, "")
                   
-                  # 🔧 ИСПРАВЛЕНО: Жесткая диктатура гео-имен.
                   cc = geo.get('countryCode')
                   country = geo.get('country')
                   
                   if cc and country:
                       base_name = f"{get_flag(cc)} {country}"
-                      # Если в оригинале была важная пометка CIDR, сохраняем её
                       if "CIDR" in raw_name.upper():
                           base_name += " [*CIDR]"
                   else:
-                      # Если гео-данных нет, чистим оригинальное имя от спама
                       clean_name = re.sub(r'(?i)(telegram|t\.me|@)\S*', '', raw_name)
                       clean_name = re.sub(r'[\[\]\(\)]', '', clean_name)
                       base_name = clean_name.split('|')[0].split(',')[0].strip()
-                      # Если имя оказалось пустым или системным Node_, ставим Землю
                       if not base_name or base_name.startswith("Node_"): 
                           base_name = "🌍 Unknown"
 
@@ -300,7 +315,6 @@ jobs:
                   node_name = f"Node_{len(final_json_data)}"
                   final_name = f"{base_name} [{name_counts[base_name]}]"
                   
-                  # Передаем красивое имя в парсер, чтобы оно легло в основу ссылки
                   parsed_obj = parse_to_mihomo(url, node_name, final_name)
                   if parsed_obj:
                       parsed_obj["config"]["name"] = node_name
