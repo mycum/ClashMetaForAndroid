@@ -230,21 +230,30 @@ jobs:
                       return f"{new_url}#{urllib.parse.quote(final_name)}\n"
                   except: return f"{url}#{urllib.parse.quote(final_name)}\n"
 
+          # ... (код выше) ...
+          
           final_links = []
           name_counts = {}
-          for (host, port), ip in alive_ips.items():
+
+          # ЗАМЕНИТЬ НА ЭТОТ БЛОК:
+          for hp, ip in alive_ips.items():
               geo = ip_info.get(ip, {})
-              links = node_groups[(host, port)]
+              # Используем весь ключ hp, так как он может быть (host, port) или (host, port, pbk, sni)
+              links = node_groups[hp] 
               links.sort(key=score_link, reverse=True)
               best_links = links[:max_variants(links)]
+              
               for url in best_links:
+                  # ... (остальной код внутри цикла остается прежним) ...
                   raw_name = url_to_name.get(url, "")
                   if not raw_name or "Anycast" in raw_name or "🌐" in raw_name:
                       cc = geo.get('countryCode')
                       base_name = f"{get_flag(cc)} {geo.get('country', 'Unknown')}"
                   else: base_name = raw_name.split('|')[0].split(',')[0].strip()
+
                   name_counts[base_name] = name_counts.get(base_name, 0) + 1
                   final_name = f"{base_name} [{name_counts[base_name]}]"
+                  
                   normalized = normalize_and_format(url, final_name)
                   if normalized: final_links.append(normalized)
 
