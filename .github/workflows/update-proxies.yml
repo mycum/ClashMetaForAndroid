@@ -39,6 +39,14 @@ jobs:
               lines.extend(new_lines)
           print(f"   📥 Получено свежих ссылок: {len(new_lines)}")
 
+          if os.path.exists('proxy_lists/fixed_proxies.txt'):
+              print("💾 Поднятие старого золотого запаса...")
+              with open('proxy_lists/fixed_proxies.txt', 'r', encoding='utf-8') as f:
+                  old_lines = f.readlines()
+                  old_count = len([l for l in old_lines if not l.startswith('#') and l.strip()])
+                  lines.extend(old_lines)
+              print(f"   🛡️ Из текущего файла добавлено: {old_count} ссылок")
+
           # Мы убрали чтение старого fixed_proxies.txt, так как теперь работаем с JSON-архитектурой.
           # При необходимости телефон сам может хранить локальный кэш лучших серверов.
 
