@@ -27,6 +27,7 @@ jobs:
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/trojan.txt >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/vless.txt >> proxy_lists/raw_temp.txt
           
           cat << 'EOF' > filter.py
           import urllib.request, json, re, socket, urllib.parse, base64, html, os, time
@@ -35,6 +36,7 @@ jobs:
           print("📂 Загрузка баз...")
           lines = []
           
+          # Читаем скачанные файлы с поддержкой расшифровки Base64-подписок
           with open('proxy_lists/raw_temp.txt', 'r', encoding='utf-8') as f:
               raw_content = f.read().splitlines()
 
@@ -43,16 +45,12 @@ jobs:
               line = line.strip()
               if not line: continue
               
-              # Детектор подписок: если строка состоит только из символов Base64 и не имеет протокола (://)
               if re.match(r'^[A-Za-z0-9+/]+={0,2}$', line) and len(line) > 30:
                   try:
-                      # Добавляем выравнивание (padding) на случай, если ссылка обрезана
                       padded = line + "=" * ((4 - len(line) % 4) % 4)
                       decoded_text = base64.b64decode(padded).decode('utf-8')
-                      # Разбиваем декодированную простыню на отдельные ссылки и добавляем в котел
                       new_lines.extend(decoded_text.splitlines())
                   except:
-                      # Если не расшифровалось, оставляем как есть
                       new_lines.append(line)
               else:
                   new_lines.append(line)
@@ -67,9 +65,6 @@ jobs:
                   old_count = len([l for l in old_lines if not l.startswith('#') and l.strip()])
                   lines.extend(old_lines)
               print(f"   🛡️ Из текущего файла добавлено: {old_count} ссылок")
-
-          # Мы убрали чтение старого fixed_proxies.txt, так как теперь работаем с JSON-архитектурой.
-          # При необходимости телефон сам может хранить локальный кэш лучших серверов.
 
           def get_node_key(base_url):
               try:
@@ -103,7 +98,6 @@ jobs:
               raw_name = urllib.parse.unquote(parts[1]) if len(parts) > 1 else ""
               raw_name = re.sub(r'\s*\[\d+\]$', '', raw_name)
               
-              # Базовая конвертация SS в VLESS (как было раньше)
               if base_url.startswith('ss://'):
                   try:
                       match = re.search(r'ss://([^@]+)@([^/?#]+)/?\?([^#]+)', base_url)
@@ -164,7 +158,7 @@ jobs:
                       for r in json.loads(resp.read().decode()): ip_info[r.get('query')] = r
               except Exception as e:
                   print(f"IP-API Batch Warning: {e}")
-              time.sleep(1.5) # Защита от лимитов
+              time.sleep(1.5)
 
           def get_flag(c): return chr(ord(c[0]) + 127397) + chr(ord(c[1]) + 127397) if (c and len(c)==2) else "🌍"
           
@@ -185,13 +179,13 @@ jobs:
               if any(x.startswith('trojan://') for x in links): return 5
               return 3
 
-          def parse_to_mihomo(link, node_name):
-              """Парсит URI в готовый словарь конфигурации Mihomo"""
+          # 🔧 ИСПРАВЛЕНО: Теперь функция принимает красивое имя и вшивает именно его в финальную ссылку
+          def parse_to_mihomo(link, node_name, beautiful_name):
               try:
                   link = link.strip()
                   parts = link.split('#')
                   main_part = parts[0]
-                  safe_link = f"{main_part}#{urllib.parse.quote(node_name)}"
+                  safe_link = f"{main_part}#{urllib.parse.quote(beautiful_name)}"
                   
                   if main_part.startswith('vmess://'):
                       b64_str = main_part[8:]
@@ -283,20 +277,33 @@ jobs:
               
               for url in best_links:
                   raw_name = url_to_name.get(url, "")
-                  if not raw_name or "Anycast" in raw_name or "🌐" in raw_name:
-                      cc = geo.get('countryCode')
-                      base_name = f"{get_flag(cc)} {geo.get('country', 'Unknown')}"
-                  else: base_name = raw_name.split('|')[0].split(',')[0].strip()
+                  
+                  # 🔧 ИСПРАВЛЕНО: Жесткая диктатура гео-имен.
+                  cc = geo.get('countryCode')
+                  country = geo.get('country')
+                  
+                  if cc and country:
+                      base_name = f"{get_flag(cc)} {country}"
+                      # Если в оригинале была важная пометка CIDR, сохраняем её
+                      if "CIDR" in raw_name.upper():
+                          base_name += " [*CIDR]"
+                  else:
+                      # Если гео-данных нет, чистим оригинальное имя от спама
+                      clean_name = re.sub(r'(?i)(telegram|t\.me|@)\S*', '', raw_name)
+                      clean_name = re.sub(r'[\[\]\(\)]', '', clean_name)
+                      base_name = clean_name.split('|')[0].split(',')[0].strip()
+                      # Если имя оказалось пустым или системным Node_, ставим Землю
+                      if not base_name or base_name.startswith("Node_"): 
+                          base_name = "🌍 Unknown"
 
                   name_counts[base_name] = name_counts.get(base_name, 0) + 1
-                  node_name = f"Node_{len(final_json_data)}" # Уникальный ID для Mihomo
-                  final_name = f"{base_name} [{name_counts[base_name]}]" # Красивое имя для ссылки
+                  node_name = f"Node_{len(final_json_data)}"
+                  final_name = f"{base_name} [{name_counts[base_name]}]"
                   
-                  parsed_obj = parse_to_mihomo(url, node_name)
+                  # Передаем красивое имя в парсер, чтобы оно легло в основу ссылки
+                  parsed_obj = parse_to_mihomo(url, node_name, final_name)
                   if parsed_obj:
-                      # Сохраняем и красивое имя внутри конфига, если нужно, но лучше использовать node_name как ID
                       parsed_obj["config"]["name"] = node_name
-                      # Добавим meta-данные для тестера
                       parsed_obj["meta"] = {
                           "original_name": final_name,
                           "host_ip": ip
