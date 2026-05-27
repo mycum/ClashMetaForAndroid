@@ -120,7 +120,7 @@ jobs:
 
           print("⚡ Умный пинг серверов (TCP + UDP Bypass)...")
           alive_ips = {}
-          with ThreadPoolExecutor(max_workers=80) as executor:
+          with ThreadPoolExecutor(max_workers=40) as executor:
               for target_key, ip in executor.map(check_node, node_groups.keys()):
                   if ip: alive_ips[target_key] = ip
 
