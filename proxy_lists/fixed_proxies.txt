@@ -1,16 +1,12 @@
-# profile-title: 🚀 Telegood VPN (ТОП-32 от 28.05.2026 14:02)
-# 🛡️ Verified Elite: 12
-# 📊 Stats: Вход: 503 | Пинг: 42 | >400KB/s: 12 | Итого в ТОП: 12
+# profile-title: 🚀 Telegood VPN (ТОП-32 от 28.05.2026 14:27)
+# 🛡️ Verified Elite: 8
+# 📊 Stats: Вход: 487 | Пинг: 16 | >400KB/s: 8 | Итого в ТОП: 8
 
 trojan://mitivpn@14.102.228.76:443?type=ws&security=tls&path=/?ed=2048&sni=www.app-cloud.ir&alpn=http/1.1&fp=chrome&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B1%5D
-vless://e258977b-e413-4718-a3af-02d75492c349@81.255.155.10:443?encryption=none&type=ws&security=tls&path=%2F&host=jp.aniua.qzz.io&sni=jp.aniua.qzz.io&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B11%5D
-vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@l11.l-itx.info:2053?fp=&headertype=&host=itx-server.digital&path=%2Fws&security=tls&sni=itx-server.digital&type=ws#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B%2ACIDR%5D%20%5B1%5D
-vless://f4bad870-4b45-4a46-bec6-d05fa31df1cb@nl.clgate.network:443?fp=chrome&headertype=none&host=m.twitch.tv&path=%2F&pbk=r2B2KwffHmyjWrmwKmI0o3uW9UEsn2l_Ko0UmyTjKgM&security=reality&sni=m.twitch.tv&type=xhttp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B%2ACIDR%5D%20%5B2%5D
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@de.sbrf-cdn342.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=qq&sni=sub.sbrf-cdn342.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20%5B2%5D
-vless://7841aff6-8552-4f8e-ad0c-06c3b73e6440@77.233.221.8:443?security=reality&sni=us.moktana.app&type=grpc&serviceName=moktana.net.v1.StreamService&fp=chrome&pbk=_yzmX8WwaZJD4ddVgOZWJsx6r0lJzhTrTbkQLhwiWXk&sid=c8540a3e9e1d8136#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B17%5D
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?alpn=http%2F1.1&flow=xtls-rprx-vision&headertype=none&host=nl-tx.sbrf-cdn342.ru&path=%2F&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B10%5D
+vless://e258977b-e413-4718-a3af-02d75492c349@81.255.155.10:443?encryption=none&type=ws&security=tls&path=%2F&host=jp.aniua.qzz.io&sni=jp.aniua.qzz.io&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B10%5D
 vless://5610a52c-48e0-4e8c-9230-fb302b04d02e@ss.ll0ll.vip:2096?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B1%5D
-vless://e258977b-e413-4718-a3af-02d75492c349@81.255.155.10:443?encryption=none&type=ws&security=tls&path=/&host=jp.aniua.qzz.io&sni=jp.aniua.qzz.io&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B10%5D
-vless://f4bad870-4b45-4a46-bec6-d05fa31df1cb@nl.clgate.network:443?encryption=none&type=xhttp&path=%2F&host=m.twitch.tv&mode=stream-up&security=reality&sni=m.twitch.tv&fp=chrome&pbk=r2B2KwffHmyjWrmwKmI0o3uW9UEsn2l_Ko0UmyTjKgM#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B%2ACIDR%5D%20%5B1%5D
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=sub.sbrf-cdn342.ru&fp=chrome&alpn=http/1.1&flow=xtls-rprx-vision&insecure=0#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B12%5D
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@37.49.229.87:443?type=tcp&headerType=none&security=tls&encryption=none&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=0#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B9%5D
+vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@l11.l-itx.info:2053?fp=&headertype=&host=itx-server.digital&path=%2Fws&security=tls&sni=itx-server.digital&type=ws#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B%2ACIDR%5D%20%5B1%5D
+vless://7841aff6-8552-4f8e-ad0c-06c3b73e6440@77.233.221.8:443?security=reality&sni=us.moktana.app&type=grpc&serviceName=moktana.net.v1.StreamService&fp=chrome&pbk=_yzmX8WwaZJD4ddVgOZWJsx6r0lJzhTrTbkQLhwiWXk&sid=c8540a3e9e1d8136#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B16%5D
+hysteria2://6d49fae1-374d-313e-b360-1227b0ea8dea@s663.ccgfw.top:443?sni=s663.ccgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B8%5D
+vless://e3c68e9e-5bf3-4e4b-abac-806053baa43a@uss.mynethub99.top:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B10%5D
+vless://e258977b-e413-4718-a3af-02d75492c349@81.255.155.10:443?encryption=none&type=ws&security=tls&path=/&host=jp.aniua.qzz.io&sni=jp.aniua.qzz.io&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B9%5D
