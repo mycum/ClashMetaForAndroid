@@ -219,7 +219,21 @@ jobs:
                       b64_str = main_part[8:]
                       b64_str += "=" * ((4 - len(b64_str) % 4) % 4)
                       v = json.loads(base64.urlsafe_b64decode(b64_str).decode('utf-8'))
-                      base = {"name": node_name, "type": "vmess", "server": str(v.get("add", "")), "port": int(v.get("port", 0)), "uuid": str(v.get("id", "")), "alterId": int(v.get("aid", 0)), "cipher": v.get("scy", "auto"), "network": v.get("net", "tcp"), "udp": True}
+                      
+                      # Защита от пустых строк в типе шифрования (cipher)
+                      cipher_type = v.get("scy") or "auto"
+                      
+                      base = {
+                          "name": node_name, 
+                          "type": "vmess", 
+                          "server": str(v.get("add", "")), 
+                          "port": int(v.get("port", 0)), 
+                          "uuid": str(v.get("id", "")), 
+                          "alterId": int(v.get("aid", 0)), 
+                          "cipher": cipher_type, 
+                          "network": v.get("net", "tcp"), 
+                          "udp": True
+                      }
                       if str(v.get("tls")) == "tls":
                           base["tls"] = True
                           base["skip-cert-verify"] = True
@@ -274,8 +288,10 @@ jobs:
                       
                       if sec == 'reality':
                           base["reality-opts"] = {"public-key": get_param('pbk'), "short-id": get_param('sid')}
-                      elif sec == 'tls':
-                          if get_param('flow') == 'xtls-rprx-vision': base['flow'] = 'xtls-rprx-vision'
+                      
+                      flow = get_param('flow')
+                      if flow:
+                          base['flow'] = flow
 
                       if base["network"] == "ws":
                           base["alpn"] = [get_param('alpn', 'http/1.1')]
