@@ -1,0 +1,114 @@
+# ====================================================
+# АНТИ-ШПИОНАЖ И ОБХОД БЛОКИРОВОК (DIRECT)
+# ====================================================
+
+# --- АГРЕССИВНЫЕ СКАНЕРЫ VPN И СБОРЩИКИ ПАКЕТОВ (Данные 2026 г.) ---
+PROCESS-NAME,com.wildberries.ru
+PROCESS-NAME,ru.dublgis.dgismobile
+PROCESS-NAME,ru.mts.mymts
+PROCESS-NAME,ru.ozon.app.android
+PROCESS-NAME,ru.sberbank.sbermegamarket
+PROCESS-NAME,ru.vk.store
+PROCESS-NAME,ru.ok.android
+PROCESS-NAME,com.avito.android
+
+# --- ЭКОСИСТЕМА ЯНДЕКС ---
+PROCESS-NAME,com.yandex.browser
+PROCESS-NAME,com.yandex.browser.lite
+PROCESS-NAME,com.yandex.browser.beta
+PROCESS-NAME,com.yandex.browser.alpha
+PROCESS-NAME,ru.yandex.searchplugin
+PROCESS-NAME,com.yandex.searchapp
+PROCESS-NAME,ru.yandex.yandexmaps
+PROCESS-NAME,ru.yandex.yandexnavi
+PROCESS-NAME,ru.yandex.metro
+PROCESS-NAME,ru.yandex.taxi
+PROCESS-NAME,ru.yandex.taximeter
+PROCESS-NAME,ru.yandex.eda
+PROCESS-NAME,com.yandex.lavka
+PROCESS-NAME,com.edadeal.android
+PROCESS-NAME,ru.yandex.music
+PROCESS-NAME,ru.kinopoisk
+PROCESS-NAME,ru.yandex.shedevrum
+PROCESS-NAME,ru.yandex.telemost
+PROCESS-NAME,ru.yandex.disk
+PROCESS-NAME,com.yandex.mobile.realty
+PROCESS-NAME,ru.auto.ara
+PROCESS-NAME,ru.yandex.games
+
+# --- СТРИМИНГИ И ГОСМЕДИА ---
+PROCESS-NAME,ru.mts.mtstv
+PROCESS-NAME,ru.megafon.tv
+PROCESS-NAME,ru.start.android
+PROCESS-NAME,ru.rt.video
+PROCESS-NAME,com.smotrim.generic
+PROCESS-NAME,ru.rutube.app
+PROCESS-NAME,premier.one
+PROCESS-NAME,ru.okko.tv
+
+# --- БАНКИ И ФИНТЕХ ---
+PROCESS-NAME,ru.sberbankmobile
+PROCESS-NAME,ru.vtb.invest
+PROCESS-NAME,com.ida.tinkoff.mb
+PROCESS-NAME,ru.alfabank.mobile.android
+PROCESS-NAME,ru.gazprombank.android
+PROCESS-NAME,ru.sovcomcard.halva
+PROCESS-NAME,ru.psbank.retail
+PROCESS-NAME,ru.rshb.retail
+PROCESS-NAME,ru.raiffeisennews
+PROCESS-NAME,ru.pochtabank.mobile
+PROCESS-NAME,ru.uralsib.mb.retail
+PROCESS-NAME,ru.rosbank.android
+PROCESS-NAME,finance.ozon.app
+
+# --- ЭКОСИСТЕМА VK И MAIL.RU ---
+PROCESS-NAME,com.vkontakte.android
+PROCESS-NAME,com.vk.im
+PROCESS-NAME,com.vk.music
+PROCESS-NAME,ru.vk.video
+PROCESS-NAME,com.zen.android
+PROCESS-NAME,ru.mail.mailapp
+PROCESS-NAME,ru.mail.cloud
+PROCESS-NAME,ru.mail.sputnik
+
+# --- СПЕЦИФИЧНЫЕ МЕССЕНДЖЕРЫ И СЕРВИСЫ ДОСТАВКИ ---
+PROCESS-NAME,app.telega.messenger
+PROCESS-NAME,com.max.messenger
+PROCESS-NAME,ru.icq.mobile.client
+PROCESS-NAME,ru.sbcs.client             # Самокат
+PROCESS-NAME,com.smartspace.samokat     # Самокат (альтернативный пакет)
+
+# --- ОПЕРАТОРЫ И ПРОЧИЕ ГОССЕРВИСЫ ---
+PROCESS-NAME,ru.megafon.mlk
+PROCESS-NAME,ru.beeline.services
+PROCESS-NAME,ru.tele2.mytele2
+PROCESS-NAME,com.tinkoff.mobilenetwork
+PROCESS-NAME,ru.gosuslugi.mp
+PROCESS-NAME,ru.nspk.mirpay
+PROCESS-NAME,ru.smpay.android
+PROCESS-NAME,com.gnivc.umn
+PROCESS-NAME,ru.fns.bill
+PROCESS-NAME,ru.rzd.pass
+
+# ----------------------------------------------------
+# ДОМЕНЫ И КОРНЕВЫЕ ЗОНЫ
+# ----------------------------------------------------
+
+# --- КОРНЕВЫЕ РОССИЙСКИЕ ЗОНЫ (Решение проблемы Geo-блокировки) ---
+# Весь трафик в эти зоны пойдет напрямую, минуя VPN
+DOMAIN-SUFFIX,ru
+DOMAIN-SUFFIX,su
+DOMAIN-SUFFIX,xn--p1ai
+DOMAIN-SUFFIX,by              # Беларусь (опционально, но связано с РФ)
+DOMAIN-SUFFIX,kz              # Казахстан (опционально)
+
+# --- РОССИЙСКИЕ СЕРВИСЫ В МЕЖДУНАРОДНЫХ ЗОНАХ ---
+# Если сервис использует .com/.net/.me, он не попадет под зоны выше, 
+# поэтому их нужно указать явно
+DOMAIN-SUFFIX,vk.com
+DOMAIN-SUFFIX,mycdn.me
+DOMAIN-SUFFIX,yandex.net
+DOMAIN-SUFFIX,yastatic.net
+DOMAIN-SUFFIX,tamtam.chat
+DOMAIN-KEYWORD,yandex
+DOMAIN-KEYWORD,vkontakte
