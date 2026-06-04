@@ -112,19 +112,23 @@ jobs:
                   except: pass
               ss_converted_lines.append((base_url, raw_name))
 
-          def get_host_port(url):
-              if url.startswith('vmess://'):
-                  try:
-                      b64_str = url[8:]
-                      b64_str += "=" * ((4 - len(b64_str) % 4) % 4)
-                      v_json = json.loads(base64.urlsafe_b64decode(b64_str).decode('utf-8'))
-                      return (str(v_json.get('add', '')), int(v_json.get('port', 0)))
-                  except: return None
-              match = re.search(r'@([^/?#]+)', url)
-              if match:
-                  hp = match.group(1).split(':')
-                  if len(hp) == 2: return (hp[0], int(hp[1]))
-              return None
+         def get_host_port(url):
+                if url.startswith('vmess://'):
+                    try:
+                        b64_str = url[8:]
+                        b64_str += "=" * ((4 - len(b64_str) % 4) % 4)
+                        v_json = json.loads(base64.urlsafe_b64decode(b64_str).decode('utf-8'))
+                        return (str(v_json.get('add', '')), int(v_json.get('port', 0)))
+                    except: return None
+                match = re.search(r'@([^/?#]+)', url)
+                if match:
+                    hp = match.group(1).split(':')
+                    if len(hp) == 2:
+                        try:
+                            return (hp[0], int(hp[1]))
+                        except ValueError:
+                            return None
+                return None
 
           unique_hw_map = {}
           for base_url, raw_name in ss_converted_lines:
