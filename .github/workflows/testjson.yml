@@ -368,3 +368,7 @@ jobs:
         with:
           commit_message: "Auto-sync: Proxies tested and saved in TXT and JSON"
           file_pattern: proxy_lists/*
+
+      # --- ПИНОК ДЛЯ ТЕЛЕФОНА ДОБАВЛЕН СЮДА ---
+      - name: Ping Phone to start Test
+        run: curl -d "START_TEST" ntfy.sh/${{ secrets.NTFY_TOPIC }}
