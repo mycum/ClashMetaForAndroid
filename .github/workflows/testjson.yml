@@ -1,0 +1,370 @@
+name: Test Proxies
+
+on:
+  schedule:
+    - cron: '17 1 * 1 *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-list:
+    runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Process and Ping Proxy List
+        run: |
+          mkdir -p proxy_lists
+          
+          # Скачиваем новые базы Игарька
+          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt > proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt >> proxy_lists/raw_temp.txt
+          
+          cat << 'EOF' > filter.py
+          import urllib.request, json, re, socket, urllib.parse, base64, html, os
+          from concurrent.futures import ThreadPoolExecutor
+
+          print("📂 Загрузка новых баз от Игарька...")
+          lines = []
+          
+          with open('proxy_lists/raw_temp.txt', 'r', encoding='utf-8') as f:
+              new_lines = f.readlines()
+              lines.extend(new_lines)
+          print(f"   📥 Получено свежих ссылок: {len(new_lines)}")
+
+          old_count = 0
+          if os.path.exists('proxy_lists/fixed_proxies.txt'):
+              print("💾 Поднятие старого золотого запаса...")
+              with open('proxy_lists/fixed_proxies.txt', 'r', encoding='utf-8') as f:
+                  old_lines = f.readlines()
+                  old_count = len([l for l in old_lines if not l.startswith('#') and l.strip()])
+                  lines.extend(old_lines)
+              print(f"   🛡️ Из текущего файла добавлено: {old_count} ссылок")
+          
+          print(f"📊 Всего ссылок в котле до фильтрации: {len(new_lines) + old_count}")
+
+          node_groups = {}
+          url_to_name = {}
+
+          for line in lines:
+              # 🧹 Санитарный кордон: выжигаем все управляющие и невидимые символы
+              line = re.sub(r'[\x00-\x1F\x7F]', '', line)
+              line = line.strip()
+              if not line or line.startswith('#'): continue
+              
+              line = line.replace('&amp;', '&').replace('&amp%3B', '&').replace('%3B', ';').replace('&;', '&').replace('?amp;', '?')
+              line = html.unescape(line)
+
+              parts = line.split('#')
+              base_url = parts[0]
+              
+              raw_name = urllib.parse.unquote(parts[1]) if len(parts) > 1 else ""
+              raw_name = re.sub(r'\s*\[\d+\]$', '', raw_name)
+              
+              target = None
+
+              if base_url.startswith('vmess://'):
+                  try:
+                      b64_str = base_url[8:]
+                      b64_str += "=" * ((4 - len(b64_str) % 4) % 4)
+                      v_json = json.loads(base64.b64decode(b64_str).decode('utf-8'))
+                      host = str(v_json.get('add', ''))
+                      port = int(v_json.get('port', 0))
+                      if host and port: target = (host, port)
+                  except: pass
+              else:
+                  if base_url.startswith('ss://'):
+                      try:
+                          match = re.search(r'ss://([^@]+)@([^/?#]+)/?\?([^#]+)', base_url)
+                          if match:
+                              b64, hp, q = match.groups()
+                              b64 += "=" * ((4 - len(b64) % 4) % 4)
+                              userinfo = base64.b64decode(b64).decode('utf-8')
+                              
+                              if userinfo.startswith('none:'):
+                                  uuid = userinfo.split(':', 1)[1]
+                                  q = urllib.parse.unquote(q)
+                                  opts = q.split(';') if ';' in q else urllib.parse.parse_qs(q).get('plugin', [''])[0].split(';')
+                                  ws_host, ws_path, tls = "", "/", "none"
+                                  for opt in opts:
+                                      if opt.startswith('host='): ws_host = opt[5:]
+                                      elif opt.startswith('path='): ws_path = opt[5:]
+                                      elif opt == 'tls': tls = "tls"
+                                  base_url = f"vless://{uuid}@{hp}?type=ws&security={tls}&host={ws_host}&path={urllib.parse.quote(ws_path)}"
+                      except: pass
+                      
+                      try:
+                          match = re.search(r'ss://([^@]+)@', base_url)
+                          if match:
+                              b64 = match.group(1)
+                              b64 += "=" * ((4 - len(b64) % 4) % 4)
+                              userinfo = base64.b64decode(b64).decode('utf-8')
+                              if ':' in userinfo:
+                                  method, password = userinfo.split(':', 1)
+                                  if method.lower() == 'auto':
+                                      new_b64 = base64.b64encode(f"chacha20-ietf-poly1305:{password}".encode('utf-8')).decode('utf-8')
+                                      base_url = base_url.replace(match.group(1), new_b64)
+                      except: pass
+
+                  match = re.search(r'@([^/?#]+)', base_url)
+                  if match:
+                      hp = match.group(1)
+                      hp_parts = hp.split(':')
+                      if len(hp_parts) == 2:
+                          target = (hp_parts[0], int(hp_parts[1]))
+
+              if target:
+                  if target not in node_groups: node_groups[target] = []
+                  if base_url not in node_groups[target]:
+                      node_groups[target].append(base_url)
+                      url_to_name[base_url] = raw_name
+
+          def check_node(hp):
+              host, port = hp
+              is_udp_only = any(url.startswith('hysteria') or url.startswith('hy2') for url in node_groups[hp])
+              try:
+                  ip = socket.gethostbyname(host)
+                  if is_udp_only: return hp, ip
+                  s = socket.create_connection((ip, port), timeout=3)
+                  s.close()
+                  return hp, ip
+              except: return hp, None
+
+          print("⚡ Умный пинг серверов (TCP + UDP Bypass)...")
+          alive_ips = {}
+          with ThreadPoolExecutor(max_workers=40) as executor:
+              results = executor.map(check_node, node_groups.keys())
+              for hp, ip in results:
+                  if ip: alive_ips[hp] = ip
+
+          unique_resolved_ips = list(set(alive_ips.values()))
+          ip_info = {}
+          for i in range(0, len(unique_resolved_ips), 100):
+              try:
+                  batch = unique_resolved_ips[i:i+100]
+                  req = urllib.request.Request('http://ip-api.com/batch?fields=query,countryCode,country', data=json.dumps(batch).encode())
+                  with urllib.request.urlopen(req) as resp:
+                      for r in json.loads(resp.read().decode()): ip_info[r.get('query')] = r
+              except: pass
+
+          def get_flag(c): return chr(ord(c[0]) + 127397) + chr(ord(c[1]) + 127397) if (c and len(c)==2) else "🌍"
+          
+          def score_link(url):
+              score = 0
+              if 'flow=xtls-rprx-vision' in url: score += 10
+              if 'type=grpc' in url: score += 8
+              if 'hysteria2://' in url or 'hy2://' in url: score += 7
+              if 'trojan://' in url: score += 6
+              if 'type=ws' in url: score += 5
+              if 'vmess://' in url: score += 4
+              return score
+
+          def normalize_and_format(url, final_name):
+              if url.startswith('vmess://'):
+                  try:
+                      b64_str = url[8:]
+                      b64_str += "=" * ((4 - len(b64_str) % 4) % 4)
+                      v_json = json.loads(base64.b64decode(b64_str).decode('utf-8'))
+                      v_json['ps'] = final_name
+                      if str(v_json.get('tls')) == 'tls':
+                          v_json['fp'] = 'chrome'
+                          if not v_json.get('sni'): v_json['sni'] = v_json.get('host', v_json.get('add', ''))
+                      if str(v_json.get('net')) == 'ws':
+                          v_json['alpn'] = 'http/1.1'
+                      new_b64 = base64.b64encode(json.dumps(v_json, separators=(',', ':')).encode('utf-8')).decode('utf-8')
+                      return f"vmess://{new_b64}\n"
+                  except: return None
+              else:
+                  try:
+                      u = urllib.parse.urlparse(url)
+                      q_dict = urllib.parse.parse_qs(u.query.replace('%3B', '&').replace(';', '&'))
+                      
+                      def set_val(k, v): q_dict[k] = [v]
+                      def get_val(k): return q_dict.get(k, [''])[0]
+
+                      if u.scheme in ['trojan', 'vless']:
+                          set_val('fp', 'chrome')
+                          is_tls = get_val('security') in ['tls', 'xtls', 'reality'] or u.port in [443, 8443, 2053, 2083]
+                          if is_tls:
+                              if not get_val('security'): set_val('security', 'tls')
+                              sni = get_val('sni') or get_val('peer') or get_val('host')
+                              if sni: set_val('sni', sni)
+                              elif u.hostname and not re.match(r'^\d+\.\d+\.\d+\.\d+$', u.hostname): set_val('sni', u.hostname)
+                          
+                          if get_val('type') == 'ws' or get_val('path'):
+                              set_val('type', 'ws')
+                              set_val('alpn', 'http/1.1')
+                              if not get_val('path'): set_val('path', '/')
+                      elif u.scheme in ['hysteria2', 'hy2']:
+                          set_val('fp', 'chrome')
+                          sni = get_val('sni') or u.hostname
+                          set_val('sni', sni)
+
+                      new_query = urllib.parse.urlencode(q_dict, doseq=True)
+                      new_url = urllib.parse.urlunparse((u.scheme, u.netloc, u.path, u.params, new_query, ""))
+                      return f"{new_url}#{urllib.parse.quote(final_name)}\n"
+                  except: return f"{url}#{urllib.parse.quote(final_name)}\n"
+
+          def parse_to_mihomo(link, node_name, beautiful_name):
+              try:
+                  link = link.strip()
+                  parts = link.split('#')
+                  main_part = parts[0]
+                  safe_link = f"{main_part}#{urllib.parse.quote(beautiful_name)}"
+                  
+                  if main_part.startswith('vmess://'):
+                      b64_str = main_part[8:]
+                      b64_str += "=" * ((4 - len(b64_str) % 4) % 4)
+                      v = json.loads(base64.urlsafe_b64decode(b64_str).decode('utf-8'))
+                      cipher_type = v.get("scy") or "auto"
+                      base = {
+                          "name": node_name, "type": "vmess", "server": str(v.get("add", "")), 
+                          "port": int(v.get("port", 0)), "uuid": str(v.get("id", "")), 
+                          "alterId": int(v.get("aid", 0)), "cipher": cipher_type, 
+                          "network": v.get("net", "tcp"), "udp": True
+                      }
+                      if str(v.get("tls")) == "tls":
+                          base["tls"] = True
+                          base["skip-cert-verify"] = True
+                          base["client-fingerprint"] = v.get("fp", "chrome")
+                          sni = v.get("sni") or v.get("host")
+                          if sni: base["servername"] = str(sni)
+                      if base["network"] == "ws":
+                          if v.get("alpn"): base["alpn"] = [v.get("alpn")]
+                          path = str(v.get("path", "/"))
+                          if not path.startswith('/'): path = '/' + path
+                          base["ws-opts"] = {"path": path}
+                          if v.get("host"): base["ws-opts"]["headers"] = {"Host": str(v.get("host"))}
+                      return {"config": base, "link": safe_link}
+
+                  u = urllib.parse.urlparse(main_part)
+                  query_str = u.query.replace('%3B', '&').replace(';', '&').replace('&amp;', '&')
+                  
+                  def get_param(name, default=""):
+                      m = re.search(r'[?&]' + name + r'=([^&]+)', '?' + query_str)
+                      return urllib.parse.unquote(m.group(1)) if m else default
+
+                  base = {"name": node_name, "server": u.hostname, "port": int(u.port), "udp": True}
+                  password = urllib.parse.unquote(u.username) if u.username else ""
+
+                  if u.scheme == "trojan":
+                      base.update({"type": "trojan", "password": password, "skip-cert-verify": True, "client-fingerprint": get_param('fp', 'chrome')})
+                      sni = get_param('sni') or get_param('peer') or get_param('host')
+                      if get_param('security', 'tls') in ['tls', 'xtls'] or u.port in [443, 8443, 2053, 2083]:
+                          base["tls"] = True
+                          if sni: base["sni"] = sni
+                          elif u.hostname and not re.match(r'^\d+\.\d+\.\d+\.\d+$', u.hostname): base["sni"] = u.hostname
+                      net_type = get_param('type', 'tcp')
+                      if net_type == "ws" or get_param('path'):
+                          base["network"] = "ws"
+                          base["alpn"] = [get_param('alpn', 'http/1.1')]
+                          path = get_param('path', '/')
+                          if not path.startswith('/'): path = '/' + path
+                          base["ws-opts"] = {"path": path}
+                          host = get_param('host') or sni
+                          if host: base["ws-opts"]["headers"] = {"Host": host}
+                      return {"config": base, "link": safe_link}
+
+                  elif u.scheme == "vless":
+                      base.update({"type": "vless", "uuid": password, "skip-cert-verify": True, "network": get_param('type', 'tcp'), "client-fingerprint": get_param('fp', 'chrome')})
+                      sni = get_param('sni') or get_param('peer') or get_param('host')
+                      sec = get_param('security', 'none')
+                      
+                      if sec in ['tls', 'reality'] or u.port in [443, 8443, 2053]:
+                          base["tls"] = True
+                          if sni: base["servername"] = sni
+                          elif u.hostname and not re.match(r'^\d+\.\d+\.\d+\.\d+$', u.hostname): base["servername"] = u.hostname
+                      
+                      if sec == 'reality':
+                          base["reality-opts"] = {"public-key": get_param('pbk'), "short-id": get_param('sid')}
+                      
+                      flow = get_param('flow')
+                      if flow:
+                          base['flow'] = flow
+
+                      if base["network"] == "ws":
+                          base["alpn"] = [get_param('alpn', 'http/1.1')]
+                          path = get_param('path', '/')
+                          if not path.startswith('/'): path = '/' + path
+                          base["ws-opts"] = {"path": path}
+                          host = get_param('host') or sni
+                          if host: base["ws-opts"]["headers"] = {"Host": host}
+                      elif base["network"] == "grpc":
+                          base["grpc-opts"] = {"grpc-service-name": get_param('serviceName', '')}
+                      return {"config": base, "link": safe_link}
+
+                  elif u.scheme in ["hysteria2", "hy2"]:
+                      base.update({"type": "hysteria2", "password": password, "tls": True, "skip-cert-verify": True, "sni": get_param('sni', u.hostname), "alpn": ["h3"]})
+                      return {"config": base, "link": safe_link}
+              except: pass
+              return None
+
+          final_links = []
+          final_json_data = []
+          name_counts = {}
+
+          for (host, port), ip in alive_ips.items():
+              geo = ip_info.get(ip, {})
+              links = node_groups[(host, port)]
+              links.sort(key=score_link, reverse=True)
+              best_links = links[:6]
+              
+              for url in best_links:
+                  raw_name = url_to_name.get(url, "")
+                  if not raw_name or "Anycast" in raw_name or "🌐" in raw_name:
+                      cc = geo.get('countryCode')
+                      base_name = f"{get_flag(cc)} {geo.get('country', 'Unknown')}"
+                  else: base_name = raw_name.split('|')[0].split(',')[0].strip()
+
+                  name_counts[base_name] = name_counts.get(base_name, 0) + 1
+                  final_name = f"{base_name} [{name_counts[base_name]}]"
+                  
+                  # 1. Добавляем в текстовый список
+                  normalized = normalize_and_format(url, final_name)
+                  if normalized: final_links.append(normalized)
+
+                  # 2. Добавляем в JSON список для тестера
+                  node_name = f"Node_{len(final_json_data)}"
+                  parsed_obj = parse_to_mihomo(url, node_name, final_name)
+                  if parsed_obj:
+                      parsed_obj["config"]["name"] = node_name
+                      parsed_obj["meta"] = {
+                          "original_name": final_name,
+                          "host_ip": ip
+                      }
+                      # Используем нормализованную ссылку, если она успешно собралась
+                      if normalized:
+                          parsed_obj["link"] = normalized.strip()
+                      final_json_data.append(parsed_obj)
+
+          header = [
+              "# profile-title: 🚀 Telegood VPN\n",
+              "# profile-update-interval: 3\n",
+              f"# 🟢 Total Variants: {len(final_links)}\n\n"
+          ]
+
+          print(f"✅ Сохранено {len(final_links)} текстовых строк и {len(final_json_data)} JSON-конфигов.")
+
+          # --- СОХРАНЕНИЕ ОБЕИХ БАЗ ---
+          with open('proxy_lists/raw_proxies.txt', 'w', encoding='utf-8') as f:
+              f.writelines(header + final_links)
+              
+          with open('proxy_lists/raw_proxies.json', 'w', encoding='utf-8') as f:
+              json.dump(final_json_data, f, ensure_ascii=False, indent=2)
+          EOF
+          
+          python3 filter.py
+          rm proxy_lists/raw_temp.txt
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-sync: Proxies tested and saved in TXT and JSON"
+          file_pattern: proxy_lists/*
