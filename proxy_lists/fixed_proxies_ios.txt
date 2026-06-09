@@ -1,18 +1,16 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-14 от 09.06.2026 20:19)
-# 🛡️ Verified Elite: 14
-# 📊 Stats: Вход: 581 | Пинг: 59 | >800KB/s: 14 | ТОП: 14 (iOS: 14)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-12 от 10.06.2026 00:14)
+# 🛡️ Verified Elite: 12
+# 📊 Stats: Вход: 686 | Пинг: 93 | >800KB/s: 14 | ТОП: 14 (iOS: 12)
 
-trojan://humanity@81.255.155.10:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&headerType=none&security=tls&encryption=none&sni=www.creationlong.org&path=/assignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B3%5D
-vless://6585a62b-4d8b-48cc-bdad-e2542504d748@45.131.4.173:8443?type=xhttp&security=tls&path=/&sni=Itsrezu2.dr-ping.com&fp=chrome#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B1%5D
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B23%5D
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B26%5D
-vless://13bbbb75-2ec5-4262-9784-fe8b6e94510b@185.147.26.105:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=timeweb.cloud&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&sid=965af8960474c29c#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B4%5D
-vless://9ad4f937-6366-474b-9d7e-e2a694deb4e2@pro-fi.emrata.top:753?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.amd.com&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B3%5D
-vless://dbfa97b8-f4fb-4687-96dc-a5a2aebfae11@pol01.port-server.online:443?security=reality&type=tcp&sni=pol01.port-server.online&fp=chrome&flow=xtls-rprx-vision&sid=37919c8e74071571&pbk=cc_O0Y2X8gIdbPzbp0CzRejf_LN1zOiuHD70GBs8e3M&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B2%5D
-vless://7b241232-208d-4d36-857e-913f91b044f4@desrv-res.noooo.win:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-6a20f558.noooo.win&fp=chrome&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B9%5D
-vless://8bbf020e-653f-4a82-9900-1214e4e37dab@45.151.183.101:443?flow=xtls-rprx-vision&fp=chrome&pbk=gXc2c9NIWxhUTb7HoBCjvo-uB1L4iQj4TH38g4YhxHE&security=reality&sid=fcd9787f&sni=www.microsoft.com&type=tcp#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B%2ACIDR%5D%20%5B1%5D
-trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B1%5D
-vless://13bbbb75-2ec5-4262-9784-fe8b6e94510b@yt6.safepass.click:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&sid=965af8960474c29c&sni=timeweb.cloud&echfq=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B5%5D
-vless://7b241232-208d-4d36-857e-913f91b044f4@desrv-res.noooo.win:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-6a20f558.noooo.win#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B10%5D
-trojan://humanity@81.255.155.10:443?type=ws&headerType=none&security=tls&encryption=none&sni=www.creationlong.org&path=/assignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B2%5D
-vless://7b241232-208d-4d36-857e-913f91b044f4@desrv-res.noooo.win:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=api-6a20f558.noooo.win&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B8%5D
+vless://0d287747-b7be-4ba7-9b98-5bbd9dfa385c@37.220.163.98:443?type=ws&security=tls&fp=chrome&sni=s95410.cdn.ngenix.net&path=/storage&host=s95410.cdn.ngenix.net#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B4%5D
+vless://0d287747-b7be-4ba7-9b98-5bbd9dfa385c@195.208.65.144:443?encryption=none&type=ws&security=tls&path=/storage&host=s95410.cdn.ngenix.net&sni=s95410.cdn.ngenix.net&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B1%5D
+vless://ca428a2e-7f82-4030-851b-cab731a5645a@l11.l-itx.info:2053?type=ws&headerType=none&security=tls&encryption=none&sni=6979d91dd100cfa5.itx-server.digital&fp=chrome&path=/ws&host=itx-server.digital#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B%2ACIDR%5D%20%5B1%5D
+vless://9ad4f937-6366-474b-9d7e-e2a694deb4e2@pro-fi.emrata.top:753?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.amd.com&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B5%5D
+trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?sni=www.directorypipeline.click&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B24%5D
+vless://8bbf020e-653f-4a82-9900-1214e4e37dab@195.184.247.138:443?flow=xtls-rprx-vision&fp=chrome&pbk=gXc2c9NIWxhUTb7HoBCjvo-uB1L4iQj4TH38g4YhxHE&security=reality&sid=fcd9787f&sni=www.microsoft.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B3%5D
+vless://87a61ee1-f6eb-48b4-ac90-c255ce067a07@85.202.195.169:443?flow=xtls-rprx-vision&fp=chrome&pbk=mbvZt-7r8xaJ8gIfPrhukRATKlB8fQNG8AxPLZeZ6Gg&security=reality&sni=kz1.dendibase.org&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%5B1%5D
+vless://6a02a47b-ebbf-4593-8460-558330c04189@pl-modx.nodexphere.net:443?type=tcp&security=reality&fp=chrome&sni=pl-modx.nodexphere.net&flow=xtls-rprx-vision&pbk=_S6MJ2-dROx_X7rUM_Gnh01MPAVVgnB0_x0t4_2XuVc#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D%20%5B2%5D
+trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&sni=www.directorypipeline.click&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B27%5D
+vless://6a02a47b-ebbf-4593-8460-558330c04189@pl-modx.nodexphere.net:443?security=reality&encryption=none&pbk=_S6MJ2-dROx_X7rUM_Gnh01MPAVVgnB0_x0t4_2XuVc&host=CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex-CryptoWessex&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl-modx.nodexphere.net#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D%20%5B1%5D
+trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&headerType=none&type=tcp&sni=www.directorypipeline.click&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B25%5D
+trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?sni=www.directorypipeline.click&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B23%5D
