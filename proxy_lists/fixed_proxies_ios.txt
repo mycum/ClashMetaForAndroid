@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 10.06.2026 06:56)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 10.06.2026 10:10)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 771 | Пинг: 243 | >800KB/s: 87 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 771 | Пинг: 204 | >800KB/s: 71 | ТОП: 32 (iOS: 16)
 
-vless://7b102311-43fd-4e8f-877e-8090623c101d@91.193.58.114:8443?encryption=none&type=ws&security=tls&path=/&host=round-art-52ee.eadfgv.workers.dev&sni=round-art-52ee.eadfgv.workers.dev&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D%20%5B1%5D
 trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B2%5D
-vless://6585a62b-4d8b-48cc-bdad-e2542504d748@45.131.4.173:8443?security=tls&encryption=none&type=xhttp&path=/&sni=Itsrezu2.dr-ping.com&fp=chrome&mode=auto&alpn=h2,http/1.1#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B2%5D
-vless://eb7e8f69-0339-4813-8072-4a32e3d1d75b@62.152.58.112:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=chrome&pbk=kjTspDrisV8226wHoYmGlK3M3f5ti3J3SABdhRqAMCY&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B2%5D
+vless://6585a62b-4d8b-48cc-bdad-e2542504d748@167.68.5.43:8443?encryption=none&type=xhttp&mode=auto&host=Itsrezu2.dr-ping.com&path=/&security=tls&fp=chrome&sni=Itsrezu2.dr-ping.com&alpn=h2,http/1.1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B1%5D
 vless://9c04338e-99e4-4d7a-b829-bcbd94bd68c0@ru1.cdn-global.pro:443?encryption=none&type=tcp&security=reality&headerType=none&sni=ru1.cdn-global.pro&fp=chrome&pbk=UetBYGh2t6FbQNZ53W3Eb3bpH5-p-WJ1wklLbOs5RH0&sid=af6055545fb955b0&spx=/&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B3%5D
 vless://6585a62b-4d8b-48cc-bdad-e2542504d748@194.36.55.163:8443?encryption=none&type=xhttp&mode=auto&host=Itsrezu2.dr-ping.com&path=/&security=tls&fp=chrome&sni=Itsrezu2.dr-ping.com&alpn=h2,http/1.1#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B1%5D
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.194.219:80?type=ws&security=none&fp=chrome&path=/&host=max-gb1.global.ssl.fastly.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B29%5D
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B37%5D
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?type=ws&security=none&fp=chrome&path=/&host=max-gb1.global.ssl.fastly.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B46%5D
-vless://443211c6-8ebb-4676-b796-f3a3a94c38a6@188.68.218.190:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=vkvideo.ru&pbk=U-XSSJrvKlc1ivt8T_TESHQ7IzjPoKnGg7dGS1N9QEY&sid=b980bb2ea0e081ac#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B5%5D
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B31%5D
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.66.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B35%5D
+vless://443211c6-8ebb-4676-b796-f3a3a94c38a6@188.68.218.190:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=sso.passport.yandex.ru&pbk=CfR6qJ1nbTh-fEQ6F21VYHXfSwdaqcEZwTwmCRcUxnA&sid=de4158854173e0e8#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B4%5D
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B42%5D
-vless://6a6ce56b-2ec2-4a88-9c13-f46d7aeae71a@51.250.24.222:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B53%5D
-vless://e438ed18-0208-4620-b7f4-56ba7045f397@72.56.14.245:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=gb.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B22%5D
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?encryption=none&type=ws&path=/&host=max-gb1.global.ssl.fastly.net&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B33%5D
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80?type=ws&security=none&fp=chrome&path=/&host=max-gb1.global.ssl.fastly.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B30%5D
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.66.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B35%5D
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.130.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B25%5D
 vless://cc5201c6-b6b9-4065-adad-ab6d17958b94@by02.botovod.space:443?encryption=none&security=tls&sni=by02.botovod.space&fp=chrome&alpn=h2,http/1.1&type=xhttp&path=/&mode=auto#%F0%9F%87%A7%F0%9F%87%BE%20Belarus%20%5B%2ACIDR%5D%20%5B1%5D
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B45%5D
+vless://eb7e8f69-0339-4813-8072-4a32e3d1d75b@62.152.58.112:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=chrome&pbk=kjTspDrisV8226wHoYmGlK3M3f5ti3J3SABdhRqAMCY&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B2%5D
+vless://3ce8cb5f-21f5-4140-9655-f163615b8405@51.250.106.87:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B47%5D
+vless://6585a62b-4d8b-48cc-bdad-e2542504d748@45.131.4.173:8443?encryption=none&type=xhttp&mode=auto&host=Itsrezu2.dr-ping.com&path=/&security=tls&fp=chrome&sni=Itsrezu2.dr-ping.com&alpn=h2,http/1.1#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B1%5D
+vless://9c04338e-99e4-4d7a-b829-bcbd94bd68c0@ru2.cdn-global.pro:443?encryption=none&type=tcp&security=reality&headerType=none&sni=ru2.cdn-global.pro&fp=chrome&pbk=FaFJaC1LA4xpzdDY1e0suuH8IBDYdRbjUFH3c-BgRBY&sid=c8b5e9595f818d04&spx=/&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B1%5D
