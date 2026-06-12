@@ -1,20 +1,14 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 12.06.2026 15:34)
-# 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 888 | Пинг: 129 | >800KB/s: 19 | ТОП: 19 (iOS: 16)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-10 от 12.06.2026 17:51)
+# 🛡️ Verified Elite: 10
+# 📊 Stats: Вход: 622 | Пинг: 119 | >800KB/s: 10 | ТОП: 10 (iOS: 10)
 
-trojan://humanity@81.255.155.10:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B10%5D
-vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?path=/&security=tls&encryption=none&host=apiv2.global.ssl.fastly.net&type=ws&sni=&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B5%5D
-vless://d39664df-5bc0-4f49-9894-8f03b4150082@netherland.soft26.ir:8443?mode=auto&path=/&security=reality&encryption=none&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&fp=chrome&spx=/il4uDVFQ4uJ9mPb&type=xhttp&sni=www.yahoo.com&sid=6f3192#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B38%5D
-trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=www.directorypipeline.click#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B30%5D
-vless://1fa43951-0c8e-4fbc-b350-2b11f67efb57@osre3.jykvpn.com:2048?type=ws&security=none&fp=chrome&path=/&host=ads.x5.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20%5B5%5D
-hysteria2://80deaf6e-6747-35f1-848e-b8e8aeb8b2fa@88.151.33.158:443?sni=u727887us504.csgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B40%5D
-vless://8faaa0a0-cdc3-4469-abe2-bb20e623d270@fin185.alexanderoff.ru:36294?security=&encryption=none&headerType=&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B1%5D
-vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=chrome&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B5%5D
-vless://5729c1fc-c7cf-41b7-8c17-f9b5f59772da@72.56.39.192:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=fi.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B5%5D
-vless://512f01f4-d8fc-4a78-96a0-5d9ebebe35b9@de-dp-01.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=chrome&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=5be97fb85093a3a9&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B13%5D
-trojan://humanity@81.255.155.10:443?type=ws&headerType=none&security=tls&encryption=none&sni=www.creationlong.org&path=/assignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B11%5D
-vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@151.101.69.223:443?path=/&security=tls&encryption=none&host=apiv2.global.ssl.fastly.net&type=ws&sni=sp…</div>&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B122%5D
-vless://d39664df-5bc0-4f49-9894-8f03b4150082@netherland.soft26.ir:8443?mode=auto&path=/&security=reality&encryption=none&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=6f3192#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B39%5D
-trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&headerType=none&type=tcp&sni=www.directorypipeline.click&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B31%5D
-vless://1fa43951-0c8e-4fbc-b350-2b11f67efb57@osre3.jykvpn.com:2048?type=ws&path=/&host=ads.x5.ru&sni=osre3.jykvpn.com&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20%5B4%5D
-trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?sni=www.directorypipeline.click&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B28%5D
+vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?path=/&security=tls&encryption=none&host=apiv2.global.ssl.fastly.net&type=ws&sni=&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B4%5D
+vless://f1eab521-c038-49bc-9e59-822fff5115cf@51.250.24.222:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B16%5D
+trojan://humanity@81.255.155.10:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B2%5D
+vless://12a74b5e-d2b8-45cb-b120-68a371c23366@fin83.alexanderoff.ru:11604?security=&encryption=none&headerType=&type=tcp&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B1%5D
+vless://f1eab521-c038-49bc-9e59-822fff5115cf@51.250.106.87:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B19%5D
+vless://d39664df-5bc0-4f49-9894-8f03b4150082@netherland.soft26.ir:8443?mode=auto&path=/&security=reality&encryption=none&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=6f3192#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B6%5D
+vless://b0ce99fa-9ecc-4ebf-8400-8c1e21f5f1f3@72.56.52.43:443?flow=xtls-rprx-vision&fp=chrome&pbk=AuvcUY2m3QUpS83fkTGBvIfP9_MLCY-cRlyNbfDRt3E&security=reality&sid=74f4c8d6&sni=lv2.foxnezia.dev&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B%2ACIDR%5D%20%5B1%5D
+vless://1c0277ad-bb4d-496f-bc0c-40ccee03fca5@130.12.242.112:7443?flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=be0ce047&sni=www.microsoft.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20%5B2%5D
+vless://5729c1fc-c7cf-41b7-8c17-f9b5f59772da@72.56.39.192:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=fi.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B1%5D
+vless://d39664df-5bc0-4f49-9894-8f03b4150082@netherland.soft26.ir:8443?mode=auto&path=/&security=reality&encryption=none&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&fp=chrome&spx=/il4uDVFQ4uJ9mPb&type=xhttp&sni=www.yahoo.com&sid=6f3192#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B4%5D
