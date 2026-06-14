@@ -1,21 +1,18 @@
-# profile-title: 🚀 Telegood VPN (ТОП-17 от 15.06.2026 00:49)
-# 🛡️ Verified Elite: 17
-# 📊 Stats: Вход: 589 | Пинг: 55 | >800KB/s: 17 | ТОП: 17 (iOS: 16)
+# profile-title: 🚀 Telegood VPN (ТОП-14 от 15.06.2026 00:57)
+# 🛡️ Verified Elite: 14
+# 📊 Stats: Вход: 629 | Пинг: 67 | >800KB/s: 14 | ТОП: 14 (iOS: 13)
 
-trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B10%5D
-trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&type=tcp&sni=www.directorypipeline.click#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B26%5D
-vless://ccdce320-7eef-4815-8edb-c599987c2279@5.254.14.169:443?type=tcp&security=reality&sni=cdn9-40.yahoo.com&fp=firefox&flow=xtls-rprx-vision&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=0dc0ced5bf4f756c#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B8%5D
-vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@94.177.9.149:443?flow=xtls-rprx-vision&fp=firefox&pbk=wpZDT_592emHu309qN-7-qceofbMJzoAdIx9m9RFJGg&security=reality&sid=b77ac02151b47155&sni=at-c3.buycloud.app&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%5B1%5D
-vless://d98c856e-4aec-4d6c-ac66-fca0e474991d@179.237.64.122:2053?flow=xtls-rprx-vision&fp=firefox&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&security=reality&sid=c0d1d1776fed0f6d&sni=ch-t.vinnypuxtomoon.today&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B1%5D
-vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@143.14.50.100:443?flow=xtls-rprx-vision&fp=firefox&pbk=91j4nGhBDQYcZP0AHXJgu1jnrFNRp27DIhN0Verhfhw&security=reality&sid=9173fac97e931bcf&sni=se.buycloud.app&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B1%5D
-vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@78.40.111.222:443?flow=xtls-rprx-vision&fp=firefox&pbk=lYVz8iVZI2XjTCw_XS9wi08P1DLXO0c7jQo-_xyw2xY&security=reality&sid=81b7acc8474f8b7f&sni=es.buycloud.app&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B1%5D
-trojan://TrojanPass2026%21@2.26.54.174:8448?security=tls&sni=foolsland.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B15%5D
-trojan://SoftNetConnect@185.204.169.129:42549?type=tcp&security=tls&sni=www.speedtest.net&alpn=h2,http/1.1,h3&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B10%5D
-vless://d98c856e-4aec-4d6c-ac66-fca0e474991d@5.175.178.80:2053?flow=xtls-rprx-vision&fp=firefox&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&security=reality&sid=c0d1d1776fed0f6d&sni=ee-t.vinnypuxtomoon.today&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B3%5D
-trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B12%5D
-trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?allowInsecure=1&sni=www.directorypipeline.click#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B24%5D
+trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.directorypipeline.click#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B33%5D
+trojan://telegram-id-directvpn@51.45.33.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B13%5D
 vless://ccdce320-7eef-4815-8edb-c599987c2279@5.254.14.169:443?security=reality&encryption=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn9-40.yahoo.com&sid=0dc0ced5bf4f756c#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B7%5D
 vless://d98c856e-4aec-4d6c-ac66-fca0e474991d@179.237.64.122:7444?fp=firefox&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&security=reality&serviceName=grpc-md-8h3k4j6n2p4q8r5t&sid=c0d1d1776fed0f6d&sni=ch-t.vinnypuxtomoon.today&type=grpc#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B2%5D
-trojan://TrojanPass2026!@2.26.54.174:8448?allowInsecure=1&sni=foolsland.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B14%5D
-trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&sni=www.directorypipeline.click#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B27%5D
-trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.directorypipeline.click#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B25%5D
+vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@68.209.56.42:443?flow=xtls-rprx-vision&fp=firefox&pbk=K3v40g4aiQoyyIYu8gJ347qCN7ZLFA61GQP_rRQYbG4&security=reality&sid=9fd2117b05343a92&sni=auto.buycloud.app&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B%2ACIDR%5D%20%5B1%5D
+vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@94.177.9.149:443?flow=xtls-rprx-vision&fp=firefox&pbk=wpZDT_592emHu309qN-7-qceofbMJzoAdIx9m9RFJGg&security=reality&sid=b77ac02151b47155&sni=at-c3.buycloud.app&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%5B1%5D
+vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@78.40.111.222:443?flow=xtls-rprx-vision&fp=firefox&pbk=lYVz8iVZI2XjTCw_XS9wi08P1DLXO0c7jQo-_xyw2xY&security=reality&sid=81b7acc8474f8b7f&sni=es.buycloud.app&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B1%5D
+vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@195.20.115.164:443?flow=xtls-rprx-vision&fp=firefox&pbk=jwyfUdsuDBGtjuTfWOepIQ80EDSCXCp8Xe3bzXFlsjI&security=reality&sid=e8f17a19f57552d3&sni=hu.buycloud.app&type=tcp#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B1%5D
+trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&sni=www.directorypipeline.click#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B36%5D
+trojan://telegram-id-privatevpns@51.45.33.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B15%5D
+vless://ccdce320-7eef-4815-8edb-c599987c2279@5.254.14.169:443?type=tcp&security=reality&sni=cdn9-40.yahoo.com&fp=firefox&flow=xtls-rprx-vision&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=0dc0ced5bf4f756c#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B8%5D
+vless://d98c856e-4aec-4d6c-ac66-fca0e474991d@179.237.64.122:2053?flow=xtls-rprx-vision&fp=firefox&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&security=reality&sid=c0d1d1776fed0f6d&sni=ch-t.vinnypuxtomoon.today&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B1%5D
+trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?allowInsecure=1&sni=www.directorypipeline.click#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B35%5D
+trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&type=tcp&sni=www.directorypipeline.click#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B34%5D
