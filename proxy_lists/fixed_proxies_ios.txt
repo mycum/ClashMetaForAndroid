@@ -1,18 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-14 от 15.06.2026 21:35)
-# 🛡️ Verified Elite: 14
-# 📊 Stats: Вход: 630 | Пинг: 56 | >800KB/s: 14 | ТОП: 14 (iOS: 14)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 16.06.2026 00:42)
+# 🛡️ Verified Elite: 16
+# 📊 Stats: Вход: 630 | Пинг: 33 | >800KB/s: 18 | ТОП: 18 (iOS: 16)
 
-trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B4%5D
-trojan://mitivpn@216.24.57.246:443?security=tls&sni=gamingdll.ir&fp=chrome&alpn=http/1.1&type=ws&host=gamingdll.ir&path=/index.php/ed%3Dmitivpn#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B9%5D
-trojan://mitivpn@216.24.57.13:443?security=tls&fp=chrome&alpn=http/1.1&type=ws&path=/index.html/ed=mitivpn&sni=gamingdll.ir#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B3%5D
-trojan://mitivpn@45.67.215.208:443?security=tls&sni=gamingdll.ir&fp=chrome&alpn=http/1.1&type=ws&host=gamingdll.ir&path=/ed%3Dmitivpn#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B14%5D
-trojan://mitivpn@216.24.57.210:443?security=tls&sni=gamingdll.ir&fp=chrome&alpn=http/1.1&type=ws&host=gamingdll.ir&path=/ed%3Dmitivpn/index.php#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B6%5D
-vless://d39664df-5bc0-4f49-9894-8f03b4150082@fan.soft26.ir:8443?type=xhttp&security=reality&path=/&sni=www.yahoo.com&fp=chrome&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&sid=6f3192#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B1%5D
-vless://6e8ee019-73c1-42aa-b9e7-357e768993c3@130.12.242.99:7443?flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=be0ce047&sni=www.microsoft.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20%5B4%5D
-trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B3%5D
-trojan://mitivpn@216.24.57.246:443?security=tls&fp=chrome&alpn=http/1.1&type=ws&path=/index.php/ed=mitivpn&sni=gamingdll.ir#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B8%5D
-trojan://mitivpn@216.24.57.13:443?security=tls&sni=gamingdll.ir&fp=chrome&alpn=http/1.1&type=ws&host=gamingdll.ir&path=/index.html/ed%3Dmitivpn#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B2%5D
-trojan://mitivpn@45.67.215.208:443?security=tls&fp=chrome&alpn=http/1.1&type=ws&path=/ed=mitivpn&sni=gamingdll.ir#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B13%5D
+trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B5%5D
 trojan://mitivpn@216.24.57.210:443?security=tls&fp=chrome&alpn=http/1.1&type=ws&path=/ed=mitivpn/index.php&sni=gamingdll.ir#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B5%5D
-trojan://mitivpn@216.24.57.246:443?security=tls&sni=gamingdll.ir&fp=chrome&alpn=http/1.1&type=ws&host=gamingdll.ir&path=/index.php/ed%3Dmitivpn#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B7%5D
+trojan://mitivpn@216.24.57.246:443?security=tls&fp=chrome&alpn=http/1.1&type=ws&path=/index.php/ed=mitivpn&sni=gamingdll.ir#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B8%5D
+trojan://mitivpn@45.67.215.208:443?security=tls&fp=chrome&alpn=http/1.1&type=ws&path=/ed=mitivpn&sni=gamingdll.ir#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B13%5D
+trojan://mitivpn@216.24.57.13:443?security=tls&sni=gamingdll.ir&fp=chrome&alpn=http/1.1&type=ws&host=gamingdll.ir&path=/index.html/ed%3Dmitivpn#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B2%5D
+trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&headerType=none&type=tcp&sni=www.directorypipeline.click&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B9%5D
+vless://d39664df-5bc0-4f49-9894-8f03b4150082@fan.soft26.ir:8443?type=xhttp&security=reality&path=/&sni=www.yahoo.com&fp=chrome&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&sid=6f3192#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B1%5D
+vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=chrome&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B39%5D
+trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B3%5D
+trojan://mitivpn@216.24.57.210:443?security=tls&sni=gamingdll.ir&fp=chrome&alpn=http/1.1&type=ws&host=gamingdll.ir&path=/ed%3Dmitivpn/index.php#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B6%5D
+trojan://mitivpn@216.24.57.246:443?security=tls&sni=gamingdll.ir&fp=chrome&alpn=http/1.1&type=ws&host=gamingdll.ir&path=/index.php/ed%3Dmitivpn#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B9%5D
+trojan://mitivpn@45.67.215.208:443?security=tls&sni=gamingdll.ir&fp=chrome&alpn=http/1.1&type=ws&host=gamingdll.ir&path=/ed%3Dmitivpn#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B14%5D
+trojan://mitivpn@216.24.57.13:443?security=tls&fp=chrome&alpn=http/1.1&type=ws&path=/index.html/ed=mitivpn&sni=gamingdll.ir#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B3%5D
+trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?sni=www.directorypipeline.click&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B6%5D
+trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B4%5D
 trojan://mitivpn@216.24.57.210:443?security=tls&sni=gamingdll.ir&fp=chrome&alpn=http/1.1&type=ws&host=gamingdll.ir&path=/ed%3Dmitivpn/index.php#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B4%5D
