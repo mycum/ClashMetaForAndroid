@@ -1,17 +1,16 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-13 от 15.06.2026 18:56)
-# 🛡️ Verified Elite: 13
-# 📊 Stats: Вход: 797 | Пинг: 54 | >800KB/s: 13 | ТОП: 13 (iOS: 13)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-12 от 15.06.2026 19:49)
+# 🛡️ Verified Elite: 12
+# 📊 Stats: Вход: 598 | Пинг: 34 | >800KB/s: 12 | ТОП: 12 (iOS: 12)
 
-trojan://mitivpn@188.42.88.92:443?security=tls&sni=gamingdll.ir&alpn=http/1.1&type=ws&host=gamingdll.ir&path=/ed%3Dmitivpn/index.php&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B18%5D
-trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B10%5D
-vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@23.236.186.6:443?flow=xtls-rprx-vision&fp=chrome&pbk=WEKeT_3mF_z7rdPR7eVpTUvPq4Sw0Y_3YOg9yUgXcxo&security=reality&sid=d7e8d9d128d38776&sni=nl10.buycloud.app&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B3%5D
+trojan://mitivpn@216.24.57.246:443?security=tls&sni=gamingdll.ir&fp=chrome&alpn=http/1.1&type=ws&host=gamingdll.ir&path=/index.php/ed%3Dmitivpn#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B2%5D
+trojan://mitivpn@216.24.57.210:443?security=tls&sni=gamingdll.ir&fp=chrome&alpn=http/1.1&type=ws&host=gamingdll.ir&path=/ed%3Dmitivpn/index.php#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B3%5D
+trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B4%5D
+trojan://mitivpn@45.67.215.208:443?security=tls&sni=gamingdll.ir&fp=chrome&alpn=http/1.1&type=ws&host=gamingdll.ir&path=/ed%3Dmitivpn#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B25%5D
+trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&sni=www.directorypipeline.click&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B9%5D
 vless://d39664df-5bc0-4f49-9894-8f03b4150082@fan.soft26.ir:8443?type=xhttp&security=reality&path=/&sni=www.yahoo.com&fp=chrome&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&sid=6f3192#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B1%5D
-vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@72.57.78.170:443?type=tcp&headerType=none&security=reality&encryption=none&sni=nl10.buycloud.app&fp=chrome&pbk=WEKeT_3mF_z7rdPR7eVpTUvPq4Sw0Y_3YOg9yUgXcxo&sid=7346f4edc5ada5bb&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B4%5D
-vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@94.177.9.149:443?flow=xtls-rprx-vision&fp=chrome&pbk=wpZDT_592emHu309qN-7-qceofbMJzoAdIx9m9RFJGg&security=reality&sid=d71c2b7b2161b6ff&sni=at-c3.buycloud.app&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%5B3%5D
-vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=chrome&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B2%5D
-vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@78.40.111.222:443?flow=xtls-rprx-vision&fp=chrome&pbk=lYVz8iVZI2XjTCw_XS9wi08P1DLXO0c7jQo-_xyw2xY&security=reality&sid=81b7acc8474f8b7f&sni=es.buycloud.app&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B3%5D
-trojan://mitivpn@188.42.88.92:443?type=ws&security=tls&path=/ed%3Dmitivpn/index.php&host=gamingdll.ir&sni=gamingdll.ir&alpn=http/1.1&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B19%5D
-vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@94.177.9.149:443?flow=xtls-rprx-vision&fp=chrome&pbk=wpZDT_592emHu309qN-7-qceofbMJzoAdIx9m9RFJGg&security=reality&sid=e53ad9a92da5e468&sni=at-c3.buycloud.app&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%5B4%5D
-vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@94.177.9.149:443?flow=xtls-rprx-vision&fp=chrome&pbk=wpZDT_592emHu309qN-7-qceofbMJzoAdIx9m9RFJGg&security=reality&sid=b77ac02151b47155&sni=at-c3.buycloud.app&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%5B2%5D
-vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@94.177.9.149:443?flow=xtls-rprx-vision&fp=chrome&pbk=wpZDT_592emHu309qN-7-qceofbMJzoAdIx9m9RFJGg&security=reality&sid=991486b1ef2af1b3&sni=at-c3.buycloud.app&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%5B1%5D
-vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@94.177.9.149:443?flow=xtls-rprx-vision&fp=chrome&pbk=wpZDT_592emHu309qN-7-qceofbMJzoAdIx9m9RFJGg&security=reality&sid=fbadff3b18ad6173&sni=at-c3.buycloud.app&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%5B5%5D
+vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=chrome&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B43%5D
+trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B2%5D
+trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&headerType=none&type=tcp&sni=www.directorypipeline.click&brand=@VPNine1&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B7%5D
+trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&type=tcp&sni=www.directorypipeline.click&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B8%5D
+trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?sni=www.directorypipeline.click&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B5%5D
+trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&headerType=none&type=tcp&sni=www.directorypipeline.click&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B6%5D
