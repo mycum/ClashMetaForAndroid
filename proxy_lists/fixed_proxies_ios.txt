@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 16.06.2026 05:38)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 16.06.2026 08:47)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 607 | Пинг: 193 | >800KB/s: 121 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 607 | Пинг: 197 | >800KB/s: 138 | ТОП: 32 (iOS: 16)
 
-trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B92%5D
-trojan://humanity@141.101.90.101:443?security=tls&type=ws&host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B22%5D
-trojan://humanity@199.181.197.176:443?alpn=http/1.1&host=www.calmloud.com&path=/assignment&sni=www.calmloud.com&type=ws&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B42%5D
+vless://f5a2c547-734e-4655-8069-618e38e2cd5c@80.90.188.188:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ru9.cdn-global.pro&fp=chrome&pbk=VzcHDR57dKZ6aPF1VchAbeKfSHKt_a4pjt-eOpoAG0o&sid=893c5832052a1923&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B20%5D
 trojan://humanity@www.creationlong.org:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B8%5D
+vless://f5a2c547-734e-4655-8069-618e38e2cd5c@185.207.214.49:3443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.microsoft.com&fp=chrome&pbk=RX-uBAptg_BSN8XKjup6dhca_2A0L6Cx64iR1V8_s20&sid=7a3f9e2b1c8d4f6a&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B1%5D
+trojan://humanity@188.114.96.3:443?Telegram=@armindone,@armindone,@armindone,@armindone&path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B85%5D
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B36%5D
+trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B3%5D
+trojan://humanity@162.159.17.189:443?host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B127%5D
+vless://4e5017e0-07da-48ef-a882-fa26a845ead6@109.120.188.54:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=4woJiVyGtLro6qRQdUcM2EJDHI3CLOeeE-knmSHk8lE&sid=1ca44564cda56661#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B6%5D
 trojan://humanity@208.103.161.110:443?host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B58%5D
-trojan://humanity@srv1.khatibirepair.ir:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B26%5D
-trojan://humanity@104.17.121.9:443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmlunch.com&fp=chrome&type=ws&sni=www.calmlunch.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B119%5D
-trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B59%5D
-trojan://humanity@45.130.125.76:443?alpn=http/1.1&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws&fp=chrome#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%5B11%5D
-vless://0e86bcd6-9b31-4cbc-b4f4-bc85f3c5f5d5@51.250.23.0:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=Gql4XdwbUI6AuYYKX9qk_WfkazHKASdmqBdAkPhh9yA&sid=6da54564c7a566d1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B4%5D
-trojan://humanity@104.18.152.187:443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B65%5D
-trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B89%5D
+trojan://humanity@104.16.174.71:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B117%5D
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B7%5D
+trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B58%5D
+trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B39%5D
+trojan://humanity@141.101.90.101:443?path=/assignment&security=tls&host=www.ignitelimit.com&fp=chrome&type=ws&sni=www.ignitelimit.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B23%5D
 trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B66%5D
-trojan://humanity@104.16.174.36:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.ignitelimit.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B51%5D
-trojan://humanity@www.gossipglove.com:443?path=/assignment&type=ws&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B97%5D
+trojan://humanity@104.16.174.36:443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B50%5D
