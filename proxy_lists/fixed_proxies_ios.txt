@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 16.06.2026 16:06)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 17.06.2026 00:32)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 931 | Пинг: 224 | >800KB/s: 55 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 648 | Пинг: 113 | >800KB/s: 25 | ТОП: 25 (iOS: 16)
 
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@217.149.25.35:443?flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=fi.sellflow.org&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B6%5D
-trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B17%5D
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@91.198.220.128:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=fi.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B44%5D
-vless://c8cec2cf-398f-4845-8014-b32b2d0e7ff3@45.91.52.32:31913?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jgcvsBTbKtPJvR0k5ciHJ1_T-x2pyJCZ4nZkdZq6uC8&sid=c5b18b0b&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B29%5D
-vless://f68435e2-ac00-4374-8c03-c1d36e171088@88.119.176.126:1443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bFPeOJxOvbEHD7JyojURPDzrY4HNYiVh1rqVeIFSRGk&sid=0441f3e34348cb45&sni=loveit.kupivodku.top#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B2%5D
-vless://f68435e2-ac00-4374-8c03-c1d36e171088@88.119.176.156:1443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bFPeOJxOvbEHD7JyojURPDzrY4HNYiVh1rqVeIFSRGk&sid=0441f3e34348cb45&sni=loveit.kupivodku.top#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B3%5D
-vless://b9f33025-9b40-4ece-9a10-85da0f0af052@fin185.alexanderoff.ru:36294?security=&encryption=none&headerType=&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B1%5D
-vless://66ad2f3c-181c-4b1b-bb0e-33c50a6b6bc9@fin83.alexanderoff.ru:11604?security=&encryption=none&headerType=&type=tcp&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B3%5D
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@5.129.199.205:443?flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=abuse.sellflow.org&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B4%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.58:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B8%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.109:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B3%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.112:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B5%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.97:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B12%5D
 trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?type=tcp&security=tls&headerType=none&sni=www.lateralio.click&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B39%5D
-vless://f68435e2-ac00-4374-8c03-c1d36e171088@88.119.176.123:1443?security=reality&encryption=none&pbk=bFPeOJxOvbEHD7JyojURPDzrY4HNYiVh1rqVeIFSRGk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=loveit.kupivodku.top&sid=0441f3e34348cb45#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B1%5D
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@72.56.8.23:443?flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=abuse.sellflow.org&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B34%5D
-vless://f68435e2-ac00-4374-8c03-c1d36e171088@193.3.189.38:1443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ARCkuOPVxHxqZULtxDVzr6dgCqmCzIPomXdb6OAxVS8&sid=0441f3e34348cb40&sni=ee.snowfall.top#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B1%5D
-vless://727bec5f-6077-48cb-a722-0217cb627982@91.107.185.59:1080?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=8UADlZT6MI4J51E-Az4n4x68utNVUewjAPygkG_6Nyo&security=reality&sid=8f&sni=www.sony.com&spx=/9ZlPVZaQN2WQHrp&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B8%5D
-vless://5854d471-23a6-4c97-a398-95f483f885b0@aziz.carderrr.com:44114?security=none&encryption=none&headerType=none&type=tcp&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B1%5D
-vless://893b7c1f-f62c-4cac-8123-49991e114813@hu88.bearbeer.digital:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&sni=hu88.bearbeer.digital&spx=/#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B1%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.95:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B10%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.111:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B4%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.96:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B11%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.70:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B9%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.51:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B7%5D
+vless://ff19693c-11f3-4df9-8713-79a85a5ca090@194.87.143.111:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=se.sellflow.org&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B1%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@89.187.174.110:8443/?type=tcp&encryption=none&flow=&security=tls&sni=ams1.fromblancwithlove.com&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B13%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@89.187.174.121:8443/?type=tcp&encryption=none&flow=&security=tls&sni=ams1.fromblancwithlove.com&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B14%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.115:8443?security=tls&sni=ams1.fromblancwithlove.com&fp=chrome#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5B4%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.67:8443?security=tls&sni=ams1.fromblancwithlove.com&fp=chrome#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5B9%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.117:8443?security=tls&sni=ams1.fromblancwithlove.com&fp=chrome#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5B5%5D
