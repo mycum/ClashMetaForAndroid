@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 16.06.2026 08:47)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 16.06.2026 11:55)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 607 | Пинг: 197 | >800KB/s: 138 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 607 | Пинг: 71 | >800KB/s: 20 | ТОП: 20 (iOS: 16)
 
-vless://f5a2c547-734e-4655-8069-618e38e2cd5c@80.90.188.188:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ru9.cdn-global.pro&fp=chrome&pbk=VzcHDR57dKZ6aPF1VchAbeKfSHKt_a4pjt-eOpoAG0o&sid=893c5832052a1923&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B20%5D
-trojan://humanity@www.creationlong.org:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B8%5D
-vless://f5a2c547-734e-4655-8069-618e38e2cd5c@185.207.214.49:3443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.microsoft.com&fp=chrome&pbk=RX-uBAptg_BSN8XKjup6dhca_2A0L6Cx64iR1V8_s20&sid=7a3f9e2b1c8d4f6a&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B1%5D
-trojan://humanity@188.114.96.3:443?Telegram=@armindone,@armindone,@armindone,@armindone&path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B85%5D
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B36%5D
 trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B3%5D
-trojan://humanity@162.159.17.189:443?host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B127%5D
-vless://4e5017e0-07da-48ef-a882-fa26a845ead6@109.120.188.54:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=4woJiVyGtLro6qRQdUcM2EJDHI3CLOeeE-knmSHk8lE&sid=1ca44564cda56661#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B6%5D
-trojan://humanity@208.103.161.110:443?host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B58%5D
-trojan://humanity@104.16.174.71:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B117%5D
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B7%5D
-trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B58%5D
-trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B39%5D
-trojan://humanity@141.101.90.101:443?path=/assignment&security=tls&host=www.ignitelimit.com&fp=chrome&type=ws&sni=www.ignitelimit.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B23%5D
-trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B66%5D
-trojan://humanity@104.16.174.36:443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B50%5D
+vless://ff19693c-11f3-4df9-8713-79a85a5ca090@72.56.8.23:443?flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=abuse.sellflow.org&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B18%5D
+vless://f5a2c547-734e-4655-8069-618e38e2cd5c@185.207.214.49:3443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.microsoft.com&fp=chrome&pbk=RX-uBAptg_BSN8XKjup6dhca_2A0L6Cx64iR1V8_s20&sid=7a3f9e2b1c8d4f6a&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B1%5D
+vless://ff19693c-11f3-4df9-8713-79a85a5ca090@217.149.25.143:443?flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=abuse.sellflow.org&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B8%5D
+vless://66ad2f3c-181c-4b1b-bb0e-33c50a6b6bc9@fin83.alexanderoff.ru:11604?security=&encryption=none&headerType=&type=tcp&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B1%5D
+vless://ff19693c-11f3-4df9-8713-79a85a5ca090@72.56.38.250:443?flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=abuse.sellflow.org&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B2%5D
+vless://b9f33025-9b40-4ece-9a10-85da0f0af052@fin185.alexanderoff.ru:36294?security=&encryption=none&headerType=&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B1%5D
+vless://ff19693c-11f3-4df9-8713-79a85a5ca090@186.246.13.130:443?flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=abuse.sellflow.org&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B17%5D
+trojan://SoftNetConnect@130.185.121.229:42549?security=tls&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B11%5D
+vless://ff19693c-11f3-4df9-8713-79a85a5ca090@91.198.220.128:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=abuse.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B3%5D
+vless://fdba43e2-9dc3-4c3e-a890-08ab21e60081@89.125.20.100:443?flow=xtls-rprx-vision&fp=chrome&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=abcd&sni=auto.malina24.xyz&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B8%5D
+vless://d39664df-5bc0-4f49-9894-8f03b4150082@fan.soft26.ir:8443?type=xhttp&security=reality&path=/&sni=www.yahoo.com&fp=chrome&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&sid=6f3192#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B9%5D
+vless://6e8ee019-73c1-42aa-b9e7-357e768993c3@130.12.242.99:7443?flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=www.microsoft.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20%5B3%5D
+vless://598160c6-982d-4b2d-8218-c8ab745f7677@45.206.0.35:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=chrome&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=37772edff71b4167&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B2%5D
+vless://4d606920-62d7-4d28-a5c4-f8a70fe56aaa@45.206.0.36:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=chrome&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=37772edff71b4167&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B1%5D
+trojan://TrojanPass2026%21@2.26.54.174:8448?security=tls&sni=foolsland.ru&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B29%5D
