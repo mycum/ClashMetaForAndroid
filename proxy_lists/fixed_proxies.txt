@@ -1,36 +1,36 @@
-# profile-title: 🚀 Telegood VPN (ТОП-32 от 17.06.2026 21:39)
+# profile-title: 🚀 Telegood VPN (ТОП-32 от 17.06.2026 23:18)
 # 🛡️ Verified Elite: 32
-# 📊 Stats: Вход: 752 | Пинг: 144 | >800KB/s: 66 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 756 | Пинг: 181 | >800KB/s: 87 | ТОП: 32 (iOS: 16)
 
-trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B3%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.95:8443?security=tls&fp=chrome&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none&path=/#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B22%5D
-trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?type=tcp&security=tls&headerType=none&sni=www.lateralio.click&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B16%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.112:8443?security=tls&fp=chrome&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none&path=/#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B10%5D
-vless://ded3638e-ab7f-4ff8-bc60-9fc6666cff22@186.246.13.22:443?fp=firefox&mode=gun&pbk=dEdb0K8U-uTlYx8OAyuaFFbwiL0eS7ZuVsPAYdZUvyk&security=reality&serviceName=gun&sid=3e0c736d79&sni=ubuntu.ubuntuhosting.host&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B6%5D
-vless://ded3638e-ab7f-4ff8-bc60-9fc6666cff22@201.51.6.180:443?fp=firefox&mode=gun&pbk=A4EFCXsK2opMGKRuAAOfUZuj11Vi2O9rdPDk6gpynF4&security=reality&serviceName=gun&sid=3a2c&sni=slackware.ubuntuhosting.host&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B2%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.108:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B4%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.96:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B25%5D
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@194.87.143.111:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=se.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B3%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.109:8443?security=tls&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B7%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.115:8443?type=tcp&security=tls&fp=chrome&sni=ams1.fromblancwithlove.com#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5B8%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.58:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B18%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.111:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B9%5D
-vless://39e8399a-91bb-4cdd-a20a-fc315dde7ff1@72.56.88.84:21443?fp=firefox&pbk=bPfGcR5Lpfb9brL0_VI1f-aqxUT9p6AEa9Gt3XyNvVQ&security=reality&sni=cloudflare.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B3%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.97:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B28%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.70:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B21%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.197:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B1%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.221:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B8%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.219:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B7%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.199:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B2%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.209:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B4%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.51:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B15%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.214:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B6%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.212:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B5%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@89.187.174.110:8443/?type=tcp&encryption=none&flow=&security=tls&sni=ams1.fromblancwithlove.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B31%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.84:8443?type=tcp&security=tls&fp=chrome&sni=ams1.fromblancwithlove.com#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5B22%5D
-vless://9843588f-413a-4cac-a593-9d32ca66f0af@awgshop24.ru:2083?type=ws&path=/randompath123&host=www.google.com&sni=awgshop24.ru#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B35%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.96:8443?type=tcp&security=tls&fp=chrome&sni=ams1.fromblancwithlove.com#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5B24%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.67:8443?security=tls&sni=ams1.fromblancwithlove.com#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5B17%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.107:8443?security=tls&sni=ams1.fromblancwithlove.com#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5B3%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@89.187.174.121:8443/?type=tcp&encryption=none&flow=&security=tls&sni=ams1.fromblancwithlove.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B32%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.227.215:8443/?type=tcp&encryption=none&flow=&security=tls&sni=ams1.fromblancwithlove.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B30%5D
+trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B3%5D
+trojan://MiTiVPN@45.131.4.118:443?type=ws&security=tls&path=/ed=mitivpn&host=linkkon-w.ir&sni=linkkon-w.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B1%5D
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=/odiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&fp=chrome&type=ws&allowInsecure=0&sni=octopusss.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B1%5D
+vless://9843588f-413a-4cac-a593-9d32ca66f0af@awgshop24.ru:2083?type=ws&path=/randompath123&host=www.google.com&sni=awgshop24.ru#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B34%5D
+vless://ded3638e-ab7f-4ff8-bc60-9fc6666cff22@201.51.6.180:443?fp=firefox&mode=gun&pbk=A4EFCXsK2opMGKRuAAOfUZuj11Vi2O9rdPDk6gpynF4&security=reality&serviceName=gun&sid=3a2c&sni=slackware.ubuntuhosting.host&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B20%5D
+vless://633b864f-f733-468c-82a2-a4eb3f2beba3@104.165.205.102:8080?type=xhttp&headerType=none&security=reality&encryption=none&sni=ozon.ru&fp=chrome&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&sid=6d6f13013d3e1d0c&path=/#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B%2ACIDR%5D%20%5B1%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.224:8443?security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B22%5D
+trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?type=tcp&security=tls&headerType=none&sni=www.lateralio.click&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B25%5D
+vless://633b864f-f733-468c-82a2-a4eb3f2beba3@104.165.205.104:8080?type=xhttp&headerType=none&security=reality&encryption=none&sni=ozon.ru&fp=chrome&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&sid=6d6f13013d3e1d0c&path=/#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B%2ACIDR%5D%20%5B2%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.197:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B3%5D
+vless://ff19693c-11f3-4df9-8713-79a85a5ca090@194.87.143.111:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=se.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B2%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.221:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B19%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.112:8443?security=tls&fp=chrome&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none&path=/#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B8%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.58:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B16%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.97:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B25%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.108:8443?security=tls&fp=chrome&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none&path=/#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B1%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.111:8443?security=tls&fp=chrome&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none&path=/#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B6%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.109:8443?security=tls&fp=chrome&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none&path=/#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B3%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.95:8443?security=tls&fp=chrome&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none&path=/#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B21%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.51:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B14%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.96:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B23%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.217:8443?security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B16%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.200:8443?security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B5%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.214:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B13%5D
+vless://39e8399a-91bb-4cdd-a20a-fc315dde7ff1@72.56.88.84:21443?fp=firefox&pbk=bPfGcR5Lpfb9brL0_VI1f-aqxUT9p6AEa9Gt3XyNvVQ&security=reality&sni=cloudflare.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B112%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.220:8443?security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B18%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.196:8443?security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B2%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.215:8443?security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B14%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.222:8443?security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B20%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.223:8443?security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B21%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.199:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B4%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.211:8443?security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B11%5D
