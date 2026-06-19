@@ -1,34 +1,36 @@
-# profile-title: 🚀 Telegood VPN (ТОП-30 от 19.06.2026 05:38)
-# 🛡️ Verified Elite: 30
-# 📊 Stats: Вход: 645 | Пинг: 167 | >800KB/s: 30 | ТОП: 30 (iOS: 16)
+# profile-title: 🚀 Telegood VPN (ТОП-32 от 19.06.2026 08:50)
+# 🛡️ Verified Elite: 32
+# 📊 Stats: Вход: 645 | Пинг: 161 | >800KB/s: 36 | ТОП: 32 (iOS: 16)
 
-trojan://MiTiVPN@45.131.4.118:443?type=ws&security=tls&path=/ed=mitivpn&alpn=http/1.1&fp=chrome&sni=linkkon-w.ir#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B3%5D
-vless://AlfredConfig@159.246.55.251:443?type=ws&headerType=none&security=tls&encryption=none&sni=alfi.yas-nowin.ir&fp=chrome&alpn=http/1.1&path=/&host=alfi.yas-nowin.ir&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B1%5D
+trojan://MiTiVPN@45.131.4.118:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=linkkon-w.ir&fp=chrome&type=ws&sni=linkkon-w.ir#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B4%5D
 trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B2%5D
-vless://AlfredConfig@164.38.155.135:443?type=ws&headerType=none&security=tls&encryption=none&sni=alfi.yas-nowin.ir&fp=chrome&alpn=http/1.1&path=/&host=alfi.yas-nowin.ir&insecure=0#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D%20%5B1%5D
-trojan://MiTiVPN@151.101.110.219:443?security=tls&sni=global.fastly.com&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=mitivpn.global.ssl.fastly.net&path=/ed%3Dmitivpn#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B37%5D
-trojan://MiTiVPN@151.101.1.194:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=1&host=mitivpn-s2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B64%5D
 vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80?security=none&encryption=none&host=khodroshop.ir&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1%5D
-trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?security=tls&sni=www.lateralio.click#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B11%5D
+trojan://MiTiVPN@151.101.1.194:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=1&host=mitivpn-s2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B64%5D
+vless://AlfredConfig@159.246.55.251:443?type=ws&headerType=none&security=tls&encryption=none&sni=alfi.yas-nowin.ir&fp=chrome&alpn=http/1.1&path=/&host=alfi.yas-nowin.ir&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B1%5D
+trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?type=tcp&security=tls&headerType=none&sni=www.lateralio.click&insecure=1&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B10%5D
+vless://42e2dd45-2323-4929-9ab7-98f43591416e@72.56.21.49:443?security=tls&type=ws&host=yykir7al.ndaiwcu.workers.dev&fp=chrome&sni=yykir7al.ndaiwcu.workers.dev&path=/%3Fed%3D2560&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%2213%22,%22length%22%3A%221%22,%22maxSplit%22%3A%22170%22,%22packets%22%3A%221-1%22%7D,%22type%22%3A%22fragment%22%7D,%7B%22settings%22%3A%7B%22delay%22%3A%2213%22,%22length%22%3A%221%22,%22maxSplit%22%3A%22160%22,%22packets%22%3A%221-1%22%7D,%22type%22%3A%22fragment%22%7D,%7B%22settings%22%3A%7B%22delay%22%3A%220%22,%22length%22%3A%22124%22,%22maxSplit%22%3A%220%22,%22packets%22%3A%22tlshello%22%7D,%22type%22%3A%22fragment%22%7D%5D%7D#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B4%5D
+vless://1750bd54-55e6-4d6b-9e0b-2d32c58dad23@141.8.199.170:2096?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B4%5D
+vless://42e2dd45-2323-4929-9ab7-98f43591416e@108.165.236.247:443?security=tls&type=ws&host=yykir7al.ndaiwcu.workers.dev&fp=chrome&sni=yykir7al.ndaiwcu.workers.dev&path=/%3Fed%3D2560&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B2%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.130:8443?security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B3%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.133:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B5%5D
+trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B2%5D
 vless://05671cd1-ab2f-4f64-a926-b655f199a23d@104.194.148.56:22263?type=tcp&encryption=none&security=none#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B1%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.195:8443?security=tls&type=tcp&sni=ams1.fromblancwithlove.com&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B9%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.130:8443?type=tcp&security=tls&fp=firefox&sni=ams1.fromblancwithlove.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B4%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.195:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B10%5D
 vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.1:8443?type=tcp&security=tls&fp=firefox&sni=ams1.fromblancwithlove.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B11%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.133:8443?type=tcp&security=tls&fp=firefox&sni=ams1.fromblancwithlove.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B6%5D
 vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.161:8443?type=tcp&security=tls&fp=firefox&sni=ams1.fromblancwithlove.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B7%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.32:8443?type=tcp&security=tls&fp=firefox&sni=ams1.fromblancwithlove.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B12%5D
-trojan://MiTiVPN@45.131.4.118:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B5%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.32:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B13%5D
+vless://d296ae26-b357-474b-9bd0-eea3132b4813@www.spark.red:443?encryption=none&security=tls&sni=sni.mmadcoffee.info&fp=firefox&insecure=0&allowInsecure=0&type=ws&host=smtp.mmadcoffee.info&path=/19322/api#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B1%5D
+vless://EarnMoneyarzZoRo@zorovpn.xubi.org:58687?security=reality&encryption=none&pbk=vtF4x5YlLy7A-Ts1-mCZkXwqL7QFaapPxVRXdh1j_Qg&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=4e37f3eeee73fc#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B3%5D
+trojan://MiTiVPN@45.131.4.118:443?type=ws&security=tls&path=/ed=mitivpn&alpn=http/1.1&fp=chrome&sni=linkkon-w.ir#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B3%5D
 trojan://humanity@81.255.155.10:443?type=ws&security=tls&path=/assignment&host=www.creationlong.org&sni=www.creationlong.org&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B3%5D
-vless://AlfredConfig@164.38.155.135:443?type=ws&security=tls&fp=chrome&sni=alfi.yas-nowin.ir&path=/&host=alfi.yas-nowin.ir#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D%20%5B2%5D
-trojan://MiTiVPN@151.101.110.219:443?type=ws&security=tls&path=/ed%3Dmitivpn&host=mitivpn.global.ssl.fastly.net&sni=global.fastly.com&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B40%5D
+trojan://MiTiVPN@151.101.1.194:443?type=ws&security=tls&path=/ed%3Dmitivpn&host=mitivpn-s2.global.ssl.fastly.net&sni=global.fastly.com&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B65%5D
+trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?security=tls&sni=www.lateralio.click#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B11%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.130:8443?type=tcp&security=tls&fp=firefox&sni=ams1.fromblancwithlove.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B4%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.133:8443?type=tcp&security=tls&fp=firefox&sni=ams1.fromblancwithlove.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B6%5D
+trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?sni=130.94.78.17&peer=130.94.78.17&security=tls#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B3%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.195:8443?security=tls&type=tcp&sni=ams1.fromblancwithlove.com&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B9%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.32:8443?type=tcp&security=tls&fp=firefox&sni=ams1.fromblancwithlove.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B12%5D
+trojan://MiTiVPN@45.131.4.118:443?path=/ed%3Dmitivpn&security=tls&alpn=http/1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B1%5D
 trojan://MiTiVPN@151.101.1.194:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=mitivpn-s2.global.ssl.fastly.net&type=ws&sni=global.fastly.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B63%5D
 trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?allowInsecure=0&sni=www.lateralio.click#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B12%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.195:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B10%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.130:8443?security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B3%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.32:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B13%5D
-trojan://MiTiVPN@45.131.4.118:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=linkkon-w.ir&fp=chrome&type=ws&sni=linkkon-w.ir#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B4%5D
-trojan://MiTiVPN@151.101.110.219:443?type=ws&security=tls&path=/ed=mitivpn&host=mitivpn.global.ssl.fastly.net&sni=global.fastly.com&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B38%5D
-trojan://MiTiVPN@151.101.1.194:443?type=ws&security=tls&path=/ed%3Dmitivpn&host=mitivpn-s2.global.ssl.fastly.net&sni=global.fastly.com&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B65%5D
-trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?type=tcp&security=tls&headerType=none&sni=www.lateralio.click&insecure=1&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B10%5D
-trojan://MiTiVPN@45.131.4.118:443?path=/ed%3Dmitivpn&security=tls&alpn=http/1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B1%5D
-trojan://MiTiVPN@45.131.4.118:443?security=tls&alpn=http/1.1&type=ws&path=/ed=mitivpn&sni=linkkon-w.ir#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B2%5D
+trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B5%5D
