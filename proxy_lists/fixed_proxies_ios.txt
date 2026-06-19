@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 19.06.2026 12:42)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 19.06.2026 15:56)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 794 | Пинг: 224 | >800KB/s: 48 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 794 | Пинг: 132 | >800KB/s: 20 | ТОП: 20 (iOS: 16)
 
-vless://AlfredConfig@164.38.155.135:443?type=ws&security=tls&fp=chrome&sni=alfi.yas-nowin.ir&path=/&host=alfi.yas-nowin.ir#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D%20%5B2%5D
 trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B12%5D
-vless://AlfredConfig@159.246.55.251:443?type=ws&headerType=none&security=tls&encryption=none&sni=alfi.yas-nowin.ir&fp=chrome&alpn=http/1.1&path=/&host=alfi.yas-nowin.ir#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B3%5D
-trojan://MiTiVPN@45.131.4.118:443?security=tls&alpn=http/1.1&type=ws&path=/ed=mitivpn&fp=chrome&sni=linkkon-w.ir#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B8%5D
-vless://4c0e1fb5-08a6-4809-8723-9721f1b1990b@85.239.34.189:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=rutube.ru&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B7%5D
-vless://AlfredConfig@199.181.197.176:443?type=ws&headerType=none&security=tls&encryption=none&sni=alfi.yas-nowin.ir&fp=chrome&alpn=http/1.1&path=/&host=alfi.yas-nowin.ir#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B7%5D
+trojan://MiTiVPN@45.131.4.118:443?alpn=http/1.1&fp=chrome&host=linkkon-w.ir&path=/ed=mitivpn&sni=linkkon-w.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B9%5D
 vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80?security=none&encryption=none&host=khodroshop.ir&type=ws&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1%5D
-trojan://MiTiVPN@151.101.1.194:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=mitivpn-s2.global.ssl.fastly.net&fp=chrome&type=ws&sni=global.fastly.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B12%5D
-vless://24f9982c-be82-4d09-be0e-a29e46cd3fd6@fin185.alexanderoff.ru:36294?encryption=none&security=none&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B1%5D
+trojan://MiTiVPN@151.101.1.194:443?type=ws&security=tls&path=/ed=mitivpn&alpn=http/1.1&fp=chrome&sni=mitivpn-s2.global.ssl.fastly.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B10%5D
+vless://AlfredConfig@164.38.155.135:443?type=ws&security=tls&fp=chrome&sni=alfi.yas-nowin.ir&path=/&host=alfi.yas-nowin.ir#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D%20%5B2%5D
 trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?sni=www.lateralio.click&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B45%5D
-vless://55419186-0d66-4fdf-96dc-1ffed00017d6@138.124.100.211:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cdn-ee-01.app-sc.com&fp=chrome&pbk=ra0_KZBydcQXOsom9LxqRFjO4NBWY828DaTO6yHXvHY&sid=6103629de27adbff&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B2%5D
-vless://4bb063ef-12db-26d5-57c4-0af616c5fb87@66.33.23.63:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&type=ws&host=tmesubgift.up.railway.app&path=/ws/4bb063ef-12db-26d5-57c4-0af616c5fb87#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B22%5D
-vless://f9a32cc6-7dab-4d36-a839-ea276777dc30@194.28.225.2:443?security=tls&type=ws&host=dsvh58bp.v6d30b.workers.dev&fp=chrome&sni=dsvh58bp.v6d30b.workers.dev&path=/%3Fed%3D2560&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B20%5D
-vless://4d2f353f-73cd-44f0-834c-e4e6874551df@console.netraidly.ru:40443?type=tcp&headerType=none&security=reality&flow=xtls-rprx-vision&pbk=zH_3ABX1RiBh4Be_xH9QJcQMzOEI4L4zmiuTiA2_ThU&fp=chrome&sni=deepl.com&sid=b9a9&spx=/#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B2%5D
-vless://7d5fc75d-5353-49e8-ac3a-ccbada84840c@45.139.76.72:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.amd.com&fp=chrome&pbk=V1vIrExX3-oHy5vJNlsazYhVdkKyt9rtt4CDADBeFFo&sid=0bbd0f101ee82d47&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B22%5D
 vless://7d938228-0ee2-4758-9f33-1a6c6592b791@files.netraidly.ru:40443?type=tcp&headerType=none&security=reality&flow=xtls-rprx-vision&pbk=a1UMmt4ytNFwDizX92056cCle6dG1ASF46vf4awNXTk&fp=chrome&sni=deepl.com&sid=d46b&spx=/#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B11%5D
+vless://7d5fc75d-5353-49e8-ac3a-ccbada84840c@45.139.76.72:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.amd.com&fp=chrome&pbk=V1vIrExX3-oHy5vJNlsazYhVdkKyt9rtt4CDADBeFFo&sid=0bbd0f101ee82d47&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B22%5D
+vless://1dd5f2be-f124-4f35-9239-8abc042829c2@149.33.31.115:14302?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lw7-Msn5E2O6HbBdqMw9SvoDJgbDIvHss0UVQ9iZFRc&sid=106f1604d65bb70c&sni=www.samsung.com#%F0%9F%87%B7%F0%9F%87%B8%20Serbia%20%5B1%5D
+trojan://humanity@81.255.155.10:443?type=ws&security=tls&path=/assignment&host=www.creationlong.org&sni=www.creationlong.org&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B11%5D
+trojan://MiTiVPN@45.131.4.118:443?type=ws&security=tls&path=/ed=mitivpn&alpn=http/1.1&fp=chrome&sni=linkkon-w.ir#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B7%5D
+trojan://MiTiVPN@151.101.1.194:443?path=/ed&security=tls&alpn=http/1.1&host=mitivpn-s2.global.ssl.fastly.net&fp=chrome&type=ws&sni=global.fastly.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B9%5D
+trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?type=tcp&security=tls&headerType=none&sni=www.lateralio.click&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B46%5D
+trojan://humanity@81.255.155.10:443?type=ws&headerType=none&security=tls&encryption=none&sni=www.creationlong.org&path=/assignment&host=www.creationlong.org&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B10%5D
+trojan://MiTiVPN@45.131.4.118:443?security=tls&alpn=http/1.1&type=ws&path=/ed=mitivpn&fp=chrome&sni=linkkon-w.ir#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B8%5D
+trojan://MiTiVPN@151.101.1.194:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=mitivpn-s2.global.ssl.fastly.net&type=ws&sni=global.fastly.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B11%5D
