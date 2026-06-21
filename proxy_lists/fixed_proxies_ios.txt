@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 21.06.2026 10:05)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 21.06.2026 12:33)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 809 | Пинг: 207 | >800KB/s: 63 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 893 | Пинг: 227 | >800KB/s: 83 | ТОП: 32 (iOS: 16)
 
-vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.209:8880?encryption=none&type=ws&security=none&path=/cdn/assets/stream&host=cnd.finland2.nexusdataroute.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B3%5D
-trojan://humanity@81.255.155.10:443?type=ws&headerType=none&security=tls&encryption=none&sni=www.creationlong.org&path=/assignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B5%5D
-vless://a9411912-a9ed-4ef2-b36a-92987cd63bf1@204.168.185.202:8080?flow=&fp=chrome&headertype=none&host=&path=&pbk=bhoenokqHQgYh_tgKKyGmqz6vNUrXlD1NQvk0rxu-js&quicsecurity=none&security=reality&servicename=&sid=a8e50a0a&sni=www.sony.com&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B8%5D
-vless://71b03803-5dfe-4dac-8406-a06e94b1bd70@176.109.94.202:9443/?type=ws&encryption=none&flow=&path=/ws&security=tls&sni=mms-2tets.hysteria.ltd&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B1%5D
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.252:443?type=tcp&headerType=none&security=reality&encryption=none&sni=enterprisekitten.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B1%5D
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.253:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B2%5D
+trojan://humanity@81.255.155.10:443?type=ws&headerType=none&security=tls&encryption=none&sni=www.creationlong.org&path=/assignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B9%5D
+vless://ef9d2063-0140-472b-8b17-ba02ba4b4435@45.80.108.236:443?encryption=none&security=tls&sni=lively-resonance-4e12.electrocellco-cf-059.workers.dev&fp=chrome&type=ws&host=lively-resonance-4e12.electrocellco-cf-059.workers.dev&path=/proxyip%3D167.71.48.187#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B2%5D
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@66.81.247.118:8880?type=ws&security=none&fp=chrome&path=/cdn/assets/stream&host=cnd.finland.nexusdataroute.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B2%5D
+vless://cb7b5122-7030-4d3d-9590-da00fafe1c05@167.82.101.251:443?encryption=none&type=ws&security=tls&path=/&host=bazaryabab.global.ssl.fastly.net&sni=viturey.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B5%5D
+vless://ed809f6e-9d1e-0014-acda-7086b05ae9ab@lefortovoru.instrumentidlyadoma.com:443?type=tcp&security=reality&pbk=03H2hdMX00vvZ71JJgMS6LLDd5Wha2xrVUqbRQg0gCo&fp=chrome&sni=lefortovoru.instrumentidlyadoma.com&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B3%5D
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.253:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B3%5D
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.250:443?type=tcp&headerType=none&security=reality&encryption=none&sni=enterprisekitten.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B1%5D
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.252:443?type=tcp&headerType=none&security=reality&encryption=none&sni=enterprisekitten.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B2%5D
+trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.154:443?sni=fra154.clientfirewall.click&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B47%5D
+trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?security=tls&sni=www.lateralio.click&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B35%5D
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.254:443?flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=enterprisekitten.com&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B5%5D
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@fi.faygo.bot:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=enterprisekitten.com&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B6%5D
-vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?security=&encryption=none&headerType=&fp=chrome&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B2%5D
-vless://dc29dcd0-1a03-4e14-a600-74f4fcc6cff4@89.34.90.156:9443?security=reality&encryption=none&pbk=3wa3ZmMniymkL-58bPtY7baWPxdJ6n2UaJMG7YiLiGo&headerType=none&fp=chrome&allow&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com#%F0%9F%87%AE%F0%9F%87%B3%20India%20%5B2%5D
 vless://69a2af58-d74a-44ca-864a-e09b493f4274@45.144.48.187:443?type=tcp&security=reality&pbk=hgQ3Wa09f9ectEos7QyC1LQ8bBq8lEAcAtGIDFTKin0&fp=chrome&sni=www.intel.com&sid=c0&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B1%5D
-trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.154:443?sni=fra154.clientfirewall.click&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B30%5D
-trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?sni=www.lateralio.click&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B20%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.190:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B5%5D
-vless://ccdce320-7eef-4815-8edb-c599987c2279@155.117.137.160:443?security=reality&encryption=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn8-03.yahoo.com&sid=c7e42004e5f024be#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B3%5D
-vless://dc29dcd0-1a03-4e14-a600-74f4fcc6cff4@176.65.144.47:443?flow=xtls-rprx-vision&fp=chrome&pbk=3wa3ZmMniymkL-58bPtY7baWPxdJ6n2UaJMG7YiLiGo&security=reality&sni=dl.google.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B1%5D
+vless://f9a32cc6-7dab-4d36-a839-ea276777dc30@194.28.225.2:443?security=tls&type=ws&host=dsvh58bp.v6d30b.workers.dev&fp=chrome&sni=dsvh58bp.v6d30b.workers.dev&path=/%3Fed%3D2560&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B28%5D
+trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.250:443?sni=fra250.clientfirewall.click&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B52%5D
+vless://23e5a6a4-bad4-4be6-873b-fce27c9ca8be@213.176.77.231:443?type=ws&security=tls&sni=&host=srb6j666.65p5drnb2vxb7rkbzwlx.workers.dev&path=/&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B26%5D
