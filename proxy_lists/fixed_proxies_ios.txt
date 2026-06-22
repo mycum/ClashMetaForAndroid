@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 22.06.2026 04:58)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 22.06.2026 07:03)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 928 | Пинг: 296 | >800KB/s: 147 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1164 | Пинг: 404 | >800KB/s: 206 | ТОП: 32 (iOS: 16)
 
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@167.68.11.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B53%5D
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@213.241.198.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B9%5D
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@108.165.152.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&fp=chrome#%F0%9F%87%AE%F0%9F%87%B3%20India%20%5B%2ACIDR%5D%20%5B1%5D
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@209.46.30.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B58%5D
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@92.53.189.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B%2ACIDR%5D%20%5B4%5D
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.85.119.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B4%5D
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@46.202.30.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&fp=chrome#%F0%9F%87%B2%F0%9F%87%B9%20Malta%20%5B1%5D
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@212.183.88.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%5B%2ACIDR%5D%20%5B1%5D
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.131.7.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&fp=chrome#%F0%9F%87%A7%F0%9F%87%BF%20Belize%20%5B2%5D
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@194.76.18.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&fp=chrome#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%5B6%5D
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@198.177.56.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B19%5D
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@194.59.5.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&fp=chrome#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%5B4%5D
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@167.68.4.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B54%5D
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@209.46.30.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B63%5D
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.193.28.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D%20%5B4%5D
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@77.74.228.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B38%5D
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@155.46.167.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B21%5D
+trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B8%5D
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@89.116.180.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&fp=chrome#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%20%5B4%5D
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@94.140.0.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&fp=chrome#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%5B1%5D
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@86.38.214.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5B1%5D
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.131.210.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&fp=chrome#%F0%9F%87%A7%F0%9F%87%BF%20Belize%20%5B%2ACIDR%5D%20%5B2%5D
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@195.85.59.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram🇨🇳 @VPNine1&fp=chrome#%F0%9F%87%A8%F0%9F%87%BE%20Cyprus%20%5B5%5D
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.135.235.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&fp=chrome#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%20%5B3%5D
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@205.233.181.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B62%5D
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.207.196.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B23%5D
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.193.31.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B10%5D
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@88.216.66.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&fp=chrome#%F0%9F%87%A8%F0%9F%87%BC%20Curacao%20%5B6%5D
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@104.239.72.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&fp=chrome#%F0%9F%87%A8%F0%9F%87%BE%20Cyprus%20%5B10%5D
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.16.110.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B5%5D
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@192.0.54.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B60%5D
