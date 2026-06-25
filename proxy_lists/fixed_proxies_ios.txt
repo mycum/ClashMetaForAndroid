@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 25.06.2026 11:50)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 25.06.2026 15:05)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 902 | Пинг: 226 | >800KB/s: 81 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 902 | Пинг: 190 | >800KB/s: 51 | ТОП: 32 (iOS: 16)
 
-trojan://humanity@81.255.155.10:443?host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B3%5D
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=/ca-cl&security=tls&encryption=none&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&sni=unnes.ac.id.yxls.eu.cc#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D%20%5B2%5D
-vless://69de2fc8-d12f-451c-82b3-d5b578120e50@91.193.58.246:8443?path=/&security=tls&encryption=none&host=nova-turbo-core-c842.nova-4ab463.workers.dev&fp=chrome&type=ws&sni=nova-turbo-core-c842.nova-4ab463.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D%20%5B5%5D
-vless://c84c80cc-d88b-4ca4-9fe9-0c26c05a781e@199.181.197.176:80?type=ws&security=none&fp=chrome&path=/nexus&host=your.nexuschat.fun#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B2%5D
-vless://c84c80cc-d88b-4ca4-9fe9-0c26c05a781e@94.140.0.100:80?type=ws&security=none&fp=chrome&path=/nexus&host=your.nexuschat.fun#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%5B2%5D
+trojan://humanity@81.255.155.10:443?host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B2%5D
 vless://767b6340-96dc-4aa0-8013-a8af7513d920@singapore.com:8443?security=tls&fp=chrome&sni=c7dabe95.proxy-978.pages.dev&type=ws&headerType=none&host=c7dabe95.proxy-978.pages.dev&path=/#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1%5D
-vless://4a1ae514-b3d7-42b2-b105-84a187fd8164@159.194.220.5:1443?type=tcp&headerType=none&security=reality&encryption=none&sni=node1.rw.qwaqdev.ru&fp=chrome&pbk=zX4Ns1a_f_Zyz0gmbwh-D9DUhLGGMc0WREFOwoQVUTk&sid=9727#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B3%5D
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=/ca-cl&security=tls&encryption=none&host=unnes.ac.id.yxls.eu.cc&type=ws&sni=unnes.ac.id.yxls.eu.cc&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D%20%5B3%5D
 trojan://MiTiVPN@151.101.110.219:443?security=tls&type=ws&sni=global.fastly.com&path=/nl=mitivpn&host=cdn2-mitivpn.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B34%5D
-trojan://MiTiVPN@151.101.193.242:443?security=tls&sni=f6r.ir&alpn=http/1.1&type=ws&host=f6r.ir&path=/usa=mitivpn&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B3%5D
-trojan://MiTiVPN@151.101.1.242:443?path=/de=mitivpn&security=tls&alpn=http/1.1&host=www.f6r.ir&fp=chrome&type=ws&sni=www.f6r.ir#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B9%5D
 trojan://MiTiVPN@199.232.237.245:443?path=/usa=mitivpn&security=tls&alpn=http/1.1&host=cdn2-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B38%5D
-trojan://MiTiVPN@151.101.56.6:443?path=/de=mitivpn&security=tls&alpn=http/1.1&host=cdn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=global.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B40%5D
-vless://c84c80cc-d88b-4ca4-9fe9-0c26c05a781e@45.131.4.246:80?path=/nexus&security=none&encryption=none&host=your.nexuschat.fun&type=ws&fp=chrome#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B1%5D
-vless://928d8e01-289f-4a8b-91ea-2689ec62aed1@arvancloud.ir:8880?security=none&encryption=none&type=ws&host=sinimoo.com&path=/&fp=chrome#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B11%5D
-vless://994a7e2b-1944-4c7d-877a-d413dca909c7@45.144.51.67:443?type=tcp&headerType=none&security=reality&encryption=none&sni=aneta.kosmolet.xyz&fp=chrome&pbk=-uB8zIro9WM-NPpiSlOLWHouzZVXibfmT-MxwkacoQ0&sid=a67894cec8a930c4&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B4%5D
-trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?security=tls&sni=www.lateralio.click&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B17%5D
+trojan://MiTiVPN@151.101.56.6:443?security=tls&sni=global.fastly.com&type=ws&host=cdn-mitivpn.global.ssl.fastly.net&path=/de%3Dmitivpn&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B42%5D
+trojan://MiTiVPN@151.101.1.242:443?type=ws&security=tls&path=/de=mitivpn&host=www.f6r.ir&sni=www.f6r.ir&alpn=http/1.1&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B10%5D
+trojan://MiTiVPN@151.101.193.242:443?security=tls&sni=f6r.ir&alpn=http/1.1&type=ws&host=f6r.ir&path=/usa=mitivpn&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B3%5D
+vless://4a1ae514-b3d7-42b2-b105-84a187fd8164@159.194.220.5:1443?type=tcp&headerType=none&security=reality&encryption=none&sni=node1.rw.qwaqdev.ru&fp=chrome&pbk=zX4Ns1a_f_Zyz0gmbwh-D9DUhLGGMc0WREFOwoQVUTk&sid=9727#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B3%5D
+trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.154:443?security=tls&headerType=&type=tcp&sni=fra154.clientfirewall.click&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B12%5D
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.131:443?security=tls&headerType=none&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B23%5D
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls&headerType=none&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B80%5D
+trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?sni=www.lateralio.click&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B18%5D
+trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.250:443?security=tls&sni=fra250.clientfirewall.click&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B44%5D
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.145:443?security=tls&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B46%5D
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443/?type=tcp&security=tls&sni=185.137.157.151&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B83%5D
