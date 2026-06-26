@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 26.06.2026 15:11)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 26.06.2026 17:07)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 933 | Пинг: 168 | >800KB/s: 31 | ТОП: 31 (iOS: 16)
+# 📊 Stats: Вход: 936 | Пинг: 199 | >800KB/s: 56 | ТОП: 32 (iOS: 16)
 
-trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B5%5D
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=/ca-cl&security=tls&encryption=none&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&sni=unnes.ac.id.yxls.eu.cc#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D%20%5B3%5D
-trojan://Mitivpn@151.101.56.6:443?path=/de=mitivpn&security=tls&alpn=h2&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B38%5D
-trojan://Mitivpn@151.101.110.219:443?type=ws&security=tls&path=/de=mitivpn&host=3-mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B31%5D
-trojan://Mitivpn@iranpoems.ir:443?type=ws&security=tls&path=/de=mitivpn&host=cdn.gamingdll.ir&sni=cdn.gamingdll.ir&alpn=h2&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B4%5D
-trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.250:443?security=tls&headerType=&type=tcp&sni=fra250.clientfirewall.click&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B51%5D
-trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.154:443?security=tls&headerType=&type=tcp&sni=fra154.clientfirewall.click&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B11%5D
-trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&host=v&headerType=none&type=tcp&sni=www.lateralio.click&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B15%5D
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?security=tls&headerType=none&type=tcp&sni=185.137.157.151&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B43%5D
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.145:443?security=tls&type=tcp&sni=185.137.157.145&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B22%5D
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.105:443?fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B21%5D
-vless://deffbfcd-0626-365b-ff92-9b93f2fd6459@rvg-production-1ab7.up.railway.app:443?path=/ws/deffbfcd-0626-365b-ff92-9b93f2fd6459&security=tls&encryption=none&host=rvg-production-1ab7.up.railway.app&type=ws&sni=rvg-production-1ab7.up.railway.app&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B15%5D
-trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?sni=www.vk.com&fp=chrome#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B3%5D
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.71:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B57%5D
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws&host=unnes.ac.id.yxls.eu.cc&path=/ca-cl&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D%20%5B1%5D
-trojan://Mitivpn@151.101.56.6:443?path=/de%3Dmitivpn&security=tls&alpn=h2&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B36%5D
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=/ca-cl&security=tls&encryption=none&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&sni=unnes.ac.id.yxls.eu.cc#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D%20%5B2%5D
+trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B8%5D
+vless://b1ed5cfa-7ba2-49fb-9d44-3d2a4aa2aee3@82.202.156.57:443?fp=chrome&pbk=rLZ958cX7AMasTIeMo5amhntDinsuY3P5zwnc1Pebhw&security=reality&sid=e736&sni=www.google.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B13%5D
+trojan://Mitivpn@151.101.110.219:443?security=tls&type=ws&host=3-mitivpn.global.ssl.fastly.net&path=/boost=mitivpn&sni=ssl.fastly.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B42%5D
+vless://1189bc23-27f7-47c1-89d4-1e6843a09cb6@172.64.147.226:2083?security=tls&fp=chrome&sni=freetools-h2s.pages.dev&type=ws&headerType=none&host=freetools-h2s.pages.dev&path=/#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B%2ACIDR%5D%20%5B2%5D
+trojan://Mitivpn@151.101.56.6:443?type=ws&security=tls&path=/de=mitivpn&host=4-4-3-mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=h2&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B50%5D
+trojan://Mitivpn@iranpoems.ir:443?type=ws&security=tls&path=/de=mitivpn&host=cdn.gamingdll.ir&sni=cdn.gamingdll.ir&alpn=h2&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B11%5D
+trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?security=tls&sni=www.lateralio.click&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B18%5D
+trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.154:443?security=tls&headerType=&type=tcp&sni=fra154.clientfirewall.click&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B14%5D
+trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.117:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B34%5D
+trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.127:443?security=tls&headerType=none&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B40%5D
+trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.123:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B37%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F4bf2f6&encryption=none&headerType=none&sni=fta.fontanvpn.com&seq=you_are_beautiful5049&descriptions=%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%83523&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D%20%5B3%5D
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B45%5D
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.71:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B60%5D
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.119:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B55%5D
