@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 29.06.2026 23:31)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 30.06.2026 10:05)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 928 | Пинг: 310 | >800KB/s: 107 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1069 | Пинг: 385 | >800KB/s: 163 | ТОП: 32 (iOS: 16)
 
-vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@193.9.49.65:443?encryption=none&host=wz1.fum.ccwu.cc&path=/proxyip%3Dsjc.o00o.ooo&security=tls&sni=wz1.fum.ccwu.cc&type=ws&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B2%5D
-trojan://humanity@216.24.57.1:443/?type=ws&path=/assignment&security=tls&sni=www.creationlong.org&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B4%5D
-trojan://MITIVPN@94.140.0.100:443?security=tls&sni=95r.ir&alpn=http/1.1&type=ws&host=95r.ir&path=/MiTiVPN=Usa&fp=chrome#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%5B3%5D
-trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&fp=chrome&type=ws&sni=95r.ir#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D%20%5B10%5D
 trojan://humanity@81.255.155.10:443?host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B3%5D
-trojan://MiTiVPN@199.181.197.176:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&fp=chrome&type=ws&sni=95r.ir#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B43%5D
-trojan://Mitivpn@151.101.110.219:443?path=/de%3D%6d%69%74%69%76%70%6e&security=tls&alpn=http/1.1&host=3-%6d%69%74%69%76%70%6e.global.ssl.fastly.net&fp=chrome&allow&type=ws&sni=global.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B23%5D
-trojan://Mitivpn@167.82.101.251:443?path=/de&security=tls&alpn=http/1.1&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B41%5D
-trojan://Mitivpn@151.101.65.242:443?security=tls&type=ws&path=/de&fp=chrome&alpn=h2&sni=cdn.gamingdll.ir#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B20%5D
-trojan://Mitivpn@151.101.56.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/fastly&security=tls&alpn=http/1.1&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B32%5D
-trojan://Mitivpn@151.101.129.242:443?security=tls&sni=cdn.gamingdll.ir&type=ws&host=cdn.gamingdll.ir&path=/de&fp=chrome&alpn=h2#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B9%5D
-trojan://Mitivpn@iranpoems.ir:443?path=/usa=mitivpn&security=tls&alpn=http/1.1&host=www.gamingdll.ir&fp=chrome&type=ws&sni=www.gamingdll.ir#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B24%5D
-trojan://Mitivpn@151.101.1.242:443?security=tls&type=ws&path=/de&fp=chrome&alpn=h2&sni=cdn.gamingdll.ir#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B5%5D
-trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.154:443?security=tls&headerType=&type=tcp&sni=fra154.clientfirewall.click&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B73%5D
-trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?type=tcp&security=tls&headerType=none&sni=www.lateralio.click&alpn=h2,http/1.1&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B52%5D
-trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.250:443?security=tls&headerType=&type=tcp&sni=fra250.clientfirewall.click&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B57%5D
+vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@193.9.49.65:443?security=tls&fp=chrome&sni=wz1.fum.ccwu.cc&type=ws&headerType=none&host=wz1.fum.ccwu.cc&path=/proxyip=sjc.o00o.ooo#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B7%5D
+trojan://humanity@216.24.57.1:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B4%5D
+trojan://MiTiVPN@91.193.58.201:443?security=tls&alpn=http/1.1&type=ws&path=/MiTiVPN=NL&fp=chrome&sni=95r.ir#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D%20%5B9%5D
+trojan://MiTiVPN@199.181.197.176:443?security=tls&fp=chrome&alpn=http/1.1&type=ws&path=/MiTiVPN=fL&sni=95r.ir#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B95%5D
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443/?type=ws&encryption=none&flow=&host=unnes.ac.id.yxls.eu.cc&path=/ca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D%20%5B1%5D
+trojan://MITIVPN@94.140.0.100:443?path=/MiTiVPN%3DUsa&security=tls&alpn=http/1.1&host=95r.ir&fp=chrome&type=ws&sni=95r.ir#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%5B2%5D
+trojan://Mitivpn@151.101.110.219:443?type=ws&security=tls&host=3-mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&path=/&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B18%5D
+trojan://Mitivpn@151.101.56.6:443?path=/fastly%3Dmitivpn&security=tls&alpn=http/1.1&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B32%5D
+trojan://Mitivpn@iranpoems.ir:443?path=/usa%3Dmitivpn&security=tls&host=www.gamingdll.ir&type=ws&sni=www.gamingdll.ir&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B23%5D
+trojan://Mitivpn@167.82.101.251:443?security=tls&type=ws&sni=ssl.fastly.com&path=/de&host=3-mitivpn.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B50%5D
+trojan://Mitivpn@151.101.193.242:443?security=tls&sni=cdn.gamingdll.ir&type=ws&host=cdn.gamingdll.ir&path=/de%3Dmitivpn&fp=chrome&alpn=h2#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B9%5D
+trojan://Mitivpn@151.101.1.242:443?security=tls&sni=cdn.gamingdll.ir&type=ws&host=cdn.gamingdll.ir&path=/de&fp=chrome&alpn=h2#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B3%5D
+vless://d6f8c086-a558-49f9-8f51-bca6e56185ab@5d74fed1.apruxdomain.lol:80?type=ws&security=none&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B9%5D
+vless://9d748910-8306-411a-9b2e-11f0a2a4486f@78.159.250.32:1111?security=reality&flow=xtls-rprx-vision&pbk=YuhNgtj_Tf8WNLiSB2bNJKPvfwmqa6PNRpbP8TvNkzA&fp=chrome&sni=api-maps.yandex.ru&type=tcp&headerType=none&host=api-maps.yandex.ru&path=/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B12%5D
+trojan://Mitivpn@151.101.65.242:443?security=tls&sni=cdn.gamingdll.ir&type=ws&host=cdn.gamingdll.ir&path=/de&fp=chrome&alpn=h2#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B18%5D
