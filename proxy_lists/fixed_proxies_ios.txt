@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 03.07.2026 03:02)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 03.07.2026 04:45)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 652 | Пинг: 89 | >800KB/s: 20 | ТОП: 20 (iOS: 16)
+# 📊 Stats: Вход: 685 | Пинг: 138 | >800KB/s: 31 | ТОП: 31 (iOS: 16)
 
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.6.112.0:443?encryption=none&host=shegeftihaaa.net&path=/rsedgws&security=tls&sni=shegeftihaaa.net&type=ws&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B5%5D
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&security=tls&sni=shegeftihaaa.net&type=ws&host=shegeftihaaa.net&path=/rsedgws&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1%5D
-trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&host=Fl.App-Cloud.ir&fp=chrome&type=ws&sni=fl.App-Cloud.ir#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D%20%5B6%5D
 trojan://MITIVPN@94.140.0.40:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&host=Usa.App-Cloud.ir&fp=chrome&type=ws&sni=Usa.App-Cloud.ir#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%5B5%5D
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?security=tls&fp=chrome&sni=shegeftihaaa.net&type=ws&headerType=none&host=shegeftihaaa.net&path=/rsedgws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B2%5D
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls&headerType=none&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B9%5D
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?security=tls&type=tcp&headerType=none@NebulaVPNx&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B21%5D
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B4%5D
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&security=tls&sni=shegeftihaaa.net&type=ws&host=shegeftihaaa.net&path=/rsedgws&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B3%5D
+vless://91d0fa43-e557-43e7-a731-f0c3d1fb306a@144.31.190.191:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ozon.ru&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B14%5D
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?security=tls&fp=chrome&sni=shegeftihaaa.net&type=ws&headerType=none&host=shegeftihaaa.net&path=/rsedgws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B6%5D
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.6.112.0:443?type=ws&security=tls&fp=chrome&sni=shegeftihaaa.net&path=/rsedgws&host=shegeftihaaa.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B4%5D
+vless://53d0c9d8-0d59-453c-a5da-8f7c81f5ea03@185.22.234.32:7443?type=ws&headerType=none&security=tls&encryption=none&sni=mms-2.hysteria.ltd&fp=chrome&path=/ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B5%5D
+trojan://humanity@81.255.155.10:443?type=ws&security=tls&sni=www.creationlong.org&path=/assignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B1%5D
+trojan://humanity@216.24.57.1:443?path=/assignment&security=tls&host=www.calmloud.com&type=ws&sni=www.calmloud.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B19%5D
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls&headerType=&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B8%5D
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?security=tls&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B22%5D
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.128:443?security=tls&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B32%5D
 vless://53d0c9d8-0d59-453c-a5da-8f7c81f5ea03@89.106.64.91:8443?type=ws&headerType=none&security=tls&encryption=none&sni=slc-2.hysteria.ltd&fp=chrome&path=/ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20%5B3%5D
-vless://%40MAconnectt@hayabusa.proxy.rlwy.net:14069?mode=auto&path=/&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22,%22mode%22%3A%22auto%22,%22scMaxEachPostBytes%22%3A%221000000%22%7D&pbk=ano6ymI7YFfCBvSZFl6Lx7-GjVA6wotlFjvK0qdr-U0&fp=chrome&spx=/&type=xhttp&sni=is1-ssl.mzstatic.com&sid=e64e#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B12%5D
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.145:443?security=tls&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B20%5D
 vless://53d0c9d8-0d59-453c-a5da-8f7c81f5ea03@ws-2.hysteria.ltd:9443?type=ws&headerType=none&security=tls&encryption=none&sni=ws-2.hysteria.ltd&fp=chrome&path=/ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20%5B4%5D
-vless://53d0c9d8-0d59-453c-a5da-8f7c81f5ea03@46.8.208.49:9443?type=ws&headerType=none&security=tls&encryption=none&sni=slc-1.hysteria.ltd&fp=chrome&path=/ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B6%5D
-vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?type=ws&encryption=none&path=/&host=&security=none&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B3%5D
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.6.112.0:443?type=ws&security=tls&fp=chrome&sni=shegeftihaaa.net&path=/rsedgws&host=shegeftihaaa.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B8%5D
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&security=tls&sni=shegeftihaaa.net&fp=chrome&type=ws&host=shegeftihaaa.net&path=/rsedgws#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B2%5D
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?type=ws&security=tls&fp=chrome&sni=shegeftihaaa.net&path=/rsedgws&host=shegeftihaaa.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B4%5D
+vless://53d0c9d8-0d59-453c-a5da-8f7c81f5ea03@46.8.208.49:9443?type=ws&headerType=none&security=tls&encryption=none&sni=slc-1.hysteria.ltd&fp=chrome&path=/ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B8%5D
+vless://a2415a12-3f92-4636-9823-9828d3ceb818@45.144.50.249:443?type=tcp&security=reality&pbk=hgQ3Wa09f9ectEos7QyC1LQ8bBq8lEAcAtGIDFTKin0&fp=chrome&sni=www.intel.com&sid=c0#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B1%5D
