@@ -1,20 +1,18 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 03.07.2026 14:51)
-# 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 731 | Пинг: 153 | >800KB/s: 41 | ТОП: 32 (iOS: 16)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-14 от 03.07.2026 21:13)
+# 🛡️ Verified Elite: 14
+# 📊 Stats: Вход: 674 | Пинг: 96 | >800KB/s: 14 | ТОП: 14 (iOS: 14)
 
-trojan://MiTiVPN@91.193.58.201:443?security=tls&type=ws&host=Fl.App-Cloud.ir&sni=fl.App-Cloud.ir&alpn=http/1.1&path=/MiTiVPN=fL&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B7%5D
-trojan://humanity@216.24.57.1:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B13%5D
-trojan://humanity@81.255.155.10:443?host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B4%5D
-trojan://MiTiVPN@185.133.35.22:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&host=Finl.App-Cloud.ir&fp=chrome&type=ws&sni=Finl.App-Cloud.ir#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5B%2ACIDR%5D%20%5B3%5D
+trojan://humanity@81.255.155.10:443?host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B7%5D
+trojan://MITIVPN@94.140.0.40:443?path=/MiTiVPN=Usa&security=tls&host=usa.App-Cloud.ir&type=ws&fp=chrome#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%5B5%5D
+trojan://f922fa0f-3311-4368-85ff-cf65e727c854@space.byu.id.yxls.eu.cc:443?fp=chrome&path=/br-orcl&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B8%5D
+vless://e482e3da-437f-4691-bcfa-efc3a309f787@45.135.164.190:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=hrv9eJL3MlLn0BCW5mGf3B0EKkbdMLqyh3EgNRTIoVU&sid=e8061a1746c93c32&sni=teamdocs.su#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B4%5D
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&security=tls&sni=amooaliii.net&echfq=none&allow&type=ws&host=amooaliii.net&path=/jdhfyws&fragment=2,0-1,tlshello,null&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22,%22length%22%3A%222%22,%22packets%22%3A%22tlshello%22%7D,%22type%22%3A%22fragment%22%7D%5D%7D&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B1%5D
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?type=ws&security=tls&fp=chrome&sni=shegeftihaaa.net&path=/rsedgws&host=shegeftihaaa.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B8%5D
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&encryption=none&fp=chrome&host=unnes.ac.id.yxls.eu.cc&path=/ca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D%20%5B1%5D
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?type=ws&security=tls&fp=chrome&sni=shegeftihaaa.net&path=/rsedgws&host=shegeftihaaa.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B5%5D
-vless://6a372c32-1b32-4c23-9671-bb1c1a13a54e@192.144.13.35:42942?type=tcp&security=none&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B26%5D
-vmess://eyJ2IjogIjIiLCAicHMiOiAiRVBPRE9OSU9TIiwgImFkZCI6ICIzMS43Ny4xNDQuODAiLCAicG9ydCI6ICIxMTAiLCAiaWQiOiAiZmJkNGZjNGMtNWEyYy00YzI4LTgxZDEtM2Q0NGJiMzc1N2YzIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICJub25lIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIn0=#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B5%5D
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.145:443?security=tls&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B22%5D
-vless://53d0c9d8-0d59-453c-a5da-8f7c81f5ea03@89.106.64.91:8443?type=ws&headerType=none&security=tls&encryption=none&sni=slc-2.hysteria.ltd&fp=chrome&path=/ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20%5B2%5D
+trojan://humanity@216.24.57.1:443?path=/assignment&security=tls&host=www.calmloud.com&type=ws&sni=www.calmloud.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B11%5D
+vless://b2b8bd00-2e42-4875-8d7b-bcf97093a1d4@95.163.211.206:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=at.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B25%5D
+vmess://eyJhZGQiOiAiMzEuNzcuMTQ0LjgwIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImZiZDRmYzRjLTVhMmMtNGMyOC04MWQxLTNkNDRiYjM3NTdmMyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTEwIiwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B4%5D
 vless://ada4f294-b5c1-4de4-82ba-a654e2c3a30b@hu99.bearbeer.digital:443?type=xhttp&security=reality&fp=chrome&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&sni=hu99.bearbeer.digital&mode=auto&spx=/#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B1%5D
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B23%5D
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls&headerType=&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B11%5D
-vless://53d0c9d8-0d59-453c-a5da-8f7c81f5ea03@ws-2.hysteria.ltd:9443?type=ws&headerType=none&security=tls&encryption=none&sni=ws-2.hysteria.ltd&fp=chrome&path=/ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20%5B3%5D
+vless://53d0c9d8-0d59-453c-a5da-8f7c81f5ea03@nl-ws-1.hysteria.ltd:6443?type=ws&headerType=none&security=tls&encryption=none&sni=nl-ws-1.hysteria.ltd&fp=chrome&path=/ws#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B9%5D
+trojan://humanity@81.255.155.10:443?host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B6%5D
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=chrome&sni=amooaliii.net&path=/jdhfyws&host=amooaliii.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B2%5D
+trojan://humanity@216.24.57.1:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B22%5D
+trojan://humanity@216.24.57.1:443?security=tls&sni=www.calmloud.com&type=ws&path=/assignment&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B12%5D
