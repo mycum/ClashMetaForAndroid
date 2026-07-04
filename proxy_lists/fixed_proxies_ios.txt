@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 05.07.2026 02:51)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 05.07.2026 04:26)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 750 | Пинг: 163 | >800KB/s: 49 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 761 | Пинг: 182 | >800KB/s: 59 | ТОП: 32 (iOS: 16)
 
-vless://4d94361c-f1a4-46e1-a627-20b2af06173b@195.208.65.192:443?encryption=none&type=ws&security=tls&path=/v1/data/sync/&host=s46270.cdn.ngenix.net&fp=chrome&sni=s46270.cdn.ngenix.net&alpn=http/1.1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B14%5D
-vless://2be79376-2689-4b11-9c67-28ddd9c985b2@212.193.153.93:443?security=tls&fp=chrome&alpn=http/1.1&sni=s58794.cdn.ngenix.net&type=ws&headerType=none&host=s58794.cdn.ngenix.net&path=/v1/data/sync/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B12%5D
-vless://4d94361c-f1a4-46e1-a627-20b2af06173b@195.208.65.150:443?type=ws&security=tls&fp=chrome&sni=s46270.cdn.ngenix.net&path=/v1/data/sync/&host=s46270.cdn.ngenix.net#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B11%5D
+vless://3b85590e-225c-4a6e-a5f0-f7cd1ad62f44@195.208.65.192:443?type=ws&security=tls&fp=chrome&sni=s46270.cdn.ngenix.net&path=/v1/data/sync/&host=s46270.cdn.ngenix.net#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B14%5D
+vless://0a3f4e17-70a2-47cd-9fb6-56fe57caf15a@195.208.65.150:443?encryption=none&type=ws&security=tls&path=/v1/data/sync/&host=s46270.cdn.ngenix.net&fp=chrome&sni=s46270.cdn.ngenix.net&alpn=http/1.1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B9%5D
+vless://2be79376-2689-4b11-9c67-28ddd9c985b2@212.193.153.93:443?security=tls&fp=chrome&alpn=http/1.1&sni=s58794.cdn.ngenix.net&type=ws&headerType=none&host=s58794.cdn.ngenix.net&path=/v1/data/sync/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B13%5D
+vless://53396bf6-c215-414b-8de6-70915edb5dec@185.147.27.110:48444?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=yastatic.net&pbk=otX-zQKcxAsBpzEEAmeuPI3NwkN3QFZMklk_qSHwBTU#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B34%5D
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.12.31.46:443?path=/&security=tls&encryption=none&host=vpn47.cc.cd&fp=chrome&type=ws&sni=vpn47.cc.cd#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B6%5D
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.12.31.220:443?path=/&security=tls&encryption=none&host=vpn47.cc.cd&fp=chrome&type=ws&sni=vpn47.cc.cd#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B3%5D
+vless://53396bf6-c215-414b-8de6-70915edb5dec@92.119.230.134:4444?security=none&encryption=none&headerType=none&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B10%5D
+trojan://humanity@216.24.57.1:443/?type=ws&path=/assignment&security=tls&sni=www.creationlong.org&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B11%5D
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&security=tls&sni=amooaliii.net&echfq=none&allow&type=ws&host=amooaliii.net&path=/jdhfyws&fragment=2,0-1,tlshello,null&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22,%22length%22%3A%222%22,%22packets%22%3A%22tlshello%22%7D,%22type%22%3A%22fragment%22%7D%5D%7D&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B3%5D
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.12.30.228:443?path=/&security=tls&encryption=none&host=vpn47.cc.cd&fp=chrome&type=ws&sni=vpn47.cc.cd#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B8%5D
-trojan://humanity@81.255.155.10:443?host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B6%5D
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&security=tls&sni=amooaliii.net&echfq=none&allow&type=ws&host=amooaliii.net&path=/jdhfyws&fragment=2,0-1,tlshello,null&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22,%22length%22%3A%222%22,%22packets%22%3A%22tlshello%22%7D,%22type%22%3A%22fragment%22%7D%5D%7D&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B5%5D
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.12.31.46:443?path=/&security=tls&encryption=none&host=vpn47.cc.cd&fp=chrome&type=ws&sni=vpn47.cc.cd#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B5%5D
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.80.111.60:443?path=/&security=tls&encryption=none&host=vpn47.cc.cd&fp=chrome&type=ws&sni=vpn47.cc.cd#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B12%5D
-trojan://MiTiVPN@45.131.4.115:443?path=/MiTiVPN=N-L&security=tls&alpn=h3,h2,http/1.1&host=Nl-L.App-Cloud.ir&fp=chrome&type=ws&sni=Nl-L.App-Cloud.ir#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B7%5D
-vless://3ea0a12e-162e-45b8-b03b-c490d6105091@209.46.30.56:443?path=/&security=tls&encryption=none&host=wa2.mhrnet.com&fp=chrome&type=ws&sni=wa1.mhrnet.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B4%5D
-vless://06462f62-5f9c-4632-9041-d35fedd0df97@fast.motorbazan.com:443?path=/&security=tls&encryption=none&host=bazaryabab.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B6%5D
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.7.215:443?path=/&security=tls&encryption=none&host=vpn47.cc.cd&fp=chrome&type=ws&sni=vpn47.cc.cd#%F0%9F%87%A7%F0%9F%87%BF%20Belize%20%5B3%5D
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.208.61:443?path=/&security=tls&encryption=none&host=vpn47.cc.cd&fp=chrome&type=ws&sni=vpn47.cc.cd#%F0%9F%87%A7%F0%9F%87%BF%20Belize%20%5B%2ACIDR%5D%20%5B1%5D
+trojan://humanity@81.255.155.10:443?type=ws&headerType=none&security=tls&encryption=none&sni=www.creationlong.org&path=/assignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B5%5D
 vless://3ea0a12e-162e-45b8-b03b-c490d6105091@114.129.43.130:443?path=/&security=tls&encryption=none&host=wa2.mhrnet.com&fp=chrome&type=ws&sni=wa1.mhrnet.com#%F0%9F%87%B3%F0%9F%87%BF%20New%20Zealand%20%5B1%5D
-trojan://humanity@216.24.57.1:443?path=/assignment&security=tls&type=ws&sni=www.calmloud.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B14%5D
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@89.116.250.135:2053?path=/&security=tls&encryption=none&host=vpn47.cc.cd&fp=chrome&type=ws&sni=vpn47.cc.cd#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B1%5D
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.209.212:443?path=/&security=tls&encryption=none&host=vpn47.cc.cd&fp=chrome&type=ws&sni=vpn47.cc.cd#%F0%9F%87%A7%F0%9F%87%BF%20Belize%20%5B%2ACIDR%5D%20%5B4%5D
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.80.111.60:443?path=/&security=tls&encryption=none&host=vpn47.cc.cd&fp=chrome&type=ws&sni=vpn47.cc.cd#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B12%5D
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&encryption=none&fp=chrome&host=unnes.ac.id.yxls.eu.cc&path=/ca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D%20%5B1%5D
