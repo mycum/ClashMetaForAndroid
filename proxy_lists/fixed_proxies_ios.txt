@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 05.07.2026 19:00)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 05.07.2026 21:23)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 876 | Пинг: 189 | >800KB/s: 71 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 860 | Пинг: 184 | >800KB/s: 72 | ТОП: 32 (iOS: 16)
 
-vless://3ea0a12e-162e-45b8-b03b-c490d6105091@114.129.43.130:443?path=/&security=tls&encryption=none&host=wa2.mhrnet.com&fp=chrome&type=ws&sni=wa1.mhrnet.com#%F0%9F%87%B3%F0%9F%87%BF%20New%20Zealand%20%5B1%5D
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.211.52:443?path=/&security=tls&encryption=none&host=vpn47.cc.cd&fp=chrome&type=ws&sni=vpn47.cc.cd#%F0%9F%87%A7%F0%9F%87%BF%20Belize%20%5B%2ACIDR%5D%20%5B13%5D
-trojan://MITIVPN@45.8.211.217:443?type=ws&security=tls&path=/MiTiVPN=DE&host=D--e.App-Cloud.ir&sni=D--e.App-Cloud.ir&alpn=http/1.1&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B9%5D
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=chrome&sni=amooaliii.net&path=/jdhfyws&host=amooaliii.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B4%5D
-trojan://MiTiVPN@45.131.4.115:443?path=/MiTiVPN=N-L&security=tls&alpn=h3,h2,http/1.1&fp=chrome&type=ws&sni=Nl-L.App-Cloud.ir#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B1%5D
-vless://3ea0a12e-162e-45b8-b03b-c490d6105091@209.46.30.56:443?path=/&security=tls&encryption=none&host=wa2.mhrnet.com&fp=chrome&type=ws&sni=wa1.mhrnet.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B4%5D
+vless://348c4b4b-8f8c-4bad-add2-41682ee30cfb@195.208.65.150:443?encryption=none&type=ws&security=tls&path=/v1/data/sync/&host=s46270.cdn.ngenix.net&fp=chrome&sni=s46270.cdn.ngenix.net&alpn=http/1.1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B16%5D
+vless://8fbc60ef-9174-49f8-b3e1-941831849e44@45.131.6.211:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&alpn=h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=play.dearhossein-taktaz.ir&mode=auto&path=/&security=tls&sni=play.dearhossein-taktaz.ir&type=xhttp&x_padding_bytes=100-1000#%F0%9F%87%A7%F0%9F%87%BF%20Belize%20%5B2%5D
+trojan://humanity@81.255.155.10:443?host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B4%5D
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=chrome&sni=amooaliii.net&path=/jdhfyws&host=amooaliii.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B5%5D
+trojan://humanity@216.24.57.1:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B11%5D
+trojan://MiTiVPN@45.131.4.115:443?path=/MiTiVPN=N-L&security=tls&alpn=h3,h2,http/1.1&fp=chrome&type=ws&sni=Nl-L.App-Cloud.ir#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B3%5D
 vless://insta%3Amahan_vpn.@185.135.9.146:443?encryption=none&security=tls&sni=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&type=ws&host=mAhaNrEaliteAm.MaHkHan.iR&path=/#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B1%5D
-vless://bb229808-c207-428c-a398-0b4bf30f29be@109.69.20.228:8443?security=tls&fp=chrome&sni=vpn.oplatasite.ru&type=tcp&headerType=&host=vpn.oplatasite.ru&path=/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B30%5D
-trojan://humanity@216.24.57.1:443?path=/assignment&security=tls&type=ws&sni=www.calmloud.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B8%5D
-trojan://humanity@81.255.155.10:443?type=ws&security=tls&sni=www.creationlong.org&path=/assignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B4%5D
-vless://f1a489f8-872f-404e-804a-c3b9e4048fd2@2.27.57.185:41586?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.googletagmanager.com&fp=chrome&pbk=KyTuOJPRM2uub_q-NmSOR3alV6SrQrL6-iTLjdSS8jc&sid=1e610a545a7bfb90&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B3%5D
-trojan://telegram-id-directvpn@63.184.74.254:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B49%5D
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.142:443?security=tls&headerType=none&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B31%5D
-trojan://telegram-id-privatevpns@35.181.216.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B12%5D
-vless://10e1b54e-9bd1-0001-b337-3e464f8051ec@pro-de.emrata.top:443?encryption=none&security=reality&sni=pro-de.emrata.top&fp=chrome&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B4%5D
-vless://10e1b54e-9bd1-0001-b337-3e464f8051ec@2.26.78.98:443?fp=chrome&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&security=reality&sni=pro-de.emrata.top&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B3%5D
+vless://3ea0a12e-162e-45b8-b03b-c490d6105091@209.46.30.56:443?path=/&security=tls&encryption=none&host=wa2.mhrnet.com&fp=chrome&type=ws&sni=wa1.mhrnet.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B5%5D
+vless://3ea0a12e-162e-45b8-b03b-c490d6105091@114.129.43.130:443?path=/&security=tls&encryption=none&host=wa2.mhrnet.com&fp=chrome&type=ws&sni=wa1.mhrnet.com#%F0%9F%87%B3%F0%9F%87%BF%20New%20Zealand%20%5B1%5D
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@154.83.2.24:443?path=/&security=tls&encryption=none&host=vpn47.cc.cd&fp=chrome&type=ws&sni=vpn47.cc.cd#%F0%9F%87%B9%F0%9F%87%AD%20Thailand%20%5B%2ACIDR%5D%20%5B1%5D
+vless://83c7f81b-4f26-405d-9a55-4e164249cbdd@45.144.49.231:443?flow=xtls-rprx-vision&fp=chrome&pbk=tPkLNwERe23qHETdRm0NN6TSF-bwvUeWKnmXR8CK3nc&security=reality&sid=58d746158028c90d&sni=pl.chick-team.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B1%5D
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?security=tls&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B41%5D
+trojan://telegram-id-privatevpns@63.184.74.254:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B51%5D
+trojan://telegram-id-directvpn@18.195.164.66:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B49%5D
+vless://10e1b54e-9bd1-0001-b337-3e464f8051ec@2.26.78.98:443?fp=chrome&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&security=reality&sni=pro-de.emrata.top&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B7%5D
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.145:443?security=tls&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B38%5D
