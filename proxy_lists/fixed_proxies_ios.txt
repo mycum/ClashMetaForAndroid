@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 07.07.2026 01:37)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 07.07.2026 06:47)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1013 | Пинг: 298 | >800KB/s: 115 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1105 | Пинг: 350 | >800KB/s: 142 | ТОП: 32 (iOS: 16)
 
-vless://insta%3Amahan_vpn.@185.135.9.146:443?encryption=none&security=tls&sni=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&type=ws&host=mAhaNrEaliteAm.MaHkHan.iR&path=/#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B2%5D
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.80.111.244:443?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&type=ws&host=vpn47.cc.cd&path=/&packetEncoding=xudp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B6%5D
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.12.30.228:443?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&type=ws&host=vpn47.cc.cd&path=/&packetEncoding=xudp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B6%5D
-trojan://humanity@216.24.57.1:443/?type=ws&path=/assignment&security=tls&sni=www.creationlong.org&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B9%5D
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&host=amooaliii.net&path=/jdhfyws&security=tls&sni=amooaliii.net&type=ws&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B1%5D
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@89.116.250.135:8443?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&type=ws&host=vpn47.cc.cd&path=/&packetEncoding=xudp#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B9%5D
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@141.193.213.190:443?encryption=none&host=vpn47.cc.cd&path=/&security=tls&sni=vpn47.cc.cd&type=ws&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B5%5D
-vless://497631c4-a1a4-0010-a86a-f42873473bb6@72.56.55.26:8443?flow=xtls-rprx-vision&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=auto.quattro-tech.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B44%5D
-vless://497631c4-a1a4-000c-a86a-f42873473bb6@212.193.31.177:8443?flow=xtls-rprx-vision&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=auto.quattro-tech.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B53%5D
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.6.211:443?encryption=none&security=tls&sni=vpn47.cc.cd&type=ws&host=vpn47.cc.cd&path=/&fp=chrome#%F0%9F%87%A7%F0%9F%87%BF%20Belize%20%5B1%5D
-trojan://MITIVPN@199.232.2.79:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=GE&security=tls&alpn=http/1.1&host=mitivpn----a.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B61%5D
-vless://497631c4-a1a4-0023-a86a-f42873473bb6@185.40.28.217:8443?flow=xtls-rprx-vision&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=auto.quattro-tech.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B18%5D
-trojan://MiTiVPN@199.232.237.250:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=NL&host=mitivpn----a.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B31%5D
-vless://7943183f-5c33-4728-8d57-8f18efe6ce25@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=sevenfeshab.global.ssl.fastly.net&path=/&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B4%5D
-trojan://MiTiVPN@199.232.78.140:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=fl&host=miticonfig.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B46%5D
-trojan://MITIVPN@140.248.185.252:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=USA&host=mitivpn----a.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B35%5D
+trojan://humanity@81.255.155.10:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B28%5D
+trojan://humanity@216.24.57.1:443?host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B61%5D
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@31.43.179.163:443?path=/&security=tls&encryption=none&host=vpn47.cc.cd&fp=chrome&type=ws&sni=vpn47.cc.cd#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%5B2%5D
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@205.233.181.117:443?encryption=none&host=vpn47.cc.cd&path=/&security=tls&sni=vpn47.cc.cd&type=ws&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B32%5D
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@103.160.204.56:443?path=/&security=tls&encryption=none&host=vpn47.cc.cd&fp=chrome&type=ws#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B10%5D
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@89.116.250.135:8443?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&type=ws&host=vpn47.cc.cd&path=/&packetEncoding=xudp#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B5%5D
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.208.61:443?path=/&security=tls&encryption=none&host=vpn47.cc.cd&type=ws&fp=chrome&sni=vpn47.cc.cd#%F0%9F%87%A7%F0%9F%87%BF%20Belize%20%5B%2ACIDR%5D%20%5B3%5D
+vless://8d90b4b4-1674-45a5-810e-57d939f53fe2@sub.danfeng.eu.org:443?security=tls&fp=chrome&sni=hhslb.vavava.kdns.fr&type=ws&headerType=&host=hhslb.vavava.kdns.fr&path=/#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B3%5D
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@space.byu.id.yxls.eu.cc:443?security=tls&sni=space.byu.id.yxls.eu.cc&fp=chrome&type=ws&path=/au-do#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B4%5D
+vless://insta%3Amahan_vpn.@185.135.9.146:443?encryption=none&security=tls&sni=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&type=ws&host=mAhaNrEaliteAm.MaHkHan.iR&path=/#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B1%5D
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.6.5:443?encryption=none&security=tls&sni=vpn47.cc.cd&type=ws&host=vpn47.cc.cd&path=/&fp=chrome#%F0%9F%87%A7%F0%9F%87%BF%20Belize%20%5B5%5D
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.80.111.60:443?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&type=ws&host=vpn47.cc.cd&path=/&packetEncoding=xudp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B10%5D
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&host=amooaliii.net&path=/jdhfyws&security=tls&sni=amooaliii.net&type=ws&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B3%5D
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.12.31.46:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=tls&encryption=none&host=vpn47.cc.cd&fp=chrome&type=ws&sni=vpn47.cc.cd#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B7%5D
+vless://eb295947-24de-4fe3-9b8f-85431e5fe493@201.51.12.164:8445?type=tcp&security=reality&sni=apple.com&fp=chrome&pbk=EPrMDeBde65nLBoriu-4H_4-0D4Y1pLqH9m6aSys6D8&sid=&flow=xtls-rprx-vision#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5B2%5D
+trojan://MiTiVPN@199.232.237.250:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=NL&security=tls&alpn=http/1.1&host=mitivpn----a.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B46%5D
