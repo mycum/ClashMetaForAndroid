@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 07.07.2026 17:15)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 07.07.2026 19:49)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1159 | Пинг: 180 | >800KB/s: 54 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 936 | Пинг: 117 | >800KB/s: 37 | ТОП: 32 (iOS: 16)
 
-trojan://humanity@81.255.155.10:443?type=ws&security=tls&sni=www.creationlong.org&path=/assignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B30%5D
-trojan://humanity@216.24.57.1:443?host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B100%5D
-trojan://MITIVPN@45.80.111.7:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=usa&security=tls&alpn=http/1.1&host=us-sss-us.MaQror.ir&fp=chrome&type=ws&sni=u---as.MaQror.ir#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B45%5D
-trojan://MITIVPN@89.116.250.135:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=USA&security=tls&alpn=http/1.1&host=Ussa-Si-ieo.App-Cloud.ir&fp=chrome&type=ws&sni=ksidi-isid-d.App-Cloud.ir#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B3%5D
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?security=tls&type=ws&path=/jdhfyws&host=amooaliii.net&packetEncoding=xudp&sni=amooaliii.net&fp=chrome&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B1%5D
-vless://7943183f-5c33-4728-8d57-8f18efe6ce25@199.232.78.159:443?type=ws&security=tls&fp=chrome&sni=ssl.fastly.com&path=/&host=sevenfeshab.global.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B4%5D
-vless://eb295947-24de-4fe3-9b8f-85431e5fe493@201.51.12.164:8445?type=tcp&security=reality&sni=apple.com&fp=chrome&pbk=EPrMDeBde65nLBoriu-4H_4-0D4Y1pLqH9m6aSys6D8&sid=&flow=xtls-rprx-vision#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5B3%5D
-vless://41da9cd0-b02c-427a-b74e-7e402c610ae4@pl.riotvpn.eu:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=avatars.mds.yandex.net&fp=chrome&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B3%5D
-trojan://telegram-id-directvpn@13.38.149.14:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B37%5D
-vless://ccb1eaa7-d96e-4c7a-b2c8-88e5a0e0029d@api.yandex-api.org:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.yandex-api.org&sid=122218f4c1f172e4#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5B2%5D
-trojan://TrojanPass2026!@2.26.54.174:8448?security=tls&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B50%5D
-hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?sni=5.255.102.165&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20%5B3%5D
-vless://9480871a-3843-441c-9b83-aa8c5c96b209@155.117.137.153:443?security=reality&type=tcp&packetEncoding=xudp&sni=cdn6-49.yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=3c9c5d01c6f824dd&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B10%5D
-vless://6f281e3d-c851-4b68-bb19-3c28a917ade1@gt-fr-01.live:443?encryption=none&type=tcp&security=reality&fp=chrome&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sni=yandex.net&sid=364994a6f61fc955&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B1%5D
-vless://Ali@itx-bags.up.railway.app:443?path=/ws/Ali&security=tls&alpn=http/1.1&encryption=none&host=itx-bags.up.railway.app&fp=chrome&type=ws&sni=itx-bags.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B9%5D
-vless://341b7622-e5be-c86a-ff63-512981d9dc82@x4g-production-aeee.up.railway.app:443?type=ws&security=tls&path=/ws/341b7622-e5be-c86a-ff63-512981d9dc82&sni=x4g-production-aeee.up.railway.app&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B22%5D
+trojan://MITIVPN@45.80.111.7:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=usa&security=tls&alpn=http/1.1&host=us-sss-us.MaQror.ir&fp=chrome&type=ws&sni=u---as.MaQror.ir#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B7%5D
+trojan://humanity@216.24.57.1:443?host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B52%5D
+trojan://MITIVPN@89.116.250.135:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=USA&security=tls&alpn=http/1.1&host=Ussa-Si-ieo.App-Cloud.ir&fp=chrome&type=ws&sni=ksidi-isid-d.App-Cloud.ir#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B4%5D
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&host=amooaliii.net&path=/jdhfyws&security=tls&sni=amooaliii.net&type=ws&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20%5B1%5D
+vless://8d90b4b4-1674-45a5-810e-57d939f53fe2@sub.danfeng.eu.org:443?sni=hhslb.vavava.kdns.fr&type=ws&host=hhslb.vavava.kdns.fr&path=/fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B5%5D
+vless://eb295947-24de-4fe3-9b8f-85431e5fe493@201.51.12.164:8445?flow=xtls-rprx-vision&fp=chrome&pbk=EPrMDeBde65nLBoriu-4H_4-0D4Y1pLqH9m6aSys6D8&security=reality&sni=apple.com&type=tcp#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5B2%5D
+trojan://humanity@81.255.155.10:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B18%5D
+vless://ad997094-40d4-461c-baf1-759d987351c3@87.242.85.201:13561?encryption=none&security=none&type=tcp&headerType=none&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B9%5D
+hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20%5B1%5D
+trojan://TrojanPass2026!@2.26.54.174:8448?security=tls&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B48%5D
+hysteria2://1Y9B2ZtwBOVgwiGb6Dbi5PFZFNnxCqrw@144.31.217.131:443?headerType=none&encryption=none&sni=144-31-217-131.sslip.io&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B6%5D
+vless://0d8c2f71-325b-340f-13a6-d6a2f734f512@x4g-production-b36f.up.railway.app:443?type=ws&security=tls&path=/ws/0d8c2f71-325b-340f-13a6-d6a2f734f512&sni=x4g-production-b36f.up.railway.app&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B15%5D
+vless://c0590fb7-e9f1-26f8-dd84-913cd0c54996@x4g-production-25f9.up.railway.app:443?type=ws&security=tls&path=/ws/c0590fb7-e9f1-26f8-dd84-913cd0c54996&sni=x4g-production-25f9.up.railway.app&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B32%5D
+vless://25f15077-35b1-aa19-aa5d-f52e2ddd2a6d@x4g-production-40db.up.railway.app:443?path=/ws/25f15077-35b1-aa19-aa5d-f52e2ddd2a6d&security=tls&alpn=http/1.1&encryption=none&host=x4g-production-40db.up.railway.app&fp=chrome&type=ws&sni=x4g-production-40db.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B17%5D
+vless://deb25908-0621-646c-8ff1-d757115ba6f1@x4g-production-feb9.up.railway.app:443?fp=chrome&host=x4g-production-feb9.up.railway.app&path=/ws/deb25908-0621-646c-8ff1-d757115ba6f1&security=tls&sni=x4g-production-feb9.up.railway.app&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B33%5D
+vless://eb6100e8-8f59-d6aa-c018-b3b48795fb7b@x4g-production-b104.up.railway.app:443?type=ws&security=tls&fp=chrome&sni=x4g-production-b104.up.railway.app&path=/ws/eb6100e8-8f59-d6aa-c018-b3b48795fb7b&host=x4g-production-b104.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B36%5D
