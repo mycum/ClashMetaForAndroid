@@ -38,6 +38,8 @@ jobs:
           echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/ss.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt >> proxy_lists/raw_temp.txt
+          echo "" >> proxy_lists/raw_temp.txt
           
           
           cat << 'EOF' > filter.py
