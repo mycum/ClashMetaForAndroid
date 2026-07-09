@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 09.07.2026 14:31)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 09.07.2026 17:39)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 725 | Пинг: 76 | >800KB/s: 40 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 725 | Пинг: 68 | >800KB/s: 36 | ТОП: 32 (iOS: 16)
 
-trojan://MITIVPN@45.130.125.2:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=USa&security=tls&alpn=http/1.1&host=my-usa-o.Maqror.ir&fp=chrome&type=ws&sni=UsAa-Us.Maqror.ir#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%5B10%5D
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=chrome&sni=amooaliii.net&path=/jdhfyws&host=amooaliii.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B4%5D
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.41:443?security=tls&type=ws&sni=space.byu.id.yxls.eu.cc&path=/au-do&host=space.byu.id.yxls.eu.cc&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B27%5D
-trojan://humanity@216.24.57.1:443?path=/assignment&security=tls&host=www.calmloud.com&type=ws&sni=www.calmloud.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B33%5D
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.101:443?security=tls&type=ws&sni=space.byu.id.yxls.eu.cc&path=/au-do&host=space.byu.id.yxls.eu.cc&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B17%5D
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.70:443?path=/au-do&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B14%5D
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.2:443?path=/au-do&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B21%5D
+trojan://humanity@216.24.57.1:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B35%5D
+trojan://MITIVPN@45.130.125.2:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=USa&security=tls&alpn=http/1.1&host=my-usa-o.Maqror.ir&fp=chrome&type=ws&sni=UsAa-Us.Maqror.ir#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%5B9%5D
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@8.47.69.0:443?security=tls&type=ws&sni=space.byu.id.yxls.eu.cc&host=space.byu.id.yxls.eu.cc&path=/au-do&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B43%5D
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.70:443?path=/au-do&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B13%5D
+trojan://humanity@81.255.155.10:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B1%5D
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.18.153.10:443?path=/au-do&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B30%5D
-trojan://humanity@81.255.155.10:443?path=/assignment&security=tls&type=ws&sni=www.creationlong.org&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B3%5D
-trojan://XG59623478@open-octopus.rooster465.autos:443?fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B9%5D
-trojan://XG59623478@new-antelope.rooster465.autos:443?fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B7%5D
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.41:443?path=/au-do&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B26%5D
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=chrome&sni=amooaliii.net&path=/jdhfyws&host=amooaliii.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B4%5D
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.2:443?path=/au-do&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B21%5D
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.101:443?path=/au-do&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B16%5D
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?security=tls&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B30%5D
+trojan://XG59623478@new-antelope.rooster465.autos:443?security=tls&headerType=none&type=tcp&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B8%5D
 hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?sni=www.microsoft.com&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B2%5D
+trojan://XG59623478@open-octopus.rooster465.autos:443?fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B9%5D
 trojan://TrojanPass2026!@2.26.54.174:8448?security=tls&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B10%5D
-trojan://521314@103.83.87.111:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&host=tjplay.lxdxo.kdns.fr&path=/&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B4%5D
-vless://cf0c0f54-6ac2-4bec-8ef6-436ef83e2eae@45.192.2.173:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yandex.net&fp=chrome&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=ece180c605b5453c&flow=xtls-rprx-vision#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5B2%5D
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B2%5D
+trojan://521314@107.161.174.99:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&host=tjplay.lxdxo.kdns.fr&path=/&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B5%5D
