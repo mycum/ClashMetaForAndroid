@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 10.07.2026 09:57)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 10.07.2026 11:29)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1048 | Пинг: 124 | >800KB/s: 77 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1124 | Пинг: 262 | >800KB/s: 172 | ТОП: 32 (iOS: 16)
 
-trojan://humanity@81.255.155.10:443?host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B3%5D
-trojan://humanity@216.24.57.1:443/?type=ws&path=/assignment&security=tls&sni=www.creationlong.org&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B24%5D
-vless://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@46.8.208.49:7443?encryption=none&type=ws&security=tls&path=/ws&sni=nl-cnn-1.hysteria.ltd&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B29%5D
-vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@138.16.169.188:2087?flow=xtls-rprx-vision&fp=chrome&pbk=Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY&security=reality&sni=yastatic.net&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B50%5D
+vless://97bda79b-8044-4f3e-ba14-1c13aa2179ce@93.93.88.78:443?encryption=none&type=ws&security=tls&path=/v1/data/sync/&fp=chrome&sni=s92415.cdn.ngenix.net&alpn=http/1.1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B148%5D
+vless://57d781f2-8c93-425b-8b0b-16d837e5fb5c@195.209.86.193:443?encryption=none&type=ws&security=tls&path=/v1/data/sync/&host=s52061.cdn.ngenix.net&fp=chrome&sni=s52061.cdn.ngenix.net&alpn=http/1.1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B71%5D
+vless://1cabea3f-5287-4d94-b48f-c498fccd71c7@195.209.87.198:443?encryption=none&type=ws&security=tls&path=/v1/data/sync/&host=s52061.cdn.ngenix.net&fp=chrome&sni=s52061.cdn.ngenix.net&alpn=http/1.1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B23%5D
+vless://8df2622f-b557-4d57-8b85-b54120120649@89.208.210.216:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=yandex.ru&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B156%5D
+trojan://humanity@216.24.57.1:443/?type=ws&path=/assignment&security=tls&sni=www.creationlong.org&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B34%5D
+vless://8df2622f-b557-4d57-8b85-b54120120649@89.208.210.165:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=yandex.ru&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B154%5D
+vless://97bda79b-8044-4f3e-ba14-1c13aa2179ce@185.229.9.32:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=www.vk.com&pbk=bwuT_tpimT_uUeWpSn-HbRztfol4o4uCcUHcdvkeFx0&sid=27e53bbcab7593d7&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B79%5D
+trojan://MiTiVPN@89.116.250.86:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=f--l&security=tls&alpn=http/1.1&host=f--ls-Fl.MaQRor.Ir&fp=chrome&type=ws&sni=fl-o--7-flla.MaQRor.Ir#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B1%5D
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?encryption=none&security=none&type=ws&host=Fastapi.Org&path=/?ed=1024&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B3%5D
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=chrome&sni=amooaliii.net&path=/jdhfyws&host=amooaliii.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B7%5D
+vless://97bda79b-8044-4f3e-ba14-1c13aa2179ce@185.229.9.222:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=www.vk.com&pbk=8GvAwYlFFIEIJdTTDiwxr6-ePowH3zG4rUpNxUCvf0c&sid=27e53bbcab7593d7&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B89%5D
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?encryption=none&fp=chrome&host=vangoghhh.info&path=/rdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B1%5D
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?encryption=none&security=none&type=ws&host=Fastapi.Org&path=/?ed=1024&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B7%5D
-vless://d3d932d2-ff06-4005-8ce7-b49b73f13967@95.163.208.184:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=ads.x5.ru&pbk=bAbF5K_pk8MRvVIXJfH65xYiksNPNFYqLHLwaTEHojQ#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B24%5D
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=chrome&sni=amooaliii.net&path=/jdhfyws&host=amooaliii.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B6%5D
-vless://cb784d00-d34a-4389-b938-8717f7b28353@81.90.17.165:443?security=reality&encryption=none&pbk=6yDF1t-fOKStJLYOZArGjW2MqGsglkpaGIC_fuj79S0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.twitch.tv&sid=3cfee58cb8a3afb3#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B8%5D
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.135:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B33%5D
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls&headerType=&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B10%5D
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.142:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B15%5D
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?security=tls&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B24%5D
-trojan://telegram-id-privatevpns@63.177.32.122:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B32%5D
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B23%5D
-vless://e28d9514-bf9c-4f87-9d1a-1cb990045970@pl.mcqueenconnection.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=pl.mcqueenconnection.ru&fp=chrome&pbk=O2ttHpVFmwoAf-E1rHgOlv7NggcwxcWkHHen7jkIBjY&sid=1798724d1c2888c1&allow&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B6%5D
+trojan://humanity@81.255.155.10:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B3%5D
+vless://47b4fea1-be94-4fd7-a6c1-1f284eba0555@62.152.56.73:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=wl-12.nodes.ac&pbk=lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg&sid=cf43c0c197cd464a#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B255%5D
+vless://98872019-8ded-4c61-9a07-30864acbbdf6@51.250.91.220:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=yandex.ru&pbk=Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI&sid=27e53bbcab7593d7&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B116%5D
+vless://521d2c55-6f05-4c82-b336-f367f17302d3@185.229.9.235:49003?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=ads.x5.ru&pbk=Zd4UabMvO_1QQny7BzwBZa7T3eeY1GXC7MKZprZ-pGY&sid=27e53bbcab7593d7&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B147%5D
