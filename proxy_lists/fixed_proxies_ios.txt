@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 21.07.2026 17:46)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 21.07.2026 20:59)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1059 | Пинг: 248 | >800KB/s: 109 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1059 | Пинг: 221 | >800KB/s: 101 | ТОП: 32 (iOS: 16)
 
-vless://971adc95-c9f1-437c-8964-8dbdaaaec2b8@94.126.204.93:443?security=reality&encryption=none&pbk=97m6bc1WSj1DJ-QzBU6Fx5s0NxA4uSvVKTcZAcjlHF8&headerType=&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=138dcd25cce7ab07&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B78%5D
-vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@31.12.75.21:2087?encryption=none&type=xhttp&security=tls&path=/%3FTelegram-WangCai2&extra=null&fp=chrome&sni=ch-de.sdcards.ir#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B63%5D
-trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&fp=chrome&type=ws&host=www.creationlong.org&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B3%5D
-vless://18b78380-6fa9-4f26-980f-797f378987b2@91.185.83.64:9443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=muzgrape.space&pbk=5M0khPdwiXYhayuP4i76J1am-q85Sno7vGnqEnZ1ngI&sid=ccaaaa#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B139%5D
-vless://8af94f1b-b982-4847-84f1-4bd3ca92d0db@185.229.9.222:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=yandex.ru&pbk=r6LKP3g2W5ruKICTDfH8rwM1PbMjdcgHU7cG6jppxTs&sid=27e53bbcab7593d7&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B113%5D
+trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B5%5D
 trojan://humanity@45.130.125.2:443?path=/assignment&security=tls&host=Www.cReaTIOnLONG.OrG&type=ws&sni=Www.cReaTIOnLONG.OrG&fp=chrome#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%5B6%5D
-vless://38a43f18-b4d9-443f-9ff1-4cf9de3d666e@176.124.223.16:2087?encryption=none&security=tls&sni=valid22.validbv9501.ir&fp=chrome&type=ws&host=valid22.validbv9501.ir&path=/eyJqdW5rIjoiS0ZJaGhSaG14Z0NMeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Ni4xMDMuMTE0LjEzNCJdfQ%3D%3D#%F0%9F%87%A8%F0%9F%87%B3%20China%20%5B3%5D
+vless://971adc95-c9f1-437c-8964-8dbdaaaec2b8@94.126.204.93:443?security=reality&encryption=none&pbk=97m6bc1WSj1DJ-QzBU6Fx5s0NxA4uSvVKTcZAcjlHF8&headerType=&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=138dcd25cce7ab07&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B77%5D
 vless://759c9817-5fbb-4dc9-9a36-9144952f76e0@94.183.209.37:443?security=reality&type=tcp&pbk=Fmn3VyIvCT-KpCwvmb1ZqqkQxOW8GEBvamSZYZrqcic&sid=376d46f012a36cd2&sni=www.twitch.tv&fp=chrome&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B5%5D
-vless://8af94f1b-b982-4847-84f1-4bd3ca92d0db@185.229.9.32:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=max.ru&pbk=437aLH3no_OoVjc1kHenwwiLl02NVggpFLESF-Nu1Fs&sid=27e53bbcab7593d7&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B117%5D
+vless://759c9817-5fbb-4dc9-9a36-9144952f76e0@94.183.239.27:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.twitch.tv&fp=chrome&pbk=b7L2qrpKuFSOVFNY9A-Phylorw1DuteAetgS5ipERyA&sid=2749d73d715730e1&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B4%5D
 vless://a61a6a7c-5cdf-4d4f-91b8-bccb00967513@31.56.187.47:8443?flow=xtls-rprx-vision&type=tcp&pbk=pjTH9_lDnyhcoqZolps8Rr7Q_81IDTEjy1aq7UTguhk&sid=3351daa81250d627&encryption=none&headerType=none&fp=chrome&sni=ndee.whit3.net&security=reality#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B3%5D
-vless://8af94f1b-b982-4847-84f1-4bd3ca92d0db@176.109.85.122:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=yandex.ru&pbk=r6LKP3g2W5ruKICTDfH8rwM1PbMjdcgHU7cG6jppxTs&sid=27e53bbcab7593d7&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B121%5D
-vless://e2047d88-9aa0-4e47-9218-12c0859913db@mail.netraidly.ru:40443?type=tcp&headerType=none&security=reality&flow=xtls-rprx-vision&pbk=tSSohVG0_iZYMpoSAzt_qAxTkWPo5Hfj7kNsQHbjITI&fp=chrome&sni=deepl.com&sid=a99e&spx=/#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B6%5D
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@nlx.opngtr.nl:443?encryption=none&security=reality&sni=nlx.savesafe.space&fp=chrome&pbk=XyVDRn9DwbR6_bZPiGGz0jgCONpfH5LVbDaUejtiuTA&sid=16f5b3bddf7f68ae&type=xhttp&path=/#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B17%5D
+vless://e2047d88-9aa0-4e47-9218-12c0859913db@mail.netraidly.ru:40443?type=tcp&headerType=none&security=reality&flow=xtls-rprx-vision&pbk=tSSohVG0_iZYMpoSAzt_qAxTkWPo5Hfj7kNsQHbjITI&fp=chrome&sni=deepl.com&sid=a99e&spx=/#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B7%5D
 trojan://ON38567014@sensible-grubworm.rooster465.autos:443?fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B39%5D
-vless://8ecece64-b89d-421b-957c-7e23f5337c3f@de.boxypn.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=TjxmFHJN-olJvkXLicHGzNIMxJyucaA_ht3w3J-YcHM&security=reality&sni=de.boxypn.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B1%5D
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@nlx.opngtr.nl:443?encryption=none&security=reality&sni=nlx.savesafe.space&fp=chrome&pbk=XyVDRn9DwbR6_bZPiGGz0jgCONpfH5LVbDaUejtiuTA&sid=16f5b3bddf7f68ae&type=xhttp&path=/#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B18%5D
+trojan://8240cd21ddf3112d50c4b6e52a70f0ce@185.247.117.209:56431?sni=185.247.117.209.sslip.io&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B2%5D
+trojan://PD07395842@golden-fox.rooster465.autos:443?fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B51%5D
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@nl.getsavesafe.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl.savesafe.space&fp=chrome&pbk=6QnP4rZtnZt6XIfn246ODggMjbXbFPryxaF2whFhKGU&sid=82f5d3a1e9c0b647&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B16%5D
+vless://52720aa1-a75b-4f72-9af4-d7237c197f3e@login.netraidly.ru:40443?type=tcp&headerType=none&security=reality&flow=xtls-rprx-vision&pbk=Sw4tAz5d-rLhaSFsEDDxlgwJbK4NMQUFDHF_oyRwUWE&fp=chrome&sni=deepl.com&sid=cd5c&spx=/#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B4%5D
 trojan://NQ26071394@quiet-condor.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B31%5D
+trojan://IQ68037294@aware-pika.rooster465.autos:443?sni=aware-pika.rooster465.autos&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B22%5D
+trojan://CF68213490@harmless-lab.rooster465.autos:443?security=tls&headerType=none&type=tcp&sni=harmless-lab.rooster465.autos&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B17%5D
