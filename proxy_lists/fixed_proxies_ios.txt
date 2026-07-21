@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 21.07.2026 21:39)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 22.07.2026 03:08)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1082 | Пинг: 283 | >800KB/s: 111 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1125 | Пинг: 311 | >800KB/s: 105 | ТОП: 32 (iOS: 16)
 
-vless://54010c5f-53e3-4e8e-905e-bdabd6238d1f@195.208.65.194:443?encryption=none&type=ws&security=tls&path=/v1/data/sync/&fp=chrome&sni=cdn-discover.truesight.store&alpn=http/1.1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B191%5D
-vless://72c54a0c-dd2e-4172-ac15-48540766a7d8@212.193.153.93:443?encryption=none&type=ws&security=tls&path=/v1/data/sync/&fp=chrome&sni=cdn-discover.truesight.store&alpn=http/1.1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B97%5D
+vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@45.12.30.21:2087?type=xhttp&security=tls&sni=ch-de.sdcards.ir&path=/?Telegram-WangCai2&mode=auto&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B5%5D
+vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@31.12.75.21:2087?alpn=h2,http/1.1&encryption=none&path=/%3FTelegram-WangCai2&security=tls&sni=ch-de.sdcards.ir&type=xhttp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B7%5D
+vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@139.64.235.21:2087?encryption=none&fp=chrome&mode=auto&path=/?Telegram-WangCai2&security=tls&sni=ch-de.sdcards.ir&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B4%5D
+trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&fp=chrome&type=ws&host=www.creationlong.org&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B8%5D
+vless://971adc95-c9f1-437c-8964-8dbdaaaec2b8@94.126.204.93:443?security=reality&encryption=none&pbk=97m6bc1WSj1DJ-QzBU6Fx5s0NxA4uSvVKTcZAcjlHF8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=138dcd25cce7ab07&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B77%5D
+vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@45.142.120.21:2087?mode=auto&path=/%3FTelegram-WangCai2&security=tls&alpn=h2,http/1.1&encryption=none&host=ch-de.sdcards.ir&type=xhttp&sni=ch-de.sdcards.ir&fp=chrome#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%5B2%5D
+vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@45.131.209.21:2087?type=xhttp&security=tls&sni=ch-de.sdcards.ir&path=/?Telegram-WangCai2&mode=auto&fp=chrome#%F0%9F%87%A7%F0%9F%87%BF%20Belize%20%5B2%5D
 trojan://humanity@45.130.125.2:443?path=/assignment&security=tls&host=Www.cReaTIOnLONG.OrG&type=ws&sni=Www.cReaTIOnLONG.OrG&fp=chrome#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%5B6%5D
-vless://971adc95-c9f1-437c-8964-8dbdaaaec2b8@94.126.204.93:443?security=reality&encryption=none&pbk=97m6bc1WSj1DJ-QzBU6Fx5s0NxA4uSvVKTcZAcjlHF8&host=/%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=138dcd25cce7ab07&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B61%5D
-trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&fp=chrome&type=ws&host=www.creationlong.org&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B2%5D
-vless://49fcf880-86f2-4888-8aa2-25279de964d0@185.229.9.222:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=max.ru&pbk=437aLH3no_OoVjc1kHenwwiLl02NVggpFLESF-Nu1Fs&sid=27e53bbcab7593d7&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B101%5D
-vless://49fcf880-86f2-4888-8aa2-25279de964d0@185.229.9.32:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=yandex.ru&pbk=r6LKP3g2W5ruKICTDfH8rwM1PbMjdcgHU7cG6jppxTs&sid=27e53bbcab7593d7&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B109%5D
-vless://49fcf880-86f2-4888-8aa2-25279de964d0@176.109.85.122:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=yandex.ru&pbk=r6LKP3g2W5ruKICTDfH8rwM1PbMjdcgHU7cG6jppxTs&sid=27e53bbcab7593d7&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B99%5D
-vless://a61a6a7c-5cdf-4d4f-91b8-bccb00967513@31.56.187.47:8443?flow=xtls-rprx-vision&type=tcp&pbk=pjTH9_lDnyhcoqZolps8Rr7Q_81IDTEjy1aq7UTguhk&sid=3351daa81250d627&encryption=none&headerType=none&fp=chrome&sni=ndee.whit3.net&security=reality#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B3%5D
-vless://759c9817-5fbb-4dc9-9a36-9144952f76e0@94.183.239.27:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.twitch.tv&fp=chrome&pbk=b7L2qrpKuFSOVFNY9A-Phylorw1DuteAetgS5ipERyA&sid=2749d73d715730e1&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B4%5D
-trojan://03mpolj39zyewzufal2r@51.75.86.196:55646?fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B9%5D
-vless://e2047d88-9aa0-4e47-9218-12c0859913db@mail.netraidly.ru:40443?type=tcp&headerType=none&security=reality&flow=xtls-rprx-vision&pbk=tSSohVG0_iZYMpoSAzt_qAxTkWPo5Hfj7kNsQHbjITI&fp=chrome&sni=deepl.com&sid=a99e&spx=/#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B7%5D
-vless://52720aa1-a75b-4f72-9af4-d7237c197f3e@login.netraidly.ru:40443?type=tcp&headerType=none&security=reality&flow=xtls-rprx-vision&pbk=Sw4tAz5d-rLhaSFsEDDxlgwJbK4NMQUFDHF_oyRwUWE&fp=chrome&sni=deepl.com&sid=cd5c&spx=/#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B5%5D
-trojan://NQ26071394@63.178.193.196:443?fp=chrome&sni=quiet-condor.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B28%5D
+vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@5.10.247.21:2087?type=xhttp&security=tls&path=/?Telegram-WangCai2&sni=ch-de.sdcards.ir&fp=chrome#%F0%9F%87%A8%F0%9F%87%BC%20Curacao%20%5B3%5D
+vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@141.11.202.21:2087?type=xhttp&security=tls&sni=ch-de.sdcards.ir&path=/?Telegram-WangCai2&mode=auto&fp=chrome#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B5%5D
+vless://bfa96ee8-0d73-4f24-9b61-4833e8a04b9b@78.159.245.22:1111?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=YuhNgtj_Tf8WNLiSB2bNJKPvfwmqa6PNRpbP8TvNkzA&security=reality&sni=api-maps.yandex.ru&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B134%5D
+vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@185.162.231.21:2087?type=xhttp&security=tls&sni=ch-de.sdcards.ir&path=/?Telegram-WangCai2&mode=auto&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B2%5D
+vless://2a77a470-315c-493d-b690-59b814a804cb@87.242.85.102:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=abuse.sellflow.org&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B84%5D
+vless://2a77a470-315c-493d-b690-59b814a804cb@185.70.104.21:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=abuse.sellflow.org&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B20%5D
 trojan://8240cd21ddf3112d50c4b6e52a70f0ce@185.247.117.209:56431?sni=185.247.117.209.sslip.io&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B2%5D
-trojan://ON38567014@sensible-grubworm.rooster465.autos:443?fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B39%5D
+vless://e2047d88-9aa0-4e47-9218-12c0859913db@mail.netraidly.ru:40443?type=tcp&headerType=none&security=reality&flow=xtls-rprx-vision&pbk=tSSohVG0_iZYMpoSAzt_qAxTkWPo5Hfj7kNsQHbjITI&fp=chrome&sni=deepl.com&sid=a99e&spx=/#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B11%5D
