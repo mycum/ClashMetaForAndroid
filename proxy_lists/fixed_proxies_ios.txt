@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 23.07.2026 21:03)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 23.07.2026 21:46)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1277 | Пинг: 226 | >800KB/s: 88 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1230 | Пинг: 232 | >800KB/s: 83 | ТОП: 32 (iOS: 16)
 
-vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@31.12.75.21:2087?alpn=h2,http/1.1&encryption=none&path=/%3FTelegram-WangCai2&security=tls&sni=ch-de.sdcards.ir&type=xhttp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B3%5D
-vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@5.10.247.21:2087?encryption=none&security=tls&sni=ch-de.sdcards.ir&alpn=h2,http/1.1&type=xhttp&host=ch-de.sdcards.ir&path=/?Telegram-WangCai2&mode=auto&fp=chrome#%F0%9F%87%A8%F0%9F%87%BC%20Curacao%20%5B1%5D
-trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B12%5D
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@141.11.202.29:443?type=ws&security=tls&fp=chrome&sni=octopusss.net&path=/odiyfws&host=octopusss.net#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B3%5D
-vless://29ca503d-e6b8-4509-b666-48133f450857@104.155.124.198:443?security=tls&fp=chrome&sni=learn00.evany.de5.net&type=ws&headerType=none&host=learn00.evany.de5.net&path=/fdip%3Dtw.william.us.ci%21txt#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20%5B2%5D
-trojan://IQ68037294@enabling-gobbler.rooster465.autos:443?fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B48%5D
-trojan://ON38567014@summary-finch.rooster465.autos:443?fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B59%5D
-trojan://NQ26071394@63.178.193.196:443?security=tls&headerType=none&type=tcp&sni=quiet-condor.rooster465.autos&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B30%5D
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@nl.getsavesafe.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6QnP4rZtnZt6XIfn246ODggMjbXbFPryxaF2whFhKGU&security=reality&sid=82f5d3a1e9c0b647&sni=nl.savesafe.space&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B1%5D
-trojan://IQ68037294@glad-javelin.rooster465.autos:443?sni=glad-javelin.rooster465.autos&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B49%5D
-trojan://KV63147582@evolving-baboon.rooster465.autos:443?security=tls&headerType=none&type=tcp&sni=evolving-baboon.rooster465.autos&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B25%5D
-trojan://IQ68037294@aware-pika.rooster465.autos:443?sni=aware-pika.rooster465.autos&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B23%5D
-trojan://WG39087154@clear-cowbird.rooster465.autos:443?fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B38%5D
-trojan://IQ68037294@rested-blowfish.rooster465.autos:443?fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B50%5D
-trojan://PD07395842@golden-fox.rooster465.autos:443?fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B60%5D
-trojan://PD07395842@optimum-bull.rooster465.autos:443?security=tls&headerType=none&fp=chrome&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B36%5D
+vless://725488a6-e5d6-4606-86ca-46a3e7f4a62c@cf9.466688.xyz:2087?encryption=none&security=tls&sni=vpn-6d9.pages.dev&fp=chrome&type=ws&host=vpn-6d9.pages.dev&path=/#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B11%5D
+vless://38a43f18-b4d9-443f-9ff1-4cf9de3d666e@176.124.223.16:2087?encryption=none&security=tls&sni=valid22.validbv9501.ir&fp=chrome&type=ws&host=valid22.validbv9501.ir&path=/eyJqdW5rIjoiS0ZJaGhSaG14Z0NMeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Ni4xMDMuMTE0LjEzNCJdfQ%3D%3D#%F0%9F%87%A8%F0%9F%87%B3%20China%20%5B6%5D
+trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&fp=chrome&type=ws&host=www.creationlong.org&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B5%5D
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@141.11.202.29:443?path=/odiyfws&security=tls&encryption=none&host=octopusss.net&type=ws&sni=octopusss.net&fp=chrome#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B1%5D
+vless://759c9817-5fbb-4dc9-9a36-9144952f76e0@94.183.209.37:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.twitch.tv&security=reality&pbk=Fmn3VyIvCT-KpCwvmb1ZqqkQxOW8GEBvamSZYZrqcic&sid=376d46f012a36cd2&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B2%5D
+trojan://ON38567014@summary-finch.rooster465.autos:443?fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B55%5D
+trojan://IQ68037294@aware-pika.rooster465.autos:443?security=tls&headerType=none&type=tcp&sni=aware-pika.rooster465.autos&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B17%5D
+trojan://WG39087154@lenient-dory.rooster465.autos:443?fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B35%5D
+trojan://NQ26071394@63.178.193.196:443?fp=chrome&sni=quiet-condor.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B26%5D
+trojan://PD07395842@optimum-bull.rooster465.autos:443?security=tls&headerType=none&fp=chrome&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B32%5D
+trojan://NQ26071394@3.75.174.185:443?fp=chrome&sni=certain-prawn.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B24%5D
+trojan://IQ68037294@enabling-gobbler.rooster465.autos:443?sni=enabling-gobbler.rooster465.autos&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B43%5D
+trojan://IQ68037294@glad-javelin.rooster465.autos:443?sni=glad-javelin.rooster465.autos&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B45%5D
+vless://29ca503d-e6b8-4509-b666-48133f450857@104.155.124.198:443?security=tls&fp=chrome&sni=learn00.evany.de5.net&type=ws&headerType=none&host=learn00.evany.de5.net&path=/fdip%3Dtw.william.us.ci%21txt#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20%5B1%5D
+trojan://PD07395842@golden-fox.rooster465.autos:443?fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B56%5D
+trojan://KV63147582@evolving-baboon.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B21%5D
