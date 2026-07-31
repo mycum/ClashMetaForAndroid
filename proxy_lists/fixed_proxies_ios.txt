@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 01.08.2026 03:03)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 01.08.2026 04:44)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 737 | Пинг: 118 | >800KB/s: 24 | ТОП: 24 (iOS: 16)
+# 📊 Stats: Вход: 791 | Пинг: 192 | >800KB/s: 53 | ТОП: 32 (iOS: 16)
 
-vless://a8f84171-5f96-4547-b621-59758fe668c8@135.106.129.120:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&security=reality&sid=7a5b89ecdb01f781&sni=www.eni.com&spx=/&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B117%5D
-trojan://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@jumao91.shop:2096/?type=ws&host=jumao91.shop&path=/proxyip=45.207.156.255&security=tls&sni=jumao91.shop&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B19%5D
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041/?type=tcp&security=tls&sni=de.catxstar.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B41%5D
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=secure.furrycdn.net&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B117%5D
-hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443/?sni=5.255.102.165&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B24%5D
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@api.getsavesafe.net:443?mode=auto&path=/&security=reality&encryption=none&pbk=XyVDRn9DwbR6_bZPiGGz0jgCONpfH5LVbDaUejtiuTA&type=xhttp&sni=api.getsavesafe.net&sid=16f5b3bddf7f68ae&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B3%5D
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@getsavesafe.net:443?Telegram=%40GozargahAzad,%40GozargahAzad,%40GozargahAzad,%40GozargahAzad,%40GozargahAzad,%40GozargahAzad,%40GozargahAzad&flow=xtls-rprx-vision&encryption=none&security=reality&sni=&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&allow&type=tcp&headerType=none&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B19%5D
-trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261?security=tls&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B14%5D
-vless://c7e9c591-2764-423a-afca-efbd010fd396@31.133.0.49:2053?host=forfreeuse.sub-flow.online&path=/&security=tls&sni=forfreeuse.sub-flow.online&type=ws&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B2%5D
-vless://a8f84171-5f96-4547-b621-59758fe668c8@135.106.129.120:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&security=reality&sid=7a5b89ecdb01f781&sni=www.eni.com&spx=/&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B118%5D
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041/?type=tcp&security=tls&sni=de.catxstar.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B39%5D
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&security=tls&sni=secure.furrycdn.net&type=raw&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B116%5D
-hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443/?fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B23%5D
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@api.getsavesafe.net:443?mode=auto&path=/&security=reality&encryption=none&pbk=XyVDRn9DwbR6_bZPiGGz0jgCONpfH5LVbDaUejtiuTA&type=xhttp&sni=api.getsavesafe.net&sid=16f5b3bddf7f68ae&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B1%5D
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@getsavesafe.net:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&flow=xtls-rprx-vision&encryption=none&security=reality&sni=&fp=chrome&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&allow&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B21%5D
-vless://c7e9c591-2764-423a-afca-efbd010fd396@31.133.0.49:2053?host=forfreeuse.sub-flow.online&path=/&security=tls&sni=forfreeuse.sub-flow.online&type=ws&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B3%5D
+vless://a8f84171-5f96-4547-b621-59758fe668c8@178.72.132.36:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&security=reality&sid=7a5b89ecdb01f781&sni=www.eni.com&spx=/&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B12%5D
+vless://347e34f2-3211-4e01-b475-409f46788d3f@85.209.135.38:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=family.adguard-dns.com&pbk=RaAQd349NbMoL5WJOfT_RWvlT2s6sav0pOgEsoSm2zw&sid=f0131a4772b494d4&alpn=http/1.1&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B71%5D
+vless://d54df3dd-4fdd-0006-89ce-3c9bfe761ee5@ru79.overseashost.ru:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=ru39.overseashost.ru&pbk=5daY68T2-jYVVQ__Raq1a4ggV2d1kAdrR53YkRutZF0&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B56%5D
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&type=tcp&headerType=none&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B32%5D
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@api.getsavesafe.net:443?mode=auto&path=/&security=reality&encryption=none&pbk=XyVDRn9DwbR6_bZPiGGz0jgCONpfH5LVbDaUejtiuTA&type=xhttp&sni=api.getsavesafe.net&sid=16f5b3bddf7f68ae&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B31%5D
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&security=tls&sni=secure.furrycdn.net&type=raw&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B125%5D
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@getsavesafe.net:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B2%5D
+hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B36%5D
+hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?alpn=h3&security=tls&sni=germany3.h2corp.local&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B3%5D
+trojan://humanity@2.144.21.150:2000?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com&fp=chrome#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B3%5D
+vless://0e192bd1-8f19-4184-9fff-6d67e4f738bd@77.105.163.46:443?host=ov186.ochmaybrooooo.online&path=/&security=tls&sni=ov186.ochmaybrooooo.online&type=ws&fp=chrome#%F0%9F%87%A8%F0%9F%87%B3%20China%20%5B1%5D
+trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261?security=tls&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B3%5D
+vless://957797d5-1710-4e4a-bf41-9f5b641503e3@199.232.78.159:443?security=tls&type=ws&path=/&host=BankMelat.glObal.ssl.faStly.nEt.&packetEncoding=xudp&sni=ssl.fastly.com&encryption=none&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B2%5D
+vless://6ab8d525-f3db-0014-9f09-3683f719f756@46.8.208.7:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=smartcaptcha.yandexcloud.net&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&alpn=http/1.1&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B58%5D
+vless://c7e9c591-2764-423a-afca-efbd010fd396@31.133.0.49:2053?host=forfreeuse.sub-flow.online&path=/&security=tls&sni=forfreeuse.sub-flow.online&type=ws&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B1%5D
+vless://a8f84171-5f96-4547-b621-59758fe668c8@178.72.132.36:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&security=reality&sid=7a5b89ecdb01f781&sni=www.eni.com&spx=/&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B14%5D
