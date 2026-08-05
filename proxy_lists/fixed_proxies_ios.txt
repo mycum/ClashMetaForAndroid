@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 05.08.2026 09:50)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 05.08.2026 10:45)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 924 | Пинг: 173 | >800KB/s: 67 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 810 | Пинг: 166 | >800KB/s: 54 | ТОП: 32 (iOS: 16)
 
-vless://3e37ef76-835d-4ad2-a1d3-414ef90532bf@8.6.112.0:443?path=/&security=tls&alpn=h3&encryption=none&host=kanan.aahhajwwiwjwowuwjwwjjwje.online&fp=chrome&type=xhttp&sni=kanan.aahhajwwiwjwowuwjwwjjwje.online#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B7%5D
-vless://84cd6acd-48e7-4fcc-8aaf-9c780be8b42c@176.123.165.103:9895?encryption=none&extra=null&mode=auto&pbk=tGdHNSrQKQ8Z2J0orn8z_4BtKU8sLvl3bZ_CdCRhi10&security=reality&sni=apple.com&type=xhttp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B42%5D
-vless://3e37ef76-835d-4ad2-a1d3-414ef90532bf@8.47.69.0:443?security=tls&type=ws&path=/&host=polshaov.ochmaybrooooo.online&alpn=http/1.1&sni=polshaov.ochmaybrooooo.online&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B5%5D
+vless://3e37ef76-835d-4ad2-a1d3-414ef90532bf@8.47.69.0:443?security=tls&type=ws&path=/&host=polshaov.ochmaybrooooo.online&alpn=http/1.1&sni=polshaov.ochmaybrooooo.online&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B4%5D
+vless://84cd6acd-48e7-4fcc-8aaf-9c780be8b42c@176.123.165.103:9895?encryption=none&extra=null&fp=chrome&mode=auto&pbk=tGdHNSrQKQ8Z2J0orn8z_4BtKU8sLvl3bZ_CdCRhi10&security=reality&sni=apple.com&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B32%5D
+vless://3e37ef76-835d-4ad2-a1d3-414ef90532bf@8.6.112.0:443?security=tls&type=ws&headerType=&path=/&host=polshaov.ochmaybrooooo.online&sni=polshaov.ochmaybrooooo.online&fp=chrome&alpn=http/1.1&fragment=3,1,tlshello#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B7%5D
 vless://2e4101cd-40b4-4d1a-8df6-cc949c136e5a@pro-ru-bridge.emrata.top:443?type=tcp&security=reality&pbk=F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA&fp=chrome&sni=pro-ru-bridge.emrata.top&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B2%5D
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&security=tls&sni=secure.furrycdn.net&type=raw&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B95%5D
-vless://3e37ef76-835d-4ad2-a1d3-414ef90532bf@77.105.163.46:443?security=tls&type=ws&headerType=&path=/&host=ov186.ochmaybrooooo.online&sni=ov186.ochmaybrooooo.online&fp=chrome&alpn=http/1.1&fragment=3,1,tlshello#%F0%9F%87%A8%F0%9F%87%B3%20China%20%5B2%5D
-vless://c9cbfe43-4087-4069-8bca-225f9a26a94f@31.222.204.51:48991?type=xhttp&path=/&mode=auto&security=reality&sni=cdn3-25.yahoo.com&pbk=LSa7d4Gdz94xrp_hV200uG0vL8iSFwdxbQT6XlcRjCk&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B3%5D
+vless://816af00b-1673-4056-823a-a2c131f7c875@46.243.142.184:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=aAIzJV3mCIMMZUdhIJYpMmPH1dMcXQZOf-8t1__0GUE&security=reality&sid=6d8f1a3b9c2e&sni=28.img.avito.st&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B91%5D
+trojan://eb2b32c4-8844-4e79-8ec8-133a8a3aca3c@yuzhenb886.dpdns.org:443/?type=ws&host=yuzhenb886.dpdns.org&path=/&security=tls&sni=yuzhenb886.dpdns.org&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B73%5D
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=secure.furrycdn.net&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B93%5D
+vless://410966ac-4c76-4416-a464-cb6acd37ac4f@185.178.208.176:443?alpn=h3,h2&encryption=none&fp=chrome&host=founders-blog.online&path=/stream/615428/socket&security=tls&sni=founders-blog.online&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B180%5D
+vless://3e37ef76-835d-4ad2-a1d3-414ef90532bf@77.105.163.46:443?encryption=none&security=tls&sni=ov186.ochmaybrooooo.online&fp=chrome&type=ws&host=ov186.ochmaybrooooo.online&path=/#%F0%9F%87%A8%F0%9F%87%B3%20China%20%5B1%5D
+vless://c1428642-8cf6-4fce-b97a-dee5d95f0e84@51.250.101.16:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=KQwnDPI_7rJnJvmjaEg0NCFuNWnSRQ8SBHJB8iFun2A&security=reality&sid=3fe939c78d2c1c7a&sni=y-12.rita-cloud.com&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B160%5D
 vless://18f71148-a3c7-40c7-b02a-be04da72efe3@31.76.123.22:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-fi.emrata.top#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B1%5D
-trojan://ND91608427@large-baboon.rooster465.autos:443/?type=tcp&security=tls&sni=large-baboon.rooster465.autos&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B19%5D
-vless://18f71148-a3c7-40c7-b02a-be04da72efe3@pro-fi.emrata.top:443?type=tcp&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&fp=chrome&sni=pro-fi.emrata.top&flow=xtls-rprx-vision#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B3%5D
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&headerType=none&fp=chrome&type=tcp&sni=de.catxstar.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B45%5D
-trojan://ND91608427@informed-alpaca.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B17%5D
-trojan://ND91608427@rapid-firefly.rooster465.autos:443/?type=tcp&security=tls&sni=rapid-firefly.rooster465.autos&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B22%5D
-vless://bc5b801f-49a7-4db7-ac92-a2c57d42d132@93.114.194.118:448?type=tcp&security=reality&encryption=none&fp=chrome&pbk=qX6IJfWNN-SNray6xJugb8pCpgY_zjeyCfvq9IUyd3w&sid=e1bdc95c1554c8eb&sni=www.samsung.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B2%5D
-trojan://ND91608427@careful-tadpole.rooster465.autos:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B1%5D
-vless://43694943-d64e-4393-a3cd-8c38de1c2a4e@155.212.240.30:443?path=/6facebf4-4bc6b53d-ae32f25d125c&security=tls&alpn=http/1.1&encryption=none&host=vbirffour.site&fp=chrome&type=ws&sni=8qt88qpnmy.vbirffour.site#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B8%5D
+vless://18f71148-a3c7-40c7-b02a-be04da72efe3@31.76.123.45:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-fi.emrata.top#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B2%5D
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@138.16.128.137:443?security=reality&type=tcp&fp=chrome&sni=www.samsung.com&pbk=krwQUB0aR-ezyW9uzdKNfPl8XmWP6_dHPTszEw9P8ho&sid=bfe9acf4&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B33%5D
+trojan://ND91608427@3.68.79.32:443?fp=chrome&sni=large-baboon.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B18%5D
+trojan://ND91608427@rapid-firefly.rooster465.autos:443/?type=tcp&security=tls&sni=rapid-firefly.rooster465.autos&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B26%5D
+trojan://ND91608427@3.64.59.246:443?fp=chrome&sni=gentle-raptor.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B17%5D
