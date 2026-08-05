@@ -1,36 +1,35 @@
-# profile-title: 🚀 Telegood VPN (ТОП-32 от 05.08.2026 21:50)
-# 🛡️ Verified Elite: 32
-# 📊 Stats: Вход: 977 | Пинг: 305 | >800KB/s: 123 | ТОП: 32 (iOS: 16)
+# profile-title: 🚀 Telegood VPN (ТОП-31 от 06.08.2026 03:05)
+# 🛡️ Verified Elite: 31
+# 📊 Stats: Вход: 942 | Пинг: 162 | >800KB/s: 31 | ТОП: 31 (iOS: 16)
 
-vless://35699c54-9188-4f43-972e-e8e42dbb104e@94.126.206.117:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&security=reality&sni=apple.com&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B244%5D
-vless://9b4c96f9-60e8-4694-b069-c46992390555@51.250.47.71:443?encryption=none&host=cloudflare.vhub.pro&path=/websocket&pcs=dc554fddecc5fb70f55d439bc1e1c42acb5e7b8ebbcd85224aee41aad3b1c104&security=tls&sni=cloudflare.vhub.pro&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B72%5D
-vless://35699c54-9188-4f43-972e-e8e42dbb104e@94.139.251.9:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&security=reality&sni=apple.com&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B239%5D
-vless://bdba330b-dfc6-0023-93e4-b10f906bf4fb@185.86.145.253:443?encryption=none&fp=firefox&pbk=Mkxs9LT0tRg208EbLXmP-_dQYlsPOgaTwZ3acwgVVWs&security=reality&sni=api-maps.yandex.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B15%5D
-vless://bdba330b-dfc6-001f-93e4-b10f906bf4fb@212.233.93.223:443?type=tcp&headerType=none&security=reality&encryption=none&sni=eh.vk.com&pbk=0J8o7RTIGJzUV6gOjCtpPvgzCZz7Yowfla_I0a01GRY&sid=ddd6&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B84%5D
-vless://bdba330b-dfc6-001f-93e4-b10f906bf4fb@176.98.177.192:443?encryption=none&fp=safari&pbk=0J8o7RTIGJzUV6gOjCtpPvgzCZz7Yowfla_I0a01GRY&security=reality&sni=monalisgame.com&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B64%5D
-vless://95f50108-2bae-4634-948c-b22e01ae3133@pro-ru-bridge.emrata.top:443?type=tcp&security=reality&pbk=F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA&fp=firefox&sni=pro-ru-bridge.emrata.top&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B2%5D
-vless://35699c54-9188-4f43-972e-e8e42dbb104e@94.126.204.143:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&security=reality&sni=apple.com&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B231%5D
-vless://35699c54-9188-4f43-972e-e8e42dbb104e@94.126.204.159:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&security=reality&sni=apple.com&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B214%5D
-vless://35699c54-9188-4f43-972e-e8e42dbb104e@94.126.204.43:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&security=reality&sni=apple.com&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B199%5D
-vless://bdba330b-dfc6-001f-93e4-b10f906bf4fb@89.208.198.151:9443?type=tcp&headerType=none&security=reality&encryption=none&sni=api-maps.yandex.ru&pbk=0J8o7RTIGJzUV6gOjCtpPvgzCZz7Yowfla_I0a01GRY&sid=ddd6&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B92%5D
-vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@94.139.251.189:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&security=reality&sni=apple.com&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B218%5D
-vless://07b2251d-ece9-42c3-a72f-d4fa5cc5ed79@94.139.251.191:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&security=reality&sni=apple.com&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B205%5D
-vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@94.126.206.29:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&security=reality&sni=apple.com&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B150%5D
-vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@94.139.251.23:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&security=reality&sni=apple.com&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B171%5D
-vless://35699c54-9188-4f43-972e-e8e42dbb104e@94.139.250.36:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&security=reality&sni=apple.com&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B261%5D
-vless://72b2e405-0b49-4f2c-872a-61787fcedc45@95.156.206.12:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cloudflare.vhub.pro&path=/websocket&pcs=dc554fddecc5fb70f55d439bc1e1c42acb5e7b8ebbcd85224aee41aad3b1c104&security=tls&sni=cloudflare.vhub.pro&type=ws#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B1%5D
-vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@94.126.206.41:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&security=reality&sni=apple.com&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B249%5D
-trojan://ND91608427@large-baboon.rooster465.autos:443/?type=tcp&security=tls&sni=large-baboon.rooster465.autos&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B24%5D
-trojan://ND91608427@54.93.65.133:443?fp=chrome&sni=next-turkey.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B19%5D
-trojan://ND91608427@rapid-firefly.rooster465.autos:443/?type=tcp&security=tls&sni=rapid-firefly.rooster465.autos&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B28%5D
-trojan://UO36402987@many-cricket.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B30%5D
-trojan://ND91608427@3.64.59.246:443?fp=chrome&sni=gentle-raptor.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B16%5D
-vless://33aa2b47-484b-49f6-8f23-fb34602d221f@188.127.247.129:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Kb0rDCu2kKhfnC6bsi0DMRxDej9S-Mu1vVza1H1l4U4&security=reality&sid=0c&sni=yahoo.com&type=tcp#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B1%5D
-vless://35699c54-9188-4f43-972e-e8e42dbb104e@94.126.205.65:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&security=reality&sni=apple.com&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B191%5D
+trojan://MITIVPN@151.101.56.0:443?path=/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/dde2---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http/1.1&insecure=1&host=s2s-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B56%5D
+vless://33aa2b47-484b-49f6-8f23-fb34602d221f@188.127.247.129:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=Kb0rDCu2kKhfnC6bsi0DMRxDej9S-Mu1vVza1H1l4U4&sid=0c#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B1%5D
+trojan://ND91608427@54.93.54.137:443?sni=informed-alpaca.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B20%5D
+trojan://ND91608427@3.124.187.220:443?fp=chrome&sni=rapid-firefly.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B16%5D
+trojan://ND91608427@3.68.79.32:443?fp=chrome&sni=large-baboon.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B19%5D
 trojan://ND91608427@star-kiwi.rooster465.autos:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B9%5D
-trojan://ND91608427@classic-gator.rooster465.autos:443?security=tls&sni=classic-gator.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B7%5D
-trojan://ND91608427@15.237.137.197:443?fp=chrome&sni=fancy-skink.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B2%5D
-trojan://ND91608427@15.237.219.234:443?fp=chrome&sni=careful-tadpole.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B3%5D
-vless://bdba330b-dfc6-0023-93e4-b10f906bf4fb@79.174.78.25:9443?type=tcp&headerType=none&security=reality&encryption=none&sni=api-maps.yandex.ru&pbk=0J8o7RTIGJzUV6gOjCtpPvgzCZz7Yowfla_I0a01GRY&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B79%5D
-vless://95f50108-2bae-4634-948c-b22e01ae3133@pro-de.emrata.top:443?type=tcp&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&fp=firefox&sni=pro-de.emrata.top#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B7%5D
-vless://35699c54-9188-4f43-972e-e8e42dbb104e@94.139.250.35:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&security=reality&sni=apple.com&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B181%5D
+trojan://ND91608427@15.237.219.234:443?fp=chrome&sni=careful-tadpole.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B5%5D
+trojan://ND91608427@13.36.175.151:443?fp=chrome&sni=classic-gator.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B2%5D
+vless://02ae7872-1c03-4214-8b95-14c126da831e@pro-de.emrata.top:443?type=tcp&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&fp=firefox&sni=pro-de.emrata.top#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B4%5D
+trojan://ND91608427@54.170.212.206:443?type=tcp&security=tls&headerType=none&sni=skilled-lioness.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B2%5D
+trojan://UO36402987@definite-ladybird.rooster465.autos:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B7%5D
+trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261?allowInsecure=1&sni=speedtest.tinkoff.ru&type=tcp&insecure=1&security=tls&fp=android#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B1%5D
+vless://02ae7872-1c03-4214-8b95-14c126da831e@pro-uk.emrata.top:443?type=tcp&security=reality&pbk=RYnbBzo-UTB4nVMymzJ5B6TgYed7DfOc6O5Pr_htYSc&fp=firefox&sni=pro-uk.emrata.top#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B21%5D
+vless://02ae7872-1c03-4214-8b95-14c126da831e@pro-se.emrata.top:443?type=tcp&security=reality&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&fp=firefox&sni=pro-se.emrata.top#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B1%5D
+trojan://ND91608427@3.64.59.246:443?fp=chrome&sni=gentle-raptor.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B17%5D
+vless://b3eed393-e990-40a0-978c-689d40be9da4@86.107.178.66:448?type=tcp&security=reality&pbk=i3cJbIu8AN7qCD7xQTVfCN7de9RkxVohk_PGQgHqRl8&fp=chrome&sni=www.samsung.com&sid=52a74e01683e9173#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B1%5D
+vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.80:2096?type=ws&host=free-server.techsonic.dev&path=/free-server.techsonic.dev&security=tls&sni=free-server.techsonic.dev#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B19%5D
+vless://57b575f7-f738-42c3-8151-e6bacc8c6717@pro-tr.emrata.top:443?type=tcp&security=reality&pbk=da5UVhoC5QOCDm84AxB-RRxf0z2nySZ3lOemgqizLS4&fp=firefox&sni=pro-tr.emrata.top&flow=xtls-rprx-vision#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5B2%5D
+trojan://MiTiVPN@151.101.56.8:443?path=/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/gb---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http/1.1&insecure=1&host=s3s-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B55%5D
+vless://33aa2b47-484b-49f6-8f23-fb34602d221f@188.127.247.129:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Kb0rDCu2kKhfnC6bsi0DMRxDej9S-Mu1vVza1H1l4U4&security=reality&sid=0c&sni=yahoo.com&type=tcp#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B2%5D
+trojan://ND91608427@15.237.49.244:443?fp=chrome&sni=star-kiwi.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B6%5D
+trojan://ND91608427@13.36.175.151:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=classic-gator.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B3%5D
+vless://95f50108-2bae-0032-948c-b22e01ae3133@pro-de.emrata.top:443?type=tcp&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&fp=firefox&sni=pro-de.emrata.top#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B8%5D
+trojan://ND91608427@54.170.212.206:443?fp=chrome&sni=skilled-lioness.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B1%5D
+trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261/?type=tcp&security=tls&sni=speedtest.tinkoff.ru&allowInsecure=1&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B2%5D
+vless://87d2ab46-0575-42e7-8bf8-4d8b0cb484f0@pro-uk.emrata.top:443?type=tcp&security=reality&pbk=RYnbBzo-UTB4nVMymzJ5B6TgYed7DfOc6O5Pr_htYSc&fp=firefox&sni=pro-uk.emrata.top#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B23%5D
+vless://57b575f7-f738-42c3-8151-e6bacc8c6717@pro-se.emrata.top:443?type=tcp&security=reality&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&fp=firefox&sni=pro-se.emrata.top#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B2%5D
+trojan://ND91608427@3.64.59.246:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=gentle-raptor.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B18%5D
+vless://87d2ab46-0575-0032-8bf8-4d8b0cb484f0@pro-de.emrata.top:443?type=tcp&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&fp=firefox&sni=pro-de.emrata.top#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B6%5D
+vless://87d2ab46-0575-42e7-8bf8-4d8b0cb484f0@pro-se.emrata.top:443?type=tcp&security=reality&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&fp=firefox&sni=pro-se.emrata.top#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B3%5D
+vless://95f50108-2bae-4634-948c-b22e01ae3133@pro-se.emrata.top:443?type=tcp&security=reality&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&fp=firefox&sni=pro-se.emrata.top#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B4%5D
