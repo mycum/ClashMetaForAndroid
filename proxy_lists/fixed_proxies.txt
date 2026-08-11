@@ -1,25 +1,23 @@
-# profile-title: 🚀 Telegood VPN (ТОП-21 от 12.08.2026 00:27)
-# 🛡️ Verified Elite: 21
-# 📊 Stats: Вход: 778 | Пинг: 211 | >800KB/s: 21 | ТОП: 21 (iOS: 16)
+# profile-title: 🚀 Telegood VPN (ТОП-19 от 12.08.2026 02:40)
+# 🛡️ Verified Elite: 19
+# 📊 Stats: Вход: 717 | Пинг: 193 | >800KB/s: 19 | ТОП: 19 (iOS: 16)
 
-trojan://MiTiVPN@45.80.111.7:443?path=/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/D-e1%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http/1.1&host=D-2A-G-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&type=ws&sni=d-2-AA-ia-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B11%5D
-vmess://eyJ2IjogIjIiLCAicHMiOiAiRVBPRE9OSU9TIiwgImFkZCI6ICIxMzIuMTQ1LjIwMC40MyIsICJwb3J0IjogIjIwNTQiLCAidHlwZSI6ICJub25lIiwgImlkIjogImNlZWFlZTBiLTg5YWYtNDBiMS1hYTE0LTU3N2NiZGUwM2E4OSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcCIsICJob3N0IjogIiIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B63%5D
-hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=css.rbxcdn.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B2%5D
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr76.mechvpn.online:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&insecure=0&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B21%5D
+vmess://eyJhZGQiOiAiY2YubGV2aWtvZ2pnZmRkLmlyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImRlYXBwLmppc3V5dW4udG9wIiwgImlkIjogIjlhMWEwNWQ5LTY5YmUtNDVkMy1lMzI2LWM2NjIxZWRmN2IzMSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9kZXZtIiwgInBjcyI6ICIiLCAicG9ydCI6ICIyMDUzIiwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIiwgInZjbiI6ICIifQ==#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B146%5D
+vless://95e8532b-cc69-42d4-9553-e3c23292b15b@45.151.101.103:443?encryption=none&fp=safari&mode=gun&pbk=gr7DAOBqoNiHEUhWZQh3nSqBOmg6QwmRC0HKj7TOsUk&security=reality&serviceName=your-custom-path&sid=2da4299da566b7&sni=maps.apple.com&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B186%5D
+vmess://eyJhZGQiOiAiMTMyLjE0NS4yMDAuNDMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImNlZWFlZTBiLTg5YWYtNDBiMS1hYTE0LTU3N2NiZGUwM2E4OSIsICJpbnNlY3VyZSI6ICIxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9wIiwgInBvcnQiOiAiMjA1NCIsICJwcyI6ICJFUE9ET05JT1MiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B59%5D
+hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=google.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B3%5D
 trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261/?type=tcp&security=tls&sni=speedtest.tinkoff.ru&allowInsecure=1&fp=edge#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B3%5D
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr198.mechvpn.online:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&insecure=0&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B17%5D
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr90.mechvpn.online:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&insecure=0&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B24%5D
-vless://83eda926-645c-4f88-9dbe-bf33ac18c8f4@178.159.94.108:2083?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=40eDnye2AHCQqgM2_ikKzRayZ4Vlu4rnnkHmLmNalQc&security=reality&sid=32a37218722f0081&sni=swe-one.quiet-rogue.site&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B162%5D
-vmess://eyJhZGQiOiAiY2YubGV2aWtvZ2pnZmRkLmlyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImRlYXBwLmppc3V5dW4udG9wIiwgImlkIjogIjlhMWEwNWQ5LTY5YmUtNDVkMy1lMzI2LWM2NjIxZWRmN2IzMSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9kZXZtIiwgInBjcyI6ICIiLCAicG9ydCI6ICIyMDUzIiwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIiwgInZjbiI6ICIifQ==#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B148%5D
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr143.mechvpn.online:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&insecure=0&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B8%5D
-hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?insecure=1&sni=css.rbxcdn.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5B8%5D
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr100.mechvpn.online:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&insecure=0&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B5%5D
-vmess://eyJhZGQiOiAiMTMyLjE0NS4yMDAuNDMiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogImNlZWFlZTBiLTg5YWYtNDBiMS1hYTE0LTU3N2NiZGUwM2E4OSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcCIsICJwb3J0IjogMjA1NCwgInBzIjogIkVQT0RPTklPUyIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B62%5D
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr143.mechvpn.online:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&insecure=0&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B9%5D
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr76.mechvpn.online:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&insecure=0&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B18%5D
+hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?insecure=1&sni=google.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5B2%5D
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr15.mechvpn.online:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&insecure=0&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B12%5D
+vmess://eyJhZGQiOiAiMTMyLjE0NS4yMDAuNDMiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogImNlZWFlZTBiLTg5YWYtNDBiMS1hYTE0LTU3N2NiZGUwM2E4OSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcCIsICJwb3J0IjogMjA1NCwgInBzIjogIkVQT0RPTklPUyIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B61%5D
+hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=css.rbxcdn.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B2%5D
+trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261?security=tls#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B4%5D
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr76.mechvpn.online:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&insecure=0&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B17%5D
+hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?insecure=1&sni=css.rbxcdn.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5B1%5D
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr15.mechvpn.online:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&insecure=0&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B11%5D
 hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B1%5D
 trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261/?type=tcp&security=tls&sni=speedtest.tinkoff.ru&allowInsecure=1&fp=android#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B2%5D
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr143.mechvpn.online:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&insecure=0&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B9%5D
-hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443/?insecure=1&sni=vk.com#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5B10%5D
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr100.mechvpn.online:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&insecure=0&fp=ios#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B6%5D
-hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=google.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B3%5D
+hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443/?insecure=1&sni=vk.com#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5B3%5D
 trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261/?type=tcp&security=tls&sni=speedtest.tinkoff.ru&allowInsecure=1&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B1%5D
-trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261?security=tls#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B4%5D
