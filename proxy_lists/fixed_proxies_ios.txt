@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 14.08.2026 04:18)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 14.08.2026 06:23)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 838 | Пинг: 241 | >800KB/s: 40 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 979 | Пинг: 318 | >800KB/s: 76 | ТОП: 32 (iOS: 16)
 
-vmess://eyJhZGQiOiAiY2YubGV2aWtvZ2pnZmRkLmlyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImRlYXBwLmppc3V5dW4udG9wIiwgImlkIjogIjlhMWEwNWQ5LTY5YmUtNDVkMy1lMzI2LWM2NjIxZWRmN2IzMSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9kZXZtIiwgInBvcnQiOiAiMjA1MyIsICJwcyI6ICJFUE9ET05JT1MiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B121%5D
-vmess://eyJhZGQiOiAiZGVhcHAuamlzdXl1bi50b3AiLCAiYWlkIjogMCwgImhvc3QiOiAiZGVhcHAuamlzdXl1bi50b3AiLCAiaWQiOiAiOWExYTA1ZDktNjliZS00NWQzLWUzMjYtYzY2MjFlZGY3YjMxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9kZXZtIiwgInBvcnQiOiAyMDUzLCAicHMiOiAiRVBPRE9OSU9TIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B42%5D
-vless://067df8f8-70f7-498f-9752-b8a9eafe5be4@95.129.236.252:443?alpn=http/1.1&encryption=none&fp=chrome&path=/api/v2/vms/stream/genka&security=tls&sni=benzin.benz.ink&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B155%5D
-trojan://AE62539071@dashing-bedbug.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B22%5D
-trojan://AE62539071@teaching-gnu.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B26%5D
-vmess://eyJ2IjogIjIiLCAicHMiOiAiRVBPRE9OSU9TIiwgImFkZCI6ICIxMzIuMTQ1LjIwMC40MyIsICJwb3J0IjogIjIwNTQiLCAidHlwZSI6ICJub25lIiwgImlkIjogImNlZWFlZTBiLTg5YWYtNDBiMS1hYTE0LTU3N2NiZGUwM2E4OSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcCIsICJob3N0IjogIiIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B98%5D
-trojan://AE62539071@up-dinosaur.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B27%5D
-trojan://AE62539071@proper-marlin.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B24%5D
-hysteria2://4e82f6c9-e180-4672-9d63-9060679ebdb9@node.embrofree.org:443?sni=node.embrofree.org&fp=chrome#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B1%5D
-trojan://AE62539071@sterling-macaw.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B25%5D
-trojan://AE62539071@moved-bluegill.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B23%5D
-trojan://ND91608427@fancy-skink.rooster465.autos:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B13%5D
-trojan://AE62539071@distinct-quail.rooster465.autos:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B2%5D
-trojan://AE62539071@tough-hermit.rooster465.autos:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B4%5D
-hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?sni=css.rbxcdn.com&type=tcp&upmbps=10&downmbps=50&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B9%5D
-trojan://AE62539071@one-quail.rooster465.autos:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B3%5D
+vless://18710b59-191b-4e44-a040-7ac1bec840db@213.226.112.213:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=sXOFKo2LTiE3qg7Z68FIiwTYvhNNSAOTx9AYMuUoUnk&security=reality&sid=07d3a29177aefcb6&sni=wl-7-5.nodes.ac&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B175%5D
+vless://a123b089-a711-4d15-bc4e-47a2cf44e246@45.11.27.244:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ens3hLP8kjd-Zye3nW1Q_CC2kJFo0PdPbplj9VLwkWg&security=reality&sid=c6442fba175fcd79&sni=music.yandex.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B235%5D
+vless://18710b59-191b-4e44-a040-7ac1bec840db@62.152.56.73:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg&security=reality&sid=cf43c0c197cd464a&sni=wl-12.nodes.ac&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B172%5D
+vless://18710b59-191b-4e44-a040-7ac1bec840db@45.11.26.234:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QxW0nwrOXYHuEeL4PXObUDEackg-ebQ_9Vgl01IwsxM&security=reality&sid=77173c666c84bec1&sni=wl-7-6.nodes.ac&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B170%5D
+vless://8b706aff-ca60-4632-9658-aeb5c0f48561@185.91.54.83:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&security=reality&sid=226509f017e4c36d&sni=eda.x5.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B26%5D
+vless://18710b59-191b-4e44-a040-7ac1bec840db@46.254.17.226:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=knrqm393ghxJNYj-4qu2BYpwpG5_zOG5h5-H7yyyR38&security=reality&sid=0be28edc1b0278d6&sni=wl-8-1.nodes.ac&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B177%5D
+vless://e500aaca-624e-07d0-a8e5-6c3dabb8bdf5@139.100.197.28:52006?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=search.setlisting.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B65%5D
+vless://f29b7050-a426-4535-b064-d4ecc05d512e@95.129.236.252:443?alpn=http/1.1&encryption=none&fp=chrome&path=/api/v2/vms/stream/genka&security=tls&sni=benzin.benz.ink&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B187%5D
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru104.mechvpn.online:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B8%5D
+trojan://AE62539071@proper-marlin.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B40%5D
+trojan://AE62539071@teaching-gnu.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B43%5D
+vmess://eyJhZGQiOiAiMTc4LjgzLjQ1LjI5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI0ODQyMjMwMC00NThmLTRkYmItYjBmNS05NmY0NTQ1MGFiOWYiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICIzODk5OCIsICJwcyI6ICJFUE9ET05JT1MiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B50%5D
+trojan://AE62539071@sterling-macaw.rooster465.autos:443?fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B42%5D
+trojan://AE62539071@up-dinosaur.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B44%5D
+trojan://AE62539071@moved-bluegill.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B38%5D
+trojan://AE62539071@dashing-bedbug.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B37%5D
