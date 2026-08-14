@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 15.08.2026 04:03)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 15.08.2026 06:01)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 838 | Пинг: 347 | >800KB/s: 95 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 938 | Пинг: 341 | >800KB/s: 94 | ТОП: 32 (iOS: 16)
 
-trojan://humanity@165.215.250.14:443?fp=chrome&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B41%5D
-trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B47%5D
-trojan://humanity@45.130.125.160:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com&fp=chrome#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%5B4%5D
-trojan://humanity@45.130.125.75:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com&fp=chrome#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%5B6%5D
-trojan://humanity@45.130.125.112:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20%5B2%5D
-trojan://humanity@chat.openai.com:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B65%5D
-trojan://humanity@104.16.72.2:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B56%5D
-trojan://humanity@104.17.121.71:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B59%5D
-vless://f5a0d1e9-a6da-49dc-86ed-afefa39ce3ed@85.198.103.253:21018?encryption=none&security=none&type=raw&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B203%5D
-trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B79%5D
-trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B19%5D
-trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B57%5D
-vless://463a26c2-eba8-0031-89c4-ee5c1373ccbe@185.221.199.121:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ckPCrgbrSdQaz1j3vP0-f0P8F4E8ZucQTeQGtxBKagU&security=reality&sid=3882f019072c5dcd&sni=vruaz.mostserv.xyz&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B7%5D
-vless://52b202f9-493d-4b52-a656-64637f36afa7@84.201.136.20:8443?encryption=none&fp=chrome&host=cloudflare.vhub.pro&path=/websocket%3Fed%3D2560&security=tls&sni=cloudflare.vhub.pro&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B123%5D
-vless://463a26c2-eba8-0031-89c4-ee5c1373ccbe@193.233.223.54:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ckPCrgbrSdQaz1j3vP0-f0P8F4E8ZucQTeQGtxBKagU&security=reality&sid=3882f019072c5dcd&sni=vruaz.mostserv.xyz&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B224%5D
-vless://b6c29ae7-4748-4049-b642-b695c0d2c776@159.194.226.13:8443?encryption=none&extra=null&fp=chrome&mode=stream-one&path=/&pbk=167UuK8Oaxr23FtoB2a2UbzMRrdRyoHv8JeiIbt3yH4&security=reality&sni=ya.ru&spx=/ynaicof%3Ffrom%3Dsearch&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B156%5D
+vless://015b83b4-53a3-4719-8553-3a7c03c4128d@178.248.236.0:55443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=l4a04BlcqPrdTrvx6uWjdSUr6ctSY6OfRvECpS4oR3E&sid=8f3c1a7d5be204c9&sni=rutube.ru&spx=/&mantaray-routing=universal#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B92%5D
+vless://858867da-0426-44db-9c07-7890d7ea8891@ru04.sipipro.su:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=JAVKQKsULXlh2RyNSS7YCWJ7vp039jHsxxSbHq_IYS0&sid=be61ba143feca61a&sni=ru04.sipipro.su#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B31%5D
+vless://e88307c9-31ed-417d-bdfa-252e3285e1af@de-bridge.primee.xyz:40443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=JO-EGi6ohM98O2JZ4sHJltHzF4EMbqklrcowmccgp2M&sid=cd29461bccaeb169&sni=api-maps.yandex.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B27%5D
+vless://52b202f9-493d-4b52-a656-64637f36afa7@46.254.18.27:443?encryption=none&fp=chrome&host=cloudflare.vhub.pro&path=/websocket%3Fed%3D2560&security=tls&sni=cloudflare.vhub.pro&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B135%5D
+vless://52b202f9-493d-4b52-a656-64637f36afa7@84.201.136.20:8443?encryption=none&fp=chrome&host=cloudflare.vhub.pro&path=/websocket%3Fed%3D2560&security=tls&sni=cloudflare.vhub.pro&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B133%5D
+vless://423b1d79-08c4-0002-9d5e-c541f791b55f@95.85.240.30:443?type=tcp&headerType=none&security=reality&encryption=none&sni=russia.cendora.ru&fp=chrome&pbk=ZXi0bwZwOe9e5CMticA2-bU7qamHgs_sN-2kHygbDyk&sid=e91da98020a38be9&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B42%5D
+vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@176.108.240.105:9893?type=tcp&headerType=none&security=reality&encryption=none&sni=io.ozone.ru&fp=chrome&pbk=GVNhQWxHlpnqLnhlOeFpagU1QLVVHBepBQN0YcPjXVg&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B1%5D
+vless://c099de6a-0805-0002-b959-fd4ab4fc209e@46.8.210.166:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DM3bRAvFPKomKjjmatlS2dH5VYZnUkPHw0BmA40kI2k&security=reality&sid=0f4daaf87f9dff&sni=smartcaptcha.yandexcloud.net&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B53%5D
+vless://423b1d79-08c4-0006-9d5e-c541f791b55f@138.124.255.21:443?type=tcp&headerType=none&security=reality&encryption=none&sni=russia.cendora.ru&fp=chrome&pbk=ZXi0bwZwOe9e5CMticA2-bU7qamHgs_sN-2kHygbDyk&sid=e91da98020a38be9&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B98%5D
+vless://1cf0f330-88c6-5b9b-866e-607e08cf87d6@185.72.145.121:5000?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0XUuWS1x6kswbVN0rgXLpZ1pTCgnyhk7ItuoklaNoHI&security=reality&sid=9e&sni=www.vk.com&spx=/IQj85DYYi5bhobP&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B91%5D
+vless://06e20338-4cc7-07d0-80c7-8dc095d3a8c5@139.100.197.28:52006?type=raw&security=tls&encryption=none&sni=search.setlisting.ru&fp=chrome&alpn=h2,http/1.1&flow=xtls-rprx-vision&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B68%5D
+trojan://AE62539071@sterling-macaw.rooster465.autos:443?security=tls&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B13%5D
+vless://f5a0d1e9-a6da-49dc-86ed-afefa39ce3ed@85.198.103.253:21018?encryption=none&security=none&type=raw&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B3%5D
+trojan://AE62539071@moved-bluegill.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B9%5D
+vless://c0f16ee2-a909-4890-ab1c-96489230658a@172.64.80.1:443?encryption=none&host=admin.jikebet.com&path=/vless&security=tls&sni=admin.jikebet.com&type=ws&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1%5D
+trojan://FH72359861@epic-iguana.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B4%5D
