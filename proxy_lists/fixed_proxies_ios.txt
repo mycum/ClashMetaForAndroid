@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 14.08.2026 09:41)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 14.08.2026 10:05)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 979 | Пинг: 298 | >800KB/s: 84 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 969 | Пинг: 316 | >800KB/s: 83 | ТОП: 32 (iOS: 16)
 
-vless://49e76398-5127-4005-90cb-c2a971f745f1@8.6.112.6:443?type=ws&security=tls&encryption=none&sni=lucxi.lightorbitlab-kiloilm.sbs&path=/ram&host=lucxi.lightorbitlab-kiloilm.sbs&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B2%5D
-vless://8b706aff-ca60-4632-9658-aeb5c0f48561@185.91.54.83:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&security=reality&sid=226509f017e4c36d&sni=eda.x5.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B26%5D
-vless://870541f4-b3a7-07d0-af4b-7588d36e2dac@139.100.197.28:52006?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=search.setlisting.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B64%5D
-vmess://eyJhZGQiOiAiY2YubGV2aWtvZ2pnZmRkLmlyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImRlYXBwLmppc3V5dW4udG9wIiwgImlkIjogIjlhMWEwNWQ5LTY5YmUtNDVkMy1lMzI2LWM2NjIxZWRmN2IzMSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9kZXZtIiwgInBvcnQiOiAiMjA1MyIsICJwcyI6ICJFUE9ET05JT1MiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B129%5D
-trojan://AE62539071@dashing-bedbug.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B37%5D
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@45.139.26.104:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B140%5D
-trojan://AE62539071@up-dinosaur.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B44%5D
-trojan://AE62539071@teaching-gnu.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B43%5D
-trojan://AE62539071@proper-marlin.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B40%5D
-vmess://eyJ2IjogIjIiLCAicHMiOiAiRVBPRE9OSU9TIiwgImFkZCI6ICIxMzIuMTQ1LjIwMC40MyIsICJwb3J0IjogIjIwNTQiLCAidHlwZSI6ICJub25lIiwgImlkIjogImNlZWFlZTBiLTg5YWYtNDBiMS1hYTE0LTU3N2NiZGUwM2E4OSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcCIsICJob3N0IjogIiIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B94%5D
-trojan://AE62539071@sterling-macaw.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B41%5D
-trojan://AE62539071@moved-bluegill.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B38%5D
-vless://91d0fa43-e557-43e7-a731-f0c3d1fb306a@89.105.208.123:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&sni=n1.cloudgaming.one&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B9%5D
+vless://49e76398-5127-4005-90cb-c2a971f745f1@8.6.112.6:443?type=ws&security=tls&encryption=none&sni=hjage.starwavelab-kiloilm.sbs&path=/ram&host=hjage.starwavelab-kiloilm.sbs&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B3%5D
+vmess://eyJhZGQiOiAiY2YubGV2aWtvZ2pnZmRkLmlyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImRlYXBwLmppc3V5dW4udG9wIiwgImlkIjogIjlhMWEwNWQ5LTY5YmUtNDVkMy1lMzI2LWM2NjIxZWRmN2IzMSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9kZXZtIiwgInBjcyI6ICIiLCAicG9ydCI6ICIyMDUzIiwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIiwgInZjbiI6ICIifQ==#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B127%5D
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:23443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=gismeteo.ru&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B133%5D
+vless://8b706aff-ca60-4632-9658-aeb5c0f48561@rusl-e.vktunnel.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=eda.x5.ru&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&sid=226509f017e4c36d&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B7%5D
+vless://870541f4-b3a7-07d0-af4b-7588d36e2dac@139.100.197.28:52006?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=search.setlisting.ru&type=raw&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B53%5D
+trojan://MiTiVPN@140.248.185.253:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/f-l@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=s3k-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=sourceforge.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B16%5D
+vless://d4944459-5a11-466d-bb0a-26e33e68f22b@95.129.236.252:443?alpn=http/1.1&encryption=none&fp=chrome&path=/api/v2/vms/stream/genka&security=tls&sni=benzin.benz.ink&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B235%5D
+trojan://AE62539071@proper-marlin.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B43%5D
+vmess://eyJ2IjogIjIiLCAicHMiOiAiRVBPRE9OSU9TIiwgImFkZCI6ICIxMzIuMTQ1LjIwMC40MyIsICJwb3J0IjogIjIwNTQiLCAidHlwZSI6ICJub25lIiwgImlkIjogImNlZWFlZTBiLTg5YWYtNDBiMS1hYTE0LTU3N2NiZGUwM2E4OSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcCIsICJob3N0IjogIiIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B76%5D
+trojan://AE62539071@teaching-gnu.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B45%5D
+trojan://AE62539071@up-dinosaur.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B46%5D
+trojan://AE62539071@sterling-macaw.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B44%5D
 hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B23%5D
-trojan://ND91608427@fancy-skink.rooster465.autos:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B13%5D
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@nl1.noesissite.ru:443?%3Fdescriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F92a13d&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B20%5D
+trojan://AE62539071@moved-bluegill.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B42%5D
+vless://91d0fa43-e557-43e7-a731-f0c3d1fb306a@89.105.208.123:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&sni=n1.cloudgaming.one&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B9%5D
+trojan://ND91608427@fancy-skink.rooster465.autos:443?security=tls&sni=fancy-skink.rooster465.autos&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B19%5D
