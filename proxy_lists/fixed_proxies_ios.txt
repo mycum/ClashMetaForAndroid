@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 15.08.2026 16:07)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 15.08.2026 18:03)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1064 | Пинг: 389 | >800KB/s: 51 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1050 | Пинг: 369 | >800KB/s: 32 | ТОП: 32 (iOS: 16)
 
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@45.8.211.57:443?encryption=none&security=tls&sni=terazhediii.info&type=ws&host=terazhediii.info&path=/hdgrbws&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B21%5D
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@170.114.45.239:443?encryption=none&security=tls&sni=terazhediii.info&type=ws&host=terazhediii.info&path=/hdgrbws&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B2%5D
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@170.114.45.239:443?encryption=none&security=tls&sni=terazhediii.info&type=ws&host=terazhediii.info&path=/hdgrbws&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B1%5D
+vless://78eb741d-579e-4738-b647-9a850646060f@yt.noooo.win:8443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=ai-6a7eb845.noooo.win&mode=stream-one&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B4%5D
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@45.8.211.57:443?encryption=none&security=tls&sni=terazhediii.info&type=ws&host=terazhediii.info&path=/hdgrbws&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B20%5D
+trojan://MITIVPN@151.101.193.242:443?type=ws&security=tls&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&host=mitivpn.lifestyle&sni=mitivpn.lifestyle&alpn=http/1.1&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B5%5D
 trojan://MiTiVPN@199.232.78.160:443?type=ws&security=tls&path=/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/s-g%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN&host=s4k-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&sni=react.dev&alpn=http/1.1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B20%5D
-trojan://MiTiVPN@167.82.101.251:443?type=ws&security=tls&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/g-b@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&host=s3k-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&sni=vercel.com&alpn=http/1.1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B19%5D
-trojan://MiTiVPN@199.232.237.245:443?type=ws&security=tls&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&host=s4k-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&sni=letsencrypt.org&alpn=http/1.1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B126%5D
-vless://52b202f9-493d-4b52-a656-64637f36afa7@46.254.18.27:443?encryption=none&fp=chrome&host=cloudflare.vhub.pro&path=/websocket%3Fed%3D2560&security=tls&sni=cloudflare.vhub.pro&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B171%5D
+vless://52b202f9-493d-4b52-a656-64637f36afa7@84.201.136.20:8443?encryption=none&fp=chrome&host=cloudflare.vhub.pro&path=/websocket%3Fed%3D2560&security=tls&sni=cloudflare.vhub.pro&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B164%5D
 trojan://MiTiVPN@140.248.185.253:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/f-l@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=s3k-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=sourceforge.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B18%5D
-vless://f9a4f49f-6a60-466f-9911-3e35acdc43e1@185.178.208.176:443?alpn=h3,%2Bh2&encryption=none&fp=chrome&host=ncd.crsmaps.com&path=/ws/notify/817522359&security=tls&sni=ncd.crsmaps.com&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B151%5D
-vless://7ccd230a-2b74-44cf-892d-fddc887fb430@95.129.236.252:443?alpn=http/1.1&encryption=none&fp=chrome&path=/api/v2/vms/stream/genka&security=tls&sni=benzin.benz.ink&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B206%5D
-vless://52b202f9-493d-4b52-a656-64637f36afa7@84.201.136.20:8443?encryption=none&fp=chrome&host=cloudflare.vhub.pro&path=/websocket%3Fed%3D2560&security=tls&sni=cloudflare.vhub.pro&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B163%5D
-vless://07ac4642-9570-07d0-af45-384f4ee2e56e@139.100.197.28:52006?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=search.setlisting.ru&type=raw&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B58%5D
-hysteria2://08794874-93d0-4cf2-b9d6-1f2774cdffeb@144.31.1.28:2086?sni=panel.vlessbotkey.ru&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B1%5D
-vmess://eyJhZGQiOiAiMTMyLjE0NS4yMDAuNDMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImNlZWFlZTBiLTg5YWYtNDBiMS1hYTE0LTU3N2NiZGUwM2E4OSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcCIsICJwb3J0IjogIjIwNTQiLCAicHMiOiAiRVBPRE9OSU9TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B84%5D
-hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?sni=vk.com&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B71%5D
-trojan://FH72359861@renewed-porpoise.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B16%5D
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@176.12.73.145:443?encryption=none&flow=xtls-rprx-vision&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&security=reality&sid=2186a755ed67b034&sni=nordic.cendora.ru&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%5B1%5D
+vless://f9a4f49f-6a60-466f-9911-3e35acdc43e1@185.178.208.176:443?alpn=h3,%2Bh2&encryption=none&fp=chrome&host=ncd.crsmaps.com&path=/ws/notify/817522358&security=tls&sni=ncd.crsmaps.com&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B149%5D
+vless://78eb741d-579e-4738-b647-9a850646060f@ice.noooo.win:443?type=xhttp&security=reality&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&sid=a3f9c2d4e8b1a7c6&sni=sentry.allepal.ee&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A1000000,%22scMaxConcurrentPosts%22%3A100,%22scMinPostsIntervalMs%22%3A30,%22xPaddingBytes%22%3A%22100-1000%22,%22noGRPCHeader%22%3Afalse%7D&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B3%5D
+vless://78eb741d-579e-4738-b647-9a850646060f@one.alpheratzz.org:443?type=xhttp&security=tls&fp=chrome&sni=app-6a7eb845.adhil.uk&mode=stream-one&extra={"xmux":{"maxConnections":1,"maxReuseTimes":0}}#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B3%5D
+vless://c0f16ee2-a909-4890-ab1c-96489230658a@172.64.80.1:443?security=tls&type=ws&path=/vless&host=admin.jikebet.com&sni=admin.jikebet.com&encryption=none&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B3%5D
+hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?sni=google.com&type=tcp&upmbps=10&downmbps=50&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B67%5D
+trojan://FH72359861@epic-iguana.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B16%5D
+trojan://FH72359861@summary-lemming.rooster465.autos:443?security=tls&sni=summary-lemming.rooster465.autos&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B31%5D
+trojan://AE62539071@teaching-gnu.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B28%5D
+trojan://AE62539071@up-dinosaur.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B30%5D
