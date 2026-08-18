@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 18.08.2026 14:53)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 18.08.2026 15:58)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 323 | Пинг: 78 | >300KB/s: 55 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 352 | Пинг: 60 | >300KB/s: 42 | ТОП: 32 (iOS: 16)
 
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:18443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=disagreedebut.net&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B32%5D
-vmess://eyJ2IjogIjIiLCAicHMiOiAiRVBPRE9OSU9TIiwgImFkZCI6ICIxMzIuMTQ1LjIwMC40MyIsICJwb3J0IjogIjIwNTQiLCAidHlwZSI6ICJub25lIiwgImlkIjogImNlZWFlZTBiLTg5YWYtNDBiMS1hYTE0LTU3N2NiZGUwM2E4OSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcCIsICJob3N0IjogIiIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B37%5D
-trojan://FH72359861@renewed-porpoise.rooster465.autos:443?security=tls&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B22%5D
-trojan://PQ05174892@usable-dogfish.rooster465.autos:443?fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B17%5D
-trojan://AE62539071@3.120.138.119:443?fp=chrome&sni=up-dinosaur.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B18%5D
-trojan://FH72359861@epic-iguana.rooster465.autos:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B15%5D
-trojan://FH72359861@63.176.171.181:443?sni=engaging-toucan.rooster465.autos&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B19%5D
-hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?sni=css.rbxcdn.com&type=tcp&upmbps=10&downmbps=50&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B23%5D
-vless://fcd673a5-8ecf-4a3c-a9e3-612dfd6c3fe2@203.17.244.59:8443?security=reality&encryption=none&sni=egg.mega-play.app&fp=chrome&pbk=E1zH5CmJ_y-wNDOObxwLrZ1nE9GV0om-5eoJamn9iGQ&sid=7ceaf5d4e008556d#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B1%5D
-trojan://AE62539071@15.237.214.103:443?sni=tough-hermit.rooster465.autos&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B1%5D
-vless://6607d677-f567-4692-af46-52d0e15808a1@tr2.odavpn.online:8443/?type=tcp&security=reality&pbk=Lq1xwc-Qd0Te8sV-NxrJLQO6JbvPkknki6inkKj5_WQ&fp=chrome&sni=www.sony.com&sid=22c6f049621c44ec&flow=xtls-rprx-vision#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B1%5D
+trojan://FH72359861@63.176.171.181:443?sni=engaging-toucan.rooster465.autos&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B14%5D
+trojan://AE62539071@3.120.138.119:443?fp=chrome&sni=up-dinosaur.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B12%5D
+trojan://FH72359861@renewed-porpoise.rooster465.autos:443?security=tls&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B10%5D
+trojan://PQ05174892@usable-dogfish.rooster465.autos:443?fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B11%5D
 trojan://AE62539071@distinct-quail.rooster465.autos:443?security=tls&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B2%5D
-hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@de.1.22.washing.help:443?alpn=h3&sni=germany1.h2corp.local&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B13%5D
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@130.12.242.24:443?encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&security=reality&sid=812609fa663c57fb&sni=savesafe.info&type=xhttp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B9%5D
+trojan://AE62539071@15.237.214.103:443?sni=tough-hermit.rooster465.autos&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B1%5D
+hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B29%5D
+trojan://FH72359861@108.130.49.217:443?sni=concise-bass.rooster465.autos&fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B7%5D
+trojan://AE62539071@unbiased-garfish.rooster465.autos:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B10%5D
+trojan://AE62539071@54.74.210.220:443?fp=chrome&sni=funny-hen.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B6%5D
+trojan://AE62539071@18.201.28.146:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=helped-haddock.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B3%5D
 trojan://FH72359861@54.216.139.140:443?sni=cunning-grub.rooster465.autos&fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B1%5D
-trojan://AE62539071@healthy-panda.rooster465.autos:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B10%5D
+trojan://AE62539071@healthy-panda.rooster465.autos:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B2%5D
+trojan://FH72359861@108.128.201.154:443?sni=touching-turtle.rooster465.autos&fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B4%5D
+hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@5.83.129.11:443/?sni=germany1.h2corp.local&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B7%5D
+trojan://FH72359861@balanced-heron.rooster465.autos:443?fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B9%5D
