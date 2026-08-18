@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 19.08.2026 02:03)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 19.08.2026 03:48)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 359 | Пинг: 111 | >300KB/s: 61 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 518 | Пинг: 161 | >300KB/s: 100 | ТОП: 32 (iOS: 16)
 
-vless://73bcd72f-9545-4cb8-8daf-7d004501880d@104.17.123.101:2083/?type=ws&encryption=none&flow=&host=wzknb.pages.dev&path=/proxyip%3D167.253.153.215&security=tls&sni=wzknb.pages.dev&packetEncoding=xudp&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B3%5D
-vless://6e3d4d49-f66c-4bb1-8a77-b6dadace2d52@one.alpheratzz.org:443?mode=stream-one&path=/&security=tls&alpn=h2&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1,%22maxReuseTimes%22%3A0%7D%7D&type=xhttp&sni=app-6a84817a.adhil.uk&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B18%5D
-vless://e186d0ba-511b-41b8-a8d7-d50155216bcd@109.73.201.79:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=ZsSnIAMkWxknedh2llU19hm9huL2m9F1c8MBeEoLgVg&sid=8a9928f24a1e1319&sni=securepay.ozon.ru&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B81%5D
-trojan://AE62539071@healthy-panda.rooster465.autos:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B1%5D
-trojan://PQ05174892@usable-dogfish.rooster465.autos:443?fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B14%5D
-trojan://FH72359861@63.176.171.181:443?sni=engaging-toucan.rooster465.autos&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B13%5D
-trojan://AE62539071@15.237.214.103:443?sni=tough-hermit.rooster465.autos&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B12%5D
-trojan://AE62539071@distinct-quail.rooster465.autos:443?security=tls&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B11%5D
-trojan://AE62539071@54.74.210.220:443?fp=chrome&sni=funny-hen.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B5%5D
-trojan://AE62539071@worthy-labrador.rooster465.autos:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B3%5D
-trojan://FH72359861@108.130.49.217:443?sni=concise-bass.rooster465.autos&fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B4%5D
-vless://f82332b2-dc8c-4196-ac12-f276e37e278a@test.bridge.anti-zapret.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=cbb0a5c1dc905505&sni=test.bridge.anti-zapret.com&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B14%5D
-trojan://AE62539071@one-quail.rooster465.autos:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B13%5D
-trojan://FH72359861@balanced-heron.rooster465.autos:443?fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B7%5D
-trojan://FH72359861@nearby-cod.rooster465.autos:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B14%5D
-trojan://FH72359861@108.128.201.154:443?sni=touching-turtle.rooster465.autos&fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B2%5D
+vless://c8e1bcd9-c991-4d35-adf0-b120cde9de86@185.178.208.176:443?alpn=h3,h2&encryption=none&fp=chrome&host=founders-blog.online&path=/stream/615428/socket&security=tls&sni=founders-blog.online&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B174%5D
+vless://fecd4358-c037-4ae2-bae0-c72792fd8e40@185.71.67.185:443?alpn=http/1.1&encryption=none&fp=chrome&path=/api/v2/upload/2aec3a50a58a&security=tls&sni=mlt.spbculture.org&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B75%5D
+vless://149203f2-c3b8-40cd-973b-f3c0183c0004@185.22.234.28:443?encryption=none&fp=chrome&path=/ws/&security=tls&sni=exit-de-1.rog-self.co.uk&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B71%5D
+trojan://PQ05174892@usable-dogfish.rooster465.autos:443?fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B20%5D
+trojan://AE62539071@distinct-quail.rooster465.autos:443?security=tls&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B2%5D
+trojan://AE62539071@15.237.214.103:443?sni=tough-hermit.rooster465.autos&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B1%5D
+vless://f82332b2-dc8c-4196-ac12-f276e37e278a@94.183.157.71:443?encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=cbb0a5c1dc905505&sni=test.backup.anti-zapret.com&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B14%5D
+vless://ae2e0637-5c9d-422b-93ac-70bd3fceeb81@hys40.wba-pn.ru:443?type=ws&security=tls&sni=hys40.wba-pn.ru&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B4%5D
+vless://f82332b2-dc8c-4196-ac12-f276e37e278a@94.183.157.66:443?encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=cbb0a5c1dc905505&sni=test.backup.anti-zapret.com&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B3%5D
+vless://f82332b2-dc8c-4196-ac12-f276e37e278a@94.183.157.69:443?encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=cbb0a5c1dc905505&sni=test.backup.anti-zapret.com&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B11%5D
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@savesafe.co:443?security=reality&encryption=none&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=savesafe.co&sid=f63805c3ecc7a483&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B6%5D
+vless://f82332b2-dc8c-4196-ac12-f276e37e278a@94.183.157.67:443?encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=cbb0a5c1dc905505&sni=test.backup.anti-zapret.com&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B5%5D
+vless://f82332b2-dc8c-4196-ac12-f276e37e278a@94.183.157.72:443?encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=cbb0a5c1dc905505&sni=test.backup.anti-zapret.com&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B17%5D
+vless://f82332b2-dc8c-4196-ac12-f276e37e278a@103.112.71.83:443?encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=cbb0a5c1dc905505&sni=test.bridge.anti-zapret.com&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B7%5D
+vless://f82332b2-dc8c-4196-ac12-f276e37e278a@103.112.71.85:443?encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=cbb0a5c1dc905505&sni=test.bridge.anti-zapret.com&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B10%5D
+vless://f82332b2-dc8c-4196-ac12-f276e37e278a@test.bridge.anti-zapret.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=cbb0a5c1dc905505&sni=test.bridge.anti-zapret.com&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B18%5D
