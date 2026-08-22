@@ -1,20 +1,18 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 22.08.2026 14:04)
-# 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 370 | Пинг: 61 | >300KB/s: 37 | ТОП: 32 (iOS: 16)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 22.08.2026 15:52)
+# 🛡️ Verified Elite: 14
+# 📊 Stats: Вход: 359 | Пинг: 41 | >300KB/s: 22 | ТОП: 22 (iOS: 14)
 
-vless://57edabba-59e1-46cb-ac4e-dde783cc27d8@185.178.208.176:443?alpn=h3,h2&encryption=none&fp=chrome&host=founders-blog.online&path=/stream/615428/socket&security=tls&sni=founders-blog.online&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B123%5D
-vless://1949e41b-9839-4ee9-abe0-b71483194a44@212.233.121.169:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=CF49-iS9dsHBwvqYFoDs_T3Me8TT0FpNW2kibGBkVXY&security=reality&sni=yandex.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B57%5D
-vless://07623038-6068-4d2f-9bc5-8b68c71310d0@62.152.56.73:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg&security=reality&sid=cf43c0c197cd464a&sni=wl-12.nodes.ac&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B99%5D
-vless://07623038-6068-4d2f-9bc5-8b68c71310d0@95.129.236.216:443?alpn=http/1.1&encryption=none&fp=chrome&host=cdnguard.org&path=/origin/190546791/fetch&security=tls&sni=cdnguard.org&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B100%5D
-trojan://mitivpn@151.101.56.7:443?path=/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/u-s%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http/1.1&host=3x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&type=ws&sni=google.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B42%5D
-vless://07623038-6068-4d2f-9bc5-8b68c71310d0@62.152.58.117:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jAJoyWJ4nMGai3H9BOa6QMUr2Vvpgqs8VipbaO5mCVU&security=reality&sid=3130197867c23edb&sni=wl-13-1.nodes.ac&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B101%5D
-vless://8ef80ad0-712c-07d0-b012-aaa5cb0f22e4@94.26.249.154:52006?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=sliver-vimri-nahui-daun.fastaichat.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B19%5D
-hysteria2://3703ccc0-ae74-49bd-b9d7-0897192bf8c4@node.embrofree.org:443?sni=node.embrofree.org&security=tls&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B6%5D
-hysteria2://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@ndsw1.whit3.net:443?sni=ndsw1.whit3.net&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B1%5D
-hysteria2://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@ndge4.whit3.net:443?sni=ndge4.whit3.net&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B49%5D
-hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-wien.unlimited-access.ru:8443?sni=hy2-wien.unlimited-access.ru&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B36%5D
-hysteria2://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@ndge1.whit3.net:443?sni=ndge1.whit3.net&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B48%5D
-hysteria2://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@nodenl.whit3.net:443?sni=nodenl.whit3.net&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B35%5D
-vless://35dc1a9b-c02c-4670-a3f9-1f8106567f14@tr.pollcenter.site:34156?encryption=none&type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=BsCp88E9PdpEDjC5bxLMP2tiJYK6afCPQT_CoxCVgAI&sid=d6cdfdd9a21f8d23#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B1%5D
+trojan://mitivpn@45.205.0.6:443?type=ws&path=/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/u-s%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http/1.1&sni=333-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B31%5D
+trojan://mitivpn@151.101.56.7:443?path=/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/u-s%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http/1.1&host=3x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&type=ws&sni=google.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B35%5D
+hysteria2://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@nodenl.whit3.net:443?sni=nodenl.whit3.net&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B33%5D
 hysteria2://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@simple-route-pl.whit3.net:443?sni=simple-route-pl.whit3.net&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B12%5D
-hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?sni=google.com&type=tcp&upmbps=10&downmbps=50&fp=chrome#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5B2%5D
+hysteria2://3703ccc0-ae74-49bd-b9d7-0897192bf8c4@node.embrofree.org:443?sni=node.embrofree.org&security=tls&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B6%5D
+hysteria2://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@ndge4.whit3.net:443?sni=ndge4.whit3.net&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B41%5D
+hysteria2://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@ndsw1.whit3.net:443?sni=ndsw1.whit3.net&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B1%5D
+hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?sni=css.rbxcdn.com&upmbps=10&type=tcp&downmbps=50&nonce=e98RZ2Wn&_t=227da4f0&fp=chrome#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5B1%5D
+vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjY1YTJkNjktNTYzNC00MmEyLWU0YmUtNTRlOGE2MTc2OTAwIiwibmV0IjoidGNwIiwicGF0aCI6Ii9MZXZpa29Db25maWciLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e68J+HuCBVbml0ZWQgU3RhdGVzLCBTYW4gRnJhbmNpc2NvIChGaW5hbmNpYWwgRGlzdHJpY3QpIHwgW0JMXSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B38%5D
+hysteria2://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@ndge1.whit3.net:443?sni=ndge1.whit3.net&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B40%5D
+hysteria2://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@netnet.whit3.net:443?sni=netnet.whit3.net&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B2%5D
+trojan://mitivpn@151.101.56.7:443?path=/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/u-s%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http/1.1&host=3x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&type=ws&sni=google.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B37%5D
+trojan://mitivpn@151.101.56.7:443?path=/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/u-s%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http/1.1&host=3x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&type=ws&sni=google.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B36%5D
+trojan://mitivpn@151.101.56.7:443?path=/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/u-s%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http/1.1&host=3x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&type=ws&sni=google.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B34%5D
