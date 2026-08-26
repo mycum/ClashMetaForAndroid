@@ -1,12 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 26.08.2026 22:57)
-# 🛡️ Verified Elite: 8
-# 📊 Stats: Вход: 396 | Пинг: 33 | >300KB/s: 9 | ТОП: 9 (iOS: 8)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 27.08.2026 03:07)
+# 🛡️ Verified Elite: 16
+# 📊 Stats: Вход: 244 | Пинг: 35 | >300KB/s: 20 | ТОП: 20 (iOS: 16)
 
+vless://d7bdd8e1-6473-4024-a24c-77873c9ecc72@95.129.236.216:443?alpn=http/1.1&encryption=none&fp=chrome&host=cdnguard.org&path=/origin/190546791/fetch&security=tls&sni=cdnguard.org&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B107%5D
+vless://d7bdd8e1-6473-4024-a24c-77873c9ecc72@37.143.14.212:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=knrqm393ghxJNYj-4qu2BYpwpG5_zOG5h5-H7yyyR38&security=reality&sid=0be28edc1b0278d6&sni=wl-8-1.nodes.ac&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B110%5D
+vless://389b356c-eb3a-07d0-b09e-0849a57ea83f@94.26.249.154:52006?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=sliver-vimri-nahui-daun.fastaichat.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B31%5D
+vless://d7bdd8e1-6473-4024-a24c-77873c9ecc72@62.152.56.73:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg&security=reality&sid=cf43c0c197cd464a&sni=wl-12.nodes.ac&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B108%5D
+vless://67d06d8e-d1f6-4d07-9fae-7ae7919e2062@185.178.208.176:443?alpn=h3,h2&encryption=none&fp=chrome&host=founders-blog.online&path=/stream/615428/socket&security=tls&sni=founders-blog.online&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B131%5D
+vless://062a0b70-65aa-45f0-a9d5-3bae46fd0b09@89.169.90.10:443?alpn=http/1.1&encryption=none&host=top249441535.mwscdn.ru&path=/v1/data/sync&security=tls&sni=top249441535.mwscdn.ru&type=ws&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B19%5D
+vless://07bc5553-753f-4485-9d7f-d9fcef61a5cb@23.235.42.251:80?encryption=none&type=ws&path=/&host=sijifoxx.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B1%5D
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443/?type=tcp&security=tls&sni=moltbot.doctoroyy.net&fp=chrome#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20%5B1%5D
-hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B25%5D
-trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@139.59.238.97:50573?type=tcp&security=tls&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B5%5D
-hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?sni=google.com&type=tcp&upmbps=10&downmbps=50&fp=chrome#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5B1%5D
+vless://062a0b70-65aa-45f0-a9d5-3bae46fd0b09@89.169.90.11:443?alpn=http/1.1&encryption=none&host=top249441535.mwscdn.ru&path=/v1/data/sync&security=tls&sni=top249441535.mwscdn.ru&type=ws&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B21%5D
+trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@139.59.238.97:50573?type=tcp&security=tls&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B1%5D
+hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?sni=css.rbxcdn.com&upmbps=10&type=tcp&downmbps=50&nonce=e98RZ2Wn&_t=227da4f0&fp=chrome#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5B1%5D
+vless://d7bdd8e1-6473-4024-a24c-77873c9ecc72@62.152.56.73:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg&security=reality&sid=cf43c0c197cd464a&sni=wl-12.nodes.ac&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B109%5D
+vless://062a0b70-65aa-45f0-a9d5-3bae46fd0b09@89.169.90.10:443?alpn=http/1.1&encryption=none&host=top249441535.mwscdn.ru&path=/v1/data/sync&security=tls&sni=top249441535.mwscdn.ru&type=ws&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B18%5D
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443/?type=tcp&security=tls&sni=moltbot.doctoroyy.net&fp=chrome#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20%5B4%5D
-hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?sni=speedtest.tinkoff.ru&fp=chrome#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5B2%5D
-trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443/?type=tcp&security=tls&sni=moltbot.doctoroyy.net&fp=chrome#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20%5B2%5D
-trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443/?type=tcp&security=tls&sni=moltbot.doctoroyy.net&fp=chrome#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20%5B3%5D
+vless://062a0b70-65aa-45f0-a9d5-3bae46fd0b09@89.169.90.11:443?alpn=http/1.1&encryption=none&host=top249441535.mwscdn.ru&path=/v1/data/sync&security=tls&sni=top249441535.mwscdn.ru&type=ws&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B20%5D
+hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?sni=google.com&type=tcp&upmbps=10&downmbps=50&fp=chrome#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5B2%5D
