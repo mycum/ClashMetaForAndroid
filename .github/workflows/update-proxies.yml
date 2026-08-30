@@ -45,6 +45,16 @@ jobs:
           echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/refs/heads/main/data/githubmirror/ru-sni/vless.txt
           echo "" >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/refs/heads/main/data/githubmirror/new/cf_fresh.txt
+          echo "" >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/refs/heads/main/data/githubmirror/ru-sni-local/vless.txt
+          echo "" >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/refs/heads/main/data/githubmirror/ru-sni/trojan.txt
+          echo "" >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/refs/heads/main/data/githubmirror/ru-sni/ss.txt
+          echo "" >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/refs/heads/main/data/githubmirror/ru-sni/hysteria2.txt
+          echo "" >> proxy_lists/raw_temp.txt
           
           
           cat << 'EOF' > filter.py
