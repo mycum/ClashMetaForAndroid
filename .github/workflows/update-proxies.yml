@@ -43,6 +43,8 @@ jobs:
           echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_lite.txt
           echo "" >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/morpheusadam/v2ray-config/refs/heads/main/subs/bundles/best.txt
+          echo "" >> proxy_lists/raw_temp.txt
           
           
           cat << 'EOF' > filter.py
