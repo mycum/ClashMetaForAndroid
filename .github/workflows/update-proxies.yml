@@ -288,7 +288,7 @@ jobs:
                           sni = get_param('sni') or get_param('peer') or get_param('host')
                           
                           if get_param('security', 'tls') in ['tls', 'xtls'] or base["port"] in [443, 8443, 2053, 2083]:
-                              base["tls"] = True
+                              # 🛡️ ИСПРАВЛЕНО: Убран base["tls"] = True. Trojan шифруется по умолчанию.
                               base["skip-cert-verify"] = True
                               fp = get_param('fp')
                               if fp: base["client-fingerprint"] = fp
@@ -307,10 +307,15 @@ jobs:
 
                       elif u.scheme == "vless":
                           base.update({"type": "vless", "uuid": password, "network": net_type})
+                          
+                          # 🛡️ ДОБАВЛЕНО: Поддержка XUDP для повышения стабильности соединений
+                          pe = get_param('packetEncoding')
+                          if pe: base["packet-encoding"] = pe
+                          
                           sni = get_param('sni') or get_param('peer') or get_param('host')
                           sec = get_param('security', 'none')
                           
-                          if sec in ['tls', 'reality'] or base["port"] in [443, 8443, 2053]:
+                          if sec in ['tls', 'reality'] or base["port"] in [443, 8443, 2053, 2083, 2087, 2096]:
                               base["tls"] = True
                               base["skip-cert-verify"] = True
                               fp = get_param('fp')
@@ -325,7 +330,6 @@ jobs:
                                   base["reality-opts"] = {"public-key": get_param('pbk'), "short-id": get_param('sid')}
                           
                           flow = get_param('flow')
-                          # Flow поддерживается только поверх чистого TCP с включенным TLS
                           if flow and base.get("tls") and base["network"] == "tcp": 
                               base['flow'] = flow
 
