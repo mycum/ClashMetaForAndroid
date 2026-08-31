@@ -254,11 +254,16 @@ jobs:
                           "cipher": cipher_type, "network": v.get("net", "tcp"), "udp": True
                       }
                       if str(v.get("tls")) == "tls":
-                          base.update({"tls": True, "skip-cert-verify": True, "client-fingerprint": v.get("fp", "chrome")})
+                          base["tls"] = True
+                          base["skip-cert-verify"] = True
+                          fp = v.get("fp")
+                          if fp: base["client-fingerprint"] = fp
                           sni = v.get("sni") or v.get("host")
                           if sni: base["servername"] = str(sni)
+                          alpn = v.get("alpn")
+                          if alpn: base["alpn"] = alpn.split(',')
+                          
                       if base["network"] == "ws":
-                          if v.get("alpn"): base["alpn"] = [v.get("alpn")]
                           path = str(v.get("path", "/"))
                           if not path.startswith('/'): path = '/' + path
                           base["ws-opts"] = {"path": path}
@@ -279,16 +284,21 @@ jobs:
                       password = urllib.parse.unquote(u.username) if u.username else ""
 
                       if u.scheme == "trojan":
-                          base.update({"type": "trojan", "password": password, "skip-cert-verify": True, "client-fingerprint": get_param('fp', 'chrome')})
+                          base.update({"type": "trojan", "password": password, "network": net_type})
                           sni = get_param('sni') or get_param('peer') or get_param('host')
+                          
                           if get_param('security', 'tls') in ['tls', 'xtls'] or base["port"] in [443, 8443, 2053, 2083]:
                               base["tls"] = True
+                              base["skip-cert-verify"] = True
+                              fp = get_param('fp')
+                              if fp: base["client-fingerprint"] = fp
                               if sni: base["sni"] = sni
                               elif u.hostname and not re.match(r'^\d+\.\d+\.\d+\.\d+$', str(u.hostname)): base["sni"] = str(u.hostname)
-                          base["network"] = net_type
+                              alpn = get_param('alpn')
+                              if alpn: base["alpn"] = alpn.split(',')
+
                           if base["network"] == "ws" or get_param('path'):
                               base["network"] = "ws"
-                              base["alpn"] = [get_param('alpn', 'http/1.1')]
                               path = get_param('path', '/')
                               if not path.startswith('/'): path = '/' + path
                               base["ws-opts"] = {"path": path}
@@ -296,19 +306,30 @@ jobs:
                               if host: base["ws-opts"]["headers"] = {"Host": host}
 
                       elif u.scheme == "vless":
-                          base.update({"type": "vless", "uuid": password, "skip-cert-verify": True, "network": net_type, "client-fingerprint": get_param('fp', 'chrome')})
+                          base.update({"type": "vless", "uuid": password, "network": net_type})
                           sni = get_param('sni') or get_param('peer') or get_param('host')
                           sec = get_param('security', 'none')
+                          
                           if sec in ['tls', 'reality'] or base["port"] in [443, 8443, 2053]:
                               base["tls"] = True
+                              base["skip-cert-verify"] = True
+                              fp = get_param('fp')
+                              if fp: base["client-fingerprint"] = fp
+                              alpn = get_param('alpn')
+                              if alpn: base["alpn"] = alpn.split(',')
+                              
                               if sni: base["servername"] = sni
                               elif u.hostname and not re.match(r'^\d+\.\d+\.\d+\.\d+$', str(u.hostname)): base["servername"] = str(u.hostname)
-                          if sec == 'reality':
-                              base["reality-opts"] = {"public-key": get_param('pbk'), "short-id": get_param('sid')}
+                              
+                              if sec == 'reality':
+                                  base["reality-opts"] = {"public-key": get_param('pbk'), "short-id": get_param('sid')}
+                          
                           flow = get_param('flow')
-                          if flow: base['flow'] = flow
+                          # Flow поддерживается только поверх чистого TCP с включенным TLS
+                          if flow and base.get("tls") and base["network"] == "tcp": 
+                              base['flow'] = flow
+
                           if base["network"] == "ws":
-                              base["alpn"] = [get_param('alpn', 'http/1.1')]
                               path = get_param('path', '/')
                               if not path.startswith('/'): path = '/' + path
                               base["ws-opts"] = {"path": path}
