@@ -340,12 +340,59 @@ jobs:
 
                       elif u.scheme in ["hysteria2", "hy2"]:
                           base.update({"type": "hysteria2", "password": password, "tls": True, "skip-cert-verify": True, "sni": get_param('sni', str(u.hostname)), "alpn": ["h3"]})
+                      
+                      # 🚀 НОВЫЙ БЛОК: Полноценная поддержка Shadowsocks
+                      elif u.scheme == "ss":
+                          user_info = ""
+                          if u.username and u.password:
+                              user_info = f"{urllib.parse.unquote(u.username)}:{urllib.parse.unquote(u.password)}"
+                          elif u.username:
+                              user_info = urllib.parse.unquote(u.username)
+                          elif u.netloc and "@" not in u.netloc: # Если вся ссылка закодирована в Base64
+                              try:
+                                  padded = u.netloc + "=" * ((4 - len(u.netloc) % 4) % 4)
+                                  decoded = base64.urlsafe_b64decode(padded).decode('utf-8')
+                                  if "@" in decoded:
+                                      u_new = urllib.parse.urlparse(f"ss://{decoded}")
+                                      base["server"] = u_new.hostname
+                                      base["port"] = int(u_new.port) if u_new.port else 0
+                                      if u_new.username and u_new.password:
+                                          user_info = f"{urllib.parse.unquote(u_new.username)}:{urllib.parse.unquote(u_new.password)}"
+                              except: pass
+                              
+                          if ":" not in user_info:
+                              try:
+                                  padded = user_info + "=" * ((4 - len(user_info) % 4) % 4)
+                                  user_info = base64.urlsafe_b64decode(padded).decode('utf-8')
+                              except: pass
+                              
+                          if ":" in user_info:
+                              method, pwd = user_info.split(":", 1)
+                              base.update({"type": "ss", "cipher": method, "password": pwd})
+                              
+                              # Обработка плагинов обхода блокировок (obfs / v2ray)
+                              plugin = get_param('plugin')
+                              if plugin:
+                                  if 'obfs' in plugin:
+                                      base['plugin'] = 'obfs'
+                                      base['plugin-opts'] = {'mode': 'tls' if 'obfs=tls' in plugin else 'http'}
+                                      hm = re.search(r'obfs-host=([^;]+)', plugin)
+                                      if hm: base['plugin-opts']['host'] = hm.group(1)
+                                  elif 'v2ray-plugin' in plugin:
+                                      base['plugin'] = 'v2ray-plugin'
+                                      base['plugin-opts'] = {'mode': 'websocket'}
+                                      if 'tls' in plugin: base['plugin-opts']['tls'] = True
+                                      hm = re.search(r'host=([^;]+)', plugin)
+                                      if hm: base['plugin-opts']['host'] = hm.group(1)
+                                      pm = re.search(r'path=([^;]+)', plugin)
+                                      if pm: base['plugin-opts']['path'] = pm.group(1)
                   
                   if not base: return None
+                  if "type" not in base: return None # 🛡️ ПРЕДОХРАНИТЕЛЬ: убиваем неизвестные форматы до старта ядра
                   if not base.get("server") or str(base.get("server")) == "None" or len(str(base["server"])) < 4: return None
                   if not is_valid_port(base.get("port")): return None
                   if base.get("type") in ["vmess", "vless"] and (not base.get("uuid") or len(str(base["uuid"])) < 5): return None
-                  if base.get("type") in ["trojan", "hysteria2"] and not base.get("password"): return None
+                  if base.get("type") in ["trojan", "hysteria2", "ss"] and not base.get("password"): return None
 
                   clean_base = remove_control_chars(base)
                   return {"config": clean_base, "link": safe_link}
