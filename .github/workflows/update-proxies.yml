@@ -56,7 +56,6 @@ jobs:
           curl -s https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/refs/heads/main/data/githubmirror/ru-sni/hysteria2.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
           
-          
           cat << 'EOF' > filter.py
           import urllib.request, json, re, socket, urllib.parse, base64, html, os, time
           from concurrent.futures import ThreadPoolExecutor
@@ -72,11 +71,9 @@ jobs:
               line = line.strip()
               if not line: continue
               
-              # Умный детектор подписок: нет протокола и строка длинная
               if '://' not in line and len(line) > 30:
                   try:
                       padded = line + "=" * ((4 - len(line) % 4) % 4)
-                      # Используем urlsafe_b64decode для всеядности
                       decoded_text = base64.urlsafe_b64decode(padded).decode('utf-8')
                       new_lines.extend(decoded_text.splitlines())
                   except:
@@ -95,7 +92,6 @@ jobs:
                   lines.extend(old_lines)
               print(f"   🛡️ Из текущего файла добавлено: {old_count} ссылок")
 
-          # 1. Первичная обработка и извлечение хостов
           ss_converted_lines = []
           for line in lines:
               line = re.sub(r'[\x00-\x1F\x7F]', '', line).strip()
@@ -130,22 +126,24 @@ jobs:
               ss_converted_lines.append((base_url, raw_name))
 
           def get_host_port(url):
-                if url.startswith('vmess://'):
-                    try:
-                        b64_str = url[8:]
-                        b64_str += "=" * ((4 - len(b64_str) % 4) % 4)
-                        v_json = json.loads(base64.urlsafe_b64decode(b64_str).decode('utf-8'))
-                        return (str(v_json.get('add', '')), int(v_json.get('port', 0)))
-                    except: return None
-                match = re.search(r'@([^/?#]+)', url)
-                if match:
-                    hp = match.group(1).split(':')
-                    if len(hp) == 2:
-                        try:
-                            return (hp[0], int(hp[1]))
-                        except ValueError:
-                            return None
-                return None
+              if url.startswith('vmess://'):
+                  try:
+                      b64_str = url[8:]
+                      b64_str += "=" * ((4 - len(b64_str) % 4) % 4)
+                      v_json = json.loads(base64.urlsafe_b64decode(b64_str).decode('utf-8'))
+                      return (str(v_json.get('add', '')), int(v_json.get('port', 0)))
+                  except: return None
+              match = re.search(r'@([^/?#]+)', url)
+              if match:
+                  raw_hp = match.group(1)
+                  ipv6_match = re.match(r'\[(.*?)\]:(\d+)', raw_hp)
+                  if ipv6_match:
+                      return (ipv6_match.group(1), int(ipv6_match.group(2)))
+                  hp = raw_hp.split(':')
+                  if len(hp) == 2:
+                      try: return (hp[0], int(hp[1]))
+                      except: return None
+              return None
 
           unique_hw_map = {}
           for base_url, raw_name in ss_converted_lines:
@@ -154,7 +152,6 @@ jobs:
                   if hp not in unique_hw_map: unique_hw_map[hp] = []
                   unique_hw_map[hp].append((base_url, raw_name))
 
-          # 2. Быстрый TCP-пинг уникальных адресов
           def fast_tcp_ping(hp):
               host, port = hp
               try:
@@ -172,7 +169,6 @@ jobs:
 
           print(f"   ✅ Выжило базовых узлов: {len(alive_ips)}")
 
-          # 3. Глубокая дедупликация (для REALITY)
           def get_deep_key(base_url, hp):
               try:
                   if base_url.startswith(('vless://', 'trojan://')):
@@ -206,8 +202,7 @@ jobs:
                   req = urllib.request.Request('http://ip-api.com/batch?fields=query,countryCode,country', data=json.dumps(batch).encode())
                   with urllib.request.urlopen(req, timeout=5) as resp:
                       for r in json.loads(resp.read().decode()): ip_info[r.get('query')] = r
-              except Exception as e:
-                  print(f"IP-API Batch Warning: {e}")
+              except: pass
               time.sleep(1.5)
 
           def get_flag(c): return chr(ord(c[0]) + 127397) + chr(ord(c[1]) + 127397) if (c and len(c)==2) else "🌍"
@@ -229,36 +224,37 @@ jobs:
               if any(x.startswith('trojan://') for x in links): return 5
               return 3
 
+          def remove_control_chars(obj):
+              if isinstance(obj, str): return re.sub(r'[\x00-\x1F\x7F-\x9F]', '', obj)
+              elif isinstance(obj, dict): return {re.sub(r'[\x00-\x1F\x7F-\x9F]', '', str(k)): remove_control_chars(v) for k, v in obj.items()}
+              elif isinstance(obj, list): return [remove_control_chars(i) for i in obj]
+              return obj
+
+          def is_valid_port(port):
+              try: return 1 <= int(port) <= 65535
+              except: return False
+
           def parse_to_mihomo(link, node_name, beautiful_name):
               try:
                   link = link.strip()
                   parts = link.split('#')
                   main_part = parts[0]
                   safe_link = f"{main_part}#{urllib.parse.quote(beautiful_name)}"
+                  base = None
                   
                   if main_part.startswith('vmess://'):
                       b64_str = main_part[8:]
                       b64_str += "=" * ((4 - len(b64_str) % 4) % 4)
                       v = json.loads(base64.urlsafe_b64decode(b64_str).decode('utf-8'))
-                      
-                      # Защита от пустых строк в типе шифрования (cipher)
                       cipher_type = v.get("scy") or "auto"
-                      
                       base = {
-                          "name": node_name, 
-                          "type": "vmess", 
-                          "server": str(v.get("add", "")), 
-                          "port": int(v.get("port", 0)), 
-                          "uuid": str(v.get("id", "")), 
-                          "alterId": int(v.get("aid", 0)), 
-                          "cipher": cipher_type, 
-                          "network": v.get("net", "tcp"), 
-                          "udp": True
+                          "name": node_name, "type": "vmess", 
+                          "server": str(v.get("add", "")), "port": int(v.get("port", 0) or 0), 
+                          "uuid": str(v.get("id", "")), "alterId": int(v.get("aid", 0) or 0), 
+                          "cipher": cipher_type, "network": v.get("net", "tcp"), "udp": True
                       }
                       if str(v.get("tls")) == "tls":
-                          base["tls"] = True
-                          base["skip-cert-verify"] = True
-                          base["client-fingerprint"] = v.get("fp", "chrome")
+                          base.update({"tls": True, "skip-cert-verify": True, "client-fingerprint": v.get("fp", "chrome")})
                           sni = v.get("sni") or v.get("host")
                           if sni: base["servername"] = str(sni)
                       if base["network"] == "ws":
@@ -267,69 +263,72 @@ jobs:
                           if not path.startswith('/'): path = '/' + path
                           base["ws-opts"] = {"path": path}
                           if v.get("host"): base["ws-opts"]["headers"] = {"Host": str(v.get("host"))}
-                      return {"config": base, "link": safe_link}
+                  else:
+                      u = urllib.parse.urlparse(main_part)
+                      query_str = u.query.replace('%3B', '&').replace(';', '&').replace('&amp;', '&')
+                      
+                      def get_param(name, default=""):
+                          m = re.search(r'[?&]' + name + r'=([^&]+)', '?' + query_str)
+                          return urllib.parse.unquote(m.group(1)) if m else default
 
-                  u = urllib.parse.urlparse(main_part)
-                  query_str = u.query.replace('%3B', '&').replace(';', '&').replace('&amp;', '&')
-                  
-                  def get_param(name, default=""):
-                      m = re.search(r'[?&]' + name + r'=([^&]+)', '?' + query_str)
-                      return urllib.parse.unquote(m.group(1)) if m else default
-
-                  base = {"name": node_name, "server": u.hostname, "port": int(u.port), "udp": True}
-                  password = urllib.parse.unquote(u.username) if u.username else ""
-
-                  if u.scheme == "trojan":
-                      base.update({"type": "trojan", "password": password, "skip-cert-verify": True, "client-fingerprint": get_param('fp', 'chrome')})
-                      sni = get_param('sni') or get_param('peer') or get_param('host')
-                      if get_param('security', 'tls') in ['tls', 'xtls'] or u.port in [443, 8443, 2053, 2083]:
-                          base["tls"] = True
-                          if sni: base["sni"] = sni
-                          elif u.hostname and not re.match(r'^\d+\.\d+\.\d+\.\d+$', u.hostname): base["sni"] = u.hostname
                       net_type = get_param('type', 'tcp')
-                      if net_type == "ws" or get_param('path'):
-                          base["network"] = "ws"
-                          base["alpn"] = [get_param('alpn', 'http/1.1')]
-                          path = get_param('path', '/')
-                          if not path.startswith('/'): path = '/' + path
-                          base["ws-opts"] = {"path": path}
-                          host = get_param('host') or sni
-                          if host: base["ws-opts"]["headers"] = {"Host": host}
-                      return {"config": base, "link": safe_link}
+                      if net_type == 'raw': net_type = 'tcp'
+                      elif net_type == 'http': net_type = 'h2'
 
-                  elif u.scheme == "vless":
-                      base.update({"type": "vless", "uuid": password, "skip-cert-verify": True, "network": get_param('type', 'tcp'), "client-fingerprint": get_param('fp', 'chrome')})
-                      sni = get_param('sni') or get_param('peer') or get_param('host')
-                      sec = get_param('security', 'none')
-                      
-                      if sec in ['tls', 'reality'] or u.port in [443, 8443, 2053]:
-                          base["tls"] = True
-                          if sni: base["servername"] = sni
-                          elif u.hostname and not re.match(r'^\d+\.\d+\.\d+\.\d+$', u.hostname): base["servername"] = u.hostname
-                      
-                      if sec == 'reality':
-                          base["reality-opts"] = {"public-key": get_param('pbk'), "short-id": get_param('sid')}
-                      
-                      flow = get_param('flow')
-                      if flow:
-                          base['flow'] = flow
+                      base = {"name": node_name, "server": u.hostname, "port": int(u.port) if u.port else 0, "udp": True}
+                      password = urllib.parse.unquote(u.username) if u.username else ""
 
-                      if base["network"] == "ws":
-                          base["alpn"] = [get_param('alpn', 'http/1.1')]
-                          path = get_param('path', '/')
-                          if not path.startswith('/'): path = '/' + path
-                          base["ws-opts"] = {"path": path}
-                          host = get_param('host') or sni
-                          if host: base["ws-opts"]["headers"] = {"Host": host}
-                      elif base["network"] == "grpc":
-                          base["grpc-opts"] = {"grpc-service-name": get_param('serviceName', '')}
-                      return {"config": base, "link": safe_link}
+                      if u.scheme == "trojan":
+                          base.update({"type": "trojan", "password": password, "skip-cert-verify": True, "client-fingerprint": get_param('fp', 'chrome')})
+                          sni = get_param('sni') or get_param('peer') or get_param('host')
+                          if get_param('security', 'tls') in ['tls', 'xtls'] or base["port"] in [443, 8443, 2053, 2083]:
+                              base["tls"] = True
+                              if sni: base["sni"] = sni
+                              elif u.hostname and not re.match(r'^\d+\.\d+\.\d+\.\d+$', str(u.hostname)): base["sni"] = str(u.hostname)
+                          base["network"] = net_type
+                          if base["network"] == "ws" or get_param('path'):
+                              base["network"] = "ws"
+                              base["alpn"] = [get_param('alpn', 'http/1.1')]
+                              path = get_param('path', '/')
+                              if not path.startswith('/'): path = '/' + path
+                              base["ws-opts"] = {"path": path}
+                              host = get_param('host') or sni
+                              if host: base["ws-opts"]["headers"] = {"Host": host}
 
-                  elif u.scheme in ["hysteria2", "hy2"]:
-                      base.update({"type": "hysteria2", "password": password, "tls": True, "skip-cert-verify": True, "sni": get_param('sni', u.hostname), "alpn": ["h3"]})
-                      return {"config": base, "link": safe_link}
-              except: pass
-              return None
+                      elif u.scheme == "vless":
+                          base.update({"type": "vless", "uuid": password, "skip-cert-verify": True, "network": net_type, "client-fingerprint": get_param('fp', 'chrome')})
+                          sni = get_param('sni') or get_param('peer') or get_param('host')
+                          sec = get_param('security', 'none')
+                          if sec in ['tls', 'reality'] or base["port"] in [443, 8443, 2053]:
+                              base["tls"] = True
+                              if sni: base["servername"] = sni
+                              elif u.hostname and not re.match(r'^\d+\.\d+\.\d+\.\d+$', str(u.hostname)): base["servername"] = str(u.hostname)
+                          if sec == 'reality':
+                              base["reality-opts"] = {"public-key": get_param('pbk'), "short-id": get_param('sid')}
+                          flow = get_param('flow')
+                          if flow: base['flow'] = flow
+                          if base["network"] == "ws":
+                              base["alpn"] = [get_param('alpn', 'http/1.1')]
+                              path = get_param('path', '/')
+                              if not path.startswith('/'): path = '/' + path
+                              base["ws-opts"] = {"path": path}
+                              host = get_param('host') or sni
+                              if host: base["ws-opts"]["headers"] = {"Host": host}
+                          elif base["network"] == "grpc":
+                              base["grpc-opts"] = {"grpc-service-name": get_param('serviceName', '')}
+
+                      elif u.scheme in ["hysteria2", "hy2"]:
+                          base.update({"type": "hysteria2", "password": password, "tls": True, "skip-cert-verify": True, "sni": get_param('sni', str(u.hostname)), "alpn": ["h3"]})
+                  
+                  if not base: return None
+                  if not base.get("server") or str(base.get("server")) == "None" or len(str(base["server"])) < 4: return None
+                  if not is_valid_port(base.get("port")): return None
+                  if base.get("type") in ["vmess", "vless"] and (not base.get("uuid") or len(str(base["uuid"])) < 5): return None
+                  if base.get("type") in ["trojan", "hysteria2"] and not base.get("password"): return None
+
+                  clean_base = remove_control_chars(base)
+                  return {"config": clean_base, "link": safe_link}
+              except: return None
 
           final_json_data = []
           name_counts = {}
