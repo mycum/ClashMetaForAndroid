@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 02.09.2026 04:57)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 02.09.2026 05:16)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1955 | Пинг: 180 | >300KB/s: 95 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 2038 | Пинг: 204 | >300KB/s: 110 | ТОП: 32 (iOS: 16)
 
-trojan://humanity@213.182.199.137:443?alpn=http/1.1&host=www.pleadcourt.org&path=/assignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=chrome#%F0%9F%87%AD%F0%9F%87%B7%20Croatia%20%5B2%5D
-vless://10a60cfd-a88d-4d18-88f6-a1cfed828280@5.42.108.64:8443?encryption=none&flow=xtls-rprx-vision&pbk=tQurYwCIDKzXfvBAJPccnGVjW0STryfR8jtukxLedXQ&security=reality&sid=9b47430cd9785bcb&sni=kinopoisk.ru&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B36%5D
-vless://9f73cf9a-c68f-4e6d-90f0-e66b64f52f8a@neth9.lunariai.ru:8443?type=tcp&security=tls&alpn=h2,http/1.1&sni=neth9.lunariai.ru&encryption=none&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B1%5D
+trojan://humanity@213.182.199.137:443?alpn=http/1.1&host=www.pleadcourt.org&path=/assignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=chrome#%F0%9F%87%AD%F0%9F%87%B7%20Croatia%20%5B1%5D
+vless://c87e9e4b-bbeb-416b-aef2-0bf4f3b74f4c@62.152.58.117:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jAJoyWJ4nMGai3H9BOa6QMUr2Vvpgqs8VipbaO5mCVU&security=reality&sid=3130197867c23edb&sni=wl-13-1.nodes.ac&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B168%5D
+vless://48575ce2-d8a1-4810-a906-872311f64d07@185.178.208.140:443?alpn=http/1.1&encryption=none&fp=chrome&path=/api/v3/live/hls/segment&security=tls&sni=mapgasstation.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B65%5D
+vless://3f056a07-7978-4411-ae11-d807fe820223@185.178.208.176:443?alpn=h3,h2&encryption=none&fp=chrome&host=founders-blog.online&path=/stream/615428/socket&security=tls&sni=founders-blog.online&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B191%5D
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B24%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE=@51.195.126.38:8388#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B92%5D
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B23%5D
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6b1Z0YVFNS2NzNFJIZTZsZW8rZWNQcGpucjdtSnNYR0Y4KzZjbUJvN2VmWT0@129.151.85.181:61312#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B16%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B67%5D
-vless://e6b5e08a-83fa-48d2-8a94-c6cc01fc35fd@vhina.cloudgamings.org:8443?security=reality&flow=xtls-rprx-vision&pbk=mVrmxvoqNcQMoWQ0EdNZ91uH4B2LqVfxUkITUXnRuSY&sid=cbb921958eeb9a40&sni=google.com&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B8%5D
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SmtYNW1Yc0s4VjExU2YrMm9UL0VDaURiSFd3cUV2TGNLY3VsVmh0bUhBbz0@129.151.74.97:61312#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B15%5D
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@95.170.13.47:65443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B17%5D
+vless://9f73cf9a-c68f-4e6d-90f0-e66b64f52f8a@neth9.lunariai.ru:8443?type=tcp&security=tls&alpn=h2,http/1.1&sni=neth9.lunariai.ru&encryption=none&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B2%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B66%5D
+vless://e6b5e08a-83fa-48d2-8a94-c6cc01fc35fd@vhina.cloudgamings.org:8443?security=reality&flow=xtls-rprx-vision&pbk=mVrmxvoqNcQMoWQ0EdNZ91uH4B2LqVfxUkITUXnRuSY&sid=cbb921958eeb9a40&sni=google.com&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B10%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SmtYNW1Yc0s4VjExU2YrMm9UL0VDaURiSFd3cUV2TGNLY3VsVmh0bUhBbz0@129.151.74.97:61312#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B16%5D
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B66%5D
-vless://24e84618-3de6-4e3b-802e-5abbe666c4b0@tr-server-1.zelnora.ir:22189?mode=packet-up&path=/&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=amp-api-edge.apps.apple.com&type=xhttp&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B9%5D
 vless://3d059048-8857-4101-a275-f55142159b5c@wsnl4.wba-pn.ru:443?security=tls&type=ws&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B3%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.179.104.254:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B26%5D
+vless://e6b5e08a-83fa-48d2-8a94-c6cc01fc35fd@beast.locallynet.org:9443?security=tls&encryption=none&sni=beast.locallynet.org&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B5%5D
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@95.170.13.47:65443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B17%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B6%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.132.203.206:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B24%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B3%5D
