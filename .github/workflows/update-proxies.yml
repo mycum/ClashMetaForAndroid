@@ -422,6 +422,7 @@ jobs:
               except: return None
 
           final_json_data = []
+          final_raw_links = [] # 🚀 ДОБАВЛЕНО: Массив для оригинальных ссылок
           name_counts = {}
 
           for deep_key, urls in node_groups.items():
@@ -459,11 +460,16 @@ jobs:
                           "host_ip": ip
                       }
                       final_json_data.append(parsed_obj)
+                      final_raw_links.append(parsed_obj["link"]) # 🚀 ДОБАВЛЕНО: Сохраняем сырую ссылку
 
           print(f"🚀 Сгенерировано {len(final_json_data)} конфигов для Mihomo.")
           
           with open('proxy_lists/raw_proxies.json', 'w', encoding='utf-8') as f:
               json.dump(final_json_data, f, ensure_ascii=False, indent=2)
+              
+          # 🚀 ДОБАВЛЕНО: Выгрузка сырых ссылок для дебага на ПК
+          with open('proxy_lists/raw_proxies_original.txt', 'w', encoding='utf-8') as f:
+              f.write("\n".join(final_raw_links))
           EOF
           
           python3 filter.py
