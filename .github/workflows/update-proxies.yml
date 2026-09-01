@@ -422,7 +422,8 @@ jobs:
               except: return None
 
           final_json_data = []
-          final_raw_links = [] # 🚀 ДОБАВЛЕНО: Массив для оригинальных ссылок
+          final_raw_links = []  # Выпрямленные ссылки
+          final_pure_links = [] # 🚀 ДОБАВЛЕНО: Абсолютно сырые ссылки (как в исходнике)
           name_counts = {}
 
           for deep_key, urls in node_groups.items():
@@ -433,6 +434,9 @@ jobs:
               
               for url in best_links:
                   raw_name = url_to_name.get(url, "")
+                  
+                  # 🚀 Формируем сырую ссылку до любых наших украшательств
+                  pure_link = f"{url}#{raw_name}" if raw_name else url
                   
                   cc = geo.get('countryCode')
                   country = geo.get('country')
@@ -460,16 +464,20 @@ jobs:
                           "host_ip": ip
                       }
                       final_json_data.append(parsed_obj)
-                      final_raw_links.append(parsed_obj["link"]) # 🚀 ДОБАВЛЕНО: Сохраняем сырую ссылку
+                      final_raw_links.append(parsed_obj["link"])
+                      final_pure_links.append(pure_link) # 🚀 Сохраняем оригинал
 
           print(f"🚀 Сгенерировано {len(final_json_data)} конфигов для Mihomo.")
           
           with open('proxy_lists/raw_proxies.json', 'w', encoding='utf-8') as f:
               json.dump(final_json_data, f, ensure_ascii=False, indent=2)
               
-          # 🚀 ДОБАВЛЕНО: Выгрузка сырых ссылок для дебага на ПК
           with open('proxy_lists/raw_proxies_original.txt', 'w', encoding='utf-8') as f:
               f.write("\n".join(final_raw_links))
+              
+          # 🚀 ДОБАВЛЕНО: Сохраняем файл для чистого дебага на ПК
+          with open('proxy_lists/raw_proxies_pure.txt', 'w', encoding='utf-8') as f:
+              f.write("\n".join(final_pure_links))
           EOF
           
           python3 filter.py
