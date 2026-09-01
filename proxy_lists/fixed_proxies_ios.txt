@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 01.09.2026 20:52)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 01.09.2026 21:58)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1884 | Пинг: 112 | >300KB/s: 60 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1952 | Пинг: 98 | >300KB/s: 54 | ТОП: 32 (iOS: 16)
 
-trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&host=www.volumeroot.com&type=ws&sni=www.volumeroot.com&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B10%5D
-trojan://humanity@213.182.199.137:443?alpn=http/1.1&host=www.pleadcourt.org&path=/assignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=chrome#%F0%9F%87%AD%F0%9F%87%B7%20Croatia%20%5B3%5D
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@158.173.20.208:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B16%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE=@51.195.126.38:8388#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B22%5D
-vless://d3815c21-ef06-43e2-82e1-ca313962b489@app27.jarvestip.ru:443?security=reality&flow=xtls-rprx-vision&pbk=OYvSeQqu0XhV12blOVAR2Cn_3m6HI95raTdlqnVobjk&sid=360de9e1&sni=app27.jarvestip.ru&type=tcp&headerType=none&host=app27.jarvestip.ru&path=/&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B2%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEdlcm1hbnkgWzddIiwiYWRkIjoiOTQuMTU2LjE3MC4xMDIiLCJwb3J0IjoiMTEwIiwiaWQiOiI4ZTk2ODdmYy1hM2E3LTQxNGEtODY3Ni04ZTIxMzY3OTdjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaW5zZWN1cmUiOiIwIiwidmNuIjoiIiwicGNzIjoiIn0=
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B15%5D
+vless://4c4b644f-10ab-41b6-8067-bdebeaf28733@nl-server-1.zelnora.ir:22189?mode=auto&path=/&security=&encryption=none&host=amp-api-edge.apps.apple.com&type=xhttp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B132%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEdlcm1hbnkgWzExXSIsImFkZCI6Im5ld3JlbGF4LnJlbGF4ZWRib3kub25saW5lIiwicG9ydCI6IjExMCIsImlkIjoiOGU5Njg3ZmMtYTNhNy00MTRhLTg2NzYtOGUyMTM2Nzk3Y2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImluc2VjdXJlIjoiMCIsInZjbiI6IiIsInBjcyI6IiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B18%5D
+trojan://humanity@213.182.199.137:443?alpn=http/1.1&host=www.pleadcourt.org&path=/assignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=chrome#%F0%9F%87%AD%F0%9F%87%B7%20Croatia%20%5B2%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.132.203.206:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B30%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B3%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B5%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.250.223.202:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B4%5D
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B28%5D
+vless://38222a83-76bd-4420-b3f0-5473a9bb0d6e@206.1.96.49:37430?type=tcp&encryption=none&security=reality&pbk=RxTaQwnqqU8vxMMvD6AeUTFadLVvwzUplghzVAilAEg&fp=chrome&sni=amp-api-edge.apps.apple.com&spx=/#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B118%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.250.223.202:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B5%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.241.245.82:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B3%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.244.150.119:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B4%5D
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.133.240.229:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B34%5D
-vless://f5e98e30-28b8-468a-a5a5-c6c22be64055@196.245.156.29:443?flow=xtls-rprx-vision&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&security=reality&sid=8718c58d3d51db59&sni=rm2.magazinnarubeva.ru&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5B2%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.250.80.208:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B5%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.244.150.119:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B3%5D
-trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@ww12.levikogjgfdd.ir:50573?security=tls&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B2%5D
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B110%5D
-trojan://tripitropa994825@45.85.88.194:2234?type=tcp&security=tls&sni=vps.tropicalhosting.net&alpn=http/1.1&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B11%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B4%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.250.80.208:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B6%5D
+vless://c2564a65-0821-3241-b090-45d49cef58fd@family.bucket.zjs.a.b.9.kfc-520.com:10043?security=reality&flow=xtls-rprx-vision&pbk=PGH5Jy0dfgEwQlGGd2YklalRs51yUTvD5j1DZPxKgUw&sid=9eafa129b6&fp=chrome&sni=www.adobe.com&type=tcp&headerType=none&host=www.adobe.com&path=/#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B144%5D
