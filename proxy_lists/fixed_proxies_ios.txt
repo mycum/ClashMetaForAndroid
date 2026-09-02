@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 02.09.2026 06:22)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 02.09.2026 07:29)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 2052 | Пинг: 142 | >300KB/s: 72 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 2009 | Пинг: 173 | >300KB/s: 94 | ТОП: 32 (iOS: 16)
 
-trojan://humanity@213.182.199.137:443?alpn=http/1.1&path=/assignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=chrome#%F0%9F%87%AD%F0%9F%87%B7%20Croatia%20%5B3%5D
-vless://ba9285fd-3289-45ed-acbe-32a69d9cf382@95.129.236.216:443?alpn=http/1.1&encryption=none&fp=chrome&host=cdnguard.org&path=/origin/190546791/fetch&security=tls&sni=cdnguard.org&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B134%5D
-vless://41806eb0-e6e4-4566-9eb8-5865f24a5168@185.178.208.176:443?alpn=h3,h2&encryption=none&fp=chrome&host=founders-blog.online&path=/stream/615428/socket&security=tls&sni=founders-blog.online&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B147%5D
-vless://ee14c834-195f-4f20-b8b2-b3aa7dddb7cd@185.178.208.140:443?alpn=http/1.1&encryption=none&fp=chrome&path=/api/v3/live/hls/segment&security=tls&sni=mapgasstation.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B69%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE@51.195.126.38:8388#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B93%5D
+trojan://humanity@213.182.199.137:443?alpn=http/1.1&path=/assignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=chrome#%F0%9F%87%AD%F0%9F%87%B7%20Croatia%20%5B5%5D
+vless://8ea34ab6-861d-4a5a-b5d2-f26a2d3615b0@95.129.236.216:443?alpn=http/1.1&encryption=none&fp=chrome&host=cdnguard.org&path=/origin/190546791/fetch&security=tls&sni=cdnguard.org&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B141%5D
+vless://8ea34ab6-861d-4a5a-b5d2-f26a2d3615b0@62.152.56.73:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg&security=reality&sid=cf43c0c197cd464a&sni=wl-12.nodes.ac&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B140%5D
+vless://e6efc7af-3841-4378-8569-6da5b0306045@185.178.208.140:443?alpn=http/1.1&encryption=none&fp=chrome&path=/api/v3/live/hls/segment&security=tls&sni=mapgasstation.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B75%5D
+vless://8ea34ab6-861d-4a5a-b5d2-f26a2d3615b0@62.152.58.117:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jAJoyWJ4nMGai3H9BOa6QMUr2Vvpgqs8VipbaO5mCVU&security=reality&sid=3130197867c23edb&sni=wl-13-1.nodes.ac&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B138%5D
+vless://dce3db77-2b6e-4656-b643-752f747909fe@185.178.208.176:443?alpn=h3,h2&encryption=none&fp=chrome&host=founders-blog.online&path=/stream/615428/socket&security=tls&sni=founders-blog.online&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B156%5D
+vmess://eyJhZGQiOiIxNzIuNjcuMTc2LjI0NSIsImFpZCI6IjAiLCJob3N0IjoiY2cxYzEyLndhaW1hb2pkLmNvbSIsImlkIjoiMDYzMmJmYTktYjE1Yy00MjU3LThjNzUtMzJmN2MwYzUzYjI3IiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS92MS9ncmFwaHFsIiwicG9ydCI6IjQ0MyIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbODJdIiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6ImNnMWMxMi53YWltYW9qZC5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIiLCJmcCI6ImNocm9tZSJ9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@158.173.20.208:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B26%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE=@51.195.126.38:8388#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B60%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B77%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6b1Z0YVFNS2NzNFJIZTZsZW8rZWNQcGpucjdtSnNYR0Y4KzZjbUJvN2VmWT0@129.151.85.181:61312#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B65%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SmtYNW1Yc0s4VjExU2YrMm9UL0VDaURiSFd3cUV2TGNLY3VsVmh0bUhBbz0@129.151.74.97:61312#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B64%5D
 vless://24e84618-3de6-4e3b-802e-5abbe666c4b0@tr-server-1.zelnora.ir:22189?mode=packet-up&path=/&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=amp-api-edge.apps.apple.com&type=xhttp&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B10%5D
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B25%5D
-vmess://eyJhZGQiOiJuZXdyZWxheC5yZWxheGVkYm95Lm9ubGluZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiI4ZTk2ODdmYy1hM2E3LTQxNGEtODY3Ni04ZTIxMzY3OTdjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjExMCIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEdlcm1hbnkgWzg1XSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B75%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B5%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.132.203.206:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B24%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B3%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.179.104.254:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B25%5D
-hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?sni=speedtest.tinkoff.ru&fp=chrome#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5B3%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.250.223.202:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B2%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.250.80.208:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B3%5D
+vless://94a5294d-1125-4139-8934-380c5de5552f@109.121.44.51:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amd.com&fp=chrome&security=reality&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=4a7b1c8d#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B176%5D
+vless://00706a0e-de50-40f0-b6e0-e50b8d727d88@109.121.44.41:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=2c5d0e9f&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B132%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.179.104.254:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B19%5D
