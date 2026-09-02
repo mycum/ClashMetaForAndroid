@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 02.09.2026 09:46)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 02.09.2026 10:52)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 2013 | Пинг: 240 | >300KB/s: 123 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 2006 | Пинг: 169 | >300KB/s: 89 | ТОП: 32 (iOS: 16)
 
-trojan://humanity@213.182.199.137:443?alpn=http/1.1&host=www.pleadcourt.org&path=/assignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=chrome#%F0%9F%87%AD%F0%9F%87%B7%20Croatia%20%5B5%5D
-vless://8f1e07a7-73b0-4bfd-936f-579908c72362@146.75.119.82:80?type=ws&encryption=none&path=ws/%3Fed%3D2048/%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz/%3F2048&host=rb24.ir&security=none&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B8%5D
+trojan://humanity@213.182.199.137:443?alpn=http/1.1&host=www.pleadcourt.org&path=/assignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=chrome#%F0%9F%87%AD%F0%9F%87%B7%20Croatia%20%5B1%5D
+vless://aa77ecac-f074-469c-a0e5-9825ef086333@185.178.208.140:443?alpn=http/1.1&encryption=none&fp=chrome&path=/api/v3/live/hls/segment&security=tls&sni=mapgasstation.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B53%5D
 vmess://eyJhZGQiOiJkZWFwcC5qaXN1eXVuLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiI5YTFhMDVkOS02OWJlLTQ1ZDMtZTMyNi1jNjYyMWVkZjdiMzEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZGV2bSIsInBvcnQiOiIyMDUzIiwicHMiOiJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgR2VybWFueSBbMjhdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@158.173.20.208:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B8%5D
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B44%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE%3D@51.195.126.38:8388#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B32%5D
-vless://37a80f27-a184-4da7-a320-7d5ff19cdac1@halabosamkon.kaliteam.ir:45535?encryption=none&security=none&type=tcp&headerType=none&path=/mobile/464179-samsung-mobile-division-first-loss&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B1%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEdlcm1hbnkgWzE4XSIsImFkZCI6Ijk0LjE1Ni4xNzAuMTAyIiwicG9ydCI6IjExMCIsImlkIjoiOGU5Njg3ZmMtYTNhNy00MTRhLTg2NzYtOGUyMTM2Nzk3Y2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImluc2VjdXJlIjoiMCIsInZjbiI6IiIsInBjcyI6IiJ9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B6%5D
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@185.226.172.8:8008#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B44%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE%3D@51.195.126.38:8388#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B33%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B5%5D
-vless://252f7811-d86f-4dc2-97e0-83d3172ef4b8@193.160.71.247:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=edge-uk2.mystatic-cdn.ru&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&sid=ee169e93d3c277a1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B10%5D
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SmtYNW1Yc0s4VjExU2YrMm9UL0VDaURiSFd3cUV2TGNLY3VsVmh0bUhBbz0@129.151.74.97:61312#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B64%5D
+vless://37a80f27-a184-4da7-a320-7d5ff19cdac1@halabosamkon.kaliteam.ir:45535?encryption=none&security=none&type=tcp&headerType=none&path=/mobile/464179-samsung-mobile-division-first-loss&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B1%5D
 vless://f0064871-07f6-42d1-a159-81213a52a5c3@45.59.126.91:8080?security=none&encryption=none&headerType=none&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B1%5D
+vless://252f7811-d86f-4dc2-97e0-83d3172ef4b8@193.160.71.247:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=edge-uk2.mystatic-cdn.ru&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&sid=ee169e93d3c277a1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B13%5D
+vless://f2ea3f68-6e31-4e07-a78c-fff6ebe246c3@2.26.128.74:443?security=reality&encryption=none&pbk=w88Ys8dVF9DuslGwUD05J9-FHNoAT9qmPysCvHiEmmg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=wombat.mycdn-me.ru&sid=1b40e7c2a1d8f635&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B6%5D
+vmess://eyJhZGQiOiI5NC4xNTYuMTcwLjEwMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiI4ZTk2ODdmYy1hM2E3LTQxNGEtODY3Ni04ZTIxMzY3OTdjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjExMCIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEdlcm1hbnkgWzIwXSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B20%5D
 vless://f2ea3f68-6e31-4e07-a78c-fff6ebe246c3@2.26.129.73:443?encryption=none&flow=xtls-rprx-vision&pbk=gPTBA-gVUWAK9yziB_v_sGSncm0LwBQvEAsTQZK4jEE&security=reality&sid=5a8e1a04f3d92b67&sni=ukrop.mycdn-me.ru&type=tcp&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B1%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNklLUzZya1RPOHpLSHRGSm9BY05zL0NKQ01idTRKSXFacmt5bTltbDM4PQ@e1.cover20.ir:51570?type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B9%5D
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B19%5D
-vless://2ae1bbd2-dd81-4737-bbec-6a8c1c74e8f1@193.233.255.43:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de.sellflow.org&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B35%5D
+vless://2ae1bbd2-dd81-4737-bbec-6a8c1c74e8f1@193.233.255.43:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de.sellflow.org&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B34%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B3%5D
