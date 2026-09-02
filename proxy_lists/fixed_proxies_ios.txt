@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 02.09.2026 17:17)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 02.09.2026 18:21)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1886 | Пинг: 78 | >300KB/s: 45 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1860 | Пинг: 83 | >300KB/s: 48 | ТОП: 32 (iOS: 16)
 
-vless://f9c9fac6-48cc-46b0-af2c-d175718b7cdf@62.152.56.73:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg&security=reality&sid=cf43c0c197cd464a&sni=wl-12.nodes.ac&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B93%5D
-vless://f9c9fac6-48cc-46b0-af2c-d175718b7cdf@95.129.236.216:443?alpn=http/1.1&encryption=none&fp=chrome&host=cdnguard.org&path=/origin/190546791/fetch&security=tls&sni=cdnguard.org&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B96%5D
-vless://f9c9fac6-48cc-46b0-af2c-d175718b7cdf@62.152.58.117:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jAJoyWJ4nMGai3H9BOa6QMUr2Vvpgqs8VipbaO5mCVU&security=reality&sid=3130197867c23edb&sni=wl-13-1.nodes.ac&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B94%5D
-trojan://humanity@213.182.199.137:443?alpn=http/1.1&host=www.pleadcourt.org&path=/assignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=chrome#%F0%9F%87%AD%F0%9F%87%B7%20Croatia%20%5B5%5D
-vless://86404051-97b6-4c02-95c4-68d7d36370b7@185.178.208.140:443?alpn=http/1.1&encryption=none&fp=chrome&path=/api/v3/live/hls/segment&security=tls&sni=mapgasstation.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B44%5D
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B24%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE%3D@51.195.126.38:8388#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B28%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B64%5D
-vmess://eyJhZGQiOiI5NC4xNTYuMTcwLjEwMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiI4ZTk2ODdmYy1hM2E3LTQxNGEtODY3Ni04ZTIxMzY3OTdjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjExMCIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEdlcm1hbnkgWzE3XSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJ2Y24iOiIifQ==
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@95.170.13.47:65443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B11%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B5%5D
+trojan://humanity@213.182.199.137:443?alpn=http/1.1&host=www.pleadcourt.org&path=/assignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=chrome#%F0%9F%87%AD%F0%9F%87%B7%20Croatia%20%5B1%5D
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B13%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6b1Z0YVFNS2NzNFJIZTZsZW8rZWNQcGpucjdtSnNYR0Y4KzZjbUJvN2VmWT0@129.151.85.181:61312#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B12%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SmtYNW1Yc0s4VjExU2YrMm9UL0VDaURiSFd3cUV2TGNLY3VsVmh0bUhBbz0@129.151.74.97:61312#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B11%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B67%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B3%5D
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0@167.150.100.115:27755#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B59%5D
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B127%5D
-vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.paypal.com&fp=chrome&security=reality&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&sid=#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B171%5D
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B92%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B4%5D
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@95.170.13.47:65443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B9%5D
+vless://ea800f9e-ca6c-11ef-8e74-f23c913c8d2b@df132ade-tki800-traezq-1t5n1.nw4.hyhuawei.com:443?security=reality&pbk=QxrH0lkKZn4KpMMbHHQ1fcgs9PxDSUMUJn7vHan_7C0&sni=dl.delivery.mp.microsoft.com&type=tcp&headerType=none&host=dl.delivery.mp.microsoft.com&path=/&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B10%5D
+vless://ea800f9e-ca6c-11ef-8e74-f23c913c8d2b@0e05f970-tki800-traezq-1t5n1.hk2.hyhuawei.com:443?headerType=none&host=download.windowsupdate.com&path=/&pbk=c9DdggKaJGSH7FN3JgGbi9ZvsUqOGGpIr7BhzTWeTCo&security=reality&sni=download.windowsupdate.com&type=tcp&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B6%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIE1hbGF5c2lhIFsyXSIsImFkZCI6IjE2Ni44OC4zNS4xMjgiLCJwb3J0IjoiMjc1MzMiLCJ0eXBlIjoibm9uZSIsImlkIjoiYWMzZTcwNWUtMzcxMy00MGIwLWMwZmUtMDM0MmMzMjhlZWQzIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hYzNlNzA1ZSIsImhvc3QiOiIiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzY3kiOiJhdXRvIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIn0=
+hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?sni=speedtest.tinkoff.ru&fp=chrome#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5B2%5D
+vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiYjY1YTJkNjktNTYzNC00MmEyLWU0YmUtNTRlOGE2MTc2OTAwIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii9MZXZpa29Db25maWciLCJwb3J0IjoiNDQzIiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVW5pdGVkIFN0YXRlcyBbMzhdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiZTdkNzJhOGQtMjZmMi00YjU0LWIzNjYtMGM0M2UwYmNiYTdkIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVbml0ZWQgU3RhdGVzIFs0NF0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
+vmess://eyJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsImFpZCI6MCwiaG9zdCI6ImtyMDIuYTBhLnh5eiIsImlkIjoiNTE1NTg2MGUtZDA3ZC00NmMzLTkxMjgtM2FmYmQ4NDYyNmM3IiwibmV0Ijoid3MiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwicG9ydCI6ODAsInBzIjoiXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFNvdXRoIEtvcmVhIFsxN10iLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsImZwIjoiY2hyb21lIn0=
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B11%5D
