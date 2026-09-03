@@ -1,20 +1,18 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 03.09.2026 14:41)
-# 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1964 | Пинг: 168 | >300KB/s: 83 | ТОП: 32 (iOS: 16)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 03.09.2026 15:46)
+# 🛡️ Verified Elite: 14
+# 📊 Stats: Вход: 1936 | Пинг: 65 | >300KB/s: 20 | ТОП: 20 (iOS: 14)
 
-vless://1cf3c15c-16ce-46cc-8a96-b33c33b8a20f@158.160.198.63:8443?path=/websocket&security=tls&encryption=none&host=cloudflare.fwqfw783rg2dad.website&type=ws&sni=cloudflare.fwqfw783rg2dad.website&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B14%5D
-vless://8f126e1e-2733-43b2-81ad-1fc66a8a1fb0@media-bs22-f53l.mx.yndx-cdn.com:20443?encryption=none&flow=xtls-rprx-vision&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs&security=reality&sid=505c94b8c65afb0a&sni=player.mx.yndx-cdn.com&spx=/&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B46%5D
 trojan://humanity@213.182.199.137:443?alpn=http/1.1&path=/assignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=chrome#%F0%9F%87%AD%F0%9F%87%B7%20Croatia%20%5B3%5D
-hysteria2://a307dbfd-1069-4880-950a-b5f5e82c3478@vault.ressel-radar.shop:443?security=tls&fm=%7B%7D&sni=vault.ressel-radar.shop&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B2%5D
-vless://24a3853d-01c7-4fae-a0cc-97ef0f25a455@pl6.bexait.ir:2434?encryption=none&security=reality&sni=icloud.com&fp=chrome&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&sid=9de041877612a718&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B34%5D
-vless://d7430ae7-320c-4658-808b-3006d0627d82@endeavouros.ubuntuhosting.host:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=endeavouros.ubuntuhosting.host&pbk=n_-rh8EC8zmzkuu2AmCnKoh09omlYONdgS_F7CStITk&sid=3fa234ea9feaa048&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B6%5D
-vless://fe73f296-e5c0-45a6-8064-f8e76a75e946@87.58.152.18:8443?security=reality&type=tcp&sni=amp-api-edge.apps.apple.com&fp=chrome&sid=c0dc8d7fda62ee7f&pbk=v-y8lgU3a2wSMalMiBveBtwHLwqW4WWTOgUoMNNBKFQ&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B172%5D
-vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@momo4.api3-max.ru:443?type=tcp&security=tls&sni=momo4.api3-max.ru&fp=chrome&alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B7%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B13%5D
-vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@momo1.api3-max.ru:443?type=tcp&security=tls&sni=momo1.api3-max.ru&fp=chrome&alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B1%5D
-vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@uk1.kovsh.lol:443?type=tcp&security=reality&sni=uk1.kovsh.lol&pbk=s0ypPx0AL3k2KOk74tbm-aE-i7eIR_MYVzfLHZeLaUk&sid=2e124af254a65e7c&fp=chrome&spx=/&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B2%5D
-vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@momo5.api3-max.ru:443?type=tcp&security=tls&sni=momo5.api3-max.ru&fp=chrome&alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B9%5D
-vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@momo3.api3-max.ru:443?type=tcp&security=tls&sni=momo3.api3-max.ru&fp=chrome&alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B6%5D
-vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@momo8.api3-max.ru:443?type=tcp&security=tls&sni=momo8.api3-max.ru&fp=chrome&alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B2%5D
-vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@momo9.api3-max.ru:443?type=tcp&security=tls&sni=momo9.api3-max.ru&fp=chrome&alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B3%5D
-vless://23578a2c-2493-41f0-89ef-d7d3a7b85252@sa-ee0441551507e46c.sr-cbeea22261c8564d.r.vpvpn.club:8443?encryption=none&fp=chrome&host=nl4.pad-service.com&path=/NL4W&security=tls&sni=nl4.pad-service.com&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B1%5D
+vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@som8.api3-max.ru:443?type=tcp&security=tls&sni=som8.api3-max.ru&fp=chrome&alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B14%5D
+trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@ww12.levikogjgfdd.ir:50573?security=tls&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B2%5D
+vless://8f126e1e-2733-43b2-81ad-1fc66a8a1fb0@188.130.209.9:20443?encryption=none&flow=xtls-rprx-vision&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs&security=reality&sid=505c94b8c65afb0a&sni=player.mx.yndx-cdn.com&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B34%5D
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B5%5D
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@15.204.246.111:5498#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B103%5D
+vmess://eyJhZGQiOiIxNTUuMjQ4LjE3Ni40NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiIxNTRkYmMzOS0wOTIxLWNmMTEtMjliZC0xNTZjNTAwMGQ3NjMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU1MjE2IiwicHMiOiJcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUgSmFwYW4gWzNdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+trojan://humanity@213.182.199.137:443?alpn=http/1.1&path=/assignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=chrome#%F0%9F%87%AD%F0%9F%87%B7%20Croatia%20%5B2%5D
+vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@som8.api3-max.ru:443?type=tcp&security=tls&sni=som8.api3-max.ru&fp=chrome&alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B15%5D
+vless://8f126e1e-2733-43b2-81ad-1fc66a8a1fb0@188.130.209.9:20443?encryption=none&flow=xtls-rprx-vision&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs&security=reality&sid=505c94b8c65afb0a&sni=player.mx.yndx-cdn.com&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B33%5D
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B7%5D
+trojan://humanity@213.182.199.137:443?alpn=http/1.1&path=/assignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=chrome#%F0%9F%87%AD%F0%9F%87%B7%20Croatia%20%5B4%5D
+trojan://humanity@213.182.199.137:443?alpn=http/1.1&host=www.pleadcourt.org&path=/assignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=chrome#%F0%9F%87%AD%F0%9F%87%B7%20Croatia%20%5B5%5D
