@@ -1,34 +1,25 @@
-# profile-title: 🚀 Telegood VPN (ТОП-32 от 03.09.2026 17:54)
-# 🛡️ Verified Elite: 30
-# 📊 Stats: Вход: 1802 | Пинг: 81 | >300KB/s: 30 | ТОП: 30 (iOS: 16)
+# profile-title: 🚀 Telegood VPN (ТОП-32 от 03.09.2026 18:50)
+# 🛡️ Verified Elite: 21
+# 📊 Stats: Вход: 1784 | Пинг: 73 | >300KB/s: 21 | ТОП: 21 (iOS: 16)
 
-vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:11445?encryption=none&fp=chrome&mode=gun&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&security=reality&serviceName=gun&sid=61&sni=mageia.ubuntuhosting.host&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B13%5D
-vless://fe73f296-e5c0-45a6-8064-f8e76a75e946@87.58.152.18:8443?security=reality&type=tcp&sni=amp-api-edge.apps.apple.com&fp=safari&sid=c0dc8d7fda62ee7f&pbk=v-y8lgU3a2wSMalMiBveBtwHLwqW4WWTOgUoMNNBKFQ&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B159%5D
-vless://fe8e2ffb-8796-408c-af5b-0d4774215e00@89.34.90.68:8443/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=360.yandex.ru&fp=chrome&security=reality&pbk=dTdncizxtVTqDZDkQoYdRTkf2Mn6XuKtkzg8vZhrkzA&sid=6ba85179e30d4fc2#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B160%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B6%5D
-trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http/1.1&host=op-1.firecone.eu&path=/femboyporn--femboyporn--femboyporn--femboyporn/free-trojan-node/only-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B6%5D
-trojan://humanity@213.182.199.137:443?allowInsecure=1&alpn=http/1.1&path=/assignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=android#%F0%9F%87%AD%F0%9F%87%B7%20Croatia%20%5B1%5D
-trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@ww12.levikogjgfdd.ir:50573?security=tls&host=Telegram-Leviko_v2ray&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B2%5D
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@15.204.246.111:5498#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B101%5D
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B96%5D
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B8%5D
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@103.169.67.34:65443#%F0%9F%87%B9%F0%9F%87%AD%20Thailand%20%5B5%5D
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.233:65443#%F0%9F%87%A8%F0%9F%87%B3%20China%20%5B4%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001287h3p.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%5B10%5D
-vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:11443?encryption=none&type=grpc&security=reality&sni=mageia.ubuntuhosting.host&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&sid=3b149d533a&serviceName=gun&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B7%5D
-trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http/1.1&host=op-1.firecone.eu&path=/femboyporn--femboyporn--femboyporn--femboyporn/free-trojan-node/only-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B5%5D
-trojan://humanity@213.182.199.137:443?allowInsecure=1&alpn=http/1.1&path=/assignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=chrome#%F0%9F%87%AD%F0%9F%87%B7%20Croatia%20%5B2%5D
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B97%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.152.189:50099#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%5B6%5D
-vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:11443?encryption=none&type=grpc&security=reality&sni=mageia.ubuntuhosting.host&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&sid=3b149d533a&serviceName=gun&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B8%5D
-trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http/1.1&host=op-1.firecone.eu&path=/femboyporn--femboyporn--femboyporn--femboyporn/free-trojan-node/only-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B7%5D
-trojan://humanity@213.182.199.137:443?allowInsecure=1&alpn=http/1.1&path=/assignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=qq#%F0%9F%87%AD%F0%9F%87%B7%20Croatia%20%5B4%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI@36.224.152.189:50099#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%5B7%5D
-vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:11443?encryption=none&fp=ios&mode=gun&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&security=reality&serviceName=gun&sid=3b149d533a&sni=mageia.ubuntuhosting.host&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B7%5D
-trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http/1.1&host=op-1.firecone.eu&path=/femboyporn--femboyporn--femboyporn--femboyporn/free-trojan-node/only-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B4%5D
 trojan://humanity@213.182.199.137:443?alpn=http/1.1&host=www.pleadcourt.org&path=/assignment&security=tls&sni=www.pleadcourt.org&type=ws&allowInsecure=1&fp=chrome#%F0%9F%87%AD%F0%9F%87%B7%20Croatia%20%5B5%5D
-vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:11443?encryption=none&fp=firefox&mode=gun&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&security=reality&serviceName=gun&sid=3b149d533a&sni=mageia.ubuntuhosting.host&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B6%5D
-vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:11445?encryption=none&type=grpc&security=reality&sni=mageia.ubuntuhosting.host&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&sid=61&serviceName=gun&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B24%5D
-vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:11445?encryption=none&type=grpc&security=reality&sni=mageia.ubuntuhosting.host&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&sid=61&serviceName=gun&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B25%5D
-vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:11443?encryption=none&fp=edge&mode=gun&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&security=reality&serviceName=gun&sid=3b149d533a&sni=mageia.ubuntuhosting.host&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B5%5D
-vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:11445?encryption=none&fp=edge&mode=gun&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&security=reality&serviceName=gun&sid=61&sni=mageia.ubuntuhosting.host&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B14%5D
+vless://24a3853d-01c7-4fae-a0cc-97ef0f25a455@pl6.bexait.ir:2434?encryption=none&security=reality&sni=icloud.com&fp=chrome&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&sid=9de041877612a718&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B29%5D
+vless://fe8e2ffb-8796-408c-af5b-0d4774215e00@89.34.90.68:8443/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=360.yandex.ru&fp=chrome&security=reality&pbk=dTdncizxtVTqDZDkQoYdRTkf2Mn6XuKtkzg8vZhrkzA&sid=6ba85179e30d4fc2#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B154%5D
+trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http/1.1&host=op-1.firecone.eu&path=/femboyporn--femboyporn--femboyporn--femboyporn/free-trojan-node/only-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B6%5D
+vmess://eyJhZGQiOiJuZXdyZWxheC5yZWxheGVkYm95Lm9ubGluZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4ZTk2ODdmYy1hM2E3LTQxNGEtODY3Ni04ZTIxMzY3OTdjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExMCIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEdlcm1hbnkgWzE2XSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://fe73f296-e5c0-45a6-8064-f8e76a75e946@87.58.152.18:8443?security=reality&type=tcp&sni=amp-api-edge.apps.apple.com&fp=safari&sid=c0dc8d7fda62ee7f&pbk=v-y8lgU3a2wSMalMiBveBtwHLwqW4WWTOgUoMNNBKFQ&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B153%5D
+trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@ww12.levikogjgfdd.ir:50573?security=tls&host=Telegram-Leviko_v2ray&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B2%5D
+vmess://eyJhZGQiOiIxMDcuMTcyLjc1LjE0MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlMDJjNjdhOC1kNzY5LTRkNzMtODMzYS1hYjZhY2RiODZlNmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjEwMDg2IiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVW5pdGVkIFN0YXRlcyBbNzVdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B106%5D
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@15.204.246.111:5498#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B104%5D
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B96%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.182.226.121:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B106%5D
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B9%5D
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@103.169.67.34:65443#%F0%9F%87%B9%F0%9F%87%AD%20Thailand%20%5B4%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.152.189:50099#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%5B6%5D
+trojan://humanity@213.182.199.137:443?allowInsecure=1&alpn=http/1.1&path=/assignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=qq#%F0%9F%87%AD%F0%9F%87%B7%20Croatia%20%5B4%5D
+trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http/1.1&host=op-1.firecone.eu&path=/femboyporn--femboyporn--femboyporn--femboyporn/free-trojan-node/only-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B3%5D
+trojan://humanity@213.182.199.137:443?allowInsecure=1&alpn=http/1.1&path=/assignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=edge#%F0%9F%87%AD%F0%9F%87%B7%20Croatia%20%5B3%5D
+trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http/1.1&host=op-1.firecone.eu&path=/femboyporn--femboyporn--femboyporn--femboyporn/free-trojan-node/only-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B7%5D
+trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http/1.1&host=op-1.firecone.eu&path=/femboyporn--femboyporn--femboyporn--femboyporn/free-trojan-node/only-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B5%5D
+trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http/1.1&host=op-1.firecone.eu&path=/femboyporn--femboyporn--femboyporn--femboyporn/free-trojan-node/only-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B4%5D
