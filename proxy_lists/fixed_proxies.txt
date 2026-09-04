@@ -1,36 +1,36 @@
-# profile-title: 🚀 Telegood VPN (ТОП-32 от 05.09.2026 01:09)
+# profile-title: 🚀 Telegood VPN (ТОП-32 от 05.09.2026 02:14)
 # 🛡️ Verified Elite: 32
-# 📊 Stats: Вход: 1561 | Пинг: 75 | >300KB/s: 44 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1699 | Пинг: 142 | >300KB/s: 64 | ТОП: 32 (iOS: 16)
 
-vless://9a47a8ff-8cdd-4a35-b765-fbad6d40e0a0@bz9.wba-pn.ru:2053?fp=chrome&packetEncoding=none&security=tls&sni=speedtest.tinkoff.ru&type=ws&allowInsecure=1&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B84%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEdlcm1hbnkgWzExXSIsImFkZCI6Ijk0LjE1Ni4xNzAuMTAyIiwicG9ydCI6IjExMCIsImlkIjoiOGU5Njg3ZmMtYTNhNy00MTRhLTg2NzYtOGUyMTM2Nzk3Y2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCIsInZjbiI6IiIsInBjcyI6IiJ9
-vless://5999a497-a2da-41d0-92cb-5b758082f83c@kamaz4.api3-max.ru:443/?flow=xtls-rprx-vision&type=tcp&security=tls&sni=kamaz4.api3-max.ru&alpn=h2,http/1.1&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B20%5D
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@95.170.13.47:65443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B26%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B6%5D
-trojan://v2whz6ahmyy2f84j@subtu.charsoulink3.ir:2087?sni=pus.mmdaqaorg2.ir&headerType=none&allowInsecure=0&type=tcp&insecure=0&security=tls&alpn=h2,http/1.1,h3&fp=ios#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5B7%5D
-vless://5999a497-a2da-41d0-92cb-5b758082f83c@kamaz03.api3-max.ru:443/?encryption=none&flow=xtls-rprx-vision&security=tls&sni=kamaz03.api3-max.ru&alpn=h2,http/1.1&type=tcp&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B14%5D
-vless://5999a497-a2da-41d0-92cb-5b758082f83c@45.92.218.85:443?security=tls&encryption=none&sni=kamaz02.api3-max.ru&alpn=h2,http/1.1&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B12%5D
-vless://5999a497-a2da-41d0-92cb-5b758082f83c@198.105.123.79:443?security=tls&encryption=none&sni=parta3.api3-max.ru&alpn=h2,http/1.1&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B2%5D
-vless://5999a497-a2da-41d0-92cb-5b758082f83c@107.161.160.176:443?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=kamaz1.api3-max.ru&type=tcp&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B3%5D
-vless://5999a497-a2da-41d0-92cb-5b758082f83c@kombo.api3-max.ru:443/?encryption=none&flow=xtls-rprx-vision&security=tls&sni=kombo.api3-max.ru&alpn=h2,http/1.1&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B5%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.97.16.160:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B102%5D
-trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@ww12.levikogjgfdd.ir:50573?security=tls&host=Telegram-Leviko_v2ray&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B2%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.96.144.93:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B144%5D
-vmess://eyJhZGQiOiIxMDcuMTc1LjkxLjExOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMWJiMWY5NWYtNzQyNS00NDQyLTkzZjctOGZjMWJkMWEyMDAxIiwibmV0Ijoid3MiLCJwYXRoIjoiL3YycmF5LXdpc3AiLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMgWzc4XSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B11%5D
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0@51.222.107.43:2083#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B145%5D
-hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?insecure=1&sni=www.docker.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B45%5D
-vless://39d927a4-b8c7-4dc7-91f1-8b2e05d8b6b6@ns.o11111o.club:443?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=safari#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D%20%5B5%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@15.223.182.66:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B91%5D
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B7%5D
-vless://5999a497-a2da-41d0-92cb-5b758082f83c@167.104.216.12:443?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=kamaz4.api3-max.ru&type=tcp&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B6%5D
-trojan://v2whz6ahmyy2f84j@subtu.charsoulink3.ir:2087?sni=pus.mmdaqaorg2.ir&headerType=none&allowInsecure=0&type=tcp&insecure=0&security=tls&alpn=h2,http/1.1,h3&fp=qq#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5B8%5D
-vless://5999a497-a2da-41d0-92cb-5b758082f83c@kamaz03.api3-max.ru:443/?encryption=none&flow=xtls-rprx-vision&security=tls&sni=kamaz03.api3-max.ru&alpn=h2,http/1.1&type=tcp&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B13%5D
-vless://5999a497-a2da-41d0-92cb-5b758082f83c@198.105.123.79:443?security=tls&encryption=none&sni=parta3.api3-max.ru&alpn=h2,http/1.1&flow=xtls-rprx-vision&fp=ios#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B3%5D
-vless://5999a497-a2da-41d0-92cb-5b758082f83c@kamaz1.api3-max.ru:443/?encryption=none&flow=xtls-rprx-vision&security=tls&sni=kamaz1.api3-max.ru&alpn=h2,http/1.1&type=tcp&fp=ios#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B18%5D
-vless://5999a497-a2da-41d0-92cb-5b758082f83c@162.217.248.241:443?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=kombo.api3-max.ru&type=tcp&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B3%5D
-vmess://eyJhZGQiOiIxMDcuMTc1LjkxLjExOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMWJiMWY5NWYtNzQyNS00NDQyLTkzZjctOGZjMWJkMWEyMDAxIiwibmV0Ijoid3MiLCJwYXRoIjoiL3YycmF5LXdpc3AiLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMgWzc2XSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B13%5D
-vless://39d927a4-b8c7-4dc7-91f1-8b2e05d8b6b6@ns.o11111o.club:443?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=qq#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D%20%5B4%5D
-vless://5999a497-a2da-41d0-92cb-5b758082f83c@kamaz4.api3-max.ru:443/?flow=xtls-rprx-vision&type=tcp&security=tls&sni=kamaz4.api3-max.ru&alpn=h2,http/1.1&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B21%5D
-trojan://v2whz6ahmyy2f84j@subtu.charsoulink3.ir:2087?sni=pus.mmdaqaorg2.ir&headerType=none&allowInsecure=0&type=tcp&insecure=0&security=tls&alpn=h2,http/1.1,h3&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5B6%5D
+vless://8f339443-1baa-4a58-8a56-0022015b4aeb@87.242.95.198:4443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=uYiZWRgbowvS9uOhVZTe0FBS1pLzA3QMyQ_NfDh4_h8&security=reality&sid=bcfba22d203308aa&sni=fr-c63e107f41.sishka.network&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B24%5D
+vless://9a47a8ff-8cdd-4a35-b765-fbad6d40e0a0@bz9.wba-pn.ru:2053?fp=chrome&packetEncoding=none&security=tls&sni=speedtest.tinkoff.ru&type=ws&allowInsecure=1&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B74%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5RlFGYmdEME5DZzY4cUlaYm5GSDQ2TWx3UVBiemw4NA==@5.75.203.195:1080#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B35%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B52%5D
+trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http/1.1&host=op-1.firecone.eu&path=/femboyporn--femboyporn--femboyporn--femboyporn/free-trojan-node/only-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B7%5D
+vless://5999a497-a2da-41d0-92cb-5b758082f83c@167.104.216.12:443?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=kamaz4.api3-max.ru&type=tcp&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B6%5D
+vless://2b262080-f68a-4108-9ac3-d89140faaf6f@3.166.17.55:443?type=ws&security=tls&path=/&host=d2757rhm6iotvq.cloudfront.net&alpn=http/1.1&allowInsecure=0&insecure=0&fp=ios#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B6%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.40.94.70:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B14%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.252.205.48:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B4%5D
+vless://5999a497-a2da-41d0-92cb-5b758082f83c@kamaz1.api3-max.ru:443/?encryption=none&flow=xtls-rprx-vision&security=tls&sni=kamaz1.api3-max.ru&alpn=h2,http/1.1&type=tcp&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B19%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Mm14cUFGL3pVTU83Y0ExVVBVb29DQk1GQnJBeXRkazdHRHFGMTlBcmNtWT0=@130.61.43.101:59924#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B33%5D
+vless://5999a497-a2da-41d0-92cb-5b758082f83c@162.217.248.241:443?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=kombo.api3-max.ru&type=tcp&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B15%5D
+trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@139.59.238.97:50573?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=android#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B2%5D
+vless://5999a497-a2da-41d0-92cb-5b758082f83c@kamaz03.api3-max.ru:443/?encryption=none&flow=xtls-rprx-vision&security=tls&sni=kamaz03.api3-max.ru&alpn=h2,http/1.1&type=tcp&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B16%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@15.156.204.87:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B140%5D
+vless://4143a135-cacc-48fc-b349-6ad8c88d8417@nether.velqixa.ir:8448?security=reality&encryption=none&pbk=FrL9e7VL4vyMK6P9haw7--RGPC1irebFEFfVt7PDz3I&headerType=none&fp=qq&type=tcp&sni=amp-api-edge.apps.apple.com&sid=68d2d5f8#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B123%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@16.52.44.169:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B142%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.97.16.160:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B152%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@15.223.182.66:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B141%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbNDldIiwiYWRkIjoid3d3LnNob3BpZnkuY29tIiwicG9ydCI6IjQ0MyIsImlkIjoiZDE4N2EyM2EtNzZhOS00ZDU1LTg0ZTMtZWEzYjhiMjIyY2JmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImRpbWVuc2lvbmFsLXJlZ3VsYXJseS1idWlsZGluZ3Mta2V5cy50cnljbG91ZGZsYXJlLmNvbSIsInBhdGgiOiIvZDE4N2EyM2EtNzZhOS00ZDU1LTg0ZTMtZWEzYjhiMjIyY2JmLXZtIiwidGxzIjoidGxzIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B20%5D
+vless://5999a497-a2da-41d0-92cb-5b758082f83c@kamaz02.api3-max.ru:443?security=tls&flow=xtls-rprx-vision&alpn=h2,http/1.1&sni=kamaz02.api3-max.ru&type=tcp&headerType=none&host=kamaz02.api3-max.ru&path=/&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B13%5D
+vmess://eyJhZGQiOiIzOC42MC4yMjQuMTczIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjVjZjFmNDcwLTNmNzAtNDU4OS1hMmE0LTQ2NTdlYTNhMWVkZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzIxNTMiLCJwcyI6Ilx1ZDgzY1x1ZGRmMlx1ZDgzY1x1ZGRmZCBNZXhpY28gWzFdIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNjeSI6ImF1dG8iLCJhbHBuIjoiIiwiZnAiOiIifQ==
+vless://6f4d667f-c992-45c8-9114-cf3f2d722462@8.210.124.162:443?flow=xtls-rprx-vision&pbk=XtRoJGHudrJ4sMpzvzRPCvJCY60_IEINYB2osgN68AM&security=reality&sid=b19a9e0bf0dc3bcc&sni=www.pixiv.co.jp&fp=qq#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B3%5D
+vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@31.76.91.24:443?encryption=none&flow=xtls-rprx-vision&pbk=AAsUuwJgvSy1dH69mXOgZ35oUEXPFNPdAlWJULOiZl8&security=reality&sni=jp-1.kihsuyhf8jkiugsxb.cfd&type=tcp&fp=firefox#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B2%5D
+hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443/?insecure=1&sni=www.docker.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B25%5D
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@15.204.246.111:5498#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B114%5D
+hysteria2://29c2de1cf5408523ed4d3252199079d2@108.59.244.158:443?insecure=1&sni=vk.ru#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B21%5D
+vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@61.245.11.164:443?encryption=none&flow=xtls-rprx-vision&pbk=19h48_R3YFHGEKiWsZi0kHgum4AJgyPsuJuui7K8q3A&security=reality&sni=ph-1.kihsuyhf8jkiugsxb.cfd&type=tcp&fp=firefox#%F0%9F%87%B5%F0%9F%87%AD%20Philippines%20%5B1%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEphcGFuIFsxNF0iLCJhZGQiOiIxNTUuMjQ4LjE3Ni40NCIsInBvcnQiOiI1NTIxNiIsInR5cGUiOiJub25lIiwiaWQiOiIxNTRkYmMzOS0wOTIxLWNmMTEtMjliZC0xNTZjNTAwMGQ3NjMiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5RlFGYmdEME5DZzY4cUlaYm5GSDQ2TWx3UVBiemw4NA==@194.195.121.223:1080#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20%5B1%5D
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B10%5D
