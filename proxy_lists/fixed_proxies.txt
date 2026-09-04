@@ -1,36 +1,17 @@
-# profile-title: 🚀 Telegood VPN (ТОП-32 от 04.09.2026 16:10)
-# 🛡️ Verified Elite: 32
-# 📊 Stats: Вход: 1765 | Пинг: 63 | >300KB/s: 43 | ТОП: 32 (iOS: 16)
+# profile-title: 🚀 Telegood VPN (ТОП-32 от 04.09.2026 16:56)
+# 🛡️ Verified Elite: 13
+# 📊 Stats: Вход: 1727 | Пинг: 35 | >300KB/s: 13 | ТОП: 13 (iOS: 12)
 
-vless://fe8e2ffb-8796-408c-af5b-0d4774215e00@89.34.90.68:8443/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=360.yandex.ru&fp=chrome&security=reality&pbk=dTdncizxtVTqDZDkQoYdRTkf2Mn6XuKtkzg8vZhrkzA&sid=6ba85179e30d4fc2#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B140%5D
-vless://3005a774-84ab-47de-a2dc-48f5e56d502b@2.26.135.208:443?encryption=none&flow=xtls-rprx-vision&pbk=dQDrcZt7Zhdeid6qe9zSTEXwicrwq-wW7LAy2vN_YT8&security=reality&sid=a1f9c0e21d7b6485&sni=cdn4.mycdn-me.ru&type=tcp&fp=qq#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B18%5D
-vless://3005a774-84ab-47de-a2dc-48f5e56d502b@2.26.129.251:443?encryption=none&flow=xtls-rprx-vision&pbk=gPTBA-gVUWAK9yziB_v_sGSncm0LwBQvEAsTQZK4jEE&security=reality&sid=5a8e1a04f3d92b67&sni=ukrop.mycdn-me.ru&type=tcp&fp=qq#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B12%5D
-vless://3005a774-84ab-47de-a2dc-48f5e56d502b@2.26.128.78:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=w88Ys8dVF9DuslGwUD05J9-FHNoAT9qmPysCvHiEmmg&sid=1b40e7c2a1d8f635&sni=wombat.mycdn-me.ru&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B2%5D
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@95.170.13.47:65443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B9%5D
-vless://3005a774-84ab-47de-a2dc-48f5e56d502b@2.26.130.118:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=GUdrwZxYWVvIFgC2fSJDs6U5Un6c7t1Yuvzl7yI1ohU&sid=2f6a8c3e90b2d574&sni=nora.mycdn-me.ru&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B25%5D
-vless://3005a774-84ab-47de-a2dc-48f5e56d502b@2.26.139.65:443?encryption=none&flow=xtls-rprx-vision&pbk=-qRasoN1QIcSdRL937b6s-Y2qOb-9OFmlaHBi7UcOSM&security=reality&sid=e17b4d9a8c1f3526&sni=kukuruza.mycdn-me.ru&type=tcp&fp=qq#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B24%5D
-hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?insecure=1&sni=www.docker.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B34%5D
-trojan://302cf77d-6fb7-4ac8-ae61-88e286340d59@hk04.qianmoip.win:52224?security=tls&sni=taobao.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B132%5D
+vless://fe8e2ffb-8796-408c-af5b-0d4774215e00@89.34.90.68:8443/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=360.yandex.ru&fp=chrome&security=reality&pbk=dTdncizxtVTqDZDkQoYdRTkf2Mn6XuKtkzg8vZhrkzA&sid=6ba85179e30d4fc2#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B134%5D
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@95.170.13.47:65443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B5%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0cHVXdkFRdGpkLU12dms4MWw3T0xn@cdn-2d12.giftcardbazarbot.com:8243?type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B27%5D
+trojan://302cf77d-6fb7-4ac8-ae61-88e286340d59@hk04.qianmoip.win:52224?security=tls&sni=taobao.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B94%5D
 trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@ww12.levikogjgfdd.ir:50573?security=tls&host=Telegram-Leviko_v2ray&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B2%5D
-vless://469bc714-57c1-4091-8913-ff804b38bd3a@naseza.tarfiq.ir:443?encryption=none&type=ws&security=tls&host=teranko.global.ssl.fastly.net&path=/&sni=global.fastly.com&allowInsecure=0&insecure=0&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B4%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.96.144.93:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B109%5D
-vless://3005a774-84ab-47de-a2dc-48f5e56d502b@152.232.57.98:443?encryption=none&flow=xtls-rprx-vision&pbk=SqArIWpSt5VG9HVrtcZQn1r0Tc_eRvYzca2OFDBkF24&security=reality&sid=8d3e824947a4cb&sni=dont.block.us&type=tcp&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B7%5D
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B7%5D
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@103.169.67.34:65443#%F0%9F%87%B9%F0%9F%87%AD%20Thailand%20%5B1%5D
-vless://3005a774-84ab-47de-a2dc-48f5e56d502b@2.26.135.208:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=dQDrcZt7Zhdeid6qe9zSTEXwicrwq-wW7LAy2vN_YT8&sid=a1f9c0e21d7b6485&sni=cdn4.mycdn-me.ru&fp=qq#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B15%5D
-vless://3005a774-84ab-47de-a2dc-48f5e56d502b@2.26.129.251:443?encryption=none&flow=xtls-rprx-vision&pbk=gPTBA-gVUWAK9yziB_v_sGSncm0LwBQvEAsTQZK4jEE&security=reality&sid=5a8e1a04f3d92b67&sni=ukrop.mycdn-me.ru&type=tcp&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B10%5D
-vless://3005a774-84ab-47de-a2dc-48f5e56d502b@2.26.128.78:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=w88Ys8dVF9DuslGwUD05J9-FHNoAT9qmPysCvHiEmmg&sid=1b40e7c2a1d8f635&sni=wombat.mycdn-me.ru&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B1%5D
-vless://3005a774-84ab-47de-a2dc-48f5e56d502b@2.26.130.118:443?encryption=none&flow=xtls-rprx-vision&pbk=GUdrwZxYWVvIFgC2fSJDs6U5Un6c7t1Yuvzl7yI1ohU&security=reality&sid=2f6a8c3e90b2d574&sni=nora.mycdn-me.ru&type=tcp&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B29%5D
-vless://3005a774-84ab-47de-a2dc-48f5e56d502b@2.26.139.65:443?encryption=none&flow=xtls-rprx-vision&pbk=-qRasoN1QIcSdRL937b6s-Y2qOb-9OFmlaHBi7UcOSM&security=reality&sid=e17b4d9a8c1f3526&sni=kukuruza.mycdn-me.ru&type=tcp&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B22%5D
-vless://469bc714-57c1-4091-8913-ff804b38bd3a@naseza.tarfiq.ir:443?encryption=none&type=ws&security=tls&host=teranko.global.ssl.fastly.net&path=/&sni=global.fastly.com&allowInsecure=0&insecure=0&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B6%5D
-vless://3005a774-84ab-47de-a2dc-48f5e56d502b@152.232.57.98:443?encryption=none&flow=xtls-rprx-vision&pbk=SqArIWpSt5VG9HVrtcZQn1r0Tc_eRvYzca2OFDBkF24&security=reality&sid=8d3e824947a4cb&sni=dont.block.us&type=tcp&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B8%5D
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B6%5D
-vless://3005a774-84ab-47de-a2dc-48f5e56d502b@2.26.135.208:443?encryption=none&flow=xtls-rprx-vision&pbk=dQDrcZt7Zhdeid6qe9zSTEXwicrwq-wW7LAy2vN_YT8&security=reality&sid=a1f9c0e21d7b6485&sni=cdn4.mycdn-me.ru&type=tcp&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B17%5D
-vless://3005a774-84ab-47de-a2dc-48f5e56d502b@2.26.129.251:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=gPTBA-gVUWAK9yziB_v_sGSncm0LwBQvEAsTQZK4jEE&sid=5a8e1a04f3d92b67&sni=ukrop.mycdn-me.ru&fp=qq#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B9%5D
-vless://3005a774-84ab-47de-a2dc-48f5e56d502b@2.26.128.78:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=w88Ys8dVF9DuslGwUD05J9-FHNoAT9qmPysCvHiEmmg&sid=1b40e7c2a1d8f635&sni=wombat.mycdn-me.ru&fp=qq#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B3%5D
-vless://3005a774-84ab-47de-a2dc-48f5e56d502b@2.26.130.118:443?encryption=none&flow=xtls-rprx-vision&pbk=GUdrwZxYWVvIFgC2fSJDs6U5Un6c7t1Yuvzl7yI1ohU&security=reality&sid=2f6a8c3e90b2d574&sni=nora.mycdn-me.ru&type=tcp&fp=qq#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B30%5D
-vless://3005a774-84ab-47de-a2dc-48f5e56d502b@2.26.139.65:443?encryption=none&flow=xtls-rprx-vision&pbk=-qRasoN1QIcSdRL937b6s-Y2qOb-9OFmlaHBi7UcOSM&security=reality&sid=e17b4d9a8c1f3526&sni=kukuruza.mycdn-me.ru&type=tcp&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B23%5D
-vless://3005a774-84ab-47de-a2dc-48f5e56d502b@152.232.57.98:443?encryption=none&flow=xtls-rprx-vision&pbk=SqArIWpSt5VG9HVrtcZQn1r0Tc_eRvYzca2OFDBkF24&security=reality&sid=8d3e824947a4cb&sni=dont.block.us&type=tcp&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B9%5D
-vless://3005a774-84ab-47de-a2dc-48f5e56d502b@2.26.135.208:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=dQDrcZt7Zhdeid6qe9zSTEXwicrwq-wW7LAy2vN_YT8&sid=a1f9c0e21d7b6485&sni=cdn4.mycdn-me.ru&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B13%5D
-vless://3005a774-84ab-47de-a2dc-48f5e56d502b@2.26.129.251:443?encryption=none&flow=xtls-rprx-vision&pbk=gPTBA-gVUWAK9yziB_v_sGSncm0LwBQvEAsTQZK4jEE&security=reality&sid=5a8e1a04f3d92b67&sni=ukrop.mycdn-me.ru&type=tcp&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B11%5D
-vless://3005a774-84ab-47de-a2dc-48f5e56d502b@2.26.128.78:443?encryption=none&flow=xtls-rprx-vision&pbk=w88Ys8dVF9DuslGwUD05J9-FHNoAT9qmPysCvHiEmmg&security=reality&sid=1b40e7c2a1d8f635&sni=wombat.mycdn-me.ru&type=tcp&fp=qq#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B6%5D
+hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?insecure=1&sni=www.docker.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B30%5D
+vmess://eyJhZGQiOiIxMDcuMTc1LjkxLjExOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMWJiMWY5NWYtNzQyNS00NDQyLTkzZjctOGZjMWJkMWEyMDAxIiwibmV0Ijoid3MiLCJwYXRoIjoiL3YycmF5LXdpc3AiLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMgWzgwXSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.96.144.93:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B111%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.223.120.129:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B110%5D
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B10%5D
+vmess://eyJhZGQiOiJuZXdyZWxheC5yZWxheGVkYm95Lm9ubGluZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4ZTk2ODdmYy1hM2E3LTQxNGEtODY3Ni04ZTIxMzY3OTdjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExMCIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEdlcm1hbnkgWzE2XSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B9%5D
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B8%5D
