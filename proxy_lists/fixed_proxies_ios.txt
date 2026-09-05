@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 05.09.2026 19:32)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 05.09.2026 20:34)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1588 | Пинг: 63 | >300KB/s: 22 | ТОП: 22 (iOS: 16)
+# 📊 Stats: Вход: 1583 | Пинг: 60 | >300KB/s: 27 | ТОП: 27 (iOS: 16)
 
-vless://5d455425-1507-4a06-8cee-b58689338fe0@185.178.208.140:443?alpn=http/1.1&encryption=none&fp=chrome&path=/api/v3/live/hls/segment&security=tls&sni=mapgasstation.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B7%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B13%5D
+vless://65c7dd9a-0fa4-4c7d-a766-28dc5351fce7@185.178.208.140:443?alpn=http/1.1&encryption=none&fp=chrome&path=/api/v3/live/hls/segment&security=tls&sni=mapgasstation.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B8%5D
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?encryption=none&flow=xtls-rprx-vision&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B3%5D
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B110%5D
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.246.108:8881#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B109%5D
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B111%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@15.223.182.66:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B96%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.97.16.160:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B111%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.182.226.121:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B112%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.182.118.89:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B98%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@16.52.44.169:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B97%5D
-vmess://eyJhZGQiOiIxMDcuMTc1LjkxLjExOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMWJiMWY5NWYtNzQyNS00NDQyLTkzZjctOGZjMWJkMWEyMDAxIiwibmV0Ijoid3MiLCJwYXRoIjoiL3YycmF5LXdpc3AiLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMgWzc3XSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwiZnAiOiJjaHJvbWUifQ==
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B7%5D
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@103.169.67.34:65443#%F0%9F%87%B9%F0%9F%87%AD%20Thailand%20%5B5%5D
-trojan://2EXii6JlhaDvgSiTsC@ggboy.ggboyz.online:8444?type=tcp&security=tls&sni=ggboy.ggboyz.online&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B21%5D
+trojan://kakashka13222@5.249.164.28:25615?alpn=http/1.1&host=op-1.firecone.eu&path=/femboyporn--femboyporn--femboyporn--femboyporn/free-trojan-node/only-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B3%5D
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@95.170.13.47:65443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B6%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B58%5D
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@15.204.246.111:5498#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B116%5D
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B116%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.182.226.121:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B119%5D
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.246.108:8881#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B115%5D
+ss://aes-256-gcm:Y6R9pAtvxxzmGC@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B106%5D
 trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@ww12.levikogjgfdd.ir:50573?security=tls&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B2%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@15.223.182.66:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B100%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@16.52.44.169:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B101%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.182.118.89:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B102%5D
+vmess://eyJhZGQiOiIxMDcuMTc1LjkxLjExOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMWJiMWY5NWYtNzQyNS00NDQyLTkzZjctOGZjMWJkMWEyMDAxIiwibmV0Ijoid3MiLCJwYXRoIjoiL3YycmF5LXdpc3AiLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMgWzgyXSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwiZnAiOiJjaHJvbWUifQ==
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@15.156.204.87:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B99%5D
