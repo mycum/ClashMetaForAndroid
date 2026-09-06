@@ -1,36 +1,36 @@
-# profile-title: 🚀 Telegood VPN (ТОП-32 от 07.09.2026 03:37)
+# profile-title: 🚀 Telegood VPN (ТОП-32 от 07.09.2026 04:41)
 # 🛡️ Verified Elite: 32
-# 📊 Stats: Вход: 1807 | Пинг: 146 | >300KB/s: 50 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1778 | Пинг: 132 | >300KB/s: 73 | ТОП: 32 (iOS: 16)
 
-vless://70d482eb-7584-4841-a02a-c668f1ee33e7@132.243.228.209:9443?encryption=none&flow=xtls-rprx-vision&pbk=bDDR3ubmqiA8nv8uD72QLIKgpcWaENtY0Vumrce6jgg&security=reality&sid=7a8b9c0d&sni=de3.routeliora.ru&type=tcp&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B12%5D
-vless://f081b5e2-f3a0-4ef5-833b-1ea59e0797b6@fcs013.getdcz.me:443?type=ws&security=tls&path=/6d2fed050b30&host=fcs013.getdcz.me&sni=fcs013.getdcz.me&encryption=none&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B14%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B58%5D
-trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http/1.1&host=op-1.firecone.eu&path=/femboyporn--femboyporn--femboyporn--femboyporn/free-trojan-node/only-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B23%5D
-vless://3db8407b-1f96-4b82-bfeb-55258c1e57b4@84.252.100.49:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=HKKWGVu7xJfscDTH_28WhqSfSnp8fA5jpj7X1eMO-mU&security=reality&sid=1067b23f928e7618&sni=flarora.ferreo.sbs&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B32%5D
-vless://14409b0c-2091-4bc7-9845-2485a31ac38a@138.124.28.79:443?encryption=none&flow=xtls-rprx-vision&pbk=EYfpgja4VjpLUnWHtDJQ1XZk6xL5j4rXwf80Sw6keV0&security=reality&sid=0c13e8822e7f58aa&sni=doich.stopingiphatered.shop&type=tcp&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B20%5D
-vless://141bbdef-a341-4846-aec7-9d6531ff8790@t2xmzpec98.nl.cdnfludelivery.com:447?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=sCpeAZBGOOE_9CeeXyu3-jl68ODzQjts8gG_ZHk44Qk&sid=d7abeb515312dc2f&allowInsecure=1&type=grpc&authority=api-maps.yandex.ru&serviceName=api-maps.yandex.ru&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B86%5D
-vless://af132d85-d396-4557-a043-fb57b16e3700@64.49.15.143:443?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=partaa1.api3-max.ru&type=tcp&fp=ios#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B3%5D
-trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@139.59.238.97:50573?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=firefox#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B59%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEhvbmcgS29uZyBbNDFdIiwiYWRkIjoiZHJia2cxNmVnZjNmemxtMy52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiRHJCS2cxNmVHZjNGWmxNMy52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEhvbmcgS29uZyBbMzVdIiwiYWRkIjoiOTN1Y3JuNGkwcGZmdWFiay52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJob3N0IjoiOTN1Y3JuNGkwUGZmVUFiay52LjNkbnMudmlwIiwidGxzIjoidGxzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B249%5D
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.246.108:8881#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B108%5D
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B111%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@16.52.44.169:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B105%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@15.223.182.66:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B104%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.182.118.89:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B107%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@15.156.204.87:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B103%5D
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B13%5D
-vless://9f1a7469-eba8-48e1-928e-44ab5591d55d@185.178.208.176:443?alpn=h3,h2&encryption=none&fp=chrome&host=founders-blog.online&path=/stream/615428/socket&security=tls&sni=founders-blog.online&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B77%5D
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B110%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEphcGFuIFs0XSIsImFkZCI6IjE2OC4xMzguNDMuNzUiLCJwb3J0IjoiODAiLCJpZCI6IjExYzM2MjdmLTMxZTgtNDY5NS1kZmJkLTM0MDc2ZTJmMWY1ZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJOb25lIiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCIsInZjbiI6IiIsInBjcyI6IiJ9
-vmess://eyJhZGQiOiIxMDcuMTc1LjkxLjExOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMWJiMWY5NWYtNzQyNS00NDQyLTkzZjctOGZjMWJkMWEyMDAxIiwibmV0Ijoid3MiLCJwYXRoIjoiL3YycmF5LXdpc3AiLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMgWzY0XSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B9%5D
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B124%5D
-trojan://ultra%40kWZdAzt_IH593eGLRjdxnBZ0@z-jp2.251313.xyz:10012?allowInsecure=1&security=tls&sni=www.cloudflare.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B93%5D
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@103.169.67.34:65443#%F0%9F%87%B9%F0%9F%87%AD%20Thailand%20%5B5%5D
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B166%5D
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.232:65443#%F0%9F%87%A8%F0%9F%87%B3%20China%20%5B5%5D
-vless://70d482eb-7584-4841-a02a-c668f1ee33e7@132.243.228.209:9443?encryption=none&flow=xtls-rprx-vision&pbk=bDDR3ubmqiA8nv8uD72QLIKgpcWaENtY0Vumrce6jgg&security=reality&sid=7a8b9c0d&sni=de3.routeliora.ru&type=tcp&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B10%5D
-vless://f081b5e2-f3a0-4ef5-833b-1ea59e0797b6@fcs013.getdcz.me:443?type=ws&security=tls&path=/6d2fed050b30&host=fcs013.getdcz.me&sni=fcs013.getdcz.me&encryption=none&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B15%5D
-trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http/1.1&host=op-1.firecone.eu&path=/femboyporn--femboyporn--femboyporn--femboyporn/free-trojan-node/only-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B22%5D
+vless://ecf728d9-1555-4e12-b178-1d8bd98465e4@95.129.236.124:443?encryption=none&fp=chrome&path=/gateway/v1/ws/6d50d81f0b49c137b1564bce4760eaee&security=tls&sni=game-booster.sowt.app&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B78%5D
+vless://5c45f6bb-a3b8-4a44-8d4e-97becc86fba9@185.178.208.176:443?alpn=h3,h2&encryption=none&fp=chrome&host=founders-blog.online&path=/stream/615428/socket&security=tls&sni=founders-blog.online&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B90%5D
+vless://b6489ebb-e964-46cd-b7eb-b3656a6438f5@fast48.slopllex.app:443?encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp&fp=ios#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5B%2ACIDR%5D%20%5B3%5D
+trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http/1.1&host=op-1.firecone.eu&path=/femboyporn--femboyporn--femboyporn--femboyporn/free-trojan-node/only-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B28%5D
+vless://f081b5e2-f3a0-4ef5-833b-1ea59e0797b6@fcs013.getdcz.me:443?type=ws&security=tls&path=/6d2fed050b30&host=fcs013.getdcz.me&sni=fcs013.getdcz.me&encryption=none&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B19%5D
+vless://70d482eb-7584-4841-a02a-c668f1ee33e7@141.0.184.240:7443?encryption=none&flow=xtls-rprx-vision&pbk=AxzvGjWPl7k1QMOWsRCgtuizgSS5NVWXwRoYsKP-630&security=reality&sid=e1f2a3b4&sni=fi2.routeliora.ru&type=tcp&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B3%5D
+vless://3db8407b-1f96-4b82-bfeb-55258c1e57b4@84.252.100.49:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=HKKWGVu7xJfscDTH_28WhqSfSnp8fA5jpj7X1eMO-mU&security=reality&sid=1067b23f928e7618&sni=flarora.ferreo.sbs&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B28%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B53%5D
+vless://14409b0c-2091-4bc7-9845-2485a31ac38a@138.124.28.79:443?encryption=none&flow=xtls-rprx-vision&pbk=EYfpgja4VjpLUnWHtDJQ1XZk6xL5j4rXwf80Sw6keV0&security=reality&sid=0c13e8822e7f58aa&sni=doich.stopingiphatered.shop&type=tcp&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B25%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMgWzQzXSIsImFkZCI6Im5ld3JlbGF4LnJlbGF4ZWRib3kub25saW5lIiwicG9ydCI6IjExMCIsImlkIjoiOGU5Njg3ZmMtYTNhNy00MTRhLTg2NzYtOGUyMTM2Nzk3Y2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCIsInZjbiI6IiIsInBjcyI6IiJ9
+vless://b6489ebb-e964-46cd-b7eb-b3656a6438f5@fast_s29.slopllex.app:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B2%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.40.94.70:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B22%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.214.208.36:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B3%5D
+vless://af132d85-d396-4557-a043-fb57b16e3700@64.49.15.143:443?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=partaa1.api3-max.ru&type=tcp&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B8%5D
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.246.108:8881#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B102%5D
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@15.204.246.111:5498#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B103%5D
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B243%5D
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B168%5D
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B104%5D
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B113%5D
+hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?insecure=1&sni=www.docker.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B37%5D
+vmess://eyJhZGQiOiI0Ny44Ni4xMDcuMTE5IiwiYWlkIjoiMCIsImhvc3QiOiJsY3Y4djlsN095YW14eGZaLnYuM2Rucy52aXAiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEhvbmcgS29uZyBbNTJdIiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6Imxjdjh2OWw3T3lhbXh4Zloudi4zZG5zLnZpcCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+vmess://eyJhZGQiOiI0Ny43Ni4xOTcuNzIiLCJhaWQiOiIwIiwiaG9zdCI6Ik0wMWM3QjJ6MjZEdFFHRWUudi4zZG5zLnZpcCIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJwb3J0IjoiNDQzIiwicHMiOiJcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAgSG9uZyBLb25nIFs0Nl0iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEhvbmcgS29uZyBbNTBdIiwiYWRkIjoiNDcuODMuMTkuMTQ4IiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjctYzFmOS00MzczLTg3NmMtMmY0M2U5Zjc5MGYzIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJob3N0IjoiNkpEdkFyYXpnVTNxUVI2US52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInNuaSI6IjZKRHZBcmF6Z1UzcVFSNlEudi4zZG5zLnZpcCIsImFsbG93SW5zZWN1cmUiOiIxIiwiaW5zZWN1cmUiOiIxIiwic2N5IjoiYXV0byIsImFscG4iOiIiLCJmcCI6IiJ9
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B128%5D
+vmess://eyJhZGQiOiJxdGtkcjhqeGUzd2VmeGptLnYuM2Rucy52aXAiLCJhaWQiOiIwIiwiaG9zdCI6InFUS0RSOGpYRTN3RUZ4Sk0udi4zZG5zLnZpcCIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJwb3J0IjoiNDQzIiwicHMiOiJcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAgSG9uZyBLb25nIFsxN10iLCJzZWN1cml0eSI6ImF1dG8iLCJzbmkiOiJxVEtEUjhqWEUzd0VGeEpNLnYuM2Rucy52aXAiLCJ0bHMiOiJ0bHMiLCJ2IjoiMiIsInR5cGUiOiJub25lIiwic2N5IjoiYXV0byIsImFscG4iOiIiLCJmcCI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEhvbmcgS29uZyBbMzddIiwiYWRkIjoiOTN1Y3JuNGkwcGZmdWFiay52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiOTN1Y3JuNGkwUGZmVUFiay52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6IjkzdWNybjRpMFBmZlVBYmsudi4zZG5zLnZpcCIsImFscG4iOiIiLCJmcCI6IiJ9
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.97.16.160:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B126%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.182.118.89:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B110%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@15.156.204.87:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B107%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@16.52.44.169:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B109%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@15.223.182.66:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B108%5D
