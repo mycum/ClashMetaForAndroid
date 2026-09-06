@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 07.09.2026 02:30)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 07.09.2026 03:37)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1721 | Пинг: 84 | >300KB/s: 38 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1807 | Пинг: 146 | >300KB/s: 50 | ТОП: 32 (iOS: 16)
 
-vless://dfe577b5-1e1a-4847-9c5e-eab2f683d0c9@87.242.95.198:4443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=uYiZWRgbowvS9uOhVZTe0FBS1pLzA3QMyQ_NfDh4_h8&security=reality&sid=f4463a89cbd4ba4c&sni=fr-c63e107f41.sishka.network&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B46%5D
-vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083?security=tls&encryption=none&type=ws&sni=cfvvv-ev1.pages.dev&path=/&host=cfvvv-ev1.pages.dev&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B167%5D
-vless://6409b5d5-2354-475a-8a16-3688141a68cc@185.178.208.140:443?alpn=http/1.1&encryption=none&fp=chrome&path=/api/v3/live/hls/segment&security=tls&sni=mapgasstation.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B28%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B68%5D
-vless://14409b0c-2091-4bc7-9845-2485a31ac38a@138.124.28.79:443?encryption=none&flow=xtls-rprx-vision&pbk=EYfpgja4VjpLUnWHtDJQ1XZk6xL5j4rXwf80Sw6keV0&security=reality&sid=0c13e8822e7f58aa&sni=doich.stopingiphatered.shop&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B11%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.214.208.36:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B6%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.40.94.70:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B23%5D
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@95.170.13.47:65443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B10%5D
-vless://70d482eb-7584-4841-a02a-c668f1ee33e7@132.243.228.209:9443?encryption=none&flow=xtls-rprx-vision&pbk=bDDR3ubmqiA8nv8uD72QLIKgpcWaENtY0Vumrce6jgg&security=reality&sid=7a8b9c0d&sni=de3.routeliora.ru&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B5%5D
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B243%5D
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B108%5D
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B109%5D
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.246.108:8881#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B106%5D
-trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@139.59.238.97:50573?type=tcp&security=tls&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B62%5D
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@15.204.246.111:5498#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B107%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@15.156.204.87:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B103%5D
+vless://70d482eb-7584-4841-a02a-c668f1ee33e7@132.243.228.209:9443?encryption=none&flow=xtls-rprx-vision&pbk=bDDR3ubmqiA8nv8uD72QLIKgpcWaENtY0Vumrce6jgg&security=reality&sid=7a8b9c0d&sni=de3.routeliora.ru&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B12%5D
+vless://f081b5e2-f3a0-4ef5-833b-1ea59e0797b6@fcs013.getdcz.me:443?type=ws&security=tls&path=/6d2fed050b30&host=fcs013.getdcz.me&sni=fcs013.getdcz.me&encryption=none&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B14%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B58%5D
+trojan://kakashka13222@5.249.164.28:25615?alpn=http/1.1&host=op-1.firecone.eu&path=/femboyporn--femboyporn--femboyporn--femboyporn/free-trojan-node/only-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B23%5D
+vless://3db8407b-1f96-4b82-bfeb-55258c1e57b4@84.252.100.49:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=HKKWGVu7xJfscDTH_28WhqSfSnp8fA5jpj7X1eMO-mU&security=reality&sid=1067b23f928e7618&sni=flarora.ferreo.sbs&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B32%5D
+vless://14409b0c-2091-4bc7-9845-2485a31ac38a@138.124.28.79:443?encryption=none&flow=xtls-rprx-vision&pbk=EYfpgja4VjpLUnWHtDJQ1XZk6xL5j4rXwf80Sw6keV0&security=reality&sid=0c13e8822e7f58aa&sni=doich.stopingiphatered.shop&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B20%5D
+vless://af132d85-d396-4557-a043-fb57b16e3700@64.49.15.143:443?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=partaa1.api3-max.ru&type=tcp&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B3%5D
+trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@139.59.238.97:50573?type=tcp&security=tls&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B59%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEhvbmcgS29uZyBbNDFdIiwiYWRkIjoiZHJia2cxNmVnZjNmemxtMy52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiRHJCS2cxNmVHZjNGWmxNMy52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6ImNocm9tZSJ9
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEhvbmcgS29uZyBbMzVdIiwiYWRkIjoiOTN1Y3JuNGkwcGZmdWFiay52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJob3N0IjoiOTN1Y3JuNGkwUGZmVUFiay52LjNkbnMudmlwIiwidGxzIjoidGxzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6ImNocm9tZSJ9
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B249%5D
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.246.108:8881#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B108%5D
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B111%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@16.52.44.169:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B105%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@15.223.182.66:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B104%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.182.118.89:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B107%5D
