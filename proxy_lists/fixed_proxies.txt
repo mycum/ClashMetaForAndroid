@@ -1,36 +1,36 @@
-# profile-title: 🚀 Telegood VPN (ТОП-32 от 07.09.2026 20:41)
+# profile-title: 🚀 Telegood VPN (ТОП-32 от 07.09.2026 21:43)
 # 🛡️ Verified Elite: 32
-# 📊 Stats: Вход: 1489 | Пинг: 54 | >300KB/s: 34 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1458 | Пинг: 72 | >300KB/s: 34 | ТОП: 32 (iOS: 16)
 
-vless://56cba26b-efcb-40d0-838a-d66df2dd516f@72.56.68.247:443?security=tls&sni=sni.868001.xyz&type=ws&headerType=none&host=sni.868001.xyz&path=/proxyip%3Dtw.william.us.ci%3Fuuid%3D82bc2875-3fee-49d1-ab29-e108a7b1e5f9&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B2%5D
-vmess://eyJhZGQiOiJuZXdyZWxheC5yZWxheGVkYm95Lm9ubGluZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4ZTk2ODdmYy1hM2E3LTQxNGEtODY3Ni04ZTIxMzY3OTdjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjExMCIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMgWzQ4XSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B5%5D
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@95.170.13.47:65443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B13%5D
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.200.165:5000?type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B101%5D
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@15.204.246.111:5498#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B88%5D
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.155.113:5601#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B103%5D
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B89%5D
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B84%5D
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B113%5D
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.246.108:8881#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B87%5D
-trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@139.59.238.97:50573?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B54%5D
-vless://98a28376-ce73-48be-a6f4-abfa74377b65@216.167.27.101:27278?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=Mmuxa6Y9h2thCEMFlQQi26umkKnsirNXQ5btCCyl3EU&sid=994469a256d8&sni=www.nvidia.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B5%5D
-vmess://eyJhZGQiOiIxMDcuMTc1LjkxLjExOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMWJiMWY5NWYtNzQyNS00NDQyLTkzZjctOGZjMWJkMWEyMDAxIiwibmV0Ijoid3MiLCJwYXRoIjoiL3YycmF5LXdpc3AiLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMgWzY5XSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?insecure=1&sni=173.212.201.85#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B34%5D
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B9%5D
-vless://56cba26b-efcb-40d0-838a-d66df2dd516f@188.253.27.22:443?security=tls&sni=sni.868001.xyz&type=ws&headerType=none&host=sni.868001.xyz&path=/proxyip%3Dtw.william.us.ci%3Fuuid%3D82bc2875-3fee-49d1-ab29-e108a7b1e5f9&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B3%5D
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.233.41:8882#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B233%5D
-vmess://eyJwb3J0IjoiMzM3MzYiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLXdzIiwicHMiOiJcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjEgVGhlIE5ldGhlcmxhbmRzIFs4XSIsImFkZCI6Ijc4LjE3LjcxLjIzNiIsImhvc3QiOiJUZWxlZ3JhbS1MZXZpa29fdjJyYXkiLCJpZCI6ImIzYTExMDY4LTFhN2UtNDY0My04NWRlLTdjODJjY2U0Njk0MyJ9
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B93%5D
-vless://56cba26b-efcb-40d0-838a-d66df2dd516f@72.56.68.247:443?security=tls&sni=sni.868001.xyz&type=ws&headerType=none&host=sni.868001.xyz&path=/proxyip%3Dtw.william.us.ci%3Fuuid%3D82bc2875-3fee-49d1-ab29-e108a7b1e5f9&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B1%5D
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B100%5D
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B104%5D
-ss://aes-256-gcm:XKFKl2rULjIp74@15.204.247.175:8008#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B85%5D
-trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@139.59.238.97:50573?security=tls&sni=ww12.levikogjgfdd.ir&type=tcp&host=Telegram-Leviko_v2ray&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B53%5D
-vless://98a28376-ce73-48be-a6f4-abfa74377b65@216.167.27.101:27278?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=Mmuxa6Y9h2thCEMFlQQi26umkKnsirNXQ5btCCyl3EU&sid=994469a256d8&sni=www.nvidia.com&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B8%5D
+vless://e0b9fb0f-1bbd-478b-9580-c2294778338b@77.110.104.125:8443?type=grpc&security=reality&fp=firefox&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&sid=2da4299da566b7&sni=maps.apple.com&serviceName=your-custom-path#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B99%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B8%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMgWzldIiwiYWRkIjoibmV3cmVsYXgucmVsYXhlZGJveS5vbmxpbmUiLCJwb3J0IjoiMTEwIiwiaWQiOiI4ZTk2ODdmYy1hM2E3LTQxNGEtODY3Ni04ZTIxMzY3OTdjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIiwidmNuIjoiIiwicGNzIjoiIn0=
+vless://32cecf5f-e968-1cc3-d937-a9a4c3a57a0d@69.46.46.29:443?path=/ws/32cecf5f-e968-1cc3-d937-a9a4c3a57a0d&security=tls&alpn=http/1.1&encryption=none&host=still-otter-f8a4-production.up.railway.app&type=ws&sni=still-otter-f8a4-production.up.railway.app&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B1%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFRoZSBOZXRoZXJsYW5kcyBbOV0iLCJhZGQiOiI3OC4xNy43MS4yMzYiLCJwb3J0IjoiMzM3MzYiLCJ0eXBlIjoibm9uZSIsImlkIjoiYjNhMTEwNjgtMWE3ZS00NjQzLTg1ZGUtN2M4MmNjZTQ2OTQzIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy13cyIsImhvc3QiOiIiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzY3kiOiJhdXRvIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.214.208.36:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B7%5D
+vless://f65675ca-7245-4eed-b5d8-6d46ac5954f6@185.178.208.176:443?alpn=h3,h2&encryption=none&fp=chrome&host=founders-blog.online&path=/stream/615428/socket&security=tls&sni=founders-blog.online&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B55%5D
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@95.170.13.47:65443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B12%5D
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@15.204.246.111:5498#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B89%5D
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B107%5D
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B103%5D
+hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?insecure=1&sni=173.212.201.85#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B32%5D
+trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@139.59.238.97:50573?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B51%5D
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.246.108:8881#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B88%5D
 vmess://eyJhZGQiOiIxMDcuMTc1LjkxLjExOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMWJiMWY5NWYtNzQyNS00NDQyLTkzZjctOGZjMWJkMWEyMDAxIiwibmV0Ijoid3MiLCJwYXRoIjoiL3YycmF5LXdpc3AiLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMgWzY3XSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?insecure=1&sni=www.docker.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B33%5D
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B10%5D
-vless://56cba26b-efcb-40d0-838a-d66df2dd516f@72.56.68.247:443?security=tls&sni=sni.868001.xyz&type=ws&headerType=none&host=sni.868001.xyz&path=/proxyip%3Dtw.william.us.ci%3Fuuid%3D82bc2875-3fee-49d1-ab29-e108a7b1e5f9&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B3%5D
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B102%5D
-vless://98a28376-ce73-48be-a6f4-abfa74377b65@216.167.27.101:27278?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=Mmuxa6Y9h2thCEMFlQQi26umkKnsirNXQ5btCCyl3EU&sid=994469a256d8&sni=www.nvidia.com&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B7%5D
+trojan://BxceQaOe@100.42.228.109:443/?type=tcp&security=tls&sni=t.me/ripaojiedian&allowInsecure=1&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B14%5D
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B90%5D
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B13%5D
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B94%5D
+vless://56cba26b-efcb-40d0-838a-d66df2dd516f@72.56.68.247:443?security=tls&sni=sni.868001.xyz&type=ws&headerType=none&host=sni.868001.xyz&path=/proxyip%3Dtw.william.us.ci%3Fuuid%3D82bc2875-3fee-49d1-ab29-e108a7b1e5f9&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B5%5D
+vmess://eyJhZGQiOiJuZXdyZWxheC5yZWxheGVkYm95Lm9ubGluZSIsImFpZCI6IjAiLCJpZCI6IjhlOTY4N2ZjLWEzYTctNDE0YS04Njc2LThlMjEzNjc5N2NmZSIsIm5ldCI6InRjcCIsInBvcnQiOiIxMTAiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVbml0ZWQgU3RhdGVzIFs4XSIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwiaG9zdCI6IiIsInBhdGgiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+vless://32cecf5f-e968-1cc3-d937-a9a4c3a57a0d@69.46.46.29:443?path=/ws/32cecf5f-e968-1cc3-d937-a9a4c3a57a0d&security=tls&alpn=http/1.1&encryption=none&host=still-otter-f8a4-production.up.railway.app&type=ws&sni=still-otter-f8a4-production.up.railway.app&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B2%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFRoZSBOZXRoZXJsYW5kcyBbOF0iLCJhZGQiOiI3OC4xNy43MS4yMzYiLCJwb3J0IjoiMzM3MzYiLCJpZCI6ImIzYTExMDY4LTFhN2UtNDY0My04NWRlLTdjODJjY2U0Njk0MyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsInBhdGgiOiIvdm1lc3Mtd3MiLCJob3N0IjoiVGVsZWdyYW0tTGV2aWtvX3YycmF5Iiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.155.113:5601#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B106%5D
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.200.165:5000?type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B104%5D
+hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?insecure=1&sni=www.docker.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B31%5D
+trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@139.59.238.97:50573?security=tls&sni=ww12.levikogjgfdd.ir&type=tcp&host=Telegram-Leviko_v2ray&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B52%5D
+vmess://eyJhZGQiOiIxMDcuMTc1LjkxLjExOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMWJiMWY5NWYtNzQyNS00NDQyLTkzZjctOGZjMWJkMWEyMDAxIiwibmV0Ijoid3MiLCJwYXRoIjoiL3YycmF5LXdpc3AiLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMgWzY5XSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+trojan://BxceQaOe@100.42.228.109:443/?type=tcp&security=tls&sni=t.me/ripaojiedian&allowInsecure=1&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B11%5D
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B12%5D
+vless://56cba26b-efcb-40d0-838a-d66df2dd516f@72.56.68.247:443?security=tls&sni=sni.868001.xyz&type=ws&headerType=none&host=sni.868001.xyz&path=/proxyip%3Dtw.william.us.ci%3Fuuid%3D82bc2875-3fee-49d1-ab29-e108a7b1e5f9&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B6%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMgWzddIiwiYWRkIjoibmV3cmVsYXgucmVsYXhlZGJveS5vbmxpbmUiLCJwb3J0IjoiMTEwIiwiaWQiOiI4ZTk2ODdmYy1hM2E3LTQxNGEtODY3Ni04ZTIxMzY3OTdjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJob3N0IjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
