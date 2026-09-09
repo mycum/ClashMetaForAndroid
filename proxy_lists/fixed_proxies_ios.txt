@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 10.09.2026 03:19)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 10.09.2026 04:22)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1605 | Пинг: 108 | >300KB/s: 38 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1598 | Пинг: 81 | >300KB/s: 40 | ТОП: 32 (iOS: 16)
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B46%5D
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.170:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl1-ded.moritech.net&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B47%5D
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B145%5D
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@15.204.246.189:8119?fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B115%5D
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.246.108:8881#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B118%5D
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B114%5D
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.206:4444#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B264%5D
-ss://aes-256-gcm:Y6R9pAtvxxzmGC@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B93%5D
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118?fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B95%5D
-trojan://d742752c-4231-4695-801e-f06d77f0f277@hk04.qianmoip.win:52224?security=tls&sni=taobao.com&type=tcp&udp=1&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B44%5D
+vless://e2f46341-0eea-4c34-9175-312db4d0cc57@89.124.251.218:20110?security=none&encryption=none&headerType=none&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B1%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B51%5D
+vless://fbb9bd34-adef-4469-bb88-e05672b45190@185.178.208.176:443?alpn=h3,h2&encryption=none&fp=chrome&host=founders-blog.online&path=/stream/615428/socket&security=tls&sni=founders-blog.online&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B61%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.214.208.36:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B2%5D
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B123%5D
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B91%5D
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B144%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFRoZSBOZXRoZXJsYW5kcyBbMl0iLCJhZGQiOiI3OC4xNy43MS4yMzYiLCJwb3J0IjoiMzM3MzYiLCJpZCI6ImIzYTExMDY4LTFhN2UtNDY0My04NWRlLTdjODJjY2U0Njk0MyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsInBhdGgiOiIvdm1lc3Mtd3MiLCJob3N0IjoiVGVsZWdyYW0tTGV2aWtvX3YycmF5Iiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIn0=
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B119%5D
-vless://7dbb0a8b-c8cd-41bf-a7a5-a402636dd451@185.241.195.146:443?alpn=http/1.1&encryption=none&fp=chrome&path=/e7ws&security=tls&sni=dostavka.stroymatdv.cc&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B24%5D
-trojan://BxceQaOe@100.42.228.109:443/?type=tcp&security=tls&sni=t.me/ripaojiedian&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B6%5D
-vmess://eyJhZGQiOiIxNjUuMTQwLjIxNy4yIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImI2NWEyZDY5LTU2MzQtNDJhMi1lNGJlLTU0ZThhNjE3NjkwMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVW5pdGVkIFN0YXRlcyBbM10iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsImZwIjoiY2hyb21lIn0=
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118?fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B94%5D
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.206:4444#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B260%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEhvbmcgS29uZyBbMzJdIiwiYWRkIjoiOTN1Y3JuNGkwcGZmdWFiay52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiOTN1Y3JuNGkwUGZmVUFiay52LjNkbnMudmlwIiwiYWxwbiI6IiIsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJmcCI6ImNocm9tZSJ9
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEhvbmcgS29uZyBbMzddIiwiYWRkIjoiZWpvbXN4cHRwMTlhcHlnbC52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwiYWxwbiI6IiIsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJmcCI6ImNocm9tZSJ9
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEhvbmcgS29uZyBbMzRdIiwiYWRkIjoiY2UwZ2VkcHh3b3U2Y3Fvbi52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiY0UwZ2VkUFh3T1U2Y3FvTi52LjNkbnMudmlwIiwiYWxwbiI6IiIsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJjRTBnZWRQWHdPVTZjcW9OLnYuM2Rucy52aXAiLCJmcCI6ImNocm9tZSJ9
+trojan://d742752c-4231-4695-801e-f06d77f0f277@hk04.qianmoip.win:52224?security=tls&sni=taobao.com&type=tcp&udp=1&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B51%5D
+vmess://eyJhZGQiOiJtMDFjN2IyejI2ZHRxZ2VlLnYuM2Rucy52aXAiLCJhaWQiOiIwIiwiaG9zdCI6Ik0wMWM3QjJ6MjZEdFFHRWUudi4zZG5zLnZpcCIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJwb3J0IjoiNDQzIiwicHMiOiJcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAgSG9uZyBLb25nIFsxOF0iLCJzZWN1cml0eSI6ImF1dG8iLCJzbmkiOiJNMDFjN0IyejI2RHRRR0VlLnYuM2Rucy52aXAiLCJ0bHMiOiJ0bHMiLCJ2IjoiMiIsInR5cGUiOiJub25lIiwic2N5IjoiYXV0byIsImFscG4iOiIiLCJmcCI6ImNocm9tZSJ9
+hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?sni=www.docker.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B23%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEhvbmcgS29uZyBbMjFdIiwiYWRkIjoibXRja3VuZGlnZXB3dTN1cC52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwiYWxwbiI6IiIsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJmcCI6ImNocm9tZSJ9
