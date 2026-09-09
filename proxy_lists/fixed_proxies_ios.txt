@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 09.09.2026 18:49)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 09.09.2026 19:53)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1603 | Пинг: 117 | >300KB/s: 56 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1560 | Пинг: 101 | >300KB/s: 30 | ТОП: 30 (iOS: 16)
 
-vless://8666ab45-8e3d-4988-841b-2561d91e32d5@104.17.112.34:2096?security=tls&sni=mianfei-73q.pages.dev&type=ws&headerType=none&host=mianfei-73q.pages.dev&path=/proxyip%3D154.3.33.43&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B15%5D
-vless://8666ab45-8e3d-4988-841b-2561d91e32d5@104.17.148.65:2087?host=mianfei-73q.pages.dev&path=/proxyip%3D154.3.33.43&security=tls&sni=mianfei-73q.pages.dev&type=ws&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1%5D
-vless://8666ab45-8e3d-4988-841b-2561d91e32d5@104.17.210.74:2083?security=tls&sni=mianfei-73q.pages.dev&type=ws&headerType=none&host=mianfei-73q.pages.dev&path=/proxyip%3D154.3.33.43&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B9%5D
-vless://8666ab45-8e3d-4988-841b-2561d91e32d5@104.19.146.58:2053?security=tls&sni=mianfei-73q.pages.dev&type=ws&headerType=none&host=mianfei-73q.pages.dev&path=/proxyip%3D154.3.33.43&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B12%5D
-vless://8666ab45-8e3d-4988-841b-2561d91e32d5@104.17.118.35:2083?security=tls&sni=mianfei-73q.pages.dev&type=ws&headerType=none&host=mianfei-73q.pages.dev&path=/proxyip%3D154.3.33.43&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B17%5D
-vless://8666ab45-8e3d-4988-841b-2561d91e32d5@172.66.1.247:2053?host=mianfei-73q.pages.dev&path=/proxyip%3D154.3.33.43&security=tls&sni=mianfei-73q.pages.dev&type=ws&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B24%5D
-vless://8666ab45-8e3d-4988-841b-2561d91e32d5@104.17.177.165:2087?host=mianfei-73q.pages.dev&path=/proxyip%3D154.3.33.43&security=tls&sni=mianfei-73q.pages.dev&type=ws&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B5%5D
-vless://8666ab45-8e3d-4988-841b-2561d91e32d5@104.19.50.227:2087?host=mianfei-73q.pages.dev&path=/proxyip%3D154.3.33.43&security=tls&sni=mianfei-73q.pages.dev&type=ws&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B21%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B47%5D
-vless://6d94a576-3eb3-4f1d-bf88-1ed29b09e9e4@robaprik-vafloril.thicketpond.dev:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=robaprik-vafloril.thicketpond.dev&pbk=f_bFaksQOoVyhloR3wrRvk5tTg10DasjJyyFSkXwMj0&sid=ed48dbbed3cd8468&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B20%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.214.208.36:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B1%5D
-ss://aes-256-gcm:Y6R9pAtvxxzmGC@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B131%5D
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118?fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B132%5D
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B128%5D
-trojan://d742752c-4231-4695-801e-f06d77f0f277@hk04.qianmoip.win:52224?security=tls&sni=taobao.com&type=tcp&udp=1&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B11%5D
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B145%5D
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SlRvdStKU21aT0F5ck1MZHZOQmNYRm0wWTlsdVovOHUxN2llNDhqUWZWYz0@141.95.29.163:2083#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B34%5D
+trojan://1e0cc178-82ff-8111-42b1-916b4210ca9b@de9w7ehd8ejr9fyd-development-m0t2g.lucity.app:443?path=/trojan-ws&security=tls&host=de9w7ehd8ejr9fyd-development-m0t2g.lucity.app&fp=chrome&type=ws&sni=de9w7ehd8ejr9fyd-development-m0t2g.lucity.app#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B14%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B6%5D
+vless://f3651e35-d7a5-4416-bece-ddcd3799ebc4@vnova005.up.railway.app:443?path=/ws/f3651e35-d7a5-4416-bece-ddcd3799ebc4&security=tls&alpn=http/1.1&encryption=none&host=&type=ws&sni=&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B1%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.214.208.36:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B2%5D
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@15.204.247.175:8008#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B108%5D
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B113%5D
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.200.165:5000?type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B119%5D
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B173%5D
+trojan://d742752c-4231-4695-801e-f06d77f0f277@hk04.qianmoip.win:52224?security=tls&sni=taobao.com&type=tcp&udp=1&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B2%5D
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B134%5D
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118?fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B124%5D
+trojan://ultra%40kWZdAzt_IH593eGLRjdxnBZ0@z-jp2.1card.cc:10012?security=tls&sni=www.cloudflare.com&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B74%5D
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B6%5D
+ss://YWVzLTI1Ni1nY206R0Vkb2VlcUxadGtKUmdTYQ@139.84.166.47:8388#%F0%9F%87%AE%F0%9F%87%B3%20India%20%5B1%5D
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B120%5D
