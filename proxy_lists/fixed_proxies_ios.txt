@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 10.09.2026 09:54)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 10.09.2026 11:01)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1764 | Пинг: 147 | >300KB/s: 74 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1758 | Пинг: 170 | >300KB/s: 87 | ТОП: 32 (iOS: 16)
 
-vless://89f50da7-bb70-418e-a5d9-3b24c28f0b88@185.178.208.176:443?alpn=h3,h2&encryption=none&fp=chrome&host=founders-blog.online&path=/stream/615428/socket&security=tls&sni=founders-blog.online&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B106%5D
-vless://76395434-8406-4ca4-8a8c-36da7e8ddd23@213.21.229.126:12345?path=/%40Marisa_kristi&security=tls&encryption=none&host=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&type=ws&sni=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B2%5D
-vless://b90470bc-9067-4923-9ba6-a9adfe3c5fdb@racoonpogosnarl.quarrybindery.live:443?security=reality&flow=xtls-rprx-vision&pbk=OTuJX9K_E2nHhg0mXT2uFMNIO7746G6c5rlT6OscQGk&sid=9698d67e63bc8ee0&sni=racoonpogosnarl.quarrybindery.live&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B16%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFRoZSBOZXRoZXJsYW5kcyBbMjldIiwiYWRkIjoiNzguMTcuNzEuMjM2IiwicG9ydCI6IjMzNzM2IiwiaWQiOiJiM2ExMTA2OC0xYTdlLTQ2NDMtODVkZS03YzgyY2NlNDY5NDMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoidGVsZWdyYW0tbGV2aWtvX3YycmF5IiwicGF0aCI6Ii92bWVzcy13cyIsInRscyI6IiIsInNuaSI6InRlbGVncmFtLWxldmlrb192MnJheSIsInBhY2tldEVuY29kaW5nIjoieHVkcCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B52%5D
-vless://4ce7fa65-37ee-48ef-b7a3-902caf592e81@193.148.253.186:49188?security=none&encryption=none&headerType=none&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B2%5D
-vless://00f53158-c278-4d64-ae98-a60c5fe09ffa@107.189.25.18:443?encryption=none&type=raw&security=reality&flow=xtls-rprx-vision&sni=cdn.dodostatic.net&pbk=9dw9Bova6GFJHi8taK2JK3EnSC8MiAgYh9oY4Dog73w&sid=bb54c0d4985504cd&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B7%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.170.35.229:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B21%5D
-vless://8db3a1ab-f739-41f2-ae46-4fb72d9134f8@tur.zavqeron.ir:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=9PxwbCMskvn1WA7ieKvvgJ3tvYU-u0r9wms__WU8URU&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=0bd70fc8a4034691#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5B15%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.214.208.36:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B2%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.247.231.139:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B3%5D
-vless://da11650e-da81-42ef-b6e1-7ed8eab402b2@107.189.27.148:443?encryption=none&type=raw&security=reality&flow=xtls-rprx-vision&sni=a2vonderenkerensheide.nl&pbk=SbL7vo39Xki9E_DnR8S7HATgsThHH4gK9V_G-aA7ZDk&sid=e361ba0c532788b2&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B13%5D
+vless://5edbcb44-8d04-4fa7-a587-bc5d60c24ca1@72.56.234.16:21443?security=reality&encryption=none&sni=www.cloudflare.com&pbk=M6BT_GEwaoIZqpxPO6vxMqcXSMjmhAYd2Tb4fJO-uC4&sid=f6d36e2e08205c67&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B13%5D
+vless://b90470bc-9067-4923-9ba6-a9adfe3c5fdb@155.212.160.45:443?encryption=none&flow=xtls-rprx-vision&pbk=WAiUIB-B_atmuRIEIt3ktYfQcG5aswZz8lg1NLiq1U0&security=reality&sid=ef995c2d2092537f&sni=laggeddrenchcurly.brackenmount.com&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B29%5D
+vless://af00e0c4-decf-48f2-9013-56abe9c9efcd@fl.windconnect.pro:443?security=reality&encryption=none&sni=fl.windconnect.pro&pbk=40Tmrw44FhOyoqCQiOfR2kCgxEPXrBLLv6oYFvjbGUI&sid=3c6ec7b2d73a28b6&flow=xtls-rprx-vision&spx=/&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B5%5D
+vless://b90470bc-9067-4923-9ba6-a9adfe3c5fdb@104.171.134.105:443?encryption=none&flow=xtls-rprx-vision&pbk=OTuJX9K_E2nHhg0mXT2uFMNIO7746G6c5rlT6OscQGk&security=reality&sid=9698d67e63bc8ee0&sni=racoonpogosnarl.quarrybindery.live&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B18%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B49%5D
+vless://4ce7fa65-37ee-48ef-b7a3-902caf592e81@193.148.253.186:49188?security=none&encryption=none&headerType=none&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B1%5D
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SlRvdStKU21aT0F5ck1MZHZOQmNYRm0wWTlsdVovOHUxN2llNDhqUWZWYz0@141.95.29.163:2083#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B19%5D
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@viper-24.moriarty-web.com:443?type=tcp&headerType=none&security=tls&encryption=none&sni=viper-24.moriarty-web.com&alpn=h2&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%5B2%5D
+vless://00706a0e-de50-40f0-b6e0-e50b8d727d88@109.121.44.41:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=2c5d0e9f&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B132%5D
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@viper-26.moriarty-web.com:443?type=tcp&headerType=none&security=tls&encryption=none&sni=viper-26.moriarty-web.com&alpn=h2&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%5B5%5D
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@viper-5.moriarty-web.com:443?type=tcp&headerType=none&security=tls&encryption=none&sni=viper-5.moriarty-web.com&alpn=h2&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B3%5D
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@at-new.moritech.net:443?type=tcp&headerType=none&security=tls&encryption=none&sni=at-new.moritech.net&alpn=h2&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%5B2%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.170.35.229:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B28%5D
+vless://8db3a1ab-f739-41f2-ae46-4fb72d9134f8@tur.zavqeron.ir:8443?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&pbk=9PxwbCMskvn1WA7ieKvvgJ3tvYU-u0r9wms__WU8URU&sid=0bd70fc8a4034691&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5B4%5D
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.171.218.140:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B1%5D
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.206:4444#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B296%5D
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B101%5D
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118?fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B99%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.214.208.36:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B2%5D
