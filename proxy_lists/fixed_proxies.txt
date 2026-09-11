@@ -1,36 +1,25 @@
-# profile-title: 🚀 Telegood VPN (ТОП-32 от 11.09.2026 20:00)
-# 🛡️ Verified Elite: 32
-# 📊 Stats: Вход: 1500 | Пинг: 92 | >300KB/s: 44 | ТОП: 32 (iOS: 16)
+# profile-title: 🚀 Telegood VPN (ТОП-32 от 11.09.2026 21:03)
+# 🛡️ Verified Elite: 21
+# 📊 Stats: Вход: 1510 | Пинг: 64 | >300KB/s: 21 | ТОП: 21 (iOS: 16)
 
 vless://1a427c06-a1d2-4de3-9172-8a4290468575@188.130.209.198:443?encryption=none&flow=xtls-rprx-vision&pbk=EMedbccbw2GcUux0nqRfMhF1B2lE-BJhcnKpiILSvlU&security=reality&sid=ae368c547f644d1c&sni=media.mycdn-io.ru&type=tcp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B2%5D
-vless://6aaa7d1d-8b35-4fd2-ae60-0129ad624935@188.68.218.205:443?encryption=none&pbk=8dPBbufX7ST4NrD8Etatp_FR_mbd38vXa2ZXCVLxjQ4&security=reality&serviceName=grpc&sid=0fc62d3cd3089adb&sni=static-basket-01.wbbasket.ru&type=grpc&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B15%5D
-vless://1e63ad6f-89ca-4968-95c6-0f5e4d109f78@api.mediakanal.cc:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=api.mediakanal.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&headerType=none&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B12%5D
-vless://367b6ccd-ecf1-42da-b9d7-375161ab0952@188.225.27.218:20443?encryption=none&flow=xtls-rprx-vision&pbk=eyfWllHdZ8v6gtVISpKvpli--ZnNPm-dKtZAZ4CMs1w&security=reality&sid=6203299b996fd3e1&sni=pl3.esimpson.org&type=tcp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B19%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.179.104.218:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B22%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.170.35.229:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B24%5D
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@108.129.176.139:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B5%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.179.104.218:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B22%5D
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.214.208.36:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B3%5D
-ss://aes-256-gcm:Y6R9pAtvxxzmGC@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B112%5D
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B124%5D
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B134%5D
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B11%5D
-vless://4ca5286a-05f1-476f-a5ff-e522a2f41b95@38.147.172.2:18830?security=reality&flow=xtls-rprx-vision&pbk=8kiQCMpifYMlVORGI8KxqQixS7COb-Sa43Kkxs0kxUQ&fp=chrome&sni=aws.amazon.com&type=tcp&headerType=none&host=aws.amazon.com&path=/#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B41%5D
-vless://751b489c-27e6-4bae-b43c-f02fb304d768@207.57.133.237:56109?security=reality&flow=xtls-rprx-vision&pbk=WV3fNhuy06svr1ONLWT2t76iDO9lJVonANX5pbBMwic&fp=chrome&sni=dash.cloudflare.com&type=tcp&headerType=none&host=dash.cloudflare.com&path=/#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B49%5D
-hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?insecure=1&sni=www.docker.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B25%5D
-vless://82267970-9ba7-44f9-a552-e69720df81f1@207.57.131.118:36297?flow=xtls-rprx-vision&fp=chrome&pbk=rBHsBLrfPPEkm2qmSxaRtTQsIAxhtBel7P1_8ccEAmg&security=reality&sid=&sni=aws.amazon.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B52%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@16.52.168.26:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B127%5D
-vmess://eyJhZGQiOiIxNjUuMTQwLjIxNy4yIiwiaWQiOiJiNjVhMmQ2OS01NjM0LTQyYTItZTRiZS01NGU4YTYxNzY5MDAiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0IjoicmF3IiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVW5pdGVkIFN0YXRlcyBbMl0iLCJhaWQiOiIwIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B110%5D
-ss://YWVzLTI1Ni1nY206R0Vkb2VlcUxadGtKUmdTYQ@139.84.166.47:8388#%F0%9F%87%AE%F0%9F%87%B3%20India%20%5B2%5D
-ss://aes-256-gcm:kDWvXYZoTBcGkC4@51.79.49.116:8882#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B119%5D
-trojan://BxceQaOe@100.42.228.109:443/?type=tcp&security=tls&sni=t.me/ripaojiedian&allowInsecure=1&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B6%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEphcGFuIFszXSIsImFkZCI6IjQ1LjMyLjU3LjExOCIsInBvcnQiOiI0NDMzIiwiaWQiOiIzNWI4OTgzMi0wYTdjLTQ4ZGQtOGQxYy1hMjg5MWI1MjIxOTUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B139%5D
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B11%5D
-vless://538e6fea-2c29-4da3-bfba-8da67a2fd9d3@38.207.176.227:24190?flow=xtls-rprx-vision&fp=chrome&pbk=LS6ENQ8BWIvaAjw0v8A39dpt1fH_kVE9VUa4Mwmhvlw&security=reality&sid=&sni=www.amazon.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B43%5D
-vless://51fb4051-a146-45cd-b902-a24df5325b23@38.207.178.244:51895?type=tcp&security=reality&sni=aws.amazon.com&flow=xtls-rprx-vision&pbk=Uz7IOZjbOsAGGacB7CVE8jkrIDAphwIIzjurkFx5Ckk&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B42%5D
-vless://1a427c06-a1d2-4de3-9172-8a4290468575@188.130.209.198:443?encryption=none&flow=xtls-rprx-vision&pbk=EMedbccbw2GcUux0nqRfMhF1B2lE-BJhcnKpiILSvlU&security=reality&sid=ae368c547f644d1c&sni=media.mycdn-io.ru&type=tcp&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B3%5D
-vless://6aaa7d1d-8b35-4fd2-ae60-0129ad624935@188.68.218.205:443?encryption=none&pbk=8dPBbufX7ST4NrD8Etatp_FR_mbd38vXa2ZXCVLxjQ4&security=reality&serviceName=grpc&sid=0fc62d3cd3089adb&sni=static-basket-01.wbbasket.ru&type=grpc&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B17%5D
-vless://1e63ad6f-89ca-4968-95c6-0f5e4d109f78@189.74.115.4:443?encryption=none&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediakanal.cc&type=tcp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B7%5D
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B111%5D
-vless://4ca5286a-05f1-476f-a5ff-e522a2f41b95@38.147.172.2:18830?security=reality&flow=xtls-rprx-vision&pbk=8kiQCMpifYMlVORGI8KxqQixS7COb-Sa43Kkxs0kxUQ&fp=chrome&sni=aws.amazon.com&type=tcp&headerType=none&host=aws.amazon.com&path=/#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B40%5D
-vless://751b489c-27e6-4bae-b43c-f02fb304d768@207.57.133.237:56109?security=reality&flow=xtls-rprx-vision&pbk=WV3fNhuy06svr1ONLWT2t76iDO9lJVonANX5pbBMwic&fp=chrome&sni=dash.cloudflare.com&type=tcp&headerType=none&host=dash.cloudflare.com&path=/#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B48%5D
+ss://aes-256-gcm:Y6R9pAtvxxzmGC@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B113%5D
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B111%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@16.52.165.74:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B130%5D
+vless://4ca5286a-05f1-476f-a5ff-e522a2f41b95@38.147.172.2:18830?security=reality&flow=xtls-rprx-vision&pbk=8kiQCMpifYMlVORGI8KxqQixS7COb-Sa43Kkxs0kxUQ&fp=chrome&sni=aws.amazon.com&type=tcp&headerType=none&host=aws.amazon.com&path=/#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B50%5D
+vless://751b489c-27e6-4bae-b43c-f02fb304d768@207.57.133.237:56109?security=reality&flow=xtls-rprx-vision&pbk=WV3fNhuy06svr1ONLWT2t76iDO9lJVonANX5pbBMwic&fp=chrome&sni=dash.cloudflare.com&type=tcp&headerType=none&host=dash.cloudflare.com&path=/#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B59%5D
+vless://538e6fea-2c29-4da3-bfba-8da67a2fd9d3@38.207.176.227:24190?flow=xtls-rprx-vision&fp=chrome&pbk=LS6ENQ8BWIvaAjw0v8A39dpt1fH_kVE9VUa4Mwmhvlw&security=reality&sid=&sni=www.amazon.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B53%5D
+vless://0c800379-6d30-4e92-bc92-975870917c6d@207.57.128.138:18493?flow=xtls-rprx-vision&fp=chrome&pbk=ecbBpsjPFcbQjjSqtFO0bR7B_NqkKpXgj41-Q5ZMalA&security=reality&sid=&sni=www.amazon.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B31%5D
+vless://3940f40e-1d33-420c-90ca-1896e4911d2c@207.57.134.153:38156?flow=xtls-rprx-vision&fp=chrome&pbk=YiaOdFKAJD0ktWP_UkvHGGq3P4ZRkwC_k2HrHxDH-zM&security=reality&sid=&sni=aws.amazon.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B37%5D
+vless://82267970-9ba7-44f9-a552-e69720df81f1@207.57.131.118:36297?flow=xtls-rprx-vision&fp=chrome&pbk=rBHsBLrfPPEkm2qmSxaRtTQsIAxhtBel7P1_8ccEAmg&security=reality&sid=&sni=aws.amazon.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B62%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@16.52.168.26:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B128%5D
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B10%5D
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B143%5D
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B112%5D
+vless://751b489c-27e6-4bae-b43c-f02fb304d768@207.57.133.237:56109?security=reality&flow=xtls-rprx-vision&pbk=WV3fNhuy06svr1ONLWT2t76iDO9lJVonANX5pbBMwic&fp=chrome&sni=dash.cloudflare.com&type=tcp&headerType=none&host=dash.cloudflare.com&path=/#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B58%5D
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B11%5D
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B12%5D
