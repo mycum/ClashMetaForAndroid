@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 12.09.2026 05:38)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 12.09.2026 06:46)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1607 | Пинг: 184 | >300KB/s: 85 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1722 | Пинг: 266 | >300KB/s: 111 | ТОП: 32 (iOS: 16)
 
-vless://3c26385d-a501-4cc0-9661-8562a4ce4552@185.178.208.176:443?alpn=h3,h2&encryption=none&fp=chrome&host=founders-blog.online&path=/stream/615428/socket&security=tls&sni=founders-blog.online&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B85%5D
-vless://2b3e8750-b944-42fc-b36e-ec2c64b48a98@185.141.227.155:20002?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_ilhBTibNauMOEUqylnlBAUTYiqHHtmEDXkx18SHCR4&security=reality&sni=pool.dataroute.biz&spx=/&type=raw#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B9%5D
-vless://6f752d76-d22c-4e17-97e1-0d1384e96073@151.242.169.118:443?encryption=none&flow=xtls-rprx-vision&pbk=-cWdyfFTCDxkxuz5ei5ETdJkYaJcQCFPc9-6ZV8Z8kk&security=reality&sid=9d009eca3324c917&sni=fernandfoxgloveinteriors.co.uk&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%5B7%5D
-vless://02722550-1915-4629-a653-cbe95e594f70@84.32.185.127:443?encryption=none&flow=xtls-rprx-vision&pbk=2zLFL9xRZ_hAqBHIUpZrj3z5o5Bvt3OAFy5yDat7h0U&security=reality&sid=2aef5875&sni=apiv1nd.goonars.com&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B14%5D
-vless://02722550-1915-4629-a653-cbe95e594f70@84.32.177.5:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Q6vABOUn6Uxtp0uDsfDG-SRJFLBh_oOofD9reec4iSg&security=reality&sid=cf41f778&sni=cdn15sw.goonars.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B11%5D
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06MnRGcXlrR3FaMTAxWFcxMWY2aVJpRVJuUHljRkFqallxMHkyelVZaEtobz0@51.38.71.51:2083#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B47%5D
-vless://02722550-1915-4629-a653-cbe95e594f70@cdn6.goonars.com:443?encryption=none&security=reality&sni=apitw3.goonars.com&fp=chrome&pbk=VWDBW2RS3o-oFBrSNdpncoaVVU8KixbPNHoj4-Wy7lM&sid=04a69fc6&spx=/&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B190%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFRoZSBOZXRoZXJsYW5kcyBbNDddIiwiYWRkIjoiNzguMTcuNzEuMjM2IiwicG9ydCI6IjMzNzM2IiwidHlwZSI6Im5vbmUiLCJpZCI6ImIzYTExMDY4LTFhN2UtNDY0My04NWRlLTdjODJjY2U0Njk0MyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3Mtd3MiLCJob3N0IjoidGVsZWdyYW0tbGV2aWtvX3YycmF5IiwidGxzIjoiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6ImNocm9tZSJ9
-vless://02722550-1915-4629-a653-cbe95e594f70@72.56.26.79:443?encryption=none&flow=xtls-rprx-vision&pbk=xh_QDA_3avhlauOCH2U5HLlTmuDNPQVe_tS-DV3XQWY&security=reality&sid=d026eb55&sni=apitw2.goonars.com&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B191%5D
-vless://02722550-1915-4629-a653-cbe95e594f70@cdn8tw.goonars.com:443?encryption=none&security=reality&sni=apitw1.goonars.com&pbk=unAvLudgWMwMSCs9ltSr2_Ayp7q3685S7EBxFVk_4Uw&sid=9d0791d1&spx=/&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B40%5D
+vless://625fced3-4d12-42ed-a460-bce974e6945a@185.178.208.176:443?alpn=h3,h2&encryption=none&fp=chrome&host=founders-blog.online&path=/stream/615428/socket&security=tls&sni=founders-blog.online&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B69%5D
+vless://b247d68a-a1cd-4332-a7bf-ef4aeb7804a4@185.241.195.146:443?alpn=http/1.1&encryption=none&fp=chrome&path=/e7ws&security=tls&sni=dostavka.stroymatdv.cc&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B36%5D
+vless://efb9433e-fad1-41af-a543-b62ffbe84574@199.232.237.245:80?encryption=none&type=ws&path=/&host=Tirandazl.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B7%5D
+vless://2b3e8750-b944-42fc-b36e-ec2c64b48a98@185.141.227.155:20002?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_ilhBTibNauMOEUqylnlBAUTYiqHHtmEDXkx18SHCR4&security=reality&sni=pool.dataroute.biz&type=raw#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B17%5D
+vless://3f9f2bda-0b9c-8469-7381-a73de2255619@62.233.39.9:443?path=/&security=reality&encryption=none&pbk=sbBzEDf7UllUslF6LTfsM1qiOW322QKM343zhJD0Lng&type=xhttp&sni=cdn.steamstatic.com&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B33%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaakF4Wg@83.171.225.55:1443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B10%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.8.209.170:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B25%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.170.35.229:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B22%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.247.231.139:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B8%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.214.208.36:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B4%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.254.74.220:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B6%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B12%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFRoZSBOZXRoZXJsYW5kcyBbODNdIiwiYWRkIjoiNzguMTcuNzEuMjM2IiwicG9ydCI6IjMzNzM2IiwiaWQiOiJiM2ExMTA2OC0xYTdlLTQ2NDMtODVkZS03YzgyY2NlNDY5NDMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiVGVsZWdyYW0tTGV2aWtvX3YycmF5IiwicGF0aCI6Ii92bWVzcy13cyIsInRscyI6IiIsInNuaSI6IlRlbGVncmFtLUxldmlrb192MnJheSIsImFscG4iOiIiLCJmcCI6ImNocm9tZSJ9
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6d3piZ1JMbFNlRHd4SFg2eExWVnhLazkzSzVrNU44ays3cm5jUVhuODBYQT0@134.65.57.209:61312#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B9%5D
+vless://02722550-1915-4629-a653-cbe95e594f70@201.51.10.239:443?encryption=none&flow=xtls-rprx-vision&pbk=unAvLudgWMwMSCs9ltSr2_Ayp7q3685S7EBxFVk_4Uw&security=reality&sid=9d0791d1&sni=apitw1.goonars.com&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B47%5D
+vless://02722550-1915-4629-a653-cbe95e594f70@201.51.10.240:443?encryption=none&flow=xtls-rprx-vision&pbk=VWDBW2RS3o-oFBrSNdpncoaVVU8KixbPNHoj4-Wy7lM&security=reality&sid=04a69fc6&sni=apitw3.goonars.com&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B56%5D
+vless://02722550-1915-4629-a653-cbe95e594f70@72.56.26.79:443?encryption=none&flow=xtls-rprx-vision&pbk=xh_QDA_3avhlauOCH2U5HLlTmuDNPQVe_tS-DV3XQWY&security=reality&sid=d026eb55&sni=apitw2.goonars.com&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B57%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.8.209.170:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B23%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.170.35.229:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B20%5D
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06MnRGcXlrR3FaMTAxWFcxMWY2aVJpRVJuUHljRkFqallxMHkyelVZaEtobz0@51.38.71.51:2083#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B50%5D
+vless://f1505323-ecb6-4152-9a5b-d37b3ae1cacf@91.107.144.42:443?security=reality&encryption=none&pbk=WlAXTWbhFDMJJHaXkpnbbxEBtQV3lZNoIH86pmYzMx8&headerType=none&type=tcp&sni=play-apps-features.googleusercontent.com&sid=f532fd0a180d3458&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B4%5D
