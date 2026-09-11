@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 11.09.2026 17:54)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 11.09.2026 18:57)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1578 | Пинг: 140 | >300KB/s: 43 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1543 | Пинг: 76 | >300KB/s: 28 | ТОП: 28 (iOS: 16)
 
-vless://42c62a5a-cd31-4551-80ef-908732370287@104.17.58.217:443?security=tls&type=ws&path=/proxyip%3D154.17.22.207,69.63.210.157,134.195.211.13,172.236.245.153,209.146.115.209,64.186.224.194,149.28.94.52,107.151.188.57&host=fq.jp188.dpdns.org&packetEncoding=none&sni=fq.jp188.dpdns.org&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B166%5D
-vless://42c62a5a-cd31-4551-80ef-908732370287@104.17.25.208:2096?security=tls&fp=chrome&sni=fq.jp188.dpdns.org&type=ws&headerType=none&host=fq.jp188.dpdns.org&path=/proxyip%3D154.17.22.207,69.63.210.157,134.195.211.13,172.236.245.153,209.146.115.209,64.186.224.194,149.28.94.52,107.151.188.57#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B170%5D
-vless://42c62a5a-cd31-4551-80ef-908732370287@104.19.146.98:2083?security=tls&fp=chrome&sni=fq.jp188.dpdns.org&type=ws&headerType=none&host=fq.jp188.dpdns.org&path=/proxyip%3D154.17.22.207,69.63.210.157,134.195.211.13,172.236.245.153,209.146.115.209,64.186.224.194,149.28.94.52,107.151.188.57#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B176%5D
-vless://42c62a5a-cd31-4551-80ef-908732370287@104.17.159.189:443?security=tls&type=ws&path=/proxyip%3D154.17.22.207,69.63.210.157,134.195.211.13,172.236.245.153,209.146.115.209,64.186.224.194,149.28.94.52,107.151.188.57&host=fq.jp188.dpdns.org&packetEncoding=none&sni=fq.jp188.dpdns.org&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B163%5D
-vless://42c62a5a-cd31-4551-80ef-908732370287@104.17.189.78:2053?security=tls&type=ws&path=/proxyip%3D154.17.22.207,69.63.210.157,134.195.211.13,172.236.245.153,209.146.115.209,64.186.224.194,149.28.94.52,107.151.188.57&host=fq.jp188.dpdns.org&packetEncoding=none&sni=fq.jp188.dpdns.org&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B172%5D
-vless://42c62a5a-cd31-4551-80ef-908732370287@104.16.157.175:8443?security=tls&type=ws&path=/proxyip%3D154.17.22.207,69.63.210.157,134.195.211.13,172.236.245.153,209.146.115.209,64.186.224.194,149.28.94.52,107.151.188.57&host=fq.jp188.dpdns.org&packetEncoding=xudp&sni=fq.jp188.dpdns.org&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B168%5D
-vless://42c62a5a-cd31-4551-80ef-908732370287@104.17.158.136:2053?encryption=none&security=tls&sni=fq.jp188.dpdns.org&fp=chrome&type=ws&host=fq.jp188.dpdns.org&path=/proxyip%3D154.17.22.207,69.63.210.157,134.195.211.13,172.236.245.153,209.146.115.209,64.186.224.194,149.28.94.52,107.151.188.57#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B167%5D
-vless://42c62a5a-cd31-4551-80ef-908732370287@fq.jp188.dpdns.org:443?security=tls&sni=fq.jp188.dpdns.org&type=ws&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B171%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.170.35.229:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B27%5D
+vless://1a427c06-a1d2-4de3-9172-8a4290468575@188.130.209.198:443?encryption=none&flow=xtls-rprx-vision&pbk=EMedbccbw2GcUux0nqRfMhF1B2lE-BJhcnKpiILSvlU&security=reality&sid=ae368c547f644d1c&sni=media.mycdn-io.ru&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B4%5D
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.214.208.36:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B3%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@108.129.176.139:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B5%5D
-vless://d86f2327-4617-4932-a667-f61369057a10@185.178.208.176:443?alpn=h3,h2&encryption=none&fp=chrome&host=founders-blog.online&path=/stream/615428/socket&security=tls&sni=founders-blog.online&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B57%5D
-trojan://d742752c-4231-4695-801e-f06d77f0f277@hk04.qianmoip.win:52224?security=tls&sni=taobao.com&type=tcp&udp=1&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B2%5D
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B115%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@16.52.165.74:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B134%5D
-vless://3940f40e-1d33-420c-90ca-1896e4911d2c@207.57.134.153:38156?flow=xtls-rprx-vision&fp=chrome&pbk=YiaOdFKAJD0ktWP_UkvHGGq3P4ZRkwC_k2HrHxDH-zM&security=reality&sid=&sni=aws.amazon.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B29%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.179.104.218:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B25%5D
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B132%5D
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B114%5D
+ss://aes-256-gcm:Y6R9pAtvxxzmGC@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B116%5D
+trojan://d742752c-4231-4695-801e-f06d77f0f277@hk04.qianmoip.win:52224?security=tls&sni=taobao.com&type=tcp&udp=1&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B18%5D
+vless://538e6fea-2c29-4da3-bfba-8da67a2fd9d3@38.207.176.227:24190?flow=xtls-rprx-vision&fp=chrome&pbk=LS6ENQ8BWIvaAjw0v8A39dpt1fH_kVE9VUa4Mwmhvlw&security=reality&sid=&sni=www.amazon.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B63%5D
+vless://4ca5286a-05f1-476f-a5ff-e522a2f41b95@38.147.172.2:18830?security=reality&flow=xtls-rprx-vision&pbk=8kiQCMpifYMlVORGI8KxqQixS7COb-Sa43Kkxs0kxUQ&fp=chrome&sni=aws.amazon.com&type=tcp&headerType=none&host=aws.amazon.com&path=/#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B60%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@16.52.168.26:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B131%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.182.182.58:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B129%5D
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B18%5D
+vless://51fb4051-a146-45cd-b902-a24df5325b23@38.207.178.244:51895?type=tcp&security=reality&sni=aws.amazon.com&flow=xtls-rprx-vision&pbk=Uz7IOZjbOsAGGacB7CVE8jkrIDAphwIIzjurkFx5Ckk&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B62%5D
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B137%5D
+hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?sni=www.docker.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B25%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTovNjN2cDdwZGwxR1hhVHBhNmtrV2QyKzN0cTMvc3pTQVd1ZVZLbzI2eE04PQ@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B1%5D
