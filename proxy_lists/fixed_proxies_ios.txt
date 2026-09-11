@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 12.09.2026 03:23)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 12.09.2026 04:32)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1612 | Пинг: 149 | >300KB/s: 37 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1658 | Пинг: 217 | >300KB/s: 65 | ТОП: 32 (iOS: 16)
 
-vless://02722550-1915-4629-a653-cbe95e594f70@cdn15sw.goonars.com:443?encryption=none&security=reality&sni=cdn15sw.goonars.com&pbk=Q6vABOUn6Uxtp0uDsfDG-SRJFLBh_oOofD9reec4iSg&sid=cf41f778&spx=/&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B5%5D
-vless://02722550-1915-4629-a653-cbe95e594f70@84.32.185.127:443?encryption=none&flow=xtls-rprx-vision&pbk=2zLFL9xRZ_hAqBHIUpZrj3z5o5Bvt3OAFy5yDat7h0U&security=reality&sid=2aef5875&sni=apiv1nd.goonars.com&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B193%5D
+vless://fdaafea8-afc7-4ece-9dc4-1e2609c43913@188.225.24.89:8449?encryption=none&flow=xtls-rprx-vision&pbk=XF3wXFapd311fC0M0APxbrf3cIaGnyKU7BR4Pv_l7Rs&security=reality&sid=15954a1c5a3d5bfc&sni=akashi.vk-portal.net&type=raw&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B3%5D
 vless://6a1454dc-bce8-4d5c-a685-7fa02badffa7@151.242.169.118:443?encryption=none&flow=xtls-rprx-vision&pbk=-cWdyfFTCDxkxuz5ei5ETdJkYaJcQCFPc9-6ZV8Z8kk&security=reality&sid=9d009eca3324c917&sni=fernandfoxgloveinteriors.co.uk&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%5B4%5D
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06MnRGcXlrR3FaMTAxWFcxMWY2aVJpRVJuUHljRkFqallxMHkyelVZaEtobz0@51.38.71.51:2083#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B45%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.179.104.218:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B22%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.170.35.229:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B24%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@108.129.176.139:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B6%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.247.231.139:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B5%5D
-vless://2b3e8750-b944-42fc-b36e-ec2c64b48a98@185.141.227.155:20002?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_ilhBTibNauMOEUqylnlBAUTYiqHHtmEDXkx18SHCR4&security=reality&sni=pool.dataroute.biz&type=raw#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B16%5D
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B157%5D
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B158%5D
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B121%5D
-vless://66936521-52b4-47ac-9aeb-6f292e352797@170.114.52.22:443?security=tls&type=ws&sni=asia.csmasterofficial.store&path=/cs&host=asia.csmasterofficial.store&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B3%5D
-vless://cabec98d-0460-44ca-89db-6f54de6e33a1@185.178.208.176:443?alpn=h3,h2&encryption=none&fp=chrome&host=founders-blog.online&path=/stream/615428/socket&security=tls&sni=founders-blog.online&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B89%5D
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B119%5D
-vmess://eyJ2IjoiMiIsImFkZCI6ImV4MW9ndDczbnpwcWthYzIudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoidGxzIiwic25pIjoiZXgxb2d0NzNuenBxa2FjMi52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEhvbmcgS29uZyBbNF0iLCJob3N0IjoiIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIn0=
+vless://02722550-1915-4629-a653-cbe95e594f70@84.32.185.127:443?encryption=none&flow=xtls-rprx-vision&pbk=2zLFL9xRZ_hAqBHIUpZrj3z5o5Bvt3OAFy5yDat7h0U&security=reality&sid=2aef5875&sni=apiv1nd.goonars.com&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B198%5D
+vless://02722550-1915-4629-a653-cbe95e594f70@cdn15sw.goonars.com:443?encryption=none&security=reality&sni=cdn15sw.goonars.com&pbk=Q6vABOUn6Uxtp0uDsfDG-SRJFLBh_oOofD9reec4iSg&sid=cf41f778&spx=/&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B196%5D
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06MnRGcXlrR3FaMTAxWFcxMWY2aVJpRVJuUHljRkFqallxMHkyelVZaEtobz0@51.38.71.51:2083#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B47%5D
+vless://02722550-1915-4629-a653-cbe95e594f70@cdn6.goonars.com:443?encryption=none&security=reality&sni=apitw3.goonars.com&fp=chrome&pbk=VWDBW2RS3o-oFBrSNdpncoaVVU8KixbPNHoj4-Wy7lM&sid=04a69fc6&spx=/&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B30%5D
+vless://02722550-1915-4629-a653-cbe95e594f70@201.51.10.239:443?encryption=none&flow=xtls-rprx-vision&pbk=unAvLudgWMwMSCs9ltSr2_Ayp7q3685S7EBxFVk_4Uw&security=reality&sid=9d0791d1&sni=apitw1.goonars.com&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B10%5D
+vless://dc2259c4-388e-4285-ba18-df619b6672b6@82.118.16.187:443?encryption=none&flow=xtls-rprx-vision&pbk=R5ycsjJ-v024902dMSqTsSdqxUwCFEXMebdBEWFt9VU&security=reality&sid=cd6065902eea7a02&sni=www.cloudflare.com&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B3%5D
+vless://02722550-1915-4629-a653-cbe95e594f70@72.56.26.79:443?encryption=none&flow=xtls-rprx-vision&pbk=xh_QDA_3avhlauOCH2U5HLlTmuDNPQVe_tS-DV3XQWY&security=reality&sid=d026eb55&sni=apitw2.goonars.com&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B23%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.179.104.218:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B24%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.170.35.229:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B22%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.247.231.139:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B8%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.8.209.170:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B25%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.32.92.226:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B7%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.254.74.220:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B6%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@108.129.176.139:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B5%5D
