@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 12.09.2026 13:31)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 13.09.2026 02:18)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1674 | Пинг: 158 | >300KB/s: 75 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1608 | Пинг: 176 | >300KB/s: 73 | ТОП: 32 (iOS: 16)
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B9%5D
-vless://02722550-1915-4629-a653-cbe95e594f70@cdn6.goonars.com:443?encryption=none&security=reality&sni=apitw3.goonars.com&pbk=VWDBW2RS3o-oFBrSNdpncoaVVU8KixbPNHoj4-Wy7lM&sid=04a69fc6&spx=/&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B35%5D
-vless://3e0c1fbf-467a-49d7-abd2-3a158628f3d0@fin3.gigobingo.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fin3.gigobingo.ru&fp=chrome&pbk=Aj6Op88j_eYXxoBw095KS_NnKCBm5uwa874uumXdiDQ&sid=ef7c4e4302bd52d7&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B1%5D
-vless://a4846a6c-163f-4b12-a99f-378d814e5e09@172.239.239.53:22746?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=B6bPTxNaLqqoUTuNggzTBP0pPxJEqE_Bd_Ob27MPvgU&sni=www.intel.com&sid=d9fd4fa80238cd05#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B37%5D
-vless://02722550-1915-4629-a653-cbe95e594f70@cdn7tw.goonars.com:443?encryption=none&security=reality&sni=apitw2.goonars.com&pbk=xh_QDA_3avhlauOCH2U5HLlTmuDNPQVe_tS-DV3XQWY&sid=d026eb55&spx=/&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B5%5D
-vless://3e0c1fbf-467a-49d7-abd2-3a158628f3d0@de-5.gigobingo.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=de-5.gigobingo.ru&fp=chrome&pbk=Aj6Op88j_eYXxoBw095KS_NnKCBm5uwa874uumXdiDQ&sid=ef7c4e4302bd52d7&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B1%5D
-vless://52d1d193-7a49-4d2e-9d52-c2615704034b@31.59.140.124:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=CmEq9C2VI3tVvp4vblfb7Y6vewnDEDkZ_W4gyYE4ahc&security=reality&sid=8718991b6fe65912&sni=nlv.baboon.digital&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B28%5D
-vless://3e0c1fbf-467a-49d7-abd2-3a158628f3d0@fr2.gigobingo.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fr2.gigobingo.ru&fp=chrome&pbk=Aj6Op88j_eYXxoBw095KS_NnKCBm5uwa874uumXdiDQ&sid=ef7c4e4302bd52d7&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B1%5D
-vless://167ed405-7de9-4bff-b1ea-6e3d49c76b0b@172.238.232.239:32833?security=reality&encryption=none&pbk=PaTDdYBrlh1xBixdI0igvRRkf0vnUwMRzi-4oDyfS20&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=a0a305ccc8e94aa8#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B1%5D
-vless://3e0c1fbf-467a-49d7-abd2-3a158628f3d0@de3.gigobingo.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=de3.gigobingo.ru&pbk=Aj6Op88j_eYXxoBw095KS_NnKCBm5uwa874uumXdiDQ&sid=ef7c4e4302bd52d7&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B7%5D
-vless://d7cad038-0c3f-4cce-8f8a-36464aaf66c0@31.76.54.56:6443?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=HHz-2xJzux-wn53uLOnSpdjds9rnRZEI7sr6z5hYnis&sid=79245360&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B5%5D
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@at-new-ded5.moritech.net:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%5B1%5D
-vless://02722550-1915-4629-a653-cbe95e594f70@201.51.10.239:443?encryption=none&flow=xtls-rprx-vision&pbk=unAvLudgWMwMSCs9ltSr2_Ayp7q3685S7EBxFVk_4Uw&security=reality&sid=9d0791d1&sni=apitw1.goonars.com&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B32%5D
-vless://3e0c1fbf-467a-49d7-abd2-3a158628f3d0@ro1.gigobingo.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ro1.gigobingo.ru&pbk=Aj6Op88j_eYXxoBw095KS_NnKCBm5uwa874uumXdiDQ&sid=ef7c4e4302bd52d7&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5B2%5D
-vless://3e0c1fbf-467a-49d7-abd2-3a158628f3d0@ro2.gigobingo.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ro2.gigobingo.ru&fp=chrome&pbk=Aj6Op88j_eYXxoBw095KS_NnKCBm5uwa874uumXdiDQ&sid=ef7c4e4302bd52d7&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5B7%5D
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@roma3.moritech.net:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5B5%5D
+vless://96b44347-cac5-cfae-383b-1724ae9b5aec@170.168.99.8:443?mode=auto&path=/&security=reality&encryption=none&pbk=skXBkyphBIt0TWVM0R5U3U-8UG0cuW00ONkaQpJ-OxU&type=xhttp&sni=download.nvidia.com&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B8%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B39%5D
+vless://1859decf-1af7-4a75-a461-221f5d2df6f5@151.242.169.119:443?encryption=none&flow=xtls-rprx-vision&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=yidio.com&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%5B4%5D
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SlRvdStKU21aT0F5ck1MZHZOQmNYRm0wWTlsdVovOHUxN2llNDhqUWZWYz0@141.95.29.163:2083#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B50%5D
+vless://3b6a9df3-f1d1-4bc1-94a5-0d8f2d5512b1@lond.2clash.ru:443?security=reality&encryption=none&pbk=F_ws7uB6_86TsgsC2wUnVT0Jp1qqTgmR0ucRwPRhETg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=lond.2clash.ru&sid=32434434567654&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B4%5D
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.180.214.110:5600#%F0%9F%87%A9%F0%9F%87%B0%20Denmark%20%5B2%5D
+vless://d7cad038-0c3f-4cce-8f8a-36464aaf66c0@31.76.54.56:6443?type=tcp&security=reality&sni=www.samsung.com&pbk=HHz-2xJzux-wn53uLOnSpdjds9rnRZEI7sr6z5hYnis&sid=79245360&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B3%5D
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B155%5D
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B116%5D
+vless://8bf3e040-8ac9-5d0e-304f-9b735e145de8@147.78.182.3:443?encryption=none&security=reality&sni=www.epson.com&fp=chrome&pbk=Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8&type=xhttp&path=/&mode=auto#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B21%5D
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B127%5D
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B130%5D
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B176%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEhvbmcgS29uZyBbMTldIiwiYWRkIjoicXRrZHI4anhlM3dlZnhqbS52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoicVRLRFI4alhFM3dFRnhKTS52LjNkbnMudmlwIiwiYWxwbiI6IiIsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJmcCI6ImNocm9tZSJ9
+ss://aes-256-gcm:Y6R9pAtvxxzmGC@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B118%5D
+vless://97ecaad4-452c-45ec-b591-d68d3308aad4@posa9.api3-max.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=posa9.api3-max.ru&alpn=h3&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20%5B9%5D
