@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 14.09.2026 01:46)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 14.09.2026 02:54)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1676 | Пинг: 188 | >300KB/s: 68 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1675 | Пинг: 221 | >300KB/s: 126 | ТОП: 32 (iOS: 16)
 
-vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@170.168.99.8:443?fp=chrome&path=/&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&security=reality&sni=www.epson.com&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B3%5D
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.180.214.110:5600#%F0%9F%87%A9%F0%9F%87%B0%20Denmark%20%5B2%5D
-vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.8:443?fp=chrome&mode=auto&path=/&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&security=reality&sni=www.canon.com&type=xhttp#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%5B16%5D
-vless://2b3e8750-b944-42fc-b36e-ec2c64b48a98@185.141.227.155:20002?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_ilhBTibNauMOEUqylnlBAUTYiqHHtmEDXkx18SHCR4&security=reality&sni=pool.dataroute.biz&type=raw#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B10%5D
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:443?mode=auto&path=/&security=reality&encryption=none&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&type=xhttp&sni=download.nvidia.com&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B13%5D
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@170.168.97.8:443?mode=auto&path=/&security=reality&encryption=none&pbk=jYD82Xg6TRu2lR0XINMWxKb8dNycDwF-H28ZrtiafUo&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B6%5D
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.8:443?mode=auto&path=/&security=reality&encryption=none&pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%5B16%5D
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@170.168.99.8:443?mode=auto&path=/&security=reality&encryption=none&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&fp=chrome&type=xhttp&sni=www.epson.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B10%5D
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:443?mode=auto&path=/&security=reality&encryption=none&pbk=TWaatavWGcWV-E7c4AXmBXypLKJzm6eR3FGG61spayQ&fp=chrome&type=xhttp&sni=www.sony.com#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%5B11%5D
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.180.214.110:5600#%F0%9F%87%A9%F0%9F%87%B0%20Denmark%20%5B1%5D
+vless://953358cb-82ba-4296-960d-6d2ec3468f4c@13.143.137.164:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dZ0rhO_PL67-Ciwc6CHQgtde3a5EUUuReA7M-lRNCDQ&security=reality&sid=e336c9a786fae301&sni=plaincanvas.videoclothing.xyz&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B10%5D
+vless://bcda0cc3-ca23-4cee-8b6b-daf8bc055018@185.178.208.176:443?alpn=h3,h2&encryption=none&fp=chrome&host=founders-blog.online&path=/stream/615428/socket&security=tls&sni=founders-blog.online&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B86%5D
+vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@91.228.154.112:2053?encryption=none&security=tls&sni=singapore.36109178.xyz&fp=chrome&type=ws&path=/static/media/video-chunk.f4v&host=singapore.36109178.xyz#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B3%5D
+vless://1a67126c-b9c4-4e78-b96e-eabd4002ab0c@oichweiupfn4weuirfyewuicu90834y57y98v7r87489t4.mexicoguard.ir:443?security=reality&encryption=none&pbk=Bj9X3UJ2D5Q14wfBOwTz3s09SkFRVgMKTcn93s6kNHo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=7a9fc61469bab24c#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B14%5D
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B174%5D
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0=@51.222.107.43:2083?type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B97%5D
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.233.41:8882#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B179%5D
-vless://8bf3e040-8ac9-5d0e-304f-9b735e145de8@147.78.182.3:443?encryption=none&path=/&pbk=Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8&security=reality&sni=www.epson.com&type=xhttp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B31%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEhvbmcgS29uZyBbMTFdIiwiYWRkIjoibTAxYzdiMnoyNmR0cWdlZS52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoibTAxYzdiMnoyNmR0cWdlZS52LjNkbnMudmlwIiwiYWxwbiI6IiIsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJmcCI6ImNocm9tZSJ9
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B108%5D
-vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:443?mode=auto&path=/&security=reality&encryption=none&pbk=TWaatavWGcWV-E7c4AXmBXypLKJzm6eR3FGG61spayQ&fp=chrome&type=xhttp&sni=www.sony.com#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%5B10%5D
-vless://51fb4051-a146-45cd-b902-a24df5325b23@38.207.178.244:51895?security=reality&type=tcp&packetEncoding=xudp&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=Uz7IOZjbOsAGGacB7CVE8jkrIDAphwIIzjurkFx5Ckk#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B94%5D
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B107%5D
-vless://1a049739-b873-4242-9a2b-239951eb2dd3@163.128.99.36:443?security=reality&flow=xtls-rprx-vision&pbk=4S52pKhsJA4gK-_MLW8_R8TTeZsS4pH7ef6St-aKVBQ&sid=ab1df8505f6e0072&fp=chrome&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=/#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B25%5D
-vless://4ca5286a-05f1-476f-a5ff-e522a2f41b95@38.147.172.2:18830?security=reality&flow=xtls-rprx-vision&pbk=8kiQCMpifYMlVORGI8KxqQixS7COb-Sa43Kkxs0kxUQ&fp=chrome&sni=aws.amazon.com&type=tcp&headerType=none&host=aws.amazon.com&path=/#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B93%5D
-vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@147.78.182.4:443?encryption=none&fp=chrome&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&security=reality&sni=download.nvidia.com&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B59%5D
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B15%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080?fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B162%5D
+vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@147.78.182.4:443?path=/&security=reality&encryption=none&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&fp=chrome&type=xhttp&sni=download.nvidia.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B57%5D
+ss://aes-256-gcm:Y6R9pAtvxxzmGC@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B107%5D
+vless://8bf3e040-8ac9-5d0e-304f-9b735e145de8@147.78.182.3:443?encryption=none&path=/&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&security=reality&sni=download.nvidia.com&type=xhttp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B25%5D
