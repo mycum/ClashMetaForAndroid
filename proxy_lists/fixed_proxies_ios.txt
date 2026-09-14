@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 14.09.2026 17:00)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 14.09.2026 18:02)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1735 | Пинг: 69 | >300KB/s: 24 | ТОП: 24 (iOS: 16)
+# 📊 Stats: Вход: 1436 | Пинг: 57 | >300KB/s: 18 | ТОП: 18 (iOS: 16)
 
 trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?host=dimskiee.biz.id&path=/WangCai-8&security=tls&sni=dimskiee.biz.id&type=ws&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B8%5D
-trojan://MiTiVPN@151.101.56.101:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/des---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=mitivpn---ss--s---mitivpn-5.global.ssl.fastly.net&fp=chrome&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B78%5D
-trojan://Telegram_healer_config@104.21.24.95:443?alpn=http/1.1&fp=chrome&host=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&path=/tr/zJi4ccv7FeEo780U?ed=2560&security=tls&sni=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B27%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@65.109.215.118:1080#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B17%5D
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.180.214.110:5600#%F0%9F%87%A9%F0%9F%87%B0%20Denmark%20%5B2%5D
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06MnRGcXlrR3FaMTAxWFcxMWY2aVJpRVJuUHljRkFqallxMHkyelVZaEtobz0@51.38.71.51:2083#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B10%5D
+trojan://MiTiVPN@151.101.56.101:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/des---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=mitivpn---ss--s---mitivpn-5.global.ssl.fastly.net&fp=chrome&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B14%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@65.109.215.118:1080#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B5%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQbHVTS1NyYnR4VHZsVnY3Qk9Vd240@185.39.204.3:8098#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B2%5D
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B169%5D
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.233.41:8882#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B174%5D
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B100%5D
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B114%5D
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B104%5D
-vless://b145ee79-42dd-4399-adcc-044660ad306f@38.147.173.43:32073?security=reality&flow=xtls-rprx-vision&pbk=G7_z4XOqJImMhL0H8rBzN-VSR739_RsUGokfNuyadQc&fp=chrome&sni=www.paypal.com&type=tcp&headerType=none&host=www.paypal.com&path=/#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B64%5D
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B106%5D
+ss://aes-256-gcm:Y6R9pAtvxxzmGC@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B102%5D
+vless://b145ee79-42dd-4399-adcc-044660ad306f@38.147.173.43:32073?security=reality&flow=xtls-rprx-vision&pbk=G7_z4XOqJImMhL0H8rBzN-VSR739_RsUGokfNuyadQc&fp=chrome&sni=www.paypal.com&type=tcp&headerType=none&host=www.paypal.com&path=/#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B60%5D
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.233.41:8882#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B111%5D
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B22%5D
+vless://4ca5286a-05f1-476f-a5ff-e522a2f41b95@38.147.172.2:18830?security=reality&flow=xtls-rprx-vision&pbk=8kiQCMpifYMlVORGI8KxqQixS7COb-Sa43Kkxs0kxUQ&fp=chrome&sni=aws.amazon.com&type=tcp&headerType=none&host=aws.amazon.com&path=/#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B35%5D
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B103%5D
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003?fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B105%5D
 hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?sni=www.docker.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B20%5D
-vless://4ca5286a-05f1-476f-a5ff-e522a2f41b95@38.147.172.2:18830?security=reality&flow=xtls-rprx-vision&pbk=8kiQCMpifYMlVORGI8KxqQixS7COb-Sa43Kkxs0kxUQ&fp=chrome&sni=aws.amazon.com&type=tcp&headerType=none&host=aws.amazon.com&path=/#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B40%5D
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B12%5D
+vless://e85ca8bc-21a5-418d-a639-00236f0c3d81@47.80.62.188:443?flow=xtls-rprx-vision&fp=chrome&pbk=an8lRnGRbCvX-GW3zuc5woB6hrTxEhfyrGCv-7_QyVo&security=reality&sid=b229991df62826cc&sni=www.nvidia.com#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B20%5D
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B117%5D
