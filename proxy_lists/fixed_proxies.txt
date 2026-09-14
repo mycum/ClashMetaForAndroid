@@ -1,23 +1,15 @@
-# profile-title: 🚀 Telegood VPN (ТОП-32 от 14.09.2026 23:42)
-# 🛡️ Verified Elite: 19
-# 📊 Stats: Вход: 1544 | Пинг: 75 | >300KB/s: 19 | ТОП: 19 (iOS: 16)
+# profile-title: 🚀 Telegood VPN (ТОП-32 от 15.09.2026 00:44)
+# 🛡️ Verified Elite: 11
+# 📊 Stats: Вход: 1440 | Пинг: 46 | >300KB/s: 11 | ТОП: 11 (iOS: 10)
 
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@212.92.101.117:9894?encryption=none&fp=firefox&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aa&sni=dl.google.com&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B56%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@65.109.215.118:1080#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B11%5D
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206MUp2bG10VDR2OHkxeUdjekR0VDZXdz09OmFDdHBlTWlldEdzSlk1MGg2akRXNnc9PQ@setlor.rehan-iogsar.ir:4680#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B137%5D
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SlRvdStKU21aT0F5ck1MZHZOQmNYRm0wWTlsdVovOHUxN2llNDhqUWZWYz0@141.95.29.163:2083#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B34%5D
-ss://aes-256-gcm:Y6R9pAtvxxzmGC@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B99%5D
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@212.92.101.89:9889?encryption=none&fp=firefox&mode=gun&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&security=reality&serviceName=grpc-tunnel&sid=00000000&sni=dl.google.com&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B67%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@65.109.215.118:1080#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B8%5D
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbODBdIiwiYWRkIjoid3d3LnNob3BpZnkuY29tIiwicG9ydCI6IjQ0MyIsImlkIjoiM2FhNzEyMDItYTA5OS00OWMxLTk5ZmMtNjY2MmYzMzM1MzY5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InlvZ2Etc3VnZ2VzdGluZy1yZWNvcmRpbmctY2FsbHMudHJ5Y2xvdWRmbGFyZS5jb20iLCJwYXRoIjoiLzNhYTcxMjAyLWEwOTktNDljMS05OWZjLTY2NjJmMzMzNTM2OS12bSIsInRscyI6InRscyIsInNuaSI6InlvZ2Etc3VnZ2VzdGluZy1yZWNvcmRpbmctY2FsbHMudHJ5Y2xvdWRmbGFyZS5jb20iLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUifQ==
-trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me/ripaojiedian&type=tcp&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B11%5D
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B115%5D
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@212.92.101.89:9889?encryption=none&fp=firefox&mode=gun&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&security=reality&serviceName=grpc-tunnel&sid=00000000&sni=dl.google.com&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B82%5D
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B33%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B100%5D
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B109%5D
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B98%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbODFdIiwiYWRkIjoid3d3LnNob3BpZnkuY29tIiwicG9ydCI6IjQ0MyIsImlkIjoiM2FhNzEyMDItYTA5OS00OWMxLTk5ZmMtNjY2MmYzMzM1MzY5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InlvZ2Etc3VnZ2VzdGluZy1yZWNvcmRpbmctY2FsbHMudHJ5Y2xvdWRmbGFyZS5jb20iLCJwYXRoIjoiLzNhYTcxMjAyLWEwOTktNDljMS05OWZjLTY2NjJmMzMzNTM2OS12bSIsInRscyI6InRscyIsInNuaSI6InlvZ2Etc3VnZ2VzdGluZy1yZWNvcmRpbmctY2FsbHMudHJ5Y2xvdWRmbGFyZS5jb20iLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUifQ==
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B116%5D
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B28%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B102%5D
+vless://b145ee79-42dd-4399-adcc-044660ad306f@38.147.173.43:32073?security=reality&flow=xtls-rprx-vision&pbk=G7_z4XOqJImMhL0H8rBzN-VSR739_RsUGokfNuyadQc&fp=chrome&sni=www.paypal.com&type=tcp&headerType=none&host=www.paypal.com&path=/#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B74%5D
+hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?insecure=1&sni=www.docker.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B40%5D
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me/ripaojiedian&type=tcp&allowInsecure=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B9%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbODJdIiwiYWRkIjoid3d3LnNob3BpZnkuY29tIiwicG9ydCI6IjQ0MyIsImlkIjoiM2FhNzEyMDItYTA5OS00OWMxLTk5ZmMtNjY2MmYzMzM1MzY5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InlvZ2Etc3VnZ2VzdGluZy1yZWNvcmRpbmctY2FsbHMudHJ5Y2xvdWRmbGFyZS5jb20iLCJwYXRoIjoiLzNhYTcxMjAyLWEwOTktNDljMS05OWZjLTY2NjJmMzMzNTM2OS12bSIsInRscyI6InRscyIsInNuaSI6InlvZ2Etc3VnZ2VzdGluZy1yZWNvcmRpbmctY2FsbHMudHJ5Y2xvdWRmbGFyZS5jb20iLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B101%5D
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B29%5D
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B27%5D
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me/ripaojiedian&type=tcp&allowInsecure=1&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B11%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbODFdIiwiYWRkIjoid3d3LnNob3BpZnkuY29tIiwicG9ydCI6IjQ0MyIsImlkIjoiM2FhNzEyMDItYTA5OS00OWMxLTk5ZmMtNjY2MmYzMzM1MzY5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InlvZ2Etc3VnZ2VzdGluZy1yZWNvcmRpbmctY2FsbHMudHJ5Y2xvdWRmbGFyZS5jb20iLCJwYXRoIjoiLzNhYTcxMjAyLWEwOTktNDljMS05OWZjLTY2NjJmMzMzNTM2OS12bSIsInRscyI6InRscyIsInNuaSI6InlvZ2Etc3VnZ2VzdGluZy1yZWNvcmRpbmctY2FsbHMudHJ5Y2xvdWRmbGFyZS5jb20iLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUifQ==
