@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 15.09.2026 19:23)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 15.09.2026 20:26)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1516 | Пинг: 175 | >300KB/s: 32 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1423 | Пинг: 107 | >300KB/s: 37 | ТОП: 32 (iOS: 16)
 
-vless://50414e45-4c5f-5a45-5553-709790f5241a@92.53.191.141:443?security=tls&type=ws&path=/stream/PANEL_ZEUS/709790f5241a/loc-0&host=d5z10menuavs.9jz95eejuhvs.workers.dev&packetEncoding=xudp&sni=d5z10menuavs.9jz95eejuhvs.workers.dev&encryption=none&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B6%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@65.109.215.118:1080#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B13%5D
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06MnRGcXlrR3FaMTAxWFcxMWY2aVJpRVJuUHljRkFqallxMHkyelVZaEtobz0@51.38.71.51:2083#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B17%5D
-ss://aes-256-gcm:Y6R9pAtvxxzmGC@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B112%5D
-vless://fc7d52a3-7478-4c09-b533-220eb7dea0f5@212.233.120.1:443?alpn=http/1.1&encryption=none&fp=chrome&path=/e7ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B39%5D
-vless://e016d072-ed97-40d4-a83f-04c00f8df2a5@sg-1.gsafevpnapi.com:20270?security=reality&flow=xtls-rprx-vision&pbk=q78tZmuaXQTsrrjZtjjRDtoni6tzN-HhXcAY-iT5zF0&sid=fc13d6208ebbae16&sni=www.yahoo.com&type=tcp&headerType=none&host=www.yahoo.com&path=/&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B3%5D
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@43.159.12.36:443?host=cdn8848.776676.xyz&path=/file/project/novel%3Fed%3D2560&security=tls&sni=cdn8848.776676.xyz&type=ws&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B9%5D
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B125%5D
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.233.41:8882#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B130%5D
-vless://5416ef6f-b8e5-48e9-87e4-3d5649b2e3e0@jp-1.gsafevpnapi.com:20270?pbk=l2Wjf_xR2rZYHYmST-zxaYDDj5QhiL9riXa1ozBSjEE&security=reality&sid=28500ae15838f905&sni=www.yahoo.com&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B13%5D
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B25%5D
-vless://5416ef6f-b8e5-48e9-87e4-3d5649b2e3e0@us-1.gsafevpnapi.com:20270?pbk=9I4kbgR2flpbRraCLQ-C0umbyQO26riRY3-GY-Tp9DE&security=reality&sid=e67d9a00676f15ac&sni=www.yahoo.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B2%5D
-vless://5dc52dcb-3c49-45cc-9a7f-3570dd2152db@95.129.236.239:443?alpn=http/1.1&encryption=none&fp=chrome&host=login.ansable.cc&path=/stream/615428/socket&security=tls&sni=login.ansable.cc&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B92%5D
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B116%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080?fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B107%5D
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B140%5D
+vless://c58a3ccd-1dd0-4fc8-b1c2-c062eb35d2c0@146.75.119.82:80?security=none&type=ws&path=/ws/%3Fed%3D2048/%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1%40VPNine1/%3F2048&host=rb24.ir&encryption=none&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B1%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@65.109.215.118:1080#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B10%5D
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06MnRGcXlrR3FaMTAxWFcxMWY2aVJpRVJuUHljRkFqallxMHkyelVZaEtobz0@51.38.71.51:2083#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B9%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.237.218.241:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B7%5D
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.233.41:8882#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B134%5D
+vless://e016d072-ed97-40d4-a83f-04c00f8df2a5@sg-1.gsafevpnapi.com:20270?security=reality&flow=xtls-rprx-vision&pbk=q78tZmuaXQTsrrjZtjjRDtoni6tzN-HhXcAY-iT5zF0&sid=fc13d6208ebbae16&sni=www.yahoo.com&type=tcp&headerType=none&host=www.yahoo.com&path=/&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B5%5D
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B129%5D
+vless://167ed405-7de9-4bff-b1ea-6e3d49c76b0b@172.238.232.239:32833?flow=xtls-rprx-vision&headertype=none&pbk=PaTDdYBrlh1xBixdI0igvRRkf0vnUwMRzi-4oDyfS20&security=reality&sid=a0a305ccc8e94aa8&sni=www.intel.com&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B1%5D
+vless://5416ef6f-b8e5-48e9-87e4-3d5649b2e3e0@jp-1.gsafevpnapi.com:20270?pbk=l2Wjf_xR2rZYHYmST-zxaYDDj5QhiL9riXa1ozBSjEE&security=reality&sid=28500ae15838f905&sni=www.yahoo.com&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B3%5D
+vless://5416ef6f-b8e5-48e9-87e4-3d5649b2e3e0@us-1.gsafevpnapi.com:20270?pbk=9I4kbgR2flpbRraCLQ-C0umbyQO26riRY3-GY-Tp9DE&security=reality&sid=e67d9a00676f15ac&sni=www.yahoo.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B7%5D
+hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?sni=www.docker.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B28%5D
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B24%5D
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.222.84.103:443?encryption=none&security=tls&sni=cdn8848.776676.xyz&type=ws&path=/member/discount&host=cdn8848.776676.xyz&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B8%5D
+vless://56a1b253-cde4-490f-9c5e-09a523882bdd@172.233.139.46:53734?security=reality&encryption=none&pbk=JAG5rl6KEt7KAV0y8Z2x6orWHymCXRSX49SkEnEftWU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=a56d7d8da977f860#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B183%5D
+ss://aes-256-gcm:Y6R9pAtvxxzmGC@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B114%5D
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B144%5D
