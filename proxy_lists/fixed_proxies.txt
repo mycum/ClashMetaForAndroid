@@ -1,36 +1,36 @@
-# profile-title: 🚀 Telegood VPN (ТОП-32 от 18.09.2026 07:38)
+# profile-title: 🚀 Telegood VPN (ТОП-32 от 18.09.2026 08:49)
 # 🛡️ Verified Elite: 32
-# 📊 Stats: Вход: 1676 | Пинг: 243 | >300KB/s: 60 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1691 | Пинг: 289 | >300KB/s: 100 | ТОП: 32 (iOS: 16)
 
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@31.184.219.147:9872?type=grpc&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&pbk=sm3E3hjmT6_Gmg_O9rBz4nfXYrHpnl6-LvcCp6T6_xc&encryption=none&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B13%5D
-trojan://Telegram_healer_config@188.114.97.3:443?path=/tr/ox5zBiRQjs2Rscy0XwxXY2ZzE?ed=2560&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B26%5D
-trojan://Telegram_healer_config@104.21.24.95:443?allowInsecure=1&alpn=http/1.1&fp=chrome&host=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&path=/tr/zJi4ccv7FeEo780U?ed=2560&security=tls&sni=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B29%5D
-trojan://Telegram_healer_config@104.21.70.21:443?alpn=http/1.1&fp=unsafe&host=bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev&path=/tr/J6IJuAAWkqyiEt8UkeRnVdLlkLIGukLr?ed=2560&security=tls&sni=bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B13%5D
-trojan://Telegram_healer_config@104.21.16.123:443?allowInsecure=1&alpn=http/1.1&fp=chrome&host=7x7o3vtq5z6ymu3hv1fh-op9blt.hya6losm6lznoxhm6w3mk.workers.dev&path=/tr/qL8YIeH28wNcXfNTPgLCwOhNFEr?ed=2560&security=tls&sni=7x7o3vtq5z6ymu3hv1fh-op9blt.hya6losm6lznoxhm6w3mk.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B28%5D
-vless://cbd842d0-5bbf-4abe-ba64-31e38bbe4335@37.139.42.138:443?alpn=http/1.1&encryption=none&fp=edge&path=/e7ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B31%5D
-vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.6:443?mode=auto&path=/&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=xhttp&sni=download.nvidia.com#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%20%5B1%5D
-vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@45.88.13.5:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&encryption=none&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%5B10%5D
-hysteria2://f89c89df-905c-4df3-ab07-4f1a37a81005@api.fastline-labs.com:443?security=tls&sni=api.fastline-labs.com&allowInsecure=true&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B20%5D
-ss://YWVzLTEyOC1nY206bzJydzJoSUN3dTFibHJyX2daQWwyUQ@82.47.186.18:55597#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B59%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMgWzMxXSIsImFkZCI6IjMxLjc3LjguOTciLCJwb3J0IjoiMTEwIiwiaWQiOiJlODc1OGJmMC1jMjM0LTQ4MDktODlmNy0yNWZkODY4MzE2ZDAiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
-trojan://7a657573-a2be-8079-c204-93ad9047f088@hoseinwave.ir:443?path=/stream/PANEL_ZEUS/93ad9047f088&security=tls&insecure=0&host=v5zbqbeguufs.ntkz7ofcma4sp2jzphvhad34v4n6adte.workers.dev&type=ws&allowInsecure=0&sni=v5zbqbeguufs.ntkz7ofcma4sp2jzphvhad34v4n6adte.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B21%5D
-hysteria2://f89c89df-905c-4df3-ab07-4f1a37a81005@files.fastline-labs.com:443?security=tls&sni=files.fastline-labs.com&allowInsecure=true&alpn=h3#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B21%5D
-hysteria2://f89c89df-905c-4df3-ab07-4f1a37a81005@git.fastline-labs.com:443?security=tls&sni=git.fastline-labs.com&allowInsecure=true&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B21%5D
-hysteria2://f89c89df-905c-4df3-ab07-4f1a37a81005@cdn.fastline-labs.com:443?security=tls&sni=cdn.fastline-labs.com&allowInsecure=true&alpn=h3#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B20%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.180.252.123:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B63%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.75.89.244:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B62%5D
-vless://167ed405-7de9-4bff-b1ea-6e3d49c76b0b@172.238.232.239:32833?security=reality&encryption=none&pbk=PaTDdYBrlh1xBixdI0igvRRkf0vnUwMRzi-4oDyfS20&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=a0a305ccc8e94aa8#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B8%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.237.218.241:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B14%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.38.76.125:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B12%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.39.233.161:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B11%5D
-hysteria2://f89c89df-905c-4df3-ab07-4f1a37a81005@status.fastline-labs.com:443?security=tls&sni=status.fastline-labs.com&allowInsecure=true&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B22%5D
+trojan://Telegram_healer_config@188.114.97.3:443?allowInsecure=1&alpn=http/1.1&fp=chrome&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&path=/tr/ox5zBiRQjs2Rscy0XwxXY2ZzE?ed=2560&security=tls&sni=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B23%5D
+trojan://Telegram_healer_config@104.21.24.95:443?allowInsecure=1&alpn=http/1.1&fp=chrome&host=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&path=/tr/zJi4ccv7FeEo780U?ed=2560&security=tls&sni=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B27%5D
+trojan://Telegram_healer_config@104.21.70.21:443?alpn=http/1.1&fp=unsafe&host=bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev&path=/tr/J6IJuAAWkqyiEt8UkeRnVdLlkLIGukLr?ed=2560&security=tls&sni=bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B14%5D
+trojan://Telegram_healer_config@104.21.16.123:443?allowInsecure=1&alpn=http/1.1&fp=chrome&host=7x7o3vtq5z6ymu3hv1fh-op9blt.hya6losm6lznoxhm6w3mk.workers.dev&path=/tr/qL8YIeH28wNcXfNTPgLCwOhNFEr?ed=2560&security=tls&sni=7x7o3vtq5z6ymu3hv1fh-op9blt.hya6losm6lznoxhm6w3mk.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B26%5D
+vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@45.88.13.5:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&encryption=none&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%5B9%5D
+vless://2cbf425a-aed6-4c8f-937f-6265ed13a7fa@188.225.56.11:443?security=reality&encryption=none&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&headerType=&type=tcp&flow=xtls-rprx-vision&sid=a9dc98a7dc87a7dc&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B38%5D
+trojan://7a657573-a2be-8079-c204-93ad9047f088@hoseinwave.ir:443?path=/stream/PANEL_ZEUS/93ad9047f088&security=tls&insecure=0&host=v5zbqbeguufs.ntkz7ofcma4sp2jzphvhad34v4n6adte.workers.dev&type=ws&allowInsecure=0&sni=v5zbqbeguufs.ntkz7ofcma4sp2jzphvhad34v4n6adte.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B196%5D
+vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@130.49.77.6:443?Telegram=%40GozargahAzad,%40GozargahAzad,%40GozargahAzad,%40GozargahAzad,%40GozargahAzad,%40GozargahAzad,%40GozargahAzad&path=/&security=reality&encryption=none&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&type=xhttp&sni=download.nvidia.com&fp=qq#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B6%5D
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SlRvdStKU21aT0F5ck1MZHZOQmNYRm0wWTlsdVovOHUxN2llNDhqUWZWYz0@141.95.29.163:2083#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B58%5D
+vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.4:443?path=/&security=reality&encryption=none&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&type=xhttp&sni=www.epson.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%20%5B5%5D
+vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.6:443?Telegram=%40GozargahAzad,%40GozargahAzad,%40GozargahAzad,%40GozargahAzad,%40GozargahAzad,%40GozargahAzad,%40GozargahAzad&path=/&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&type=xhttp&sni=download.nvidia.com&fp=edge#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%20%5B9%5D
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06MnRGcXlrR3FaMTAxWFcxMWY2aVJpRVJuUHljRkFqallxMHkyelVZaEtobz0@51.38.71.51:2083#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B20%5D
-vmess://eyJhZGQiOiIxNTMuNTIuOTIuODEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjYzNjFhZjgtYmI4Zi00NjA5LWJmNWQtM2ZjMGY2ODhmNDdiIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMDg2IiwicHMiOiJcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZjcgVFx1MDBmY3JraXllIFsyXSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
-vmess://eyJhZGQiOiI5MS4yMjguMjI3LjIxMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJpZCI6IjkyOTg3YWI4LTBhNTMtNGExNi04ZDZjLTI5NWQ1ZGY4NjQwNCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBvcnQiOiIyMzk1NyIsInBzIjoiXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFR1cmtleSBbM10iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJob3N0IjoiIiwicGF0aCI6IiJ9
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B156%5D
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B152%5D
-vless://2bf192f1-7d86-43a3-88b3-8f72b7eb5ad9@us-1.gsafevpnapi.com:20270?security=reality&type=tcp&sni=www.yahoo.com&sid=e67d9a00676f15ac&pbk=9I4kbgR2flpbRraCLQ-C0umbyQO26riRY3-GY-Tp9DE&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B6%5D
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B157%5D
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B173%5D
-vless://eeec4cba-d104-4f31-b6d6-fca086e14250@87.120.252.191:443?security=reality&encryption=none&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=worldoftanks.eu&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B4%5D
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B39%5D
+hysteria2://f89c89df-905c-4df3-ab07-4f1a37a81005@git.fastline-labs.com:443?security=tls&sni=git.fastline-labs.com&allowInsecure=true&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B31%5D
+ss://YWVzLTEyOC1nY206bzJydzJoSUN3dTFibHJyX2daQWwyUQ@82.47.186.18:55597#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B67%5D
+hysteria2://f89c89df-905c-4df3-ab07-4f1a37a81005@cdn.fastline-labs.com:443?security=tls&sni=cdn.fastline-labs.com&allowInsecure=true&alpn=h3#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B20%5D
+vless://c26fe2f0-5c69-11f1-8a1a-bf116ceb9215@5.202.4.207:443?security=reality&sni=aparat.com&type=tcp&pbk=fwS6bEyF28VsSapBZZ2vz6LJmVismH0NYupk6STFRWc&sid=f373df45a687eaff&allowInsecure=1&fp=chrome#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B5%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.180.252.123:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B73%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.75.89.244:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B72%5D
+hysteria2://f89c89df-905c-4df3-ab07-4f1a37a81005@files.fastline-labs.com:443?security=tls&sni=files.fastline-labs.com&allowInsecure=true&alpn=h3#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B19%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@63.180.204.141:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B68%5D
+hysteria2://f89c89df-905c-4df3-ab07-4f1a37a81005@status.fastline-labs.com:443?security=tls&sni=status.fastline-labs.com&allowInsecure=true&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B32%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.39.233.161:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B17%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.188.246.220:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B16%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.38.76.125:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B18%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.237.218.241:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B20%5D
+hysteria2://f89c89df-905c-4df3-ab07-4f1a37a81005@api.fastline-labs.com:443?security=tls&sni=api.fastline-labs.com&allowInsecure=true&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B30%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFR1cmtleSBbNV0iLCJhZGQiOiI5MS4yMjguMjI3LjIxMSIsInBvcnQiOiIyMzk1NyIsImlkIjoiOTI5ODdhYjgtMGE1My00YTE2LThkNmMtMjk1ZDVkZjg2NDA0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImFscG4iOiIiLCJob3N0IjoiIiwicGF0aCI6IiIsInNuaSI6IiIsImZwIjoiIn0=
+vless://2723fe43-68d5-46c0-8275-44b6de50c8b7@87.76.154.102:6070?encryption=none&flow=xtls-rprx-vision&pbk=n0s2CC1yzpAxgbezazYP9fzXpvaZiwwDybE-BiKJEAE&security=reality&sid=44ff6b214b39f2b1&sni=amp-api-edge.apps.apple.com&type=tcp&fp=ios#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5B3%5D
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.233.41:8882#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B148%5D
+ss://aes-256-gcm:Y6R9pAtvxxzmGC@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B166%5D
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B142%5D
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B147%5D
