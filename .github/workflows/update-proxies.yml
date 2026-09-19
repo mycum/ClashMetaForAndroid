@@ -418,7 +418,15 @@ jobs:
                   if not is_valid_port(base.get("port")): return None
                   if base.get("type") in ["vmess", "vless"] and (not base.get("uuid") or len(str(base["uuid"])) < 5): return None
                   if base.get("type") in ["trojan", "hysteria2", "ss"] and not base.get("password"): return None
-
+                  if "@" in safe_link:
+                      try:
+                          protocol, rest = safe_link.split("://", 1)
+                          # Разделяем строго по ПЕРВОМУ символу @, чтобы изолировать пароль
+                          userinfo, hostinfo = rest.split("@", 1) 
+                          if "/" in userinfo:
+                              userinfo = userinfo.replace("/", "%2F")
+                              safe_link = f"{protocol}://{userinfo}@{hostinfo}"
+                      except: pass
                   clean_base = remove_control_chars(base)
                   return {"config": clean_base, "link": safe_link}
               except: return None
