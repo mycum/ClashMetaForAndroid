@@ -29,7 +29,7 @@ jobs:
           echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
-           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
@@ -39,8 +39,8 @@ jobs:
           # echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/vmess.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/ss.txt >> proxy_lists/raw_temp.txt
-          echo "" >> proxy_lists/raw_temp.txt
+          # curl -s https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/ss.txt >> proxy_lists/raw_temp.txt
+          # echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_lite.txt >> proxy_lists/raw_temp.txt
@@ -55,8 +55,8 @@ jobs:
           echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/refs/heads/main/data/githubmirror/clean/trojan.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/refs/heads/main/data/githubmirror/clean/ss.txt >> proxy_lists/raw_temp.txt
-          echo "" >> proxy_lists/raw_temp.txt
+          # curl -s https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/refs/heads/main/data/githubmirror/clean/ss.txt >> proxy_lists/raw_temp.txt
+          # echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/refs/heads/main/data/githubmirror/ru-sni-local/vless.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/refs/heads/main/data/githubmirror/ru-sni/trojan.txt >> proxy_lists/raw_temp.txt
