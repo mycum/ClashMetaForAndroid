@@ -296,9 +296,10 @@ jobs:
                       if u.scheme == "trojan":
                           base.update({"type": "trojan", "password": password, "network": net_type})
                           sni = get_param('sni') or get_param('peer') or get_param('host')
+                          sec = get_param('security', 'tls')
                           
-                          if get_param('security', 'tls') in ['tls', 'xtls'] or base["port"] in [443, 8443, 2053, 2083]:
-                              # 🛡️ ИСПРАВЛЕНО: Убран base["tls"] = True. Trojan шифруется по умолчанию.
+                          # 🛡️ ИСПРАВЛЕНО: Добавлен 'reality' в список поддерживаемых протоколов шифрования
+                          if sec in ['tls', 'xtls', 'reality'] or base["port"] in [443, 8443, 2053, 2083]:
                               base["skip-cert-verify"] = True
                               fp = get_param('fp')
                               if fp: base["client-fingerprint"] = fp
@@ -306,6 +307,10 @@ jobs:
                               elif u.hostname and not re.match(r'^\d+\.\d+\.\d+\.\d+$', str(u.hostname)): base["sni"] = str(u.hostname)
                               alpn = get_param('alpn')
                               if alpn: base["alpn"] = alpn.split(',')
+                              
+                              # 🚀 ДОБАВЛЕНО: Извлечение ключей XTLS-Reality для Троянов
+                              if sec == 'reality':
+                                  base["reality-opts"] = {"public-key": get_param('pbk'), "short-id": get_param('sid')}
 
                           if base["network"] == "ws" or get_param('path'):
                               base["network"] = "ws"
