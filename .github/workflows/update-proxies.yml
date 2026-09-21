@@ -35,18 +35,18 @@ jobs:
           echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/trojan.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/26.txt >> proxy_lists/raw_temp.txt
-          echo "" >> proxy_lists/raw_temp.txt
+          # curl -s https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/26.txt >> proxy_lists/raw_temp.txt
+          # echo "" >> proxy_lists/raw_temp.txt
           # curl -s https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/1.txt >> proxy_lists/raw_temp.txt
           # echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/6.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/24.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/23.txt >> proxy_lists/raw_temp.txt
-          echo "" >> proxy_lists/raw_temp.txt
-          # curl -s https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/10.txt >> proxy_lists/raw_temp.txt
+          # curl -s https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/23.txt >> proxy_lists/raw_temp.txt
           # echo "" >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/7.txt >> proxy_lists/raw_temp.txt
+          echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/22.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
           # curl -s https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/vless.txt >> proxy_lists/raw_temp.txt
