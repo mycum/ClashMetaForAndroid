@@ -274,7 +274,12 @@ jobs:
                       b64_str = main_part[8:]
                       b64_str += "=" * ((4 - len(b64_str) % 4) % 4)
                       v = json.loads(base64.urlsafe_b64decode(b64_str).decode('utf-8'))
-                      cipher_type = v.get("scy") or "auto"
+                      
+                      # 🛡️ БРОНЯ: Очищаем кривые шифры Vmess
+                      cipher_type = str(v.get("scy", "auto")).strip().lower()
+                      if cipher_type in ["", "null", "none", "false", "0"]: 
+                          cipher_type = "auto"
+                          
                       base = {
                           "name": node_name, "type": "vmess", 
                           "server": str(v.get("add", "")), "port": int(v.get("port", 0) or 0), 
