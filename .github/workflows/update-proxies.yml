@@ -303,8 +303,11 @@ jobs:
                               base["skip-cert-verify"] = True
                               fp = get_param('fp')
                               if fp: base["client-fingerprint"] = fp
-                              if sni: base["sni"] = sni
-                              elif u.hostname and not re.match(r'^\d+\.\d+\.\d+\.\d+$', str(u.hostname)): base["sni"] = str(u.hostname)
+                              # 🛡️ ЗАЩИТА ОТ КРИВОГО SNI: Игнорируем IP-адреса (IPv4 и IPv6)
+                              if sni and not re.match(r'^[\d\.]+$', sni) and ':' not in sni: 
+                                  base["sni"] = sni
+                              elif u.hostname and not re.match(r'^[\d\.]+$', str(u.hostname)) and ':' not in str(u.hostname): 
+                                  base["sni"] = str(u.hostname)
                               alpn = get_param('alpn')
                               if alpn: base["alpn"] = alpn.split(',')
                               
