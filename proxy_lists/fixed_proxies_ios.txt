@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 25.09.2026 11:38)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 25.09.2026 12:40)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1555 | Пинг: 100 | >300KB/s: 55 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1533 | Пинг: 96 | >300KB/s: 48 | ТОП: 32 (iOS: 16)
 
-trojan://zO79_fE_wEIhphCLNOo3mQ@8.6.112.0:443?security=tls&sni=cf.lunex-vpn.xyz&alpn=h3,+h2,+http/1.1&type=ws&host=cf.lunex-vpn.xyz&path=/Lunex&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B33%5D
+trojan://zO79_fE_wEIhphCLNOo3mQ@8.6.112.0:443?security=tls&sni=cf.lunex-vpn.xyz&alpn=h3,+h2,+http/1.1&type=ws&host=cf.lunex-vpn.xyz&path=/Lunex&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B31%5D
+vless://8f5613b2-a4c2-460c-8803-34d90ec689af@95.129.236.239:443?alpn=http/1.1&encryption=none&fp=chrome&host=login.opendns.stream&path=/stream/615428/socket&security=tls&sni=login.opendns.stream&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B112%5D
 ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@141.227.134.63:17000#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B5%5D
-ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@146.190.236.129:17000#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B44%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@16.170.221.224:443#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B17%5D
-vless://71091100-c6ed-41fa-84ac-acf7ff9eeb7f@212.46.33.90:443?security=reality&encryption=none&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=slowkd.sadiepinki.com&sid=9c2378562188c3cb#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B148%5D
-vmess://eyJhZGQiOiJtZTYubW92aWVzZXJ5YWxpcmFuaS5pciIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJlZDgxNWNhYS1iZmYxLTQ0MTktOGM2MS0xZDEwOGVhYmFmMWYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU3MzYxIiwicHMiOiJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgR2VybWFueSBbNTZdIiwic2N5IjoiIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJmcCI6ImNocm9tZSJ9
-vmess://eyJhZGQiOiIzMS43Ny44Ljk3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6ImU4NzU4YmYwLWMyMzQtNDgwOS04OWY3LTI1ZmQ4NjgzMTZkMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTEwIiwicHMiOiJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgR2VybWFueSBbMzVdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://974f2c7e-a292-4207-8315-ef4151bdca41@178.17.48.202:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=external-api.bachidze.com&pbk=LMcNHcOzPISa2fmZWt2JraL6_a_IObpS2znQW70gyDo&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B2%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@16.170.221.224:443#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B16%5D
+ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@146.190.236.129:17000#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B42%5D
+vmess://eyJhZGQiOiJtZTYubW92aWVzZXJ5YWxpcmFuaS5pciIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJlZDgxNWNhYS1iZmYxLTQ0MTktOGM2MS0xZDEwOGVhYmFmMWYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU3MzYxIiwicHMiOiJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgR2VybWFueSBbNDhdIiwic2N5IjoiIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJmcCI6ImNocm9tZSJ9
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEdlcm1hbnkgWzI1XSIsImFkZCI6IjMxLjc3LjguOTciLCJwb3J0IjoiMTEwIiwiaWQiOiJlODc1OGJmMC1jMjM0LTQ4MDktODlmNy0yNWZkODY4MzE2ZDAiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUifQ==
+vless://a0248c3b-b631-4ada-b8d6-e2f6af2986d0@d1-pl.cloud-cdn.xyz:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=d1-pl.cloud-cdn.xyz&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&sid=7a3f9e2b1c8d4f6a&spx=/&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B2%5D
+vless://71091100-c6ed-41fa-84ac-acf7ff9eeb7f@212.46.33.90:443?security=reality&encryption=none&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=slowkd.sadiepinki.com&sid=9c2378562188c3cb#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B144%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4WHNsNWwzWmZkRzl6UldHa2tmdDFq@creativeboxfin.zanity.net:5223#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%20%5B9%5D
-vless://a0248c3b-b631-4ada-b8d6-e2f6af2986d0@d1-pl.cloud-cdn.xyz:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=d1-pl.cloud-cdn.xyz&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&sid=7a3f9e2b1c8d4f6a&spx=/&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B4%5D
-ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@143.110.161.156:17000#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B18%5D
-vless://7597a360-42d7-49fd-96bf-9d4ca8758a5a@node-production-54c3.up.railway.app:443?path=/ws&security=tls&encryption=none&host=node-production-54c3.up.railway.app&type=ws&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B3%5D
+ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@146.59.116.19:17000#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B13%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZXBwM285bmc4ZWo1OXV2@45.128.12.20:14249#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B14%5D
+ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA==@yyz-ca-01.blncvpn4u.cc:9443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B121%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNThkMTZlNTkzZDQ0ZjQy@158.173.221.214:11001#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B9%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbODddIiwiYWRkIjoiMTg4LjExNC45Ni4xOSIsInBvcnQiOiI4MCIsImlkIjoiNDc5NTI2Y2QtNTAxMS00M2NmLWE3ODgtNTA0ZGE5NWUwN2MyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii8iLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZm9ydHJlc3Nob3N0LmlyLiIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsImZwIjoiY2hyb21lIn0=
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.csgo.net:2095?Telegram=%40GozargahAzad,%40GozargahAzad,%40GozargahAzad,%40GozargahAzad,%40GozargahAzad,%40GozargahAzad,%40GozargahAzad&type=ws&path=/&host=llm-api.sofurry.dpdns.org&sni=www.csgo.net&fp=chrome#%F0%9F%87%A8%F0%9F%87%BE%20Cyprus%20%5B2%5D
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B155%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.204.185.38:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B159%5D
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B12%5D
