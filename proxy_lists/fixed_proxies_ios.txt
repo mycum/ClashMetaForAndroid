@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 29.09.2026 16:32)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 29.09.2026 17:34)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1487 | Пинг: 74 | >300KB/s: 18 | ТОП: 18 (iOS: 16)
+# 📊 Stats: Вход: 1426 | Пинг: 72 | >300KB/s: 38 | ТОП: 32 (iOS: 16)
 
-hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?sni=www.docker.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B26%5D
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.20.122.188:443#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B5%5D
-ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@146.190.236.129:17000#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B24%5D
-vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@18.143.191.201:21464/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=7TVqIgOMgFzxjYG4nSSQxWWTE7cBPXjpoZwCsd337lY&sid=52f8#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B44%5D
-ss://YWVzLTI1Ni1nY206NzI1NTMzMjBhZTZiY2M4Zg==@212.192.13.143:10090#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B15%5D
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B20%5D
-vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@18.140.72.106:23070/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=px79hKhwQDhnVMdX3CF8dHKQsAVT8-FJ8ilk7JZAO2U&sid=c7f5ef2673cc86bc#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B43%5D
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@sg1.xiaoliyu.cyou:18333?sni=sg1.xiaoliyu.cyou&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B6%5D
-ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B115%5D
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@us3.xiaoliyu.cyou:18333?sni=us3.xiaoliyu.cyou&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B5%5D
-vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@54.251.239.81:26415/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=eC5S3o9uFN6i_YjDjiALCXbc_dzh3kEm2C5zduDGtS8&sid=b7dd999667b0406e#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B45%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B108%5D
+vmess://eyJhZGQiOiIzMS43Ny44Ljk3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6ImQyZDg2MDFiLWMxNGItNDJjNi1iOGVhLTMzODg5YmNlMTUyYSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTEwIiwicHMiOiJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgR2VybWFueSBbMl0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
+vless://1ed509a6-ee90-e028-8926-43764597a000@victoryprovpn-production-3f0f.up.railway.app:443?path=/ws/1ed509a6-ee90-e028-8926-43764597a000&security=tls&alpn=http/1.1&encryption=none&host=victoryprovpn-production-3f0f.up.railway.app&type=ws&sni=victoryprovpn-production-3f0f.up.railway.app&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B9%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6aU9lS2VqaGh3K2ZtV2V0K3h2dUpzVkpIN1U5RHZTV3ExaGxxdGFLditJPQ@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B2%5D
+vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@18.140.72.106:23070/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=px79hKhwQDhnVMdX3CF8dHKQsAVT8-FJ8ilk7JZAO2U&sid=c7f5ef2673cc86bc#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B46%5D
+ss://YWVzLTI1Ni1nY206NzI1NTMzMjBhZTZiY2M4Zg==@212.192.13.143:10090#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B60%5D
+trojan://Telegram_healer_config@104.21.70.21:443?alpn=http/1.1&host=47hr9isj-655383snd63hjap38q6t.k-f3vpqaltfsxbtaxe.workers.dev&path=/tr/kp0IOvZwWV0X35ln0vIh%3Fed%3D2560&security=tls&sni=47hr9isj-655383snd63hjap38q6t.k-f3vpqaltfsxbtaxe.workers.dev&type=ws&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B2%5D
+ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B120%5D
+vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@54.251.239.81:26415/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=eC5S3o9uFN6i_YjDjiALCXbc_dzh3kEm2C5zduDGtS8&sid=b7dd999667b0406e#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B48%5D
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B22%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.205.21.144:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B140%5D
+vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@18.143.191.201:21464/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=7TVqIgOMgFzxjYG4nSSQxWWTE7cBPXjpoZwCsd337lY&sid=52f8#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B47%5D
+vless://3977434d-6a9b-4858-8ced-80326ba5e367@103.172.197.2:29172?encryption=none&flow=xtls-rprx-vision&pbk=pff94OJwuKXnF7_3SJ8KKJuAN4GJtInBlR-kg-4mwzQ&security=reality&sni=aws.amazon.com&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20%5B3%5D
+vless://f8c9d2a1-da40-4f90-b671-11772a0b13d6@103.172.197.3:16006?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&pbk=ll7JTP628PuBMZJvx6fuhGSmCRSURnReAetmhCEL8GU&type=tcp&headerType=none&fp=chrome#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20%5B12%5D
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B11%5D
-ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B121%5D
-vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@18.136.119.69:20975/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=GVg6RWWCJfXATSmArzQD69rXqs9-804Ot-_uX3WrJE4&sid=2bb0dc48#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B40%5D
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@us3.xiaoliyu.cyou:18333?fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B4%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B115%5D
