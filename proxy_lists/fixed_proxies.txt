@@ -1,19 +1,36 @@
-# profile-title: 🚀 Telegood VPN (ТОП-32 от 30.09.2026 21:34)
-# 🛡️ Verified Elite: 15
-# 📊 Stats: Вход: 1504 | Пинг: 49 | >300KB/s: 15 | ТОП: 15 (iOS: 14)
+# profile-title: 🚀 Telegood VPN (ТОП-32 от 30.09.2026 22:35)
+# 🛡️ Verified Elite: 32
+# 📊 Stats: Вход: 1490 | Пинг: 73 | >300KB/s: 35 | ТОП: 32 (iOS: 16)
 
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@45.132.176.161:9889?encryption=none&security=reality&sni=dl.google.com&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&sid=aa&type=grpc&serviceName=grpc-tunnel&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B16%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.20.143.248:443#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B5%5D
-trojan://UX82473651@actual-squid.rooster465.autos:443?mux=1&allowInsecure=1&sni=actual-squid.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B171%5D
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B154%5D
-ss://YWVzLTEyOC1nY206MWNiYjNlMzQ3ZWU4NmUxOTgwYTdjNzMxZTlkZDAwYTA@64.74.161.148:17201#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B123%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.205.21.144:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B161%5D
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B19%5D
-ss://YWVzLTEyOC1nY206ZjhlNWM2NzQxZmJiYzAwNTA0ZjQxYWYxYWI4Nzg0MDI@161.129.71.149:17915#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B165%5D
-ss://YWVzLTEyOC1nY206ODdlOWNiNjI3MDZiNWNkMDhkYTk1YjhiNDIzY2I2NzM@103.214.111.162:16469#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B164%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B130%5D
+vless://06e58eed-afc8-4cbf-a0bf-1b7b42e1a87f@35.228.61.63:443?security=reality&pbk=wJwb5WExAnmGiq9mmjtMvoA8E-k10u5VvPegm9RomWU&sid=d4b34bc6b3d2b5ab&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=/#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B11%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.20.122.188:443#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B6%5D
+vless://129e26fe-cee2-4786-9261-b29668337829@agroup.de1.ilovegairport.com:443?security=reality&flow=xtls-rprx-vision&pbk=kGdP0X0DwcMbXovNjpQ3o7ubghwu1dedhcoFtLFOnBk&sid=1fc709&fp=chrome&sni=eu-central-1.console.aws.amazon.com&type=tcp&headerType=none&host=eu-central-1.console.aws.amazon.com&path=/#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B46%5D
+vless://753fa5ef-0b08-4fd3-b688-173ff594b758@34.159.243.3:443?security=reality&pbk=XRYeVrK7q9baNj66NmBBIX_sllPJtxOBTjrxTaQMQ2U&sid=7394ea3cc2106697&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=/#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B105%5D
+vless://d4d1b597-2769-465b-b7fa-c2b84393d3ee@35.233.94.80:443?security=reality&pbk=OQ0MKzP5TYtlJCteckb25tD6USBH__D1z28Y8BOcdG4&sid=b4f2c0e3d8668c2f&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=/#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20%5B2%5D
+vless://069a2bbd-3fc9-470f-a251-c836a96ed04a@34.155.146.201:443?security=reality&pbk=SVT2WeXMIrumlh5VG1lbHN6YbqL7-u2iRkv1js8XEU4&sid=3f95392a418ec8fd&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=/#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B10%5D
+vless://fffe33b6-5735-4a71-adb1-1c154def9024@34.154.18.129:443?security=reality&pbk=-Tb9KKp870JxcZ3Ka7Rx5ez3QBYryX4e8_jdyNZu2wE&sid=ed278463058a6dc9&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=/#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B10%5D
+vless://0b4b1548-c7ca-45a5-9096-6c3cc4b1c43b@34.175.19.8:443?security=reality&pbk=iI9J--AfPKCXbVle3Om-WMn_g-3bO3SsVzUCNtwUkU0&sid=fe85cb6a5c84e64c&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=/#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B8%5D
+vless://c55c9880-2f9c-4ad6-bfc2-5054516bf613@34.175.107.233:443?security=reality&pbk=lM9EQ1rZH9inQjrZesuqgldsXYN_yfT5-tqhPfbyen4&sid=1c9e101e99bf86bb&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=/#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B21%5D
+trojan://UX82473651@actual-squid.rooster465.autos:443?mux=1&allowInsecure=1&sni=actual-squid.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B148%5D
+vless://b6f775c2-70fd-4247-8d12-82cac46fdd50@34.18.161.225:443?security=reality&pbk=tT6wEOh8ASizQYNRb51QdDlxAksSJbEaBnbQBajc6SQ&sid=c5426331173ca15c&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=/#%F0%9F%87%B6%F0%9F%87%A6%20Qatar%20%5B1%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.205.21.144:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B151%5D
+vless://84ed0e09-6803-4ef9-a977-74b657d971e5@31.70.111.146:443?security=reality&flow=xtls-rprx-vision&pbk=ZNmuzIn-zyJi2C0sWRpL9fsMYCgYauXpJElXTqY_LEE&sid=d7de3a6ff4018957&fp=chrome&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=/#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B112%5D
+vless://4d4bfd21-88fc-4de7-87bd-c2ddaedc4078@34.154.251.151:443?security=reality&pbk=jGfJxbIyf2aLRFQyT9NsJBu1CzJmrAa2sF19GNw46z8&sid=29615707650b941d&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=/#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B4%5D
+vless://3893f05b-9b24-4bb1-a1dc-ba55509b0a01@34.66.64.236:443?security=reality&pbk=Th2whwnn3zQaHdImi5B1wYn8hxXz3JQs3_AQCuHfanQ&sid=76d093d99ceaf06a&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=/#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B187%5D
+vless://d6d58f01-b5ce-4d47-bce0-b8a806155852@35.199.19.90:443?security=reality&pbk=L1S0DpFtHPBeyENZUvJPcrFZIct6kcHUPxuzNaGXIFY&sid=4c69c4b51c580d60&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=/#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B283%5D
+vless://6d341f6e-7b9d-4ae3-999b-00333de7bdfb@35.240.62.249:443?security=reality&pbk=v6QpErcVOVKIYLm53R3bAP8zIKCFr4HAJWW0VwBKtws&sid=31f187650d9530bb&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=/#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20%5B1%5D
+ss://YWVzLTEyOC1nY206MWNiYjNlMzQ3ZWU4NmUxOTgwYTdjNzMxZTlkZDAwYTA@64.74.161.148:17201#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B129%5D
+vless://e4be912f-68e8-4d51-80a4-1342b646f8e0@34.51.187.118:443?security=reality&pbk=fV003yDr_sb_Wkgz6MxnIUJMgD15osWhzU-HZ5fLPFg&sid=79ff7d51e3c56323&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=/#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B15%5D
+ss://YWVzLTEyOC1nY206ODdlOWNiNjI3MDZiNWNkMDhkYTk1YjhiNDIzY2I2NzM@103.214.111.162:16469#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B304%5D
+ss://YWVzLTEyOC1nY206ZjhlNWM2NzQxZmJiYzAwNTA0ZjQxYWYxYWI4Nzg0MDI@161.129.71.149:17915#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B154%5D
+vless://129e26fe-cee2-4786-9261-b29668337829@agroup.sg1.ilovegairport.com:443?security=reality&flow=xtls-rprx-vision&pbk=eAQrXEfedW5BrMMeOecf_M9tkNNqQIShlLOl2xg1cho&sid=82f9ac23&fp=chrome&sni=ap-southeast-1.console.aws.amazon.com&type=tcp&headerType=none&host=ap-southeast-1.console.aws.amazon.com&path=/#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B25%5D
+vless://788950f8-dbd9-4234-a42c-a7204665ce9f@34.51.240.236:443?security=reality&pbk=SOvacyM6CABhBHYdOHvhXbkNLHJBHuAkoJj2Z13xKlE&sid=b4a6faed784ff461&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=/#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B11%5D
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206dlMvMitFMnZPRzFDNjhRZ211Z05MREF4SnF0R1FlSUpWSThsVXUyMG45WT0=@31.57.185.82:23114#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B119%5D
+vless://928e6cce-8ced-4243-9a48-a6642edd09b0@47.239.6.251:13779?security=reality&encryption=none&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tesla.com&sid=af1bdd293097b664#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B36%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B120%5D
+vless://129e26fe-cee2-4786-9261-b29668337829@agroup.us1.ilovegairport.com:443?security=reality&flow=xtls-rprx-vision&pbk=zJmgsHKnfBjyqC1tZRrLb7J5CD6vDqq96uYRzAiPWRg&sid=17d299fb0790e7&fp=chrome&sni=us-west-2.console.aws.amazon.com&type=tcp&headerType=none&host=us-west-2.console.aws.amazon.com&path=/#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B161%5D
+vless://129e26fe-cee2-4786-9261-b29668337829@agroup.us2.ilovegairport.com:443?security=reality&flow=xtls-rprx-vision&pbk=zJmgsHKnfBjyqC1tZRrLb7J5CD6vDqq96uYRzAiPWRg&sid=17d299fb0790e7&fp=chrome&sni=us-west-2.console.aws.amazon.com&type=tcp&headerType=none&host=us-west-2.console.aws.amazon.com&path=/#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B162%5D
+vless://79bc7b01-6e4e-4365-a120-fefac8182bd9@34.51.119.243:443?security=reality&pbk=vFcM44RcbcO5jcrSWHLd_0exXAnnJLhpCNnMrWCwlzI&sid=65f01b4b99e52015&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=/#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%20%5B1%5D
+ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B135%5D
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B9%5D
-vmess://eyJhZGQiOiIzMS43Ny44Ljk3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImQyZDg2MDFiLWMxNGItNDJjNi1iOGVhLTMzODg5YmNlMTUyYSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTEwIiwicHMiOiJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgR2VybWFueSBbMzddIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
-ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B129%5D
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B3%5D
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B5%5D
+vless://ad5325f8-f0b3-41c4-a561-113529b60e70@34.176.187.219:443?security=reality&pbk=HnHVuSObMrldWGzq1-Eb93fwgu6QQRp6H0_8LX3ikDc&sid=2c2d919f5183d0b7&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=/#%F0%9F%87%A8%F0%9F%87%B1%20Chile%20%5B1%5D
