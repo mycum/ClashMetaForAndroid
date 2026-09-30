@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 30.09.2026 19:30)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 30.09.2026 20:32)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1476 | Пинг: 77 | >300KB/s: 42 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1523 | Пинг: 69 | >300KB/s: 24 | ТОП: 24 (iOS: 16)
 
-trojan://8GXLP3dEzm7T8wP5Jx0Ufg@199.107.164.105:443?security=tls&sni=quictest.burncommunity.ru&alpn=http/1.1&type=ws&path=/&host=quictest.burncommunity.ru&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B10%5D
+trojan://UX82473651@actual-squid.rooster465.autos:443?mux=1&sni=actual-squid.rooster465.autos&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B180%5D
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.48.45:8388#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B5%5D
-vless://d13baced-948a-40d7-be31-7b44fa768552@45.145.40.61:7443?security=reality&encryption=none&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speed.overload.ovh&sid=a20d3ed244c76426&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B6%5D
-vmess://eyJhZGQiOiIzMS43Ny44Ljk3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6ImQyZDg2MDFiLWMxNGItNDJjNi1iOGVhLTMzODg5YmNlMTUyYSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTEwIiwicHMiOiJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgR2VybWFueSBbNDZdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
-vless://4314a583-3a39-45e1-883e-70bf570d252a@95.85.253.202:443?security=reality&encryption=none&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&headerType=none&spx=/&type=tcp&flow=xtls-rprx-vision&sni=pl0001.kubservice.icu&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B5%5D
-trojan://UX82473651@actual-squid.rooster465.autos:443?mux=1&sni=actual-squid.rooster465.autos&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B178%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.20.143.248:443#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B5%5D
-vless://129e26fe-cee2-4786-9261-b29668337829@agroup.sg3.ilovegairport.com:443?security=reality&flow=xtls-rprx-vision&pbk=eAQrXEfedW5BrMMeOecf_M9tkNNqQIShlLOl2xg1cho&sid=c75bbeb4b67fba71&sni=ap-southeast-1.console.aws.amazon.com&type=tcp&headerType=none&host=ap-southeast-1.console.aws.amazon.com&path=/&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B2%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMgWzkzXSIsImFkZCI6IjQ3Ljg1LjE4OC4zMCIsInBvcnQiOiIxMjAwNCIsImlkIjoiOGI1NTUyYmQtNGNjNy00Y2FjLWFmMDgtODFjMjE2ODZmZDRmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwiZnAiOiJjaHJvbWUifQ==
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B19%5D
-vless://129e26fe-cee2-4786-9261-b29668337829@agroup.hk1.ilovegairport.com:443?security=reality&flow=xtls-rprx-vision&pbk=wjVcW5OqGoFbeqwEPiQHjf-uQTwRMBsOKlRnl5JmSzA&sid=a05ab5de12&sni=ap-east-1.console.aws.amazon.com&type=tcp&headerType=none&host=ap-east-1.console.aws.amazon.com&path=/&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B5%5D
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206dlMvMitFMnZPRzFDNjhRZ211Z05MREF4SnF0R1FlSUpWSThsVXUyMG45WT0=@31.57.185.82:23114#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B137%5D
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B160%5D
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B20%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.205.21.144:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B169%5D
 ss://YWVzLTEyOC1nY206MWNiYjNlMzQ3ZWU4NmUxOTgwYTdjNzMxZTlkZDAwYTA@64.74.161.148:17201#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B122%5D
-vless://ef24e9b9-e7b2-4e01-b335-f289612d2d7a@5.223.41.164:80?type=ws&security=none&path=/&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B9%5D
-ss://YWVzLTEyOC1nY206ODdlOWNiNjI3MDZiNWNkMDhkYTk1YjhiNDIzY2I2NzM@103.214.111.162:16469#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B154%5D
-vless://8079ccd4-4b4b-44e2-92f0-8f0367ad9c24@bgroup.hk1.ilovegairport.com:443?security=reality&flow=xtls-rprx-vision&pbk=Z0sxSuzxnWYa5FNTZ-W4ImxQd674VG4KfmOBqlcudjU&sid=7c7ad24684&fp=chrome&sni=ap-east-1.console.aws.amazon.com&type=tcp&headerType=none&host=ap-east-1.console.aws.amazon.com&path=/#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B16%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B120%5D
+vless://129e26fe-cee2-4786-9261-b29668337829@agroup.hk1.ilovegairport.com:443?security=reality&type=tcp&sni=ap-east-1.console.aws.amazon.com&flow=xtls-rprx-vision&pbk=wjVcW5OqGoFbeqwEPiQHjf-uQTwRMBsOKlRnl5JmSzA&sid=a05ab5de12&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B13%5D
+ss://YWVzLTEyOC1nY206ODdlOWNiNjI3MDZiNWNkMDhkYTk1YjhiNDIzY2I2NzM@103.214.111.162:16469#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B172%5D
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B19%5D
+vless://8079ccd4-4b4b-44e2-92f0-8f0367ad9c24@bgroup.hk1.ilovegairport.com:443?security=reality&flow=xtls-rprx-vision&pbk=Z0sxSuzxnWYa5FNTZ-W4ImxQd674VG4KfmOBqlcudjU&sid=7c7ad24684&fp=chrome&sni=ap-east-1.console.aws.amazon.com&type=tcp&headerType=none&host=ap-east-1.console.aws.amazon.com&path=/#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B36%5D
+trojan://8GXLP3dEzm7T8wP5Jx0Ufg@199.107.164.105:443?security=tls&sni=quictest.burncommunity.ru&alpn=http/1.1&type=ws&path=/&host=quictest.burncommunity.ru&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B27%5D
+vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.180.13:443?encryption=none&extra=null&fp=chrome&mode=auto&path=/&pbk=DuxQy3KWEZTU_sBhXSfeo_1Q0-0lMcSnx21bWvUi5hQ&security=reality&sni=api-maps.yandex.ru&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B56%5D
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B9%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B138%5D
+ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B128%5D
