@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 02.10.2026 12:48)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 02.10.2026 13:53)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1676 | Пинг: 172 | >300KB/s: 81 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1647 | Пинг: 170 | >300KB/s: 67 | ТОП: 32 (iOS: 16)
 
-vless://a5fc8ca4-9a1b-4bbf-99d1-0f161b5e5631@fasthost.funnykung.ir:80?security=none&type=ws&headerType=&path=/&host=kazemihiphone.ir&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B3%5D
-vless://ac0c2945-b758-11f1-8181-54db13ea7d40@143.246.196.207:443?encryption=none&flow=xtls-rprx-vision&pbk=wSjV1yR_rhDUdoNbM9zIXNGLASLp9RorComnyoayo2c&security=reality&sni=www.blocket.se&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B2%5D
-vless://a15d1b88-e3f4-4f4d-9c04-462a2965a60a@nl119.mech-pro.online:443?security=reality&encryption=none&pbk=jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl119.mech-pro.online&sid=16e0f049&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B8%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.20.143.248:443#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B7%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.20.86.152:443#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B6%5D
-vless://a15d1b88-e3f4-4f4d-9c04-462a2965a60a@31.77.59.107:443?encryption=none&flow=xtls-rprx-vision&pbk=jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI&security=reality&sid=16e0f049&sni=pl193.mech-pro.online&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B8%5D
-vless://1b719dea-8174-4c27-ae5b-d0d41e227da0@135.106.223.241:655?encryption=none&security=none&type=raw&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B16%5D
-vmess://eyJhZGQiOiIzMS43Ny44Ljk3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6ImQyZDg2MDFiLWMxNGItNDJjNi1iOGVhLTMzODg5YmNlMTUyYSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTEwIiwicHMiOiJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgR2VybWFueSBbN10iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
-vless://3f58af8e-7c91-424e-85c7-ec6913b7fc8f@45.128.78.84:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B10%5D
-vless://6f032731-f429-40e6-85d2-ab30d32ef9ac@83.228.229.95:443?security=reality&encryption=none&pbk=j7aGcYd-D_FA4I5VxfbDGLSG2xjTOXH9uaRLyMiE5gQ&headerType=none&type=tcp&sni=play-apps-features.googleusercontent.com&sid=953a4d9cf9&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B2%5D
-vless://5786d86f-7731-4174-b1a3-84297e54b015@151.241.138.44:443?encryption=none&flow=xtls-rprx-vision&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&security=reality&sni=condropolo1.ggisopi.su&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%B3%20India%20%5B3%5D
-vless://08117346-6de0-407c-a53b-89b6c6e1e2f4@81dfbc47661b59f3.sddsask.ir:8080?encryption=none&security=none&type=ws&headerType=none&path=/&host=play.google.com&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5B2%5D
-vless://c2f5e996-9fe3-4c98-8d42-69cdef945d72@nl6.meshbeat.online:8444?encryption=none&security=tls&sni=nl6.meshbeat.online&alpn=http/1.1&type=ws&path=/api/v1/devices/6045e84a2a/telemetry&host=nl6.meshbeat.online&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B11%5D
-vless://08117346-6de0-407c-a53b-89b6c6e1e2f4@81dfbc47661b59f3.SDdSaSk.ir:8080?encryption=none&security=none&type=ws&headerType=none&path=/&host=play.google.com&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5B6%5D
-hysteria2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013?sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B21%5D
-vless://a15d1b88-e3f4-4f4d-9c04-462a2965a60a@212.87.190.36:443?encryption=none&flow=xtls-rprx-vision&pbk=jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI&security=reality&sid=16e0f049&sni=ee174.mech-pro.online&type=tcp&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B6%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.20.86.152:443#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B3%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.20.143.248:443#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B4%5D
+vless://5786d86f-7731-4174-b1a3-84297e54b015@litva.ali-bard.online:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=litva.ali-bard.online&fp=chrome#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B4%5D
+vless://ac0c2945-b758-11f1-8181-54db13ea7d40@143.246.196.207:443?encryption=none&flow=xtls-rprx-vision&pbk=wSjV1yR_rhDUdoNbM9zIXNGLASLp9RorComnyoayo2c&security=reality&sni=www.blocket.se&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B15%5D
+vless://a15d1b88-e3f4-4f4d-9c04-462a2965a60a@nl119.mech-pro.online:443?security=reality&encryption=none&pbk=jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl119.mech-pro.online&sid=16e0f049&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B4%5D
+vless://1b719dea-8174-4c27-ae5b-d0d41e227da0@135.106.223.241:563?encryption=none&security=none&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B62%5D
+vless://08117346-6de0-407c-a53b-89b6c6e1e2f4@81dfbc47661b59f3.SDdSaSk.ir:8080?encryption=none&security=none&type=ws&headerType=none&path=/&host=play.google.com&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5B4%5D
+vless://26c88828-53a0-40b9-84fc-e9a50fde5e7d@netherlands.diginoisb.ir:59228?security=none&encryption=none&headerType=none&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B1%5D
+vless://3f58af8e-7c91-424e-85c7-ec6913b7fc8f@45.128.78.84:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B3%5D
+vless://a15d1b88-e3f4-4f4d-9c04-462a2965a60a@pl193.mech-pro.online:443?security=reality&encryption=none&pbk=jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=pl193.mech-pro.online&sid=16e0f049&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B12%5D
+vless://5786d86f-7731-4174-b1a3-84297e54b015@condropolo1.ggisopi.su:443?type=tcp&headerType=none&security=reality&encryption=none&sni=condropolo1.ggisopi.su&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%AE%F0%9F%87%B3%20India%20%5B11%5D
+hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?sni=www.docker.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B24%5D
+hysteria2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013?sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B16%5D
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B131%5D
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B141%5D
+vmess://eyJhZGQiOiJ5ZzEueWdra2suZHBkbnMub3JnIiwiYWlkIjoiMCIsImhvc3QiOiJqbXAxLjkwNzczNy54eXoiLCJpZCI6ImIyYmE0YTczLTMxMjMtNDc5ZS1hYTk2LTU5NzNhOWVjZDBjMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9iMmJhNGE3My0zMTIzLTQ3OWUtYWE5Ni01OTczYTllY2QwYzAtdm0iLCJwb3J0IjoiNDQzIiwicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFszXSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6ImptcDEuOTA3NzM3Lnh5eiIsInYiOiIyIiwic2N5IjoiYXV0byIsImFscG4iOiIiLCJmcCI6ImNocm9tZSJ9
