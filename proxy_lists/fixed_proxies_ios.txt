@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 04.10.2026 23:03)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 05.10.2026 00:05)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1601 | Пинг: 108 | >300KB/s: 50 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1565 | Пинг: 95 | >300KB/s: 47 | ТОП: 32 (iOS: 16)
 
-vless://65616081-1772-49d7-a793-42bc13d22f69@89.23.117.99:443?encryption=none&pbk=gS0qvWKumWcOVoAgf8SHt6Sm3tqpBw07c5sA_Clb1hg&security=reality&sni=ru-1-9.imnotgay.party&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B59%5D
-vless://65616081-1772-49d7-a793-42bc13d22f69@185.104.114.92:443?encryption=none&pbk=gS0qvWKumWcOVoAgf8SHt6Sm3tqpBw07c5sA_Clb1hg&security=reality&sni=ru-1-5.imnotgay.party&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B55%5D
-vless://65616081-1772-49d7-a793-42bc13d22f69@94.228.123.217:443?encryption=none&pbk=gS0qvWKumWcOVoAgf8SHt6Sm3tqpBw07c5sA_Clb1hg&security=reality&sni=ru-1-2.imnotgay.party&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B63%5D
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B4%5D
-vmess://eyJhZGQiOiJtaHplZGlyLnF6ei5pbyIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6IjdmODRiMWVmLWI4MDQtNGQ1MC05MDc5LTE3MTgzYmY0NjE3MiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiNDU4NCIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEdlcm1hbnkgWzEzXSIsInNjeSI6ImF1dG8iLCJzbmkiOiJtaHplZGlyLnF6ei5pbyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
-vless://ca990a85-cb33-44af-bb17-61b30b43d51e@72.56.85.221:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=uTOxHZkQuw_YnO3GEIV0jDkVNOsOPQrTIPdRb2Rk8DQ&sid=00353c&sni=apple.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B7%5D
-trojan://UX82473651@loved-shark.rooster465.autos:443?sni=loved-shark.rooster465.autos&fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B8%5D
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.138:443?flow=xtls-rprx-vision&security=tls&sni=polkadotnewone.failspace.top&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B2%5D
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.98:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=pol-pol-poland.failspace.top#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B5%5D
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.155:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=poland-good.failspace.top&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B4%5D
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.120.165:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=cool-place.failspace.top&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B13%5D
-vless://33016f3d-8509-493c-bd8b-d26447d48135@psf-2.weedly.top:80?type=ws&host=stigmata.ir&sni=psf-2.weedly.top&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B12%5D
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@103.30.76.71:31094?flow=xtls-rprx-vision&fp=chrome&pbk=BTVKTYNHnuv3850vXEU15GVgfp5S0Dz20jueg-FSgAQ&security=reality&sid=c761f990d786f2&sni=www.lamer.com.sg&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B9%5D
-trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?type=tcp&security=tls&fp=chrome#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20%5B4%5D
-ss://YWVzLTEyOC1nY206NTBjZTJhYzE3N2Q4ZDhjZGFkNmI0YTY4NzM5ZTJlYTA@66.23.202.50:13623#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B171%5D
+vless://65616081-1772-49d7-a793-42bc13d22f69@94.228.123.217:443?encryption=none&pbk=gS0qvWKumWcOVoAgf8SHt6Sm3tqpBw07c5sA_Clb1hg&security=reality&sni=ru-1-2.imnotgay.party&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B22%5D
+vless://65616081-1772-49d7-a793-42bc13d22f69@109.68.214.220:443?encryption=none&pbk=gS0qvWKumWcOVoAgf8SHt6Sm3tqpBw07c5sA_Clb1hg&security=reality&sni=ru-1-7.imnotgay.party&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B30%5D
 hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?sni=www.docker.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B33%5D
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.120.165:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=cool-place.failspace.top&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B12%5D
+trojan://UX82473651@loved-shark.rooster465.autos:443?sni=loved-shark.rooster465.autos&fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B8%5D
+trojan://UX82473651@pleased-albacore.rooster465.autos:443?sni=pleased-albacore.rooster465.autos&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B19%5D
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pol-pol-poland.failspace.top:443?type=tcp&security=tls&sni=pol-pol-poland.failspace.top&fp=chrome&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B7%5D
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.155:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=poland-good.failspace.top#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B3%5D
+vless://33016f3d-8509-493c-bd8b-d26447d48135@psf-2.weedly.top:80?encryption=none&security=none&type=ws&headerType=none&host=stigmata.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B11%5D
+vless://ca990a85-cb33-44af-bb17-61b30b43d51e@72.56.85.221:443?flow=xtls-rprx-vision&fp=chrome&pbk=uTOxHZkQuw_YnO3GEIV0jDkVNOsOPQrTIPdRb2Rk8DQ&security=reality&sid=00353c&sni=apple.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B8%5D
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@polkadotnewone.failspace.top:443?type=tcp&security=tls&sni=polkadotnewone.failspace.top&fp=chrome&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B11%5D
+trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?type=tcp&security=tls&fp=chrome#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20%5B1%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEhvbmcgS29uZyBbMTldIiwiYWRkIjoicXRrZHI4anhlM3dlZnhqbS52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjctYzFmOS00MzczLTg3NmMtMmY0M2U5Zjc5MGYzIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoicXRrZHI4anhlM3dlZnhqbS52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUifQ==
+ss://YWVzLTEyOC1nY206NTBjZTJhYzE3N2Q4ZDhjZGFkNmI0YTY4NzM5ZTJlYTA@66.23.202.50:13623#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B170%5D
+ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA==@yyz-ca-01.blncvpn4u.cc:9443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B135%5D
+trojan://UX82473651@desired-boxer.rooster465.autos:443?sni=desired-boxer.rooster465.autos&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B54%5D
