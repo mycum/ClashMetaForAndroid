@@ -1,36 +1,36 @@
-# profile-title: 🚀 Telegood VPN (ТОП-32 от 05.10.2026 19:20)
+# profile-title: 🚀 Telegood VPN (ТОП-32 от 05.10.2026 20:23)
 # 🛡️ Verified Elite: 32
-# 📊 Stats: Вход: 1511 | Пинг: 83 | >300KB/s: 54 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1526 | Пинг: 110 | >300KB/s: 70 | ТОП: 32 (iOS: 16)
 
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B5%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@98.88.75.157:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B144%5D
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B23%5D
-hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?insecure=1&sni=www.docker.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B25%5D
-trojan://UX82473651@holy-lamb.rooster465.autos:443?security=tls&sni=holy-lamb.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B12%5D
-trojan://UX82473651@assuring-skink.rooster465.autos:443?security=tls&sni=assuring-skink.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B2%5D
-trojan://UX82473651@intense-sole.rooster465.autos:443?security=tls&sni=intense-sole.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B16%5D
-trojan://UX82473651@real-cardinal.rooster465.autos:443?allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B8%5D
-trojan://UX82473651@main-fawn.rooster465.autos:443?allowInsecure=1&sni=main-fawn.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B11%5D
-trojan://UX82473651@noted-cougar.rooster465.autos:443?security=tls&sni=noted-cougar.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B14%5D
-trojan://UX82473651@kind-stork.rooster465.autos:443?security=tls&sni=kind-stork.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B8%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B118%5D
-trojan://UX82473651@happy-gibbon.rooster465.autos:443?security=tls&sni=happy-gibbon.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B55%5D
-trojan://UX82473651@guided-ferret.rooster465.autos:443?allowInsecure=1&sni=guided-ferret.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B51%5D
-trojan://UX82473651@ultimate-jaguar.rooster465.autos:443?security=tls&sni=ultimate-jaguar.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B82%5D
-trojan://UX82473651@concrete-aardvark.rooster465.autos:443?allowInsecure=1&sni=concrete-aardvark.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B7%5D
-trojan://UX82473651@musical-terrier.rooster465.autos:443?security=tls&sni=musical-terrier.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B18%5D
-trojan://UX82473651@engaging-toucan.rooster465.autos:443?security=tls&sni=engaging-toucan.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B4%5D
-trojan://UX82473651@integral-rodent.rooster465.autos:443?security=tls&sni=integral-rodent.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B14%5D
-trojan://UX82473651@obliging-louse.rooster465.autos:443?allowInsecure=1&sni=obliging-louse.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B19%5D
-trojan://UX82473651@fancy-javelin.rooster465.autos:443?allowInsecure=1&sni=fancy-javelin.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B11%5D
-trojan://UX82473651@evolving-platypus.rooster465.autos:443?security=tls&sni=evolving-platypus.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B10%5D
-trojan://UX82473651@brief-glider.rooster465.autos:443?security=tls&sni=brief-glider.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B4%5D
-trojan://UX82473651@organic-caribou.rooster465.autos:443?security=tls&sni=organic-caribou.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B22%5D
-trojan://UX82473651@balanced-stag.rooster465.autos:443?security=tls&sni=balanced-stag.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B2%5D
-trojan://UX82473651@liked-eft.rooster465.autos:443?allowInsecure=1&sni=liked-eft.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B9%5D
-trojan://UX82473651@dynamic-imp.rooster465.autos:443?security=tls&sni=dynamic-imp.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B27%5D
-trojan://UX82473651@promoted-rattler.rooster465.autos:443?allowInsecure=1&sni=promoted-rattler.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B23%5D
-vless://0590ab38-cb22-41d3-8312-6f396a5cec58@129.150.51.127:34249?allowInsecure=1&sni=www.microsoft.com&security=tls#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B25%5D
-trojan://UX82473651@delicate-buck.rooster465.autos:443?security=tls&sni=delicate-buck.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B19%5D
-trojan://UX82473651@pretty-rat.rooster465.autos:443?allowInsecure=1&sni=pretty-rat.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B17%5D
+vless://a81360d3-0a9f-47a0-bf5e-f05aca1d3c0b@94.139.255.239:443?alpn=http/1.1&encryption=none&fp=edge&path=/catalog/feed/WuS2vn_EyDEQ&security=tls&sni=krepmet.site&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B14%5D
+vless://a81360d3-0a9f-47a0-bf5e-f05aca1d3c0b@46.8.209.137:443?alpn=http/1.1&encryption=none&fp=edge&path=/assets/chunk/mvQTG32WRbIF&security=tls&sni=orionv1.online&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B17%5D
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@nl-new-ded-once.failspace.top:443?type=tcp&security=tls&sni=nl-new-ded-once.failspace.top&alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B1%5D
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.48.45:8388#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B4%5D
+hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?insecure=1&sni=www.docker.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B28%5D
+vmess://eyJhZGQiOiIzMS43Ny44Ljk3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImQyZDg2MDFiLWMxNGItNDJjNi1iOGVhLTMzODg5YmNlMTUyYSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTEwIiwicHMiOiJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgR2VybWFueSBbOF0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@motri-at-new.failspace.top:443?type=tcp&security=tls&sni=motri-at-new.failspace.top&alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%5B3%5D
+vless://f39a15ee-e776-4b27-a5f0-50c02052771a@144.31.3.0:443?encryption=none&type=ws&security=tls&sni=usin1.confstage.app&path=/&host=usin1.confstage.app&fp=edge#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B2%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptaFhZRHZhU2ZIekhaWEJzd0Mvem8vbzhWcWRVM1hTQnB3V3gwNTBZNk1VPQ@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B1%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@98.88.75.157:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B156%5D
+trojan://UX82473651@real-cardinal.rooster465.autos:443?allowInsecure=1&sni=real-cardinal.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B9%5D
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B21%5D
+trojan://UX82473651@holy-lamb.rooster465.autos:443?security=tls&sni=holy-lamb.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B12%5D
+trojan://UX82473651@promoted-rattler.rooster465.autos:443?security=tls&sni=promoted-rattler.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B24%5D
+trojan://UX82473651@obliging-louse.rooster465.autos:443?allowInsecure=1&sni=obliging-louse.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B19%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B130%5D
+trojan://UX82473651@brief-glider.rooster465.autos:443?allowInsecure=1&sni=brief-glider.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B3%5D
+trojan://UX82473651@delicate-buck.rooster465.autos:443?security=tls&sni=delicate-buck.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B19%5D
+trojan://UX82473651@engaging-toucan.rooster465.autos:443?security=tls&sni=engaging-toucan.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B4%5D
+trojan://UX82473651@main-fawn.rooster465.autos:443?security=tls&sni=main-fawn.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B12%5D
+trojan://UX82473651@noted-cougar.rooster465.autos:443?security=tls&sni=noted-cougar.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B14%5D
+trojan://UX82473651@pretty-rat.rooster465.autos:443?allowInsecure=1&sni=pretty-rat.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B17%5D
+trojan://UX82473651@ultimate-jaguar.rooster465.autos:443?security=tls&sni=ultimate-jaguar.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B94%5D
+trojan://UX82473651@guided-ferret.rooster465.autos:443?allowInsecure=1&sni=guided-ferret.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B63%5D
+trojan://UX82473651@happy-gibbon.rooster465.autos:443?security=tls&sni=happy-gibbon.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B67%5D
+trojan://UX82473651@organic-caribou.rooster465.autos:443?security=tls&sni=organic-caribou.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B22%5D
+trojan://UX82473651@fancy-javelin.rooster465.autos:443?security=tls&sni=fancy-javelin.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B12%5D
+trojan://UX82473651@concrete-aardvark.rooster465.autos:443?security=tls&sni=concrete-aardvark.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B8%5D
+trojan://UX82473651@accurate-frog.rooster465.autos:443?security=tls&sni=accurate-frog.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B28%5D
+trojan://UX82473651@evolving-platypus.rooster465.autos:443?security=tls&sni=evolving-platypus.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B10%5D
+trojan://UX82473651@assuring-skink.rooster465.autos:443?allowInsecure=1&sni=assuring-skink.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B1%5D
+trojan://UX82473651@winning-marten.rooster465.autos:443?allowInsecure=1&sni=winning-marten.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B25%5D
