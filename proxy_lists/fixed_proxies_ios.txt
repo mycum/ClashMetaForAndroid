@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 05.10.2026 15:11)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 05.10.2026 16:14)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1835 | Пинг: 124 | >300KB/s: 75 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1731 | Пинг: 113 | >300KB/s: 73 | ТОП: 32 (iOS: 16)
 
-trojan://UX82473651@meet-goshawk.rooster465.autos:443?security=tls&sni=meet-goshawk.rooster465.autos&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B37%5D
-vless://a3301ba6-872f-4f10-a42c-31863cf7888a@13.143.141.151:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=lil24.autumn-garden.org&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B32%5D
-vless://a3301ba6-872f-4f10-a42c-31863cf7888a@13.143.141.148:8443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=lili21.autumn-garden.org&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B31%5D
-vmess://eyJhZGQiOiIzMS43Ny44Ljk3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6ImQyZDg2MDFiLWMxNGItNDJjNi1iOGVhLTMzODg5YmNlMTUyYSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTEwIiwicHMiOiJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgR2VybWFueSBbNTFdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
-vless://c51b9c8c-2507-4c38-be5f-b769dede9b79@103.24.207.36:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=promo-digital.wb.ru&fp=chrome&pbk=XqDFAqo3BBi_qmTzK2Kb7ZENPHQaC_aRiHRiJ6_YQxM&sid=bc3160135a28cd97&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B6%5D
+hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?sni=www.docker.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B26%5D
+trojan://UX82473651@meet-goshawk.rooster465.autos:443?security=tls&sni=meet-goshawk.rooster465.autos&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B43%5D
+vless://55ccbeb5-0bf4-4e4d-afcb-23c038e73e00@177.1.186.117:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=rcge.67resserv67.info&fp=chrome&pbk=Dx2F6ThyTXQpu07q1cECPCWBpQwWGNWy1WecyCI7ejA&sid=29455a3a790acbd0&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B3%5D
+vless://51a1fd52-fd88-4905-a976-35e44be28e4b@pl.flen-vpn.xyz:8443?type=tcp&headerType=none&security=tls&encryption=none&sni=pl.flen-vpn.xyz&alpn=http/1.1&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B3%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.47.133.105:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B8%5D
+trojan://UX82473651@pleased-albacore.rooster465.autos:443?fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B44%5D
+vless://c51b9c8c-2507-4c38-be5f-b769dede9b79@103.24.207.36:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=promo-digital.wb.ru&fp=chrome&pbk=XqDFAqo3BBi_qmTzK2Kb7ZENPHQaC_aRiHRiJ6_YQxM&sid=bc3160135a28cd97&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B1%5D
+trojan://UX82473651@loved-shark.rooster465.autos:443?fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B1%5D
+vless://33016f3d-8509-493c-bd8b-d26447d48135@psf-2.weedly.top:80?type=ws&host=stigmata.ir&sni=psf-2.weedly.top&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B7%5D
 trojan://UX82473651@sacred-anemone.rooster465.autos:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B3%5D
-hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?sni=www.docker.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B27%5D
-vless://33016f3d-8509-493c-bd8b-d26447d48135@psf-2.weedly.top:80?security=false&fp=chrome&type=ws&headerType=none&host=stigmata.ir&path=/#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B30%5D
-vless://430209fa-6f0f-4e1b-8283-5aceb7cb51ab@146.75.119.82:80?security=none&type=ws&path=/ws/%3Fed%3D2048/%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr/%3F2048&host=rb24.ir&encryption=none&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B8%5D
-trojan://UX82473651@loved-shark.rooster465.autos:443?security=tls&sni=loved-shark.rooster465.autos&fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B2%5D
-trojan://UX82473651@pleased-albacore.rooster465.autos:443?fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B38%5D
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B177%5D
-trojan://UX82473651@18.143.92.167:443?sni=glowing-marmoset.rooster465.autos&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B4%5D
-trojan://UX82473651@real-cardinal.rooster465.autos:443?sni=real-cardinal.rooster465.autos&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B13%5D
-trojan://UX82473651@pet-antelope.rooster465.autos:443?sni=pet-antelope.rooster465.autos&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B11%5D
-trojan://UX82473651@holy-lamb.rooster465.autos:443?security=tls&sni=holy-lamb.rooster465.autos&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B16%5D
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B156%5D
+trojan://UX82473651@real-cardinal.rooster465.autos:443?security=tls&sni=real-cardinal.rooster465.autos&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B13%5D
+trojan://UX82473651@pet-antelope.rooster465.autos:443?sni=pet-antelope.rooster465.autos&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B10%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@98.88.75.157:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B166%5D
+trojan://UX82473651@glowing-marmoset.rooster465.autos:443?sni=glowing-marmoset.rooster465.autos&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B8%5D
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B158%5D
