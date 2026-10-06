@@ -1,36 +1,23 @@
-# profile-title: 🚀 Telegood VPN (ТОП-32 от 06.10.2026 18:26)
-# 🛡️ Verified Elite: 32
-# 📊 Stats: Вход: 1738 | Пинг: 92 | >300KB/s: 44 | ТОП: 32 (iOS: 16)
+# profile-title: 🚀 Telegood VPN (ТОП-32 от 06.10.2026 19:29)
+# 🛡️ Verified Elite: 19
+# 📊 Stats: Вход: 1530 | Пинг: 80 | >300KB/s: 19 | ТОП: 19 (iOS: 16)
 
-vless://59ab9bbf-3f08-4992-bbf3-4faddceb8e49@lv1d.lynch.ir:4040?security=reality&pbk=_OmNcv89o5SDt4H3ButRX9UynGIVwNZR250w4Zie-yk&sid=73693dea6faae051&fp=chrome&sni=www.actionvfx.com&type=tcp&headerType=none&host=www.actionvfx.com&path=/#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B2%5D
-vless://2b781b4a-5942-48e0-a7f3-5a07b7b488c1@113.30.152.2:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=be-root.sworkingvpn.com&fp=random&pbk=cceRo0o9bFMlCNVahZCrQWRzMAsR5M6abWXADIapY0w&sid=15bcc0a77c3cacdf&type=tcp#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20%5B1%5D
-hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?insecure=1&sni=www.docker.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B41%5D
-vless://a5c988df-58e5-4b5c-bcb7-1e7d7e41f141@89.213.119.126:2086?type=ws&headerType=none&host=www.tesla.com&path=/api/v2/xtrnwqjbkr%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B14%5D
-vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@2.27.39.233:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=randomized&pbk=5tMM2VdgddmxOKhdNa3b7i_aXno1g-_61SzkppS2UXQ&sid=f3c023cc&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B12%5D
-trojan://UX82473651@holy-lamb.rooster465.autos:443?security=tls&sni=holy-lamb.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B57%5D
-ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA==@yyz-ca-01.blncvpn4u.cc:9443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B188%5D
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B20%5D
-trojan://UX82473651@accurate-frog.rooster465.autos:443?security=tls&sni=accurate-frog.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B29%5D
-vless://799b1006-3255-4e36-8ea0-64fe24d2bfa7@news.zoom.us:8443?type=ws&security=tls&fp=chrome&sni=asia.csmaster.site&host=asia.csmaster.site#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B24%5D
-trojan://UX82473651@main-fawn.rooster465.autos:443?security=tls&sni=main-fawn.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B13%5D
-trojan://UX82473651@balanced-stag.rooster465.autos:443?security=tls&sni=balanced-stag.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B11%5D
-trojan://UX82473651@real-cardinal.rooster465.autos:443?security=tls&sni=real-cardinal.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B9%5D
-trojan://UX82473651@pet-antelope.rooster465.autos:443?security=tls&sni=pet-antelope.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B11%5D
-vless://a853e120-3570-462b-aec1-e8f3d4f92d24@170.114.52.22:443?type=ws&security=tls&fp=chrome&sni=asia.csmaster.site&host=asia.csmaster.site#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B28%5D
-trojan://UX82473651@amazing-peacock.rooster465.autos:443?security=tls&sni=amazing-peacock.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B14%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B163%5D
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B199%5D
-trojan://UX82473651@ultimate-jaguar.rooster465.autos:443?security=tls&sni=ultimate-jaguar.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B129%5D
-trojan://UX82473651@intense-sole.rooster465.autos:443?security=tls&sni=intense-sole.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B31%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbMTU1XSIsImFkZCI6IjE4OC4xMTQuOTYuMTkiLCJwb3J0IjoiODAiLCJpZCI6ImFmNGJlNTJhLWFhYjMtNGRiMS1hNmJiLWMyMzcwMGRjYjljMiIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJodHRwcy5odHRwLnd3dy5uZXQuY29tLnJhbXNleXYyLmlyLiIsInBhdGgiOiIvZDNkM0xtbHlZVzVvYjNOMExtTnZiUT09P2VkPTI1NjAifQ==
-trojan://UX82473651@promoted-rattler.rooster465.autos:443?allowInsecure=1&sni=promoted-rattler.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B18%5D
-trojan://UX82473651@musical-terrier.rooster465.autos:443?security=tls&sni=musical-terrier.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B27%5D
-trojan://UX82473651@obliging-louse.rooster465.autos:443?security=tls&sni=obliging-louse.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B15%5D
-trojan://UX82473651@fancy-javelin.rooster465.autos:443?security=tls&sni=fancy-javelin.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B26%5D
-trojan://UX82473651@organic-caribou.rooster465.autos:443?security=tls&sni=organic-caribou.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B17%5D
-trojan://UX82473651@kind-stork.rooster465.autos:443?security=tls&sni=kind-stork.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B10%5D
-trojan://UX82473651@liked-eft.rooster465.autos:443?security=tls&sni=liked-eft.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B4%5D
-trojan://UX82473651@evolving-platypus.rooster465.autos:443?security=tls&sni=evolving-platypus.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B24%5D
-trojan://UX82473651@noted-cougar.rooster465.autos:443?security=tls&sni=noted-cougar.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B6%5D
-trojan://UX82473651@inviting-ferret.rooster465.autos:443?security=tls&sni=inviting-ferret.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B12%5D
-vless://0590ab38-cb22-41d3-8312-6f396a5cec58@129.150.51.127:49289?security=tls&fp=chrome&sni=www.microsoft.com&type=tcp&headerType=none&path=/#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B24%5D
+vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@157.228.155.238:443?security=reality&flow=xtls-rprx-vision&pbk=5BDht3tAZdKEKpJymGlRK9JugOnieA-kMSWz_0FoE0I&sid=6f76ad09&fp=chrome&sni=addons.mozilla.org&type=tcp&headerType=none&host=addons.mozilla.org&path=/#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B5%5D
+vless://59ab9bbf-3f08-4992-bbf3-4faddceb8e49@mo.asrarshimi.ir:4040?encryption=none&security=reality&type=tcp&headerType=none&sni=www.actionvfx.com&fp=chrome&pbk=_OmNcv89o5SDt4H3ButRX9UynGIVwNZR250w4Zie-yk&sid=73693dea6faae051#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B17%5D
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B18%5D
+ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA==@yyz-ca-01.blncvpn4u.cc:9443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B111%5D
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B146%5D
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B30%5D
+vless://0590ab38-cb22-41d3-8312-6f396a5cec58@129.150.51.127:49289?security=tls&fp=chrome&sni=www.microsoft.com&type=tcp&headerType=none&path=/#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B21%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B131%5D
+hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?insecure=1&sni=www.docker.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B34%5D
+vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@157.228.155.238:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=random&pbk=5BDht3tAZdKEKpJymGlRK9JugOnieA-kMSWz_0FoE0I&sid=6f76ad09&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B1%5D
+ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B112%5D
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B32%5D
+vless://0590ab38-cb22-41d3-8312-6f396a5cec58@129.150.51.127:49289?security=tls&fp=chrome&sni=www.microsoft.com&type=tcp&headerType=none&path=/#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B22%5D
+vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@157.228.155.238:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=5BDht3tAZdKEKpJymGlRK9JugOnieA-kMSWz_0FoE0I&sid=6f76ad09&sni=addons.mozilla.org#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B4%5D
+ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA==@185.156.47.97:9443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B113%5D
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B29%5D
+vless://0590ab38-cb22-41d3-8312-6f396a5cec58@129.150.51.127:34249?security=tls&sni=www.microsoft.com&type=tcp&headerType=none&path=/#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B20%5D
+vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@157.228.155.238:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=5BDht3tAZdKEKpJymGlRK9JugOnieA-kMSWz_0FoE0I&sid=6f76ad09&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B2%5D
+vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@157.228.155.238:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=randomized&pbk=5BDht3tAZdKEKpJymGlRK9JugOnieA-kMSWz_0FoE0I&sid=6f76ad09&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B3%5D
