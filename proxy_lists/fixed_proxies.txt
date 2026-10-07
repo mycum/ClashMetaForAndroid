@@ -1,36 +1,14 @@
-# profile-title: 🚀 Telegood VPN (ТОП-32 от 07.10.2026 15:32)
-# 🛡️ Verified Elite: 32
-# 📊 Stats: Вход: 1763 | Пинг: 111 | >300KB/s: 50 | ТОП: 32 (iOS: 16)
+# profile-title: 🚀 Telegood VPN (ТОП-32 от 08.10.2026 00:55)
+# 🛡️ Verified Elite: 10
+# 📊 Stats: Вход: 1416 | Пинг: 73 | >300KB/s: 10 | ТОП: 10 (iOS: 10)
 
-vless://8102ad73-696b-4d1e-a00c-b6e1d29b6504@45.151.102.148:8433?encryption=none&pbk=nWBtSYqMPtaWSA32mI5a79EoVolTModESoBb2tnvFik&security=reality&sid=6dd3d9f85c71&sni=sberbank.ru&spx=/&type=tcp&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B40%5D
-vless://72c52aa6-a442-4527-969f-6fdabf5e74c7@146.75.119.82:80?path=ws/?ed=2048/@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr@vpnserverrr/?2048&security=none&encryption=none&host=rb24.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B3%5D
-hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?insecure=1&sni=www.docker.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B41%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.197:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B75%5D
-vless://438dc782-c810-4561-9088-4e1471504d59@189.74.114.98:443?encryption=none&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediaples.cc&type=tcp&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B22%5D
-vless://438dc782-c810-4561-9088-4e1471504d59@189.74.114.152:443?encryption=none&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediaples.cc&type=tcp&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B12%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.237.215.103:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B20%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.181.55.52:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B18%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.38.79.223:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B21%5D
-vless://3a8b464f-3701-40ed-b6b6-b612019e34c1@apis.stroymatdv.cc:443?encryption=none&security=tls&sni=apis.stroymatdv.cc&alpn=http/1.1&type=ws&path=/amsws&host=apis.stroymatdv.cc&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B28%5D
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B32%5D
-ss://YWVzLTEyOC1nY206ODlkM2EwMzc1YTI3OWY2ZTc0M2ZlYTc2ZTcyOTUyYTg@66.23.204.210:16995#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B182%5D
-trojan://UX82473651@obliging-louse.rooster465.autos:443?security=tls&sni=obliging-louse.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B28%5D
-trojan://UX82473651@musical-terrier.rooster465.autos:443?allowInsecure=1&sni=musical-terrier.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B25%5D
-trojan://UX82473651@neutral-quail.rooster465.autos:443?security=tls&sni=neutral-quail.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B17%5D
-trojan://UX82473651@noted-cougar.rooster465.autos:443?security=tls&sni=noted-cougar.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B12%5D
-trojan://UX82473651@ultimate-jaguar.rooster465.autos:443?security=tls&sni=ultimate-jaguar.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B151%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B175%5D
-trojan://UX82473651@pet-antelope.rooster465.autos:443?security=tls&sni=pet-antelope.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B17%5D
-trojan://UX82473651@desired-boxer.rooster465.autos:443?security=tls&sni=desired-boxer.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B22%5D
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B42%5D
-trojan://UX82473651@promoted-rattler.rooster465.autos:443?allowInsecure=1&sni=promoted-rattler.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B33%5D
-trojan://UX82473651@assuring-skink.rooster465.autos:443?security=tls&sni=assuring-skink.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B8%5D
-trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@45.32.52.173:8886?allowInsecure=1&sni=45.32.52.173#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B37%5D
-trojan://UX82473651@delicate-buck.rooster465.autos:443?security=tls&sni=delicate-buck.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B19%5D
-trojan://UX82473651@balanced-stag.rooster465.autos:443?security=tls&sni=balanced-stag.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B18%5D
-trojan://UX82473651@main-fawn.rooster465.autos:443?security=tls&sni=main-fawn.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B16%5D
-trojan://UX82473651@organic-caribou.rooster465.autos:443?security=tls&sni=organic-caribou.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B30%5D
-trojan://UX82473651@prime-corgi.rooster465.autos:443?security=tls&sni=prime-corgi.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B32%5D
-trojan://UX82473651@kind-stork.rooster465.autos:443?allowInsecure=1&sni=kind-stork.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B9%5D
-trojan://UX82473651@inviting-ferret.rooster465.autos:443?security=tls&sni=inviting-ferret.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B20%5D
-trojan://UX82473651@holy-lamb.rooster465.autos:443?security=tls&sni=holy-lamb.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B19%5D
+trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@fi.zhabulik.ru:443?security=tls&alpn=h2,http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B1%5D
+trojan://UX82473651@pet-antelope.rooster465.autos:443?security=tls&sni=pet-antelope.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B4%5D
+trojan://UX82473651@evolving-platypus.rooster465.autos:443?security=tls&sni=evolving-platypus.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B16%5D
+trojan://UX82473651@promoted-rattler.rooster465.autos:443?allowInsecure=1&sni=promoted-rattler.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B4%5D
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@us3.xiaoliyu.cyou:18333?insecure=1#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%20%5B1%5D
+vmess://eyJhZGQiOiIxNTYuMjQ1LjIzMi4yMzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjE1ZTQ4MWQtMTdlNC00MWE4LTg0YzItMjNkNGYwNTE0ZDlhIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIzNTA0MyIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEhvbmcgS29uZyBbMTFdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9
+trojan://UX82473651@holy-lamb.rooster465.autos:443?security=tls&sni=holy-lamb.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B2%5D
+vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&security=reality&sid=db04ce8bdb8900f1&sni=eh.vk.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B31%5D
+trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@pl.zhabulik.ru:443?security=tls&alpn=h2,http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl.zhabulik.ru#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B2%5D
+trojan://UX82473651@neutral-quail.rooster465.autos:443?allowInsecure=1&sni=neutral-quail.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B9%5D
