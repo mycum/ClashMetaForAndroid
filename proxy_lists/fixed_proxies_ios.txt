@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 08.10.2026 03:10)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 08.10.2026 05:22)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1583 | Пинг: 86 | >300KB/s: 37 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1634 | Пинг: 109 | >300KB/s: 57 | ТОП: 32 (iOS: 16)
 
-trojan://9e1006cd4fa01b63e710d6550c0de1a1@172.67.248.85:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/u/fb66dcb77cc6?ed=2560&security=tls&host=edge-relay-af904f2b.nova-963a1b9c8400.workers.dev&fp=chrome&type=ws&sni=edge-relay-af904f2b.nova-963a1b9c8400.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B111%5D
-vless://9e20d0c6-6e33-41c3-aa29-af23036258d0@188.114.98.44:8880?encryption=none&security=none&type=ws&headerType=none&path=/%3Fed%3D2560&host=kh21.javanrooo.ir&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B37%5D
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@169.150.210.233:8080#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B67%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.196.88.40:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B68%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.159.149.158:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B64%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.38.79.223:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B17%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.181.55.52:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B14%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.237.215.103:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B15%5D
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?encryption=none&security=none&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B1%5D
-vless://3a8b464f-3701-40ed-b6b6-b612019e34c1@apis.stroymatdv.cc:443?encryption=none&security=tls&sni=apis.stroymatdv.cc&alpn=http/1.1&type=ws&path=/amsws&host=apis.stroymatdv.cc&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B25%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.83.117.150:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B166%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@100.48.94.91:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B154%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbOTBdIiwiYWRkIjoiaGsyLjk5ODk5OC5iZXN0IiwicG9ydCI6IjQ0MyIsImlkIjoiNTUwNGVhYTgtMTM5NS00MDJmLThlMGUtNzVlY2Q3NjJlNjI3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InNlcnZlcjE1Ljk5NjYzMzgueHl6IiwicGF0aCI6Ii9hc2l2ZXdyaXR0ZW4/ZWQ9MjU2MCIsInRscyI6InRscyIsInNuaSI6InNlcnZlcjE1Ljk5NjYzMzgueHl6IiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIn0=
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@107.21.80.138:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B164%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@23.22.158.187:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B153%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.159.42.128:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B165%5D
+vless://b0fae3b7-02de-4002-b8ca-b7159fe33841@psf-3.weedly.top:80?encryption=none&security=none&type=ws&headerType=none&host=machinemag.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B1%5D
+vless://9e9b0c09-dc28-4888-9b21-888a93541987@188.225.58.19:443?type=tcp&flow=xtls-rprx-vision&pbk=-HXpsd4_-Rh8PxkK7dwmEzsAHsss5MQSG-ePRSygFWs&security=reality&sid=7dcd042eaf3ba4b1&sni=smartcaptcha.yandexcloud.net&encryption=none&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B11%5D
+vless://9e20d0c6-6e33-41c3-aa29-af23036258d0@188.114.98.44:8880?encryption=none&security=none&type=ws&headerType=none&path=/%3Fed%3D2560&host=kh21.javanrooo.ir&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B321%5D
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@169.150.210.233:8080#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B159%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.237.215.103:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B13%5D
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.48.45:8388#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B5%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.196.88.40:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B160%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.159.149.158:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B52%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.181.55.52:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B12%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.38.79.223:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B15%5D
+hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?sni=www.docker.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B32%5D
+vless://3a8b464f-3701-40ed-b6b6-b612019e34c1@apis.stroymatdv.cc:443?encryption=none&security=tls&sni=apis.stroymatdv.cc&alpn=http/1.1&type=ws&path=/amsws&host=apis.stroymatdv.cc&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B39%5D
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B141%5D
+vless://a5893c8b-28a2-4947-9a1c-708db25506c3@91.215.43.248:443?encryption=none&fp=chrome&path=/gateway/v1/ws/a64eb463966ba9c4bfd628f1de0362ae&security=tls&sni=my.kempekl.online&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B35%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbMTE3XSIsImFkZCI6ImhrMi45OTg5OTguYmVzdCIsInBvcnQiOiI0NDMiLCJpZCI6IjU1MDRlYWE4LTEzOTUtNDAyZi04ZTBlLTc1ZWNkNzYyZTYyNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJzZXJ2ZXIxNS45OTY2MzM4Lnh5eiIsInBhdGgiOiIvYXNpdmV3cml0dGVuP2VkPTI1NjAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJzZXJ2ZXIxNS45OTY2MzM4Lnh5eiIsImFscG4iOiIiLCJmcCI6ImNocm9tZSJ9
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.159.42.128:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B293%5D
