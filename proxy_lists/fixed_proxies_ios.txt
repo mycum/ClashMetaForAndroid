@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 08.10.2026 19:24)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 08.10.2026 21:28)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1786 | Пинг: 100 | >300KB/s: 39 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1744 | Пинг: 89 | >300KB/s: 32 | ТОП: 32 (iOS: 16)
 
-trojan://mitivpn@151.101.38.7:443?security=tls&sni=jjl.fastly.com&fp=chrome&alpn=http/1.1&type=ws&host=mitivpn--vip.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B94%5D
-vless://b0fae3b7-02de-4002-b8ca-b7159fe33841@psf-3.weedly.top:80?type=ws&host=machinemag.ir&sni=psf-3.weedly.top&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B3%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.171:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B109%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.177.230.112:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B56%5D
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@169.150.210.233:8080#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B164%5D
-vless://596be9d9-0bb9-41bc-bff5-1adb483cbc32@189.24.107.174:443?security=reality&flow=xtls-rprx-vision&pbk=gox8U8f-JNoWrH7BLfIRBsw3mKwEjIDUOcgozmi_nzQ&sid=8b36e9b7b3&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=/#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B114%5D
-vless://e4ed5619-5e91-442a-92f1-755a7f6331b8@psf-2.weedly.top:80?type=ws&path=/&host=beat.ir&sni=psf-2.weedly.top&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B13%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.196.88.40:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B58%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY0FYYzBVWkk2eVFKRTFwOFFtT3Y4@57.129.113.16:8388?fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B49%5D
-vmess://eyJhZGQiOiJ1czE2LTQuOTk4OTk4LmJlc3QiLCJpZCI6IjU1MDRlYWE4LTEzOTUtNDAyZi04ZTBlLTc1ZWNkNzYyZTYyNyIsInBvcnQiOiI0NDMiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJuZXQiOiJ3cyIsImhvc3QiOiJzZXJ2ZXIxLjk5NjYzMzgueHl6IiwicGF0aCI6Ii9lZnJzZGlveTk4d2VydCIsInRscyI6InRscyIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsInNuaSI6InNlcnZlcjEuOTk2NjMzOC54eXoiLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBDYW5hZGEgWzE5N10iLCJhaWQiOiIwIiwidHlwZSI6Im5vbmUifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFS0dIeDJ5aFV6bW5ST05oTk94dm4rQnFVcjEwd2ZxRFFxUmc0RFlVSkU4PQ@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B4%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.83.117.150:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B324%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.221.120.243:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B190%5D
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B34%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.228.79.192:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B188%5D
-vmess://eyJhZGQiOiJoazIuOTk4OTk4LmJlc3QiLCJhaWQiOiIwIiwiaG9zdCI6InNlcnZlcjE1Ljk5NjYzMzgueHl6IiwiaWQiOiI1NTA0ZWFhOC0xMzk1LTQwMmYtOGUwZS03NWVjZDc2MmU2MjciLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXNpdmV3cml0dGVuP2VkPTI1NjAiLCJwb3J0IjoiNDQzIiwicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFsyMTZdIiwic2N5IjoiYXV0byIsInNlcnZpY2VOYW1lIjoiIiwic25pIjoic2VydmVyMTUuOTk2NjMzOC54eXoiLCJ0bHMiOiJ0bHMiLCJ2IjoiMiIsInR5cGUiOiJub25lIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIn0=
+vmess://eyJhZGQiOiJtaXgyLjk5ODk5OC5iZXN0IiwiYWlkIjoiMCIsImhvc3QiOiJzZXJ2ZXIxMC45OTY2MzM4Lnh5eiIsImlkIjoiNTUwNGVhYTgtMTM5NS00MDJmLThlMGUtNzVlY2Q3NjJlNjI3IiwibmV0Ijoid3MiLCJwYXRoIjoiL3J0aGl1Z295cmV0ZHN1aWdnP2VkPTI1NjAiLCJwb3J0IjoiNDQzIiwicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFsxMzZdIiwic2N5IjoiYXV0byIsInNlcnZpY2VOYW1lIjoiIiwic25pIjoic2VydmVyMTAuOTk2NjMzOC54eXoiLCJ0bHMiOiJ0bHMiLCJ2IjoiMiIsInR5cGUiOiJub25lIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIn0=
+trojan://mitivpn@151.101.38.7:443?security=tls&sni=jjl.fastly.com&fp=chrome&alpn=http/1.1&type=ws&host=mitivpn--vip.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B69%5D
+vless://b0fae3b7-02de-4002-b8ca-b7159fe33841@psf-3.weedly.top:80?security=none&type=ws&path=/&host=machinemag.ir&fp=chrome&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B3%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.171:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B103%5D
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@169.150.210.233:8080#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B171%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.177.230.112:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B60%5D
+vless://e4ed5619-5e91-442a-92f1-755a7f6331b8@psf-2.weedly.top:80?encryption=none&security=none&type=ws&host=beat.ir&path=/&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B10%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFS0dIeDJ5aFV6bW5ST05oTk94dm4rQnFVcjEwd2ZxRFFxUmc0RFlVSkU4PQ@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B1%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbMTM4XSIsImFkZCI6InVzMTYtNC45OTg5OTguYmVzdCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiNTUwNGVhYTgtMTM5NS00MDJmLThlMGUtNzVlY2Q3NjJlNjI3IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9lZnJzZGlveTk4d2VydCIsImhvc3QiOiJzZXJ2ZXIxLjk5NjYzMzgueHl6IiwidGxzIjoidGxzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6ImNocm9tZSJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY0FYYzBVWkk2eVFKRTFwOFFtT3Y4@57.129.113.16:8388#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B51%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@107.21.80.138:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B182%5D
+hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?sni=www.docker.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B37%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.221.120.243:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B185%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.228.79.192:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B183%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.159.42.128:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B319%5D
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B21%5D
