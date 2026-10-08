@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 09.10.2026 04:33)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 09.10.2026 05:36)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1745 | Пинг: 142 | >300KB/s: 65 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1778 | Пинг: 135 | >300KB/s: 75 | ТОП: 32 (iOS: 16)
 
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B5%5D
-vless://f8d52ece-fad4-478d-875d-df6eed3befa7@217.60.178.61:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&security=reality&sid=78f97d82e16aaad6&sni=fi-s-1.pythonmakemigreat.wiki&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B5%5D
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.24.73:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B22%5D
-hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443/?sni=germany3.h2corp.local&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B16%5D
+vless://a5893c8b-28a2-4947-9a1c-708db25506c3@91.215.43.248:443?encryption=none&fp=chrome&path=/gateway/v1/ws/a64eb463966ba9c4bfd628f1de0362ae&security=tls&sni=my.kempekl.online&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B32%5D
+hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443/?sni=germany3.h2corp.local&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B174%5D
+hysteria2://83rwy5zazcx1f4i6@top.bostnet.xyz:443?sni=177.3.217.45&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B284%5D
+vless://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@94.183.206.121:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mDDDyruO33nuqcTS7pZOjd9oOpDHUf0aEv2TQ1DFGV4&security=reality&sni=google.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B4%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE%3D@51.195.126.38:8388#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B64%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU=@51.255.13.232:8388#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B11%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE%3D@51.195.126.38:8388#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B65%5D
-hysteria2://83rwy5zazcx1f4i6@top.bostnet.xyz:443?sni=177.3.217.45&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B31%5D
-hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?sni=www.docker.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B33%5D
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@169.150.210.233:8080#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B174%5D
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@169.150.210.233:8080#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B175%5D
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?security=false&fp=chrome&type=tcp&headerType=none&host=milo.rubinaz.xyz&path=/#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B2%5D
-hysteria2://267b3a79-81f2-42ac-a409-c23b05b6329d@dehy.bbobr.win:443?sni=dehy.bbobr.win&security=tls&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B15%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU%3D@51.77.225.200:8388#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B20%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.67.197.81:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B72%5D
-vless://ea6156d1-3738-4c12-a6b6-46fc03276f2a@104.194.143.86:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=suffolkprimarycare.uk&fp=chrome&pbk=3vgqsFm1j-00-_jN25zuuty59lk7yn5YFMIfL5LwwRw&sid=2bd6a47090adc591#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B22%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B2%5D
-vless://a5893c8b-28a2-4947-9a1c-708db25506c3@91.215.43.248:443?encryption=none&fp=chrome&path=/gateway/v1/ws/a64eb463966ba9c4bfd628f1de0362ae&security=tls&sni=my.kempekl.online&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B34%5D
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B5%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.67.197.81:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B71%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU%3D@51.77.225.200:8388#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B24%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B3%5D
+vless://ea6156d1-3738-4c12-a6b6-46fc03276f2a@104.194.143.86:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=suffolkprimarycare.uk&fp=chrome&pbk=3vgqsFm1j-00-_jN25zuuty59lk7yn5YFMIfL5LwwRw&sid=2bd6a47090adc591#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B15%5D
+hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?sni=www.docker.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B32%5D
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.epicgames.com:2095?encryption=none&type=ws&path=/&host=uwu.femboy67.cc.cd&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B47%5D
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.csgo.net:2095?encryption=none&type=ws&path=/&host=uwu.femboy67.cc.cd&fp=chrome#%F0%9F%87%A8%F0%9F%87%BE%20Cyprus%20%5B1%5D
