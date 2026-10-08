@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 09.10.2026 02:25)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 09.10.2026 03:28)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1654 | Пинг: 88 | >300KB/s: 31 | ТОП: 31 (iOS: 16)
+# 📊 Stats: Вход: 1678 | Пинг: 101 | >300KB/s: 36 | ТОП: 32 (iOS: 16)
 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B23%5D
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@169.150.210.233:8080#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B154%5D
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?packet-encoding=xudp&sni=milo.rubinaz.xyz&type=tcp&headerType=none&host=milo.rubinaz.xyz&path=/&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B1%5D
+hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443/?sni=germany3.h2corp.local&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B13%5D
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@169.150.210.233:8080#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B162%5D
+hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?sni=www.docker.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B35%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.67.197.81:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B62%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B28%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFS0dIeDJ5aFV6bW5ST05oTk94dm4rQnFVcjEwd2ZxRFFxUmc0RFlVSkU4PQ@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B4%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B2%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFS0dIeDJ5aFV6bW5ST05oTk94dm4rQnFVcjEwd2ZxRFFxUmc0RFlVSkU4PQ@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B1%5D
-vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fi-s-1.pythonmakemigreat.wiki:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi-s-1.pythonmakemigreat.wiki&fp=chrome&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&sid=78f97d82e16aaad6&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B1%5D
-vless://ecb42118-4797-4e0c-b686-93fdb3185d1b@30760af564bf4fe3b692.nnjd10086.top:443?security=reality&flow=xtls-rprx-vision&pbk=f5UamDR1jN4qJmUAFxWKP5v62nXguuZExtK9_OWwyWA&sid=bd449c03&fp=chrome&sni=sg.yahoo.com&type=tcp&headerType=none&host=sg.yahoo.com&path=/#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B54%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.159.42.128:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B282%5D
-vless://ecb42118-4797-4e0c-b686-93fdb3185d1b@47.128.231.86:61075?security=reality&flow=xtls-rprx-vision&pbk=2S6nxJzVHFp10pw_5Eu-x1bGzmdt4TLu2QSWLPNC6n8&sid=0d3ba7fb&fp=chrome&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=/#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B56%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@107.21.80.138:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B283%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.228.79.192:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B284%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.83.117.150:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B281%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.221.120.243:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B161%5D
-hysteria2://83rwy5zazcx1f4i6@top.bostnet.xyz:443?fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B45%5D
-vmess://eyJhZGQiOiJoazIuOTk4OTk4LmJlc3QiLCJhaWQiOiIwIiwiaG9zdCI6InNlcnZlcjE1Ljk5NjYzMzgueHl6IiwiaWQiOiI1NTA0ZWFhOC0xMzk1LTQwMmYtOGUwZS03NWVjZDc2MmU2MjciLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXNpdmV3cml0dGVuP2VkPTI1NjAiLCJwb3J0IjoiNDQzIiwicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFsxMzZdIiwic2N5IjoiYXV0byIsInNlcnZpY2VOYW1lIjoiIiwic25pIjoic2VydmVyMTUuOTk2NjMzOC54eXoiLCJ0bHMiOiJ0bHMiLCJ2IjoiMiIsInR5cGUiOiJub25lIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B133%5D
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?packet-encoding=xudp&sni=milo.rubinaz.xyz&type=tcp&headerType=none&host=milo.rubinaz.xyz&path=/&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B1%5D
+vmess://eyJhZGQiOiJ1czE2LTQuOTk4OTk4LmJlc3QiLCJpZCI6IjU1MDRlYWE4LTEzOTUtNDAyZi04ZTBlLTc1ZWNkNzYyZTYyNyIsInBvcnQiOiI0NDMiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJuZXQiOiJ3cyIsImhvc3QiOiJzZXJ2ZXIxLjk5NjYzMzgueHl6IiwicGF0aCI6Ii9lZnJzZGlveTk4d2VydD9lZD0yNTYwIiwidGxzIjoidGxzIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwic25pIjoic2VydmVyMS45OTY2MzM4Lnh5eiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbMTA3XSIsImFpZCI6IjAiLCJ0eXBlIjoibm9uZSJ9
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@217.60.178.61:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&security=reality&sid=78f97d82e16aaad6&sni=fi-s-1.pythonmakemigreat.wiki&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B5%5D
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.epicgames.com:2095?encryption=none&type=ws&path=/&host=uwu.femboy67.cc.cd&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B49%5D
+vless://ecb42118-4797-4e0c-b686-93fdb3185d1b@30760af564bf4fe3b692.nnjd10086.top:443?security=reality&flow=xtls-rprx-vision&pbk=f5UamDR1jN4qJmUAFxWKP5v62nXguuZExtK9_OWwyWA&sid=bd449c03&fp=chrome&sni=sg.yahoo.com&type=tcp&headerType=none&host=sg.yahoo.com&path=/#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B56%5D
+vless://ecb42118-4797-4e0c-b686-93fdb3185d1b@47.128.231.86:61075?security=reality&flow=xtls-rprx-vision&pbk=2S6nxJzVHFp10pw_5Eu-x1bGzmdt4TLu2QSWLPNC6n8&sid=0d3ba7fb&fp=chrome&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=/#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B57%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.83.117.150:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B286%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.159.42.128:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B283%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@107.21.80.138:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B284%5D
