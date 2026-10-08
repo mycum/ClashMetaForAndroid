@@ -1,36 +1,36 @@
-# profile-title: 🚀 Telegood VPN (ТОП-32 от 08.10.2026 14:52)
+# profile-title: 🚀 Telegood VPN (ТОП-32 от 08.10.2026 17:25)
 # 🛡️ Verified Elite: 32
-# 📊 Stats: Вход: 3177 | Пинг: 168 | >300KB/s: 63 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 2492 | Пинг: 125 | >300KB/s: 52 | ТОП: 32 (iOS: 16)
 
-vless://b0fae3b7-02de-4002-b8ca-b7159fe33841@psf-3.weedly.top:80?type=ws&host=machinemag.ir&sni=psf-3.weedly.top#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B3%5D
-trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?host=dimskiee.biz.id&path=/WangCai-8&security=tls&sni=dimskiee.biz.id&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1341%5D
-trojan://mitivpn@199.232.78.160:443?path=/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/D-e1i@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-2--vip.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B7%5D
-vless://49ccad64-c854-4f33-b334-793cf0d02b74@104.17.98.5:443?encryption=none&type=ws&path=/&host=newcscf.jisucf.cloudns.ch&security=tls&sni=newcscf.jisucf.cloudns.ch#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1157%5D
-trojan://mitivpn@151.101.38.7:443?security=tls&sni=jjl.fastly.com&fp=chrome&alpn=http/1.1&type=ws&host=mitivpn--vip.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B163%5D
-trojan://mitivpn@167.82.76.27:443?security=tls&sni=mitivpn-mitivpn.fastly.com&fp=chrome&alpn=http/1.1&type=ws&host=mitivpn-3--vip.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B142%5D
-trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.16.148.5:443?security=tls&sni=dimskiee.biz.id&allowInsecure=1&type=ws&host=dimskiee.biz.id&path=/WangCai-8#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1338%5D
-vless://68c3d665-b2b5-4ffb-9f37-9f3d8c47324d@45.133.151.166:25481?encryption=none&pbk=mhIAHuZIEr2NpdGGSeOxar7VRSgEfVoNwb_G8Y0073E&security=reality&serviceName=8cb5baa18cd7&sid=3b84fc70657725af&sni=www.bing.com&type=grpc&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B1%5D
-vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.24:2087?type=grpc&headerType=none&security=reality&encryption=none&sni=www.yandex.ru&pbk=W2OLbQ682PLJ9yHQ21Q0nPJk9U8RuL5YnlP-U1fdQzI&sid=a11023050f134216&serviceName=astracat&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B7%5D
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@169.150.210.233:8080#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B183%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.196.88.40:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B76%5D
-vless://cfae6477-e8ad-4114-8efd-a7c3e5d8a05b@13.143.174.97:8443?encryption=none&security=tls&sni=13.143.174.97&fp=random&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B6%5D
-vless://e4ed5619-5e91-442a-92f1-755a7f6331b8@psf-2.weedly.top:80?encryption=none&type=ws&path=/&host=beat.ir#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B128%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.177.230.112:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B74%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.67.197.81:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B75%5D
-hysteria2://QFO6ZOwTxjvD8ITXouHLh_Rrp-QC3rXnZRTnShz_GcJPRsPXQ4QV456o1TN6ISbN@94.228.167.49:23443?sni=hy2.95.181.175.123.nip.io#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B63%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY0FYYzBVWkk2eVFKRTFwOFFtT3Y4@57.129.113.16:8388#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B69%5D
-vless://3a8b464f-3701-40ed-b6b6-b612019e34c1@apis.stroymatdv.cc:443?encryption=none&security=tls&sni=apis.stroymatdv.cc&alpn=http/1.1&type=ws&path=/amsws&host=apis.stroymatdv.cc&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B53%5D
-trojan://Telegram_healer_config@www.speedtest.net:443?allowInsecure=1&alpn=http/1.1&fp=chrome&host=30f67sbq8jjwmt7gytfc14.0m68-qz3hqyfnlar6n3iq.workers.dev&path=/tr/D0RNup7f2Tt0Tna3gVu5OvfMJYJjD%3Fed%3D2560&security=tls&sni=30f67sbq8jjwmt7gytfc14.0m68-qz3hqyfnlar6n3iq.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B356%5D
-ss://YWVzLTI1Ni1nY206TURnelpHSTVOVFF3TkRnMU5tVmhaRE5tWkRJelpXRXdPV1UyT1dSaw@145.249.115.238:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B118%5D
-hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?insecure=1&sni=www.docker.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B44%5D
-vless://20ff936a-8eb5-4d27-9cce-93f2016d467b@free.nadun.store:443?security=tls&fp=chrome&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B7%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFS0dIeDJ5aFV6bW5ST05oTk94dm4rQnFVcjEwd2ZxRFFxUmc0RFlVSkU4PQ@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B1%5D
-vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.37:443?type=grpc&headerType=none&security=reality&encryption=none&sni=www.yandex.ru&pbk=5k0dtOSzmshCubdYeKppsUdHU4i2ghaB9uSJSzGjHW4&sid=6dbf4931096f9890&serviceName=astracat&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B4%5D
-vless://8271f073-e156-4dd5-a4dd-5f6d70cf5f20@fik1xjnq.caroptions.ir:443?security=reality&encryption=none&pbk=_OmNcv89o5SDt4H3ButRX9UynGIVwNZR250w4Zie-yk&headerType=none&fp=chrome&type=tcp&sni=www.actionvfx.com&sid=73693dea6faae051#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B33%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.159.42.128:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B399%5D
-vless://02e6ad71-7f85-4c3a-aac7-6171762bce87@172.67.148.180:443?encryption=none&security=tls&sni=summer-field-3c5b.fsdfsddf.workers.dev&fp=chrome&type=ws&host=summer-field-3c5b.fsdfsddf.workers.dev&path=/eyJqdW5rIjoia2N4eldGd0p6NVY1V3hrIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B398%5D
-vless://a8985e6a-f338-4b44-9a41-f94495603a96@log.bpminecraft.com:8880?security=false&fp=chrome&type=ws&headerType=none&host=dawn-cell-346f.238-df6.workers.dev&path=/pyip%3DProxyIP.JP.CMLiussss.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B783%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.228.79.192:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B261%5D
-vless://59c70620-d2f3-4255-9d6f-f4c5103d64ce@104.21.31.137:443?encryption=none&type=ws&host=59fssibe-sddrrs3qw83qqzz0h1nt-o.q7qwsxitb6byi5nmta4naalz.workers.dev&path=/vl/FpYFoMlg8sRpgV7SSaOaRYa3fagqGu%3Fed&security=tls&fp=chrome&sni=59fssibe-sddrrs3qw83qqzz0h1nt-o.q7qwsxitb6byi5nmta4naalz.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B198%5D
-trojan://Telegram_healer_config@104.21.16.123:443?allowInsecure=1&insecure=1&security=tls&sni=7x7o3vtq5z6ymu3hv1fh-op9blt.hya6losm6lznoxhm6w3mk.workers.dev&fp=chrome&alpn=http/1.1&type=ws&host=7x7o3vtq5z6ymu3hv1fh-op9blt.hya6losm6lznoxhm6w3mk.workers.dev&path=/tr/qL8YIeH28wNcXfNTPgLCwOhNFEr%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1321%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.83.117.150:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B398%5D
+vless://9f4b666c-ecf1-49e9-8ab8-9ae2c4f4c613@172.64.94.251:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=withered-morning-aa51.64-c79.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B579%5D
+trojan://mitivpn@199.232.78.160:443?host=mitivpn-2--vip.global.ssl.fastly.net&path=/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/D-e1i%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1&security=tls&sni=mitivpn.fastly.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B7%5D
+trojan://mitivpn@151.101.38.7:443?security=tls&sni=jjl.fastly.com&fp=chrome&alpn=http/1.1&type=ws&host=mitivpn--vip.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B122%5D
+trojan://mitivpn@146.75.57.238:443?security=tls&sni=ssl-mitivpn.fastly.com&fp=chrome&alpn=http/1.1&type=ws&host=mitivpn-4--vip.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B100%5D
+vless://49ccad64-c854-4f33-b334-793cf0d02b74@104.17.98.5:443?encryption=none&type=ws&path=/&host=newcscf.jisucf.cloudns.ch&security=tls&sni=newcscf.jisucf.cloudns.ch#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B653%5D
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@169.150.210.233:8080#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B171%5D
+vless://3a8b464f-3701-40ed-b6b6-b612019e34c1@37.139.42.221:443?encryption=none&security=tls&sni=apis.stroymatdv.cc&type=ws&path=/amsws&host=apis.stroymatdv.cc&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B29%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.67.197.81:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B64%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.196.88.40:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B65%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.177.230.112:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B63%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.171:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B113%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY0FYYzBVWkk2eVFKRTFwOFFtT3Y4@57.129.113.16:8388#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B54%5D
+vless://e4ed5619-5e91-442a-92f1-755a7f6331b8@psf-2.weedly.top:80?type=ws&path=/&host=beat.ir&sni=psf-2.weedly.top#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B79%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFS0dIeDJ5aFV6bW5ST05oTk94dm4rQnFVcjEwd2ZxRFFxUmc0RFlVSkU4PQ@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B4%5D
+ss://YWVzLTI1Ni1nY206TURnelpHSTVOVFF3TkRnMU5tVmhaRE5tWkRJelpXRXdPV1UyT1dSaw@145.249.115.238:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B161%5D
+vmess://eyJhZGQiOiI4Ny4xMjAuMTA2LjEzMyIsImFpZCI6IjAiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6ImQ5ZmJmOWE3LTFmODgtNDI4Yi1iYjNlLTMwNzQ2ODFlNDRjOSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzM0NDUiLCJwcyI6Ilx1ZDgzY1x1ZGRmOVx1ZDgzY1x1ZGRmNyBUXHUwMGZjcmtpeWUgWzVdIiwic2N5IjoiYXV0byIsInNuaSI6ImVzM3Npd3hlZTcwNS5keDR4LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B203%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.83.117.150:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B347%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.159.42.128:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B346%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.221.120.243:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B212%5D
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B35%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@107.21.80.138:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B209%5D
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B63%5D
+hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?insecure=1&sni=www.docker.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B38%5D
+trojan://UX82473651@pet-antelope.rooster465.autos:443?security=tls&sni=pet-antelope.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B21%5D
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p141.panda001.net:4652#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B27%5D
+trojan://UX82473651@noted-cougar.rooster465.autos:443?security=tls&sni=noted-cougar.rooster465.autos&fp=chrome&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B17%5D
+trojan://UX82473651@engaging-toucan.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B8%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B183%5D
+trojan://UX82473651@neutral-quail.rooster465.autos:443?security=tls&sni=neutral-quail.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B15%5D
+trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B24%5D
+trojan://UX82473651@52.192.45.137:443?security=tls&sni=promoted-rattler.rooster465.autos&fp=chrome&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B25%5D
