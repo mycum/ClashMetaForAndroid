@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 09.10.2026 23:08)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 10.10.2026 00:11)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1717 | Пинг: 114 | >300KB/s: 61 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1720 | Пинг: 98 | >300KB/s: 51 | ТОП: 32 (iOS: 16)
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE%3D@51.195.126.38:8388#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B61%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B9%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE=@51.195.126.38:8388#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B61%5D
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B4%5D
+hysteria2://83rwy5zazcx1f4i6@top.bostnet.xyz:443?fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B31%5D
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@169.150.210.233:8080#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B177%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.67.197.81:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B72%5D
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.75.231.76:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B178%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.196.88.40:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B71%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU=@51.77.225.200:8388#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B31%5D
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443?security=tls&sni=admin.wwwinternetvideo.click&alpn=h3&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B2%5D
-hysteria2://83rwy5zazcx1f4i6@top.bostnet.xyz:443?fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B29%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplaWNkaHNoU3JGTEN4L3NaMVBTcHVLeW9WV0dacFU5NXRGUzRpR0MxYzA0PQ==@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B1%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU%3D@51.77.225.200:8388#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B24%5D
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443?sni=admin.wwwinternetvideo.click&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B4%5D
+trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger1.fytpn.com:443?type=tcp&security=tls&sni=ger1.fytpn.com&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B32%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B4%5D
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger2.fytpn.com:443?type=tcp&security=tls&sni=ger2.fytpn.com&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B29%5D
-vmess://eyJhZGQiOiJ1czUtMS45OTg5OTguYmVzdCIsImFpZCI6IjAiLCJob3N0Ijoic2VydmVyNC45OTY2MzM4Lnh5eiIsImlkIjoiNTUwNGVhYTgtMTM5NS00MDJmLThlMGUtNzVlY2Q3NjJlNjI3IiwibmV0Ijoid3MiLCJwYXRoIjoiL2FuZHJvaXJmZHNyZW9pZ2h0cmpoP2VkPTI1NjAiLCJwb3J0IjoiNDQzIiwicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFsxMDZdIiwic2N5IjoiYXV0byIsInNlcnZpY2VOYW1lIjoiIiwic25pIjoic2VydmVyNC45OTY2MzM4Lnh5eiIsInRscyI6InRscyIsInYiOiIyIiwidHlwZSI6Im5vbmUiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUifQ==
-vmess://eyJhZGQiOiJ6ZmQtaGt2Mi5rdW5sdW4wMWRucy5jb20iLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjA4MDJhYzAzLTc5NzMtMzllZi1hMDE5LWJhMDJkZTZjMDFlMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTYxMTIiLCJwcyI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCBIb25nIEtvbmcgWzE1XSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJmcCI6ImNocm9tZSJ9
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger1.fytpn.com:443?type=tcp&security=tls&sni=ger1.fytpn.com&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B28%5D
-trojan://UX82473651@ace-liger.rooster465.autos:443?type=tcp&security=tls&sni=ace-liger.rooster465.autos&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B5%5D
+vmess://eyJhZGQiOiJ1czUtMS45OTg5OTguYmVzdCIsImlkIjoiNTUwNGVhYTgtMTM5NS00MDJmLThlMGUtNzVlY2Q3NjJlNjI3IiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6InNlcnZlcjQuOTk2NjMzOC54eXoiLCJwYXRoIjoiL2FuZHJvaXJmZHNyZW9pZ2h0cmpoP2VkPTI1NjAiLCJ0bHMiOiJ0bHMiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJzbmkiOiJzZXJ2ZXI0Ljk5NjYzMzgueHl6IiwicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFs5Nl0iLCJhaWQiOiIwIiwidHlwZSI6Im5vbmUifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY0FYYzBVWkk2eVFKRTFwOFFtT3Y4@57.129.113.16:8388?fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B65%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplaWNkaHNoU3JGTEN4L3NaMVBTcHVLeW9WV0dacFU5NXRGUzRpR0MxYzA0PQ==@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B2%5D
+trojan://UX82473651@ace-liger.rooster465.autos:443?type=tcp&security=tls&sni=ace-liger.rooster465.autos&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B4%5D
+trojan://UX82473651@present-ram.rooster465.autos:443?sni=present-ram.rooster465.autos&peer=present-ram.rooster465.autos&security=tls&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B54%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.208.223.39:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B142%5D
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B22%5D
