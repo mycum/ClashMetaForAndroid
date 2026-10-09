@@ -1,5 +1,6 @@
-# profile-title: 🍎 Telegood CIDR iOS (09.10.2026 17:48)
-# 🛡️ Alive: 2
+# profile-title: 🍎 Telegood CIDR iOS (09.10.2026 18:52)
+# 🛡️ Alive: 3
 
-vless://31c236ad-92ed-4771-9d51-0d1f5a9b850a@188.225.34.111:1443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ligastavok.ru&pbk=eIwe5pSZs414JJDSuBA3R4-ikllq0oITezzVIdUkACI&sid=ad7dab462a323acb&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B21%5D
-vless://31c236ad-92ed-4771-9d51-0d1f5a9b850a@188.225.34.111:1443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ligastavok.ru&pbk=eIwe5pSZs414JJDSuBA3R4-ikllq0oITezzVIdUkACI&sid=ad7dab462a323acb&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B23%5D
+vless://31c236ad-92ed-4771-9d51-0d1f5a9b850a@188.225.34.111:1443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ligastavok.ru&pbk=eIwe5pSZs414JJDSuBA3R4-ikllq0oITezzVIdUkACI&sid=ad7dab462a323acb&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B9%5D
+vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?type=raw&security=reality&encryption=none&sni=eh.vk.ru&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&flow=xtls-rprx-vision&headerType=none&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B27%5D
+vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?type=raw&security=reality&encryption=none&sni=eh.vk.ru&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&flow=xtls-rprx-vision&headerType=none&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B28%5D
