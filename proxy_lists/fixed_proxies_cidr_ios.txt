@@ -1,4 +1,4 @@
-# profile-title: 🍎 Telegood CIDR iOS (09.10.2026 20:59)
+# profile-title: 🍎 Telegood CIDR iOS (09.10.2026 22:02)
 # 🛡️ Alive: 6
 
 vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.ru&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&headerType=none&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B10%5D
