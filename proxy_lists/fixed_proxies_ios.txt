@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 10.10.2026 01:14)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 10.10.2026 02:17)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1697 | Пинг: 113 | >300KB/s: 58 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1701 | Пинг: 102 | >300KB/s: 47 | ТОП: 32 (iOS: 16)
 
-ss://YWVzLTI1Ni1nY206NDkzOGU5NzU3MjRkMGVkMQ==@194.87.196.13:40440#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B93%5D
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.24.73:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B32%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE%3D@51.195.126.38:8388#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B60%5D
-vless://2111b7d2-e31a-474b-95a2-5218bc6cce71@95.129.236.239:443?alpn=http/1.1&encryption=none&fp=chrome&host=content-iv1k.login.opendns.stream&path=/stream/119857546/chat&security=tls&sni=content-iv1k.login.opendns.stream&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B35%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B10%5D
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@169.150.210.233:8080#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B173%5D
+ss://YWVzLTI1Ni1nY206NDkzOGU5NzU3MjRkMGVkMQ==@194.87.196.13:40440#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B91%5D
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.24.73:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B27%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE@51.195.126.38:8388#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B57%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU=@51.255.13.232:8388#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B9%5D
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@169.150.210.233:8080#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B170%5D
 vless://85fe968d-fbb5-40dc-8422-30635eccb149@c20s5.portablesubmarines.com:443?security=reality&encryption=none&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=portal.citygrainla.com&sid=051f20c2344a2dfd#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B1%5D
-vless://56ff50da-a238-4646-95ab-dd159634bd87@46.8.208.80:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=idWlVgScJ_BPMFeaRXloqfER_vvpoShyaNumvLpMmFA&security=reality&sni=ru14.transitb2bsytems.com&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B44%5D
-hysteria2://83rwy5zazcx1f4i6@top.bostnet.xyz:443?sni=127.0.0.1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B32%5D
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B4%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.196.88.40:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B66%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.67.197.81:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B67%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU%3D@51.77.225.200:8388#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B23%5D
-vmess://eyJhZGQiOiJ1czUtMS45OTg5OTguYmVzdCIsImFpZCI6IjAiLCJob3N0Ijoic2VydmVyNC45OTY2MzM4Lnh5eiIsImlkIjoiNTUwNGVhYTgtMTM5NS00MDJmLThlMGUtNzVlY2Q3NjJlNjI3IiwibmV0Ijoid3MiLCJwYXRoIjoiL2FuZHJvaXJmZHNyZW9pZ2h0cmpoP2VkPTI1NjAiLCJwb3J0IjoiNDQzIiwicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFsxNjFdIiwic2N5IjoiYXV0byIsInNlcnZpY2VOYW1lIjoiIiwic25pIjoic2VydmVyNC45OTY2MzM4Lnh5eiIsInRscyI6InRscyIsInYiOiIyIiwidHlwZSI6Im5vbmUiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUifQ==
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.75.231.76:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B171%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B4%5D
-hysteria2://8bd04756-3beb-4348-82c9-d35453df50ce@mai.song69.fun:20270?sni=&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B16%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.75.231.76:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B174%5D
-trojan://UX82473651@present-ram.rooster465.autos:443?sni=present-ram.rooster465.autos&peer=present-ram.rooster465.autos&security=tls&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B6%5D
+vless://56ff50da-a238-4646-95ab-dd159634bd87@46.8.208.80:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=idWlVgScJ_BPMFeaRXloqfER_vvpoShyaNumvLpMmFA&security=reality&sni=ru14.transitb2bsytems.com&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B93%5D
+hysteria2://83rwy5zazcx1f4i6@top.bostnet.xyz:443?sni=127.0.0.1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B32%5D
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B134%5D
+trojan://UX82473651@rested-seahorse.rooster465.autos:443?type=tcp&security=tls&sni=rested-seahorse.rooster465.autos&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B7%5D
