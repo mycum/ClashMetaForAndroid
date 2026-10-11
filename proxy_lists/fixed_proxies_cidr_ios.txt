@@ -1,6 +1,10 @@
-# profile-title: 🍎 Telegood CIDR iOS (11.10.2026 23:20)
-# 🛡️ Alive: 3
+# profile-title: 🍎 Telegood CIDR iOS (12.10.2026 00:25)
+# 🛡️ Alive: 7
 
-vless://844e3367-799a-44c0-8615-1476d4d6a8b9@72.56.11.135:43000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=72.56.11.135&pbk=LLEMIOtQNLNhB-o-C-0_c8bjFtafDe-qbSw0lG4pkGs&sid=34ec6fd7&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B7%5D
-vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@46.243.232.167:20007?alpn=http/1.1&encryption=none&host=vod3.rucdncomp.pro&path=/static/collect/f3bece46af1f/&security=tls&sni=vod3.rucdncomp.pro&type=ws&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B21%5D
-vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@46.243.232.167:20007?alpn=http/1.1&encryption=none&host=vod3.rucdncomp.pro&path=/static/collect/f3bece46af1f/&security=tls&sni=vod3.rucdncomp.pro&type=ws&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B22%5D
+vless://1bda2ae7-b597-4704-95a8-29c0f76324ba@196.240.125.251:8443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-v1-6aca6fae.vmagnum.win&type=raw&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B6%5D
+vless://1bda2ae7-b597-4704-95a8-29c0f76324ba@196.240.125.251:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=api-v1-6aca6fae.vmagnum.win&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B7%5D
+vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?encryption=none&flow=xtls-rprx-vision&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&security=reality&sid=db04ce8bdb8900f1&sni=eh.vk.ru&type=raw&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B34%5D
+vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.ru&fp=chrome&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&headerType=none&host=%3FTELEGRAM--MARAMBASHI--MARAMBASHI#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B36%5D
+vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.ru&fp=chrome&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&headerType=none&host=%3FTELEGRAM--MARAMBASHI--MARAMBASHI#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B37%5D
+vless://1bda2ae7-b597-4704-95a8-29c0f76324ba@196.240.125.5:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=api-v1-6aca6fae.vmagnum.win&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B41%5D
+vless://2f18de3b-2586-0003-b5ae-a6b2b9412e45@37.139.42.225:7448?type=tcp&security=reality&fp=chrome&pbk=V-wRiXvhBx01utmXJbrThJ_DE4tNJfK6mnzo9EB3fVA&sid=&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B42%5D
