@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 13.10.2026 14:16)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 13.10.2026 15:19)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1669 | Пинг: 123 | >300KB/s: 80 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1760 | Пинг: 87 | >300KB/s: 48 | ТОП: 32 (iOS: 16)
 
-vless://c3db7657-88ce-42a6-b998-1e0364b277ac@78.159.250.34:4510?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=hkvjyE8WMKHvdGfMta7PAIGz6HAv2WiXvWvAQmsE_DM&security=reality&sid=2d0c188798bae174&sni=9c99da.usecache.net&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B149%5D
-vless://ec572cf0-1337-4c51-b4ec-ff2f538c1f4c@fi-p1.h1cloud.net:25633?type=tcp&security=reality&fp=chrome&pbk=YLIRYJ8UkT0nSSgxJr7YckNuXnokVyEs2G6thNyx1GE&sid=200811f031ae7463&sni=www.icloud.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B107%5D
-ss://YWVzLTI1Ni1nY206al9aOXlXcUl0Q3pfOXloRDVZVlk0dw@185.239.141.248:8388#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B22%5D
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B3%5D
-vless://f8d52ece-fad4-478d-875d-df6eed3befa7@ge-s-1.pythonmakemigreat.wiki:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ge-s-1.pythonmakemigreat.wiki&fp=chrome&pbk=5fkwwCKZzMsE6Eb_b3iqluu-1AWIfnYl-p0N3EL9Al8&sid=2c9a2790ad5900b2&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B2%5D
-vless://f8d52ece-fad4-478d-875d-df6eed3befa7@sw.golangwikito.cfd:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=sw.golangwikito.cfd&pbk=Kb8SsVPprs46BJSUNp5JvWLI-TFEiHmlBOXLQd37Glg&sid=a1037b25dcef6aa7#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B3%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE@51.195.126.38:8388#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B59%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU=@51.255.13.232:8388#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B10%5D
-vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@fert6.localip.ir:2087?encryption=none&host=fert6.localip.ir&path=/hokm&security=tls&sni=fert6.localip.ir&type=ws&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B6%5D
-vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@94.103.168.48:2087?path=/hokm&security=tls&host=ops4asfseretuiyk.localip.ir&fp=chrome&type=ws&sni=ops4asfseretuiyk.localip.ir#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B1%5D
-vless://d0b32482-67aa-426d-8735-ab6c7ceb65bd@178.107.58.80:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=cdn.intercom-home.online&fp=chrome&alpn=h2#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B1%5D
-vless://51b7e147-a320-44be-ae95-3f3a80b7d3d7@45.88.12.47:2083?encryption=none&security=tls&sni=cert.viktorthebest.lol&alpn=http/1.1&fp=chrome&type=ws&path=/vless-ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B12%5D
-vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@fert1qswdfegrthy.localip.ir:2087?path=/hokm&security=tls&alpn=http/1.1&encryption=none&host=fert1qswdfegrthy.localip.ir&type=ws&sni=fert1qswdfegrthy.localip.ir&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B5%5D
-hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B30%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU=@51.77.225.200:8388#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B15%5D
-trojan://UX82473651@master-possum.rooster465.autos:443?fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B13%5D
+vless://c3db7657-88ce-42a6-b998-1e0364b277ac@37.18.14.145:4510?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=hkvjyE8WMKHvdGfMta7PAIGz6HAv2WiXvWvAQmsE_DM&security=reality&sid=2d0c188798bae174&sni=9c99da.usecache.net&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B46%5D
+ss://YWVzLTI1Ni1nY206al9aOXlXcUl0Q3pfOXloRDVZVlk0dw@185.239.141.248:8388#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B52%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE=@51.195.126.38:8388#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B70%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B14%5D
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.48.45:8388#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B2%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU=@51.77.225.200:8388#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B17%5D
+vless://ec572cf0-1337-4c51-b4ec-ff2f538c1f4c@fi-p1.h1cloud.net:25633?type=tcp&security=reality&fp=chrome&pbk=YLIRYJ8UkT0nSSgxJr7YckNuXnokVyEs2G6thNyx1GE&sid=200811f031ae7463&sni=www.icloud.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B94%5D
+trojan://UX82473651@master-possum.rooster465.autos:443?fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B12%5D
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B144%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFRoZSBOZXRoZXJsYW5kcyBbMzRdIiwiYWRkIjoibmwtMmE5NzJjODA1Mi5zaGFtYW5hcHAub25saW5lIiwicG9ydCI6IjMzNzM2IiwiaWQiOiIxMjgxYWNjYS1mMjFkLTQ3NWMtYmYwNC1lY2NiZWU3ZjhkZjIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoibmwtMmE5NzJjODA1Mi5zaGFtYW5hcHAub25saW5lIiwicGF0aCI6Ii92bWVzcy13cyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImluc2VjdXJlIjoiMCJ9
+vmess://eyJhZGQiOiJoazIuOTk4OTk4LmJlc3QiLCJhaWQiOjAsImhvc3QiOiJzZXJ2ZXIxNS45OTY2MzM4Lnh5eiIsImlkIjoiNTUwNGVhYTgtMTM5NS00MDJmLThlMGUtNzVlY2Q3NjJlNjI3IiwibmV0Ijoid3MiLCJwYXRoIjoiL2FzaXZld3JpdHRlbj9lZD0yNTYwIiwicG9ydCI6IjQ0MyIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbMTIzXSIsInNjeSI6ImF1dG8iLCJzZXJ2aWNlTmFtZSI6IiIsInNuaSI6InNlcnZlcjE1Ljk5NjYzMzgueHl6IiwidGxzIjoidGxzIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJmcCI6ImNocm9tZSJ9
+trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?security=tls&type=tcp&headerType=none&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B52%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbMTA1XSIsImFkZCI6ImNmLjBzbS5jb20iLCJwb3J0IjoiODAiLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwicGF0aCI6Ii93cz9lZD0yMDQ4IiwidGxzIjoibm9uZSIsImZwIjoiY2hyb21lIn0=
+vless://fc46b03d-e185-48e7-8c18-dea03b4a0c25@www.ipget.net:8880?security=false&fp=chrome&type=ws&headerType=none&host=flat-union-b292.17-4e0.workers.dev&path=/pyip%3DProxyIP.SG.CMLiussss.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B21%5D
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B32%5D
+vmess://eyJ2IjpudWxsLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVbml0ZWQgU3RhdGVzIFsxMjVdIiwiYWRkIjoiMzguOTEuMTA3LjQ5IiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjoiY2hyb21lIiwibmFtZSI6IlVTIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCB8IEBSYXlkaWthbHggfCAzQTYxMEMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
