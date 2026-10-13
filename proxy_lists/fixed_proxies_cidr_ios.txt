@@ -1,4 +1,3 @@
-# profile-title: 🍎 Telegood CIDR iOS (13.10.2026 16:20)
-# 🛡️ Alive: 1
+# profile-title: 🍎 Telegood CIDR iOS (13.10.2026 17:24)
+# 🛡️ Alive: 0
 
-vless://75d18a33-4593-4dcd-aa7d-b559445dccc2@141.105.68.164:443?encryption=none&security=tls&sni=msk.ai-boost.tech&fp=chrome&type=ws&path=/3a7lzIHlgUuz2QnV1CaQ&host=msk.ai-boost.tech#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B9%5D

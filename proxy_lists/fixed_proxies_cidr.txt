@@ -1,5 +1,4 @@
-# profile-title: 🛡️ Telegood CIDR (13.10.2026 16:20)
-# 🛡️ Alive: 2
+# profile-title: 🛡️ Telegood CIDR (13.10.2026 17:24)
+# 🛡️ Alive: 1
 
-vless://75d18a33-4593-4dcd-aa7d-b559445dccc2@141.105.68.164:443?encryption=none&security=tls&sni=msk.ai-boost.tech&fp=random&type=ws&path=/3a7lzIHlgUuz2QnV1CaQ&host=msk.ai-boost.tech#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B9%5D
 vless://c6e3c24c-ce20-4ad5-8c8c-68cb05890ea8@ru-1-5.unturned-rust-dead.lol:443?encryption=none&security=reality&sni=ru-1-5.unturned-rust-dead.lol&fp=random&pbk=aYz4_13W8gtAXGBrWeqJXtExahAJ9kUPDapqeyAlYCk&type=grpc&serviceName=ru-api#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B20%5D
