@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 15.10.2026 20:17)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 15.10.2026 21:19)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1490 | Пинг: 131 | >300KB/s: 55 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1463 | Пинг: 117 | >300KB/s: 57 | ТОП: 32 (iOS: 16)
 
-trojan://mitivpn@151.101.38.6:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@@MetiVIP/---@@MetiVIP---@MetiVIP&security=tls&alpn=http/1.1&host=mitivpn--s3.global.ssl.fastly.net&fp=chrome&type=ws&sni=www.firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B21%5D
-trojan://mitivpn@167.82.64.46:443?path=/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/NLSs---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1&security=tls&alpn=http/1.1&host=mitivpn--s2.global.ssl.fastly.net&fp=chrome&type=ws&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B26%5D
-vless://37857ebf-94bb-49a0-8ab9-548e64e57311@wwww.qarvian.ir:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&host=azdddaiji5.global.ssl.fastly.net.&type=ws&sni=google.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B155%5D
-trojan://mitivpn@199.232.78.160:443?path=/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/NLSus---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1&security=tls&alpn=http/1.1&host=mitivpn--s2.global.ssl.fastly.net&fp=chrome&type=ws&sni=google.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B1%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B36%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B37%5D
+vmess://eyJhZGQiOiJldTMuOTk4OTk4LmJlc3QiLCJhaWQiOjAsImhvc3QiOiJzZXJ2ZXI0MC45OTY2MzM4Lnh5eiIsImlkIjoiNTUwNGVhYTgtMTM5NS00MDJmLThlMGUtNzVlY2Q3NjJlNjI3IiwibmV0Ijoid3MiLCJwYXRoIjoiL2FpYWlhaSIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFsxMThdIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJmcCI6ImNocm9tZSJ9
+trojan://mitivpn@151.101.38.6:443?security=tls&sni=www.firefox.com&fp=chrome&alpn=http/1.1&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=ws&host=mitivpn--s3.global.ssl.fastly.net&path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@@MetiVIP/---@@MetiVIP---@MetiVIP#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B22%5D
 vmess://eyJhZGQiOiJtaXgyLjk5ODk5OC5iZXN0IiwiYWlkIjowLCJob3N0Ijoic2VydmVyMTAuOTk2NjMzOC54eXoiLCJpZCI6IjU1MDRlYWE4LTEzOTUtNDAyZi04ZTBlLTc1ZWNkNzYyZTYyNyIsIm5ldCI6IndzIiwicGF0aCI6Ii9ydGhpdWdveXJldGRzdWlnZz9lZD0yNTYwIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBDYW5hZGEgWzEyMV0iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsImZwIjoiY2hyb21lIn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B69%5D
+trojan://mitivpn@199.232.78.160:443?path=/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/NLSus---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1&security=tls&alpn=http/1.1&host=mitivpn--s2.global.ssl.fastly.net&fp=chrome&type=ws&sni=google.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B1%5D
+trojan://mitivpn@167.82.64.46:443?path=/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/NLSs---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1&security=tls&alpn=http/1.1&host=mitivpn--s2.global.ssl.fastly.net&fp=chrome&type=ws&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B24%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B53%5D
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B10%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B36%5D
+vless://37857ebf-94bb-49a0-8ab9-548e64e57311@wwww.qarvian.ir:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&host=azdddaiji5.global.ssl.fastly.net.&type=ws&sni=google.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B160%5D
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B69%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B37%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNWM2NXBo@54.36.174.140:443#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B9%5D
 vmess://eyJhZGQiOiJ1czUtMS45OTg5OTguYmVzdCIsImFpZCI6MCwiaG9zdCI6InNlcnZlcjQuOTk2NjMzOC54eXoiLCJpZCI6IjU1MDRlYWE4LTEzOTUtNDAyZi04ZTBlLTc1ZWNkNzYyZTYyNyIsIm5ldCI6IndzIiwicGF0aCI6Ii9hbmRyb2lyZmRzcmVvaWdodHJqaD9lZD0yNTYwIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBDYW5hZGEgWzExNV0iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsImZwIjoiY2hyb21lIn0=
 ss://YWVzLTI1Ni1nY206NzgyMzVlN2RjNTVlOWFkMQ==@86.107.50.183:50120#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%20%5B2%5D
-vless://ad263f1c-199e-4aaf-bf22-c3ad0407d377@31.77.148.89:45021?type=tcp&headerType=none&path=/&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B2%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbMTc2XSIsImFkZCI6InVzMTYtNC45OTg5OTguYmVzdCIsInBvcnQiOiI0NDMiLCJpZCI6IjU1MDRlYWE4LTEzOTUtNDAyZi04ZTBlLTc1ZWNkNzYyZTYyNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJzZXJ2ZXIxLjk5NjYzMzgueHl6IiwicGF0aCI6Ii9lZnJzZGlveTk4d2VydCIsInRscyI6InRscyIsInNuaSI6InNlcnZlcjEuOTk2NjMzOC54eXoiLCJ0ZXN0X25hbWUiOiIxMzEiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJmcCI6ImNocm9tZSJ9
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@185.226.172.8:8008#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B51%5D
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.54.59.102:443#%F0%9F%87%AA%F0%9F%87%AC%20Egypt%20%5B1%5D
+hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?sni=www.docker.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B27%5D
