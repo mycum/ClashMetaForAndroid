@@ -1,16 +1,6 @@
-# profile-title: 🍎 Telegood CIDR iOS (18.10.2026 04:05)
-# 🛡️ Alive: 13
+# profile-title: 🍎 Telegood CIDR iOS (18.10.2026 05:07)
+# 🛡️ Alive: 3
 
-vless://aa4d850f-3a0e-4939-a35f-8801e57f5354@185.86.147.170:20004?encryption=none&flow=xtls-rprx-vision&pbk=MAQju7q8wIeEznBQoDXP9l4SpuAkEs8CGDKaNNpKlHI&security=reality&sid=4326&sni=s3.storage.selcloud.ru&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B1%5D
-vless://aa4d850f-3a0e-4939-a35f-8801e57f5354@185.86.147.170:20004?encryption=none&flow=xtls-rprx-vision&pbk=MAQju7q8wIeEznBQoDXP9l4SpuAkEs8CGDKaNNpKlHI&security=reality&sid=4326&sni=s3.storage.selcloud.ru&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B2%5D
-vless://aa4d850f-3a0e-4939-a35f-8801e57f5354@185.86.147.170:20004?encryption=none&flow=xtls-rprx-vision&pbk=MAQju7q8wIeEznBQoDXP9l4SpuAkEs8CGDKaNNpKlHI&security=reality&sid=4326&sni=s3.storage.selcloud.ru&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B3%5D
-vless://aa4d850f-3a0e-4939-a35f-8801e57f5354@185.86.147.170:20004?encryption=none&flow=xtls-rprx-vision&pbk=MAQju7q8wIeEznBQoDXP9l4SpuAkEs8CGDKaNNpKlHI&security=reality&sid=4326&sni=s3.storage.selcloud.ru&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B4%5D
-vless://aa4d850f-3a0e-4939-a35f-8801e57f5354@185.86.147.170:20004?encryption=none&flow=xtls-rprx-vision&pbk=MAQju7q8wIeEznBQoDXP9l4SpuAkEs8CGDKaNNpKlHI&security=reality&sid=4326&sni=s3.storage.selcloud.ru&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B5%5D
-vless://9b07c977-08f8-4f4c-b0dd-298a59dd073f@zeta.sockapi.rest:443?security=tls&sni=zeta.sockapi.rest&alpn=http/1.1&type=ws&path=/upgrade/v2&host=zeta.sockapi.rest&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B16%5D
-vless://9b07c977-08f8-4f4c-b0dd-298a59dd073f@zeta.sockapi.rest:443?security=tls&sni=zeta.sockapi.rest&alpn=http/1.1&type=ws&path=/upgrade/v2&host=zeta.sockapi.rest&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B17%5D
-vless://9b07c977-08f8-4f4c-b0dd-298a59dd073f@79.174.92.233:443?alpn=http/1.1&encryption=none&host=zeta.sockapi.rest&path=/upgrade/v2&security=tls&sni=zeta.sockapi.rest&type=ws&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B19%5D
-vless://9b07c977-08f8-4f4c-b0dd-298a59dd073f@79.174.92.233:443?alpn=http/1.1&encryption=none&host=zeta.sockapi.rest&path=/upgrade/v2&security=tls&sni=zeta.sockapi.rest&type=ws&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B20%5D
-vless://e77680d0-b8d0-47ed-b811-61d58893cf1f@188.225.78.8:12443?encryption=none&flow=xtls-rprx-vision&pbk=oaHOP3_Dv1Kadp45Isz5QxQ4Pf0duSThF1wKlvIUxwE&security=reality&sni=yandex.ru&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B34%5D
-vless://e77680d0-b8d0-47ed-b811-61d58893cf1f@188.225.78.8:12443?encryption=none&flow=xtls-rprx-vision&pbk=oaHOP3_Dv1Kadp45Isz5QxQ4Pf0duSThF1wKlvIUxwE&security=reality&sni=yandex.ru&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B35%5D
-vless://e77680d0-b8d0-47ed-b811-61d58893cf1f@188.225.78.8:12443?encryption=none&flow=xtls-rprx-vision&pbk=oaHOP3_Dv1Kadp45Isz5QxQ4Pf0duSThF1wKlvIUxwE&security=reality&sni=yandex.ru&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B36%5D
-vless://e77680d0-b8d0-47ed-b811-61d58893cf1f@188.225.78.8:12443?encryption=none&flow=xtls-rprx-vision&pbk=oaHOP3_Dv1Kadp45Isz5QxQ4Pf0duSThF1wKlvIUxwE&security=reality&sni=yandex.ru&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B37%5D
+vless://e77680d0-b8d0-47ed-b811-61d58893cf1f@188.225.78.8:12443?encryption=none&flow=xtls-rprx-vision&pbk=oaHOP3_Dv1Kadp45Isz5QxQ4Pf0duSThF1wKlvIUxwE&security=reality&sni=yandex.ru&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B39%5D
+vless://e77680d0-b8d0-47ed-b811-61d58893cf1f@188.225.78.8:12443?encryption=none&flow=xtls-rprx-vision&pbk=oaHOP3_Dv1Kadp45Isz5QxQ4Pf0duSThF1wKlvIUxwE&security=reality&sni=yandex.ru&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B41%5D
+vless://e77680d0-b8d0-47ed-b811-61d58893cf1f@188.225.78.8:12443?encryption=none&flow=xtls-rprx-vision&pbk=oaHOP3_Dv1Kadp45Isz5QxQ4Pf0duSThF1wKlvIUxwE&security=reality&sni=yandex.ru&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B42%5D
