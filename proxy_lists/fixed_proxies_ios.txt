@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 17.10.2026 14:40)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 17.10.2026 15:42)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1639 | Пинг: 108 | >300KB/s: 60 | ТОП: 32 (iOS: 16)
+# 📊 Stats: Вход: 1596 | Пинг: 97 | >300KB/s: 45 | ТОП: 32 (iOS: 16)
 
-vmess://eyJhZGQiOiJldTMuOTk4OTk4LmJlc3QiLCJhaWQiOjAsImhvc3QiOiJzZXJ2ZXI0MC45OTY2MzM4Lnh5eiIsImlkIjoiNTUwNGVhYTgtMTM5NS00MDJmLThlMGUtNzVlY2Q3NjJlNjI3IiwibmV0Ijoid3MiLCJwYXRoIjoiL2FpYWlhaSIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBDYW5hZGEgWzExNF0iLCJzY3kiOiJhdXRvIiwic2VydmljZU5hbWUiOiIiLCJzbmkiOiJzZXJ2ZXI0MC45OTY2MzM4Lnh5eiIsInRscyI6InRscyIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwiZnAiOiJjaHJvbWUifQ==
-vmess://eyJhZGQiOiJtaXgyLjk5ODk5OC5iZXN0IiwiYWlkIjowLCJob3N0Ijoic2VydmVyMTAuOTk2NjMzOC54eXoiLCJpZCI6IjU1MDRlYWE4LTEzOTUtNDAyZi04ZTBlLTc1ZWNkNzYyZTYyNyIsIm5ldCI6IndzIiwicGF0aCI6Ii9ydGhpdWdveXJldGRzdWlnZz9lZD0yNTYwIiwicG9ydCI6IjQ0MyIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbMTE3XSIsInNjeSI6ImF1dG8iLCJzZXJ2aWNlTmFtZSI6IiIsInNuaSI6InNlcnZlcjEwLjk5NjYzMzgueHl6IiwidGxzIjoidGxzIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJmcCI6ImNocm9tZSJ9
-vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@se3.h1cloud.net:25119?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&fp=chrome&pbk=szPq4a3cvxfBOmGyg-UJCV3d1Jqjnj7YR3gaxyYtnk4&sid=10f517&spx=/5xmOzu3pGosH91u&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B17%5D
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B64%5D
-hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?sni=www.docker.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B35%5D
-vless://ef8c7169-87fc-49ad-be91-1f3984ab446d@mog.keyblack.site:8444?security=reality&flow=xtls-rprx-vision&pbk=DQGwrxOgoiyBDrbdFUofP88FGtxHDA2duzNXKkyxaig&sid=6ba85179e30d4fc2&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=mog.keyblack.site&path=/#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B14%5D
-vless://a5db5ab5-8d28-49c0-ad55-0ad4724e4c0d@sdcdethyerft.localip.ir:2087?path=/hokm&security=tls&alpn=http/1.1&encryption=none&host=sdcdethyerft.localip.ir&type=ws&sni=sdcdethyerft.localip.ir&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B2%5D
+vmess://eyJhZGQiOiJldTMuOTk4OTk4LmJlc3QiLCJhaWQiOjAsImhvc3QiOiJzZXJ2ZXI0MC45OTY2MzM4Lnh5eiIsImlkIjoiNTUwNGVhYTgtMTM5NS00MDJmLThlMGUtNzVlY2Q3NjJlNjI3IiwibmV0Ijoid3MiLCJwYXRoIjoiL2FpYWlhaSIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBDYW5hZGEgWzEwNV0iLCJzY3kiOiJhdXRvIiwic2VydmljZU5hbWUiOiIiLCJzbmkiOiJzZXJ2ZXI0MC45OTY2MzM4Lnh5eiIsInRscyI6InRscyIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwiZnAiOiJjaHJvbWUifQ==
+vmess://eyJhZGQiOiJtaXgyLjk5ODk5OC5iZXN0IiwiYWlkIjowLCJob3N0Ijoic2VydmVyMTAuOTk2NjMzOC54eXoiLCJpZCI6IjU1MDRlYWE4LTEzOTUtNDAyZi04ZTBlLTc1ZWNkNzYyZTYyNyIsIm5ldCI6IndzIiwicGF0aCI6Ii9ydGhpdWdveXJldGRzdWlnZz9lZD0yNTYwIiwicG9ydCI6IjQ0MyIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbMTA4XSIsInNjeSI6ImF1dG8iLCJzZXJ2aWNlTmFtZSI6IiIsInNuaSI6InNlcnZlcjEwLjk5NjYzMzgueHl6IiwidGxzIjoidGxzIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJmcCI6ImNocm9tZSJ9
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B5%5D
-ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@67.159.18.34:17001#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B2%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080?type=tcp&headerType=none&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B46%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNWM2NXBo@54.36.174.140:443#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B20%5D
-vmess://eyJhZGQiOiIxNzIuNjQuMjI5LjIxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFsxMTFdIiwic2N5IjoiYXV0byIsInNuaSI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-hysteria2://9yOIR2_QAChKs26rYaiX_aoNnOALd0aU@de1server2.rabstvo.shop:8443?sni=de1server2.rabstvo.shop&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B148%5D
-trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?path=/f2fc2a1f&security=tls&host=freetoplay-2.tetris-game.world&type=ws&sni=FREETOPLAY-2.TETRIS-GAME.WORLD&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B34%5D
-ss://YWVzLTI1Ni1nY206THBxNVVQVkh0UVlpdUI5akVVTmMyV2tlSVlDVUg5REU=@194.87.196.107:18443#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B16%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B126%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B36%5D
+vless://ef8c7169-87fc-49ad-be91-1f3984ab446d@mog.keyblack.site:8444?flow=xtls-rprx-vision&fp=chrome&host=mog.keyblack.site&path=/&pbk=DQGwrxOgoiyBDrbdFUofP88FGtxHDA2duzNXKkyxaig&security=reality&sid=6ba85179e30d4fc2&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B10%5D
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@51.83.192.80:8388#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B25%5D
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B61%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNWM2NXBo@54.36.174.140:443#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B23%5D
+hysteria2://9yOIR2_QAChKs26rYaiX_aoNnOALd0aU@de1server2.rabstvo.shop:8443?sni=de1server2.rabstvo.shop&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B10%5D
+hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?sni=www.docker.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B29%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B114%5D
+vmess://eyJhZGQiOiIxMDQuMjEuMjMuODAiLCJhaWQiOjAsImhvc3QiOiJteS5sb3ZlaGsueHl6IiwiaWQiOiJmNWYwYmFiZS1hZWEyLTRmMDctYTFmYy0zYzk4MjAyNTNmNDkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvS3VhbGFMdW1wdXIxIiwicG9ydCI6IjQ0MyIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbOThdIiwic25pIjoibXkubG92ZWhrLnh5eiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJmcCI6ImNocm9tZSJ9
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B132%5D
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206anIrVDJSUzBzQ0hCbUM0dTZhWTZWZz09@172.86.108.79:30832#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B305%5D
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B14%5D
+vmess://eyJhZGQiOiI1NC4zNy4xMzEuMTI2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5oZXNhbmlkOC5pci4iLCJpZCI6IjZkZWVmOWFkLTEzNTctNDQzZC1mOTVjLWNiMTg5NTJjMjBiMyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6Ilx1ZDgzY1x1ZGRmNVx1ZDgzY1x1ZGRmMSBQb2xhbmQgWzE2XSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
