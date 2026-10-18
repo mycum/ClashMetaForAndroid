@@ -1,4 +1,9 @@
-# profile-title: 🍎 Telegood CIDR iOS (18.10.2026 17:58)
-# 🛡️ Alive: 1
+# profile-title: 🍎 Telegood CIDR iOS (18.10.2026 19:00)
+# 🛡️ Alive: 6
 
+vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@196.240.125.251:8443?flow=xtls-rprx-vision&security=tls&sni=api-v2-6ad3c751.vmagnum.win&type=raw&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B21%5D
+vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@196.240.125.251:8443?flow=xtls-rprx-vision&security=tls&sni=api-v2-6ad3c751.vmagnum.win&type=raw&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B22%5D
+vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@196.240.125.251:8443?flow=xtls-rprx-vision&security=tls&sni=api-v2-6ad3c751.vmagnum.win&type=raw&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B23%5D
+vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@196.240.125.5:8443?flow=xtls-rprx-vision&security=tls&sni=api-v2-6ad3c751.vmagnum.win&type=raw&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B25%5D
+vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@196.240.125.5:8443?flow=xtls-rprx-vision&security=tls&sni=api-v2-6ad3c751.vmagnum.win&type=raw&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B26%5D
 hysteria2://dd1b14f6-d290-428b-8d22-12105541c4c9@138.16.143.47:443?sni=ne13847.cdn-video.pro&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20%5B1%5D
