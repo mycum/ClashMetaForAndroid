@@ -1,15 +1,6 @@
-# profile-title: 🛡️ Telegood CIDR (18.10.2026 19:00)
-# 🛡️ Alive: 12
+# profile-title: 🛡️ Telegood CIDR (18.10.2026 20:54)
+# 🛡️ Alive: 3
 
-vless://68c3d665-b2b5-4ffb-9f37-9f3d8c47324d@fi-p1.h1cloud.net:25481?pbk=mhIAHuZIEr2NpdGGSeOxar7VRSgEfVoNwb_G8Y0073E&security=reality&serviceName=8cb5baa18cd7&sid=3b84fc70657725af&sni=www.bing.com&spx=/&type=grpc&fp=random#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B8%5D
-vless://68c3d665-b2b5-4ffb-9f37-9f3d8c47324d@fi-p1.h1cloud.net:25481?pbk=mhIAHuZIEr2NpdGGSeOxar7VRSgEfVoNwb_G8Y0073E&security=reality&serviceName=8cb5baa18cd7&sid=3b84fc70657725af&sni=www.bing.com&spx=/&type=grpc&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B9%5D
-vless://68c3d665-b2b5-4ffb-9f37-9f3d8c47324d@fi-p1.h1cloud.net:25481?type=grpc&security=reality&pbk=mhIAHuZIEr2NpdGGSeOxar7VRSgEfVoNwb_G8Y0073E&sid=3b84fc70657725af&sni=www.bing.com&mode=gun&serviceName=8cb5baa18cd7&spx=/&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B11%5D
-vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@196.240.125.251:8443?flow=xtls-rprx-vision&security=tls&sni=api-v2-6ad3c751.vmagnum.win&type=raw&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B21%5D
-vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@196.240.125.251:8443?flow=xtls-rprx-vision&security=tls&sni=api-v2-6ad3c751.vmagnum.win&type=raw&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B22%5D
-vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@196.240.125.251:8443?flow=xtls-rprx-vision&security=tls&sni=api-v2-6ad3c751.vmagnum.win&type=raw&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B23%5D
-vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@196.240.125.5:8443?flow=xtls-rprx-vision&security=tls&sni=api-v2-6ad3c751.vmagnum.win&type=raw&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B25%5D
-vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@196.240.125.5:8443?flow=xtls-rprx-vision&security=tls&sni=api-v2-6ad3c751.vmagnum.win&type=raw&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B26%5D
-vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru3.radiolumens.uk:8444?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&type=grpc&serviceName=beru-uk&sni=ru3.radiolumens.uk&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B30%5D
-vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru3.radiolumens.uk:8444?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&type=grpc&serviceName=beru-uk&sni=ru3.radiolumens.uk&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B31%5D
-vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru3.radiolumens.uk:8444?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&type=grpc&serviceName=beru-uk&sni=ru3.radiolumens.uk&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B32%5D
-hysteria2://dd1b14f6-d290-428b-8d22-12105541c4c9@138.16.143.47:443?sni=ne13847.cdn-video.pro#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20%5B1%5D
+vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@fi.alpheratzz.org:443?mode=stream-one&path=/&security=tls&alpn=h2&encryption=none&extra=%7B%22xmux%22%3A+%7B%22maxReuseTimes%22%3A+0,+%22maxConnections%22%3A+1%7D%7D&insecure=0&type=xhttp&allowInsecure=0&sni=b3441cc7.ferrin.uk&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B7%5D
+vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@fi.alpheratzz.org:443?mode=stream-one&path=/&security=tls&alpn=h2&encryption=none&extra=%7B%22xmux%22%3A+%7B%22maxReuseTimes%22%3A+0,+%22maxConnections%22%3A+1%7D%7D&insecure=0&type=xhttp&allowInsecure=0&sni=b3441cc7.ferrin.uk&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B8%5D
+vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@fi.alpheratzz.org:443?mode=stream-one&path=/&security=tls&alpn=h2&encryption=none&extra=%7B%22xmux%22%3A+%7B%22maxReuseTimes%22%3A+0,+%22maxConnections%22%3A+1%7D%7D&insecure=0&type=xhttp&allowInsecure=0&sni=b3441cc7.ferrin.uk&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B9%5D
