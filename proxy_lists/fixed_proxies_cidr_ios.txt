@@ -1,6 +1,6 @@
-# profile-title: 🍎 Telegood CIDR iOS (18.10.2026 07:11)
+# profile-title: 🍎 Telegood CIDR iOS (18.10.2026 08:14)
 # 🛡️ Alive: 3
 
-vless://c19ecc7f-8312-4d9d-90c9-1a997d82d3c5@gpt.prem-ai.shop:443?path=/stream/v1/session/media&security=tls&alpn=http/1.1&encryption=none&type=ws&sni=gpt.prem-ai.shop&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B1%5D
-vless://c19ecc7f-8312-4d9d-90c9-1a997d82d3c5@gpt.prem-ai.shop:443?path=/stream/v1/session/media&security=tls&alpn=http/1.1&encryption=none&type=ws&sni=gpt.prem-ai.shop&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B2%5D
-vless://c19ecc7f-8312-4d9d-90c9-1a997d82d3c5@gpt.prem-ai.shop:443?path=/stream/v1/session/media&security=tls&alpn=http/1.1&encryption=none&type=ws&sni=gpt.prem-ai.shop&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B3%5D
+vless://c19ecc7f-8312-4d9d-90c9-1a997d82d3c5@gpt.prem-ai.shop:443?path=/stream/v1/session/media&security=tls&alpn=http/1.1&encryption=none&type=ws&sni=gpt.prem-ai.shop&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B9%5D
+vless://c19ecc7f-8312-4d9d-90c9-1a997d82d3c5@gpt.prem-ai.shop:443?path=/stream/v1/session/media&security=tls&alpn=http/1.1&encryption=none&type=ws&sni=gpt.prem-ai.shop&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B10%5D
+vless://c19ecc7f-8312-4d9d-90c9-1a997d82d3c5@gpt.prem-ai.shop:443?path=/stream/v1/session/media&security=tls&alpn=http/1.1&encryption=none&type=ws&sni=gpt.prem-ai.shop&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B11%5D
