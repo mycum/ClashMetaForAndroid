@@ -1,10 +1,8 @@
-# profile-title: 🍎 Telegood CIDR iOS (18.10.2026 15:54)
-# 🛡️ Alive: 7
+# profile-title: 🍎 Telegood CIDR iOS (18.10.2026 16:56)
+# 🛡️ Alive: 5
 
-vless://320bb8a2-0b37-4d1a-9b7e-615fe6534ecf@178.248.236.45:62443?encryption=none&flow=xtls-rprx-vision&pbk=vqRiLDLgn_0PWMUvELC0C4JD-a2LUoM0iZ6wdvgMBmQ&security=reality&sid=d0cd6a0b1a18092b&sni=rutube.ru&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B7%5D
-vless://320bb8a2-0b37-4d1a-9b7e-615fe6534ecf@178.248.236.45:62443?encryption=none&flow=xtls-rprx-vision&pbk=vqRiLDLgn_0PWMUvELC0C4JD-a2LUoM0iZ6wdvgMBmQ&security=reality&sid=d0cd6a0b1a18092b&sni=rutube.ru&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B8%5D
-vless://320bb8a2-0b37-4d1a-9b7e-615fe6534ecf@178.248.236.45:62443?encryption=none&flow=xtls-rprx-vision&pbk=vqRiLDLgn_0PWMUvELC0C4JD-a2LUoM0iZ6wdvgMBmQ&security=reality&sid=d0cd6a0b1a18092b&sni=rutube.ru&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B9%5D
-vless://320bb8a2-0b37-4d1a-9b7e-615fe6534ecf@178.248.236.45:62443?encryption=none&flow=xtls-rprx-vision&pbk=vqRiLDLgn_0PWMUvELC0C4JD-a2LUoM0iZ6wdvgMBmQ&security=reality&sid=d0cd6a0b1a18092b&sni=rutube.ru&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B10%5D
-vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@nl.alpheratzz.org:8443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=api-v2-6ad3c751.vmagnum.win&mode=stream-one&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B17%5D
-vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@nl.alpheratzz.org:8443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=api-v2-6ad3c751.vmagnum.win&mode=stream-one&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B18%5D
-vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@nl.alpheratzz.org:8443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=api-v2-6ad3c751.vmagnum.win&mode=stream-one&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B19%5D
+vless://320bb8a2-0b37-4d1a-9b7e-615fe6534ecf@178.248.236.45:62443?encryption=none&flow=xtls-rprx-vision&pbk=vqRiLDLgn_0PWMUvELC0C4JD-a2LUoM0iZ6wdvgMBmQ&security=reality&sid=d0cd6a0b1a18092b&sni=rutube.ru&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B1%5D
+vless://320bb8a2-0b37-4d1a-9b7e-615fe6534ecf@178.248.236.45:62443?encryption=none&flow=xtls-rprx-vision&pbk=vqRiLDLgn_0PWMUvELC0C4JD-a2LUoM0iZ6wdvgMBmQ&security=reality&sid=d0cd6a0b1a18092b&sni=rutube.ru&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B2%5D
+vless://320bb8a2-0b37-4d1a-9b7e-615fe6534ecf@178.248.236.45:62443?encryption=none&flow=xtls-rprx-vision&pbk=vqRiLDLgn_0PWMUvELC0C4JD-a2LUoM0iZ6wdvgMBmQ&security=reality&sid=d0cd6a0b1a18092b&sni=rutube.ru&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B3%5D
+vless://320bb8a2-0b37-4d1a-9b7e-615fe6534ecf@178.248.236.45:62443?encryption=none&flow=xtls-rprx-vision&pbk=vqRiLDLgn_0PWMUvELC0C4JD-a2LUoM0iZ6wdvgMBmQ&security=reality&sid=d0cd6a0b1a18092b&sni=rutube.ru&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B4%5D
+hysteria2://dd1b14f6-d290-428b-8d22-12105541c4c9@138.16.143.47:443?sni=ne13847.cdn-video.pro&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20%5B1%5D
