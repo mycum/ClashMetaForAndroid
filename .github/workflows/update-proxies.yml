@@ -35,22 +35,14 @@ jobs:
           echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/trojan.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
-          # curl -s https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/26.txt >> proxy_lists/raw_temp.txt
-          # echo "" >> proxy_lists/raw_temp.txt
-          # curl -s https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/1.txt >> proxy_lists/raw_temp.txt
-          # echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/6.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/24.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
-          # curl -s https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/23.txt >> proxy_lists/raw_temp.txt
-          # echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/7.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/22.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
-          # curl -s https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/vless.txt >> proxy_lists/raw_temp.txt
-          # echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/vmess.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/ss.txt >> proxy_lists/raw_temp.txt
@@ -63,16 +55,8 @@ jobs:
           echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/refs/heads/main/data/githubmirror/ru-sni/vless.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
-          # curl -s https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/refs/heads/main/data/githubmirror/clean/hysteria2.txt >> proxy_lists/raw_temp.txt
-          # echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
-          # curl -s https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/refs/heads/main/data/githubmirror/clean/vless.txt >> proxy_lists/raw_temp.txt
-          # echo "" >> proxy_lists/raw_temp.txt
-          # curl -s https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/refs/heads/main/data/githubmirror/clean/vmess.txt >> proxy_lists/raw_temp.txt
-          # echo "" >> proxy_lists/raw_temp.txt
-          # curl -s https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/refs/heads/main/data/githubmirror/clean/trojan.txt >> proxy_lists/raw_temp.txt
-          # echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/refs/heads/main/data/githubmirror/ru-sni/hy2.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/refs/heads/main/data/githubmirror/ru-sni-local/vless.txt >> proxy_lists/raw_temp.txt
@@ -112,13 +96,13 @@ jobs:
           lines.extend([l for l in new_lines if l.strip()])
           print(f"   📥 Распаковано свежих ссылок: {len(lines)}")
 
-          if os.path.exists('proxy_lists/fixed_proxies.txt'):
-              print("💾 Поднятие старого золотого запаса...")
-              with open('proxy_lists/fixed_proxies.txt', 'r', encoding='utf-8') as f:
-                  old_lines = f.readlines()
-                  old_count = len([l for l in old_lines if not l.startswith('#') and l.strip()])
-                  lines.extend(old_lines)
-              print(f"   🛡️ Из текущего файла добавлено: {old_count} ссылок")
+          # 💾 Поднятие старого золотого запаса из списков Sing-box, Clash и iOS
+          for gold_file in ['proxy_lists/fixed_proxies.txt', 'proxy_lists/fixed_proxies_clash.txt', 'proxy_lists/fixed_proxies_ios.txt']:
+              if os.path.exists(gold_file):
+                  with open(gold_file, 'r', encoding='utf-8') as f:
+                      old_lines = [l.strip() for l in f.readlines() if l.strip() and not l.startswith('#')]
+                      lines.extend(old_lines)
+                  print(f"   🛡️ Из {gold_file} добавлено: {len(old_lines)} ссылок")
 
           ss_converted_lines = []
           for line in lines:
@@ -131,6 +115,16 @@ jobs:
               parts = line.split('#')
               base_url = parts[0]
               raw_name = urllib.parse.unquote(parts[1]) if len(parts) > 1 else ""
+
+              # Извлекаем имя из JSON vmess://, если нет #fragment на конце
+              if not raw_name and base_url.startswith('vmess://'):
+                  try:
+                      b64_v = base_url[8:].strip()
+                      b64_v += "=" * ((4 - len(b64_v) % 4) % 4)
+                      v_obj = json.loads(base64.urlsafe_b64decode(b64_v).decode('utf-8'))
+                      raw_name = str(v_obj.get('ps', ''))
+                  except: pass
+
               raw_name = re.sub(r'\s*\[\d+\]$', '', raw_name)
               
               if base_url.startswith('ss://'):
@@ -275,7 +269,6 @@ jobs:
                       b64_str += "=" * ((4 - len(b64_str) % 4) % 4)
                       v = json.loads(base64.urlsafe_b64decode(b64_str).decode('utf-8'))
                       
-                      # 🛡️ БРОНЯ: Очищаем кривые шифры Vmess
                       cipher_type = str(v.get("scy", "auto")).strip().lower()
                       if cipher_type in ["", "null", "none", "false", "0"]: 
                           cipher_type = "auto"
@@ -292,7 +285,8 @@ jobs:
                           fp = v.get("fp")
                           if fp: base["client-fingerprint"] = fp
                           sni = v.get("sni") or v.get("host")
-                          if sni: base["servername"] = str(sni)
+                          if sni and not re.match(r'^[\d\.]+$', str(sni)) and ':' not in str(sni):
+                              base["servername"] = str(sni)
                           alpn = v.get("alpn")
                           if alpn: base["alpn"] = alpn.split(',')
                           
@@ -321,12 +315,10 @@ jobs:
                           sni = get_param('sni') or get_param('peer') or get_param('host')
                           sec = get_param('security', 'tls')
                           
-                          # 🛡️ ИСПРАВЛЕНО: Добавлен 'reality' в список поддерживаемых протоколов шифрования
                           if sec in ['tls', 'xtls', 'reality'] or base["port"] in [443, 8443, 2053, 2083]:
                               base["skip-cert-verify"] = True
-                              fp = get_param('fp')
+                              fp = get_param('fp') or ('chrome' if sec == 'reality' else '')
                               if fp: base["client-fingerprint"] = fp
-                              # 🛡️ ЗАЩИТА ОТ КРИВОГО SNI: Игнорируем IP-адреса (IPv4 и IPv6)
                               if sni and not re.match(r'^[\d\.]+$', sni) and ':' not in sni: 
                                   base["sni"] = sni
                               elif u.hostname and not re.match(r'^[\d\.]+$', str(u.hostname)) and ':' not in str(u.hostname): 
@@ -334,7 +326,6 @@ jobs:
                               alpn = get_param('alpn')
                               if alpn: base["alpn"] = alpn.split(',')
                               
-                              # 🚀 ДОБАВЛЕНО: Извлечение ключей XTLS-Reality для Троянов
                               if sec == 'reality':
                                   base["reality-opts"] = {"public-key": get_param('pbk'), "short-id": get_param('sid')}
 
@@ -345,11 +336,12 @@ jobs:
                               base["ws-opts"] = {"path": path}
                               host = get_param('host') or sni
                               if host: base["ws-opts"]["headers"] = {"Host": host}
+                          elif base["network"] == "grpc":
+                              base["grpc-opts"] = {"grpc-service-name": get_param('serviceName', '')}
 
                       elif u.scheme == "vless":
                           base.update({"type": "vless", "uuid": password, "network": net_type})
                           
-                          # 🛡️ ДОБАВЛЕНО: Поддержка XUDP для повышения стабильности соединений
                           pe = get_param('packetEncoding')
                           if pe: base["packet-encoding"] = pe
                           
@@ -359,13 +351,15 @@ jobs:
                           if sec in ['tls', 'reality'] or base["port"] in [443, 8443, 2053, 2083, 2087, 2096]:
                               base["tls"] = True
                               base["skip-cert-verify"] = True
-                              fp = get_param('fp')
+                              fp = get_param('fp') or ('chrome' if sec == 'reality' else '')
                               if fp: base["client-fingerprint"] = fp
                               alpn = get_param('alpn')
                               if alpn: base["alpn"] = alpn.split(',')
                               
-                              if sni: base["servername"] = sni
-                              elif u.hostname and not re.match(r'^\d+\.\d+\.\d+\.\d+$', str(u.hostname)): base["servername"] = str(u.hostname)
+                              if sni and not re.match(r'^[\d\.]+$', sni) and ':' not in sni:
+                                  base["servername"] = sni
+                              elif u.hostname and not re.match(r'^[\d\.]+$', str(u.hostname)) and ':' not in str(u.hostname):
+                                  base["servername"] = str(u.hostname)
                               
                               if sec == 'reality':
                                   base["reality-opts"] = {"public-key": get_param('pbk'), "short-id": get_param('sid')}
@@ -384,9 +378,17 @@ jobs:
                               base["grpc-opts"] = {"grpc-service-name": get_param('serviceName', '')}
 
                       elif u.scheme in ["hysteria2", "hy2"]:
-                          base.update({"type": "hysteria2", "password": password, "tls": True, "skip-cert-verify": True, "sni": get_param('sni', str(u.hostname)), "alpn": ["h3"]})
+                          sni = get_param('sni')
+                          if not sni or re.match(r'^[\d\.]+$', sni) or ':' in sni:
+                              sni = str(u.hostname) if (u.hostname and not re.match(r'^[\d\.]+$', str(u.hostname))) else ""
+                          base.update({"type": "hysteria2", "password": password, "tls": True, "skip-cert-verify": True, "alpn": ["h3"]})
+                          if sni: base["sni"] = sni
+                          obfs = get_param('obfs')
+                          if obfs:
+                              base["obfs"] = obfs
+                              obfs_pwd = get_param('obfs-password')
+                              if obfs_pwd: base["obfs-password"] = obfs_pwd
                       
-                      # 🚀 НОВЫЙ БЛОК: Полноценная поддержка Shadowsocks
                       elif u.scheme == "ss":
                           user_info = ""
                           if u.username and u.password:
@@ -415,11 +417,9 @@ jobs:
                               method, pwd = user_info.split(":", 1)
                               method = method.lower()
                               
-                              # 🛡️ Нормализация названий шифров для Mihomo
                               if method == "chacha20-poly1305": method = "chacha20-ietf-poly1305"
                               elif method == "xchacha20-poly1305": method = "xchacha20-ietf-poly1305"
                               
-                              # 🛡️ Броня ядра: белый список разрешенных шифров
                               valid_ciphers = [
                                   "aes-128-gcm", "aes-192-gcm", "aes-256-gcm", 
                                   "aes-128-cfb", "aes-192-cfb", "aes-256-cfb", 
@@ -430,11 +430,10 @@ jobs:
                                   "2022-blake3-chacha20-poly1305"
                               ]
                               if method not in valid_ciphers:
-                                  return None # Отсекаем мусор, чтобы ядро не падало
+                                  return None
                               
                               base.update({"type": "ss", "cipher": method, "password": pwd})
                               
-                              # Обработка плагинов обхода блокировок
                               plugin = get_param('plugin')
                               if plugin:
                                   if 'obfs' in plugin:
@@ -452,7 +451,7 @@ jobs:
                                       if pm: base['plugin-opts']['path'] = pm.group(1)
                   
                   if not base: return None
-                  if "type" not in base: return None # 🛡️ ПРЕДОХРАНИТЕЛЬ: убиваем неизвестные форматы до старта ядра
+                  if "type" not in base: return None
                   if not base.get("server") or str(base.get("server")) == "None" or len(str(base["server"])) < 4: return None
                   if not is_valid_port(base.get("port")): return None
                   if base.get("type") in ["vmess", "vless"] and (not base.get("uuid") or len(str(base["uuid"])) < 5): return None
@@ -460,7 +459,6 @@ jobs:
                   if "@" in safe_link:
                       try:
                           protocol, rest = safe_link.split("://", 1)
-                          # Разделяем строго по ПЕРВОМУ символу @, чтобы изолировать пароль
                           userinfo, hostinfo = rest.split("@", 1) 
                           if "/" in userinfo:
                               userinfo = userinfo.replace("/", "%2F")
@@ -471,8 +469,8 @@ jobs:
               except: return None
 
           final_json_data = []
-          final_raw_links = []  # Выпрямленные ссылки
-          final_pure_links = [] # 🚀 ДОБАВЛЕНО: Абсолютно сырые ссылки (как в исходнике)
+          final_raw_links = []
+          final_pure_links = []
           name_counts = {}
 
           for deep_key, urls in node_groups.items():
@@ -483,8 +481,6 @@ jobs:
               
               for url in best_links:
                   raw_name = url_to_name.get(url, "")
-                  
-                  # 🚀 Формируем сырую ссылку до любых наших украшательств
                   pure_link = f"{url}#{raw_name}" if raw_name else url
                   
                   cc = geo.get('countryCode')
@@ -514,7 +510,7 @@ jobs:
                       }
                       final_json_data.append(parsed_obj)
                       final_raw_links.append(parsed_obj["link"])
-                      final_pure_links.append(pure_link) # 🚀 Сохраняем оригинал
+                      final_pure_links.append(pure_link)
 
           print(f"🚀 Сгенерировано {len(final_json_data)} конфигов для Mihomo.")
           
@@ -524,7 +520,6 @@ jobs:
           with open('proxy_lists/raw_proxies_original.txt', 'w', encoding='utf-8') as f:
               f.write("\n".join(final_raw_links))
               
-          # 🚀 ДОБАВЛЕНО: Сохраняем файл для чистого дебага на ПК
           with open('proxy_lists/raw_proxies_pure.txt', 'w', encoding='utf-8') as f:
               f.write("\n".join(final_pure_links))
           EOF
