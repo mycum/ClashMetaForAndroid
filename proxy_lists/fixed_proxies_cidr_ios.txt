@@ -1,4 +1,9 @@
-# profile-title: 🍎 Telegood CIDR iOS (19.10.2026 04:25)
-# 🛡️ Alive: 1
+# profile-title: 🍎 Telegood CIDR iOS (19.10.2026 05:28)
+# 🛡️ Alive: 6
 
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFRoZSBOZXRoZXJsYW5kcyBbKkNJRFJdIFsxXSIsImFkZCI6IjE2OC4xMTMuMjE1LjYiLCJwb3J0IjoiMzM3MzYiLCJpZCI6IjEyODFhY2NhLWYyMWQtNDc1Yy1iZjA0LWVjY2JlZTdmOGRmMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvdm1lc3Mtd3MiLCJ0bHMiOiIiLCJob3N0IjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFRoZSBOZXRoZXJsYW5kcyBbKkNJRFJdIFsxXSIsImFkZCI6IjE2OC4xMTMuMjE1LjYiLCJwb3J0IjoiMzM3MzYiLCJpZCI6IjEyODFhY2NhLWYyMWQtNDc1Yy1iZjA0LWVjY2JlZTdmOGRmMiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Im5sLTJhOTcyYzgwNTIuc2hhbWFuYXBwLm9ubGluZSIsInBhdGgiOiIvdm1lc3Mtd3MiLCJ0bHMiOiIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIn0=
+vless://aca886aa-9b51-4eb2-8d7a-12d6b89caf4d@cdn-01.funvideos.video:443?security=tls&sni=cdn-01.funvideos.video&type=ws&path=/api/53d53ac3/a7fa61/096357bebc62&host=cdn-01.funvideos.video&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B24%5D
+vless://aca886aa-9b51-4eb2-8d7a-12d6b89caf4d@cdn-01.funvideos.video:443?security=tls&sni=cdn-01.funvideos.video&type=ws&path=/api/53d53ac3/a7fa61/096357bebc62&host=cdn-01.funvideos.video&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B25%5D
+vless://fb6d2b17-440d-4d8c-9f8d-8ccef1861c34@bridge.nurcloud.org:443?security=reality&encryption=none&pbk=Usvy1RFcgqX9W-qhEJ9n-afLa4rBA8TUV9Wv6BkmmnI&headerType=&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ae.api.nurcloud.org&sid=7cb377bfea848154&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B58%5D
+vless://fb6d2b17-440d-4d8c-9f8d-8ccef1861c34@bridge.nurcloud.org:443?security=reality&encryption=none&pbk=Usvy1RFcgqX9W-qhEJ9n-afLa4rBA8TUV9Wv6BkmmnI&headerType=&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ae.api.nurcloud.org&sid=7cb377bfea848154&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B59%5D
+vless://1ab9e166-5a54-48b9-a07f-79d1d840ae21@ru.msk.nurcloud.org:443?security=reality&encryption=none&pbk=j1p0hmghXQkpoamrREgYJMcK7D_y3I2gxqy9RzjOD2I&headerType=&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ru.msk.nurcloud.org&sid=d2cf64ff98c7c4ca&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B61%5D
