@@ -1,8 +1,6 @@
-# profile-title: 📦 Telegood CIDR Sing-box (19.10.2026 00:31)
-# 🛡️ Alive: 5
+# profile-title: 📦 Telegood CIDR Sing-box (19.10.2026 00:59)
+# 🛡️ Alive: 3
 
 vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@kilnledger.10media.top:443?encryption=none&type=grpc&security=tls&serviceName=studiofeed&fp=chrome&sni=kilnledger.10media.top#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B1%5D
 vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@kilnledger.10media.top:443?encryption=none&type=grpc&security=tls&serviceName=studiofeed&fp=chrome&sni=kilnledger.10media.top#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B2%5D
 vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@kilnledger.10media.top:443?encryption=none&type=grpc&security=tls&serviceName=studiofeed&fp=chrome&sni=kilnledger.10media.top#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B3%5D
-vless://02d271c4-de21-4077-a048-55457295ed48@45.151.31.143:443?flow=xtls-rprx-vision&security=reality&pbk=yCKV2xr725jI0sFhm4KbttKl8b9UZrnQTXxZLN2S4BM&fp=chrome&sni=cdn.callibri.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B12%5D
-vless://02d271c4-de21-4077-a048-55457295ed48@45.151.31.143:443?flow=xtls-rprx-vision&security=reality&pbk=yCKV2xr725jI0sFhm4KbttKl8b9UZrnQTXxZLN2S4BM&fp=chrome&sni=cdn.callibri.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B13%5D
