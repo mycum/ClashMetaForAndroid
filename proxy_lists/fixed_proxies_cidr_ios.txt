@@ -1,3 +1,4 @@
-# profile-title: 🍎 Telegood CIDR iOS (19.10.2026 03:22)
-# 🛡️ Alive: 0
+# profile-title: 🍎 Telegood CIDR iOS (19.10.2026 04:25)
+# 🛡️ Alive: 1
 
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFRoZSBOZXRoZXJsYW5kcyBbKkNJRFJdIFsxXSIsImFkZCI6IjE2OC4xMTMuMjE1LjYiLCJwb3J0IjoiMzM3MzYiLCJpZCI6IjEyODFhY2NhLWYyMWQtNDc1Yy1iZjA0LWVjY2JlZTdmOGRmMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvdm1lc3Mtd3MiLCJ0bHMiOiIiLCJob3N0IjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIn0=
