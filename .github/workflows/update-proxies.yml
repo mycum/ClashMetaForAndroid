@@ -145,6 +145,22 @@ jobs:
                                   elif opt == 'tls': tls = "tls"
                               base_url = f"vless://{uuid}@{hp}?type=ws&security={tls}&host={ws_host}&path={urllib.parse.quote(ws_path)}"
                   except: pass
+
+              # Распаковка монолитных ss://BASE64 (где @ спрятана внутри Base64), чтобы get_host_port их не терял
+              if base_url.startswith('ss://') and '@' not in base_url:
+                  try:
+                      b64_part = base_url[5:].split('?')[0]
+                      b64_part += "=" * ((4 - len(b64_part) % 4) % 4)
+                      decoded_ss = base64.urlsafe_b64decode(b64_part).decode('utf-8')
+                      if '@' in decoded_ss:
+                          base_url = f"ss://{decoded_ss}"
+                  except: pass
+
+              # Очистка port-hopping в Hysteria2 (оставляем основной одиночный порт вместо 443,20000-40000)
+              if base_url.lower().startswith(('hysteria2://', 'hy2://')):
+                  base_url = re.sub(r'(@[^/?#:]+:\d+)[,-][\d,-]+', r'\1', base_url)
+                  base_url = re.sub(r'&?mport=[^&]+', '', base_url).replace('?&', '?').rstrip('?&')
+
               ss_converted_lines.append((base_url, raw_name))
 
           def get_host_port(url):
@@ -178,10 +194,17 @@ jobs:
               host, port = hp
               try:
                   ip = socket.gethostbyname(host)
+              except:
+                  return hp, None
+              # Если на этом адресе висит UDP-протокол Hysteria2, не убиваем его при закрытом TCP-порте
+              if any(u.lower().startswith(('hysteria2://', 'hy2://')) for u, _ in unique_hw_map.get(hp, [])):
+                  return hp, ip
+              try:
                   s = socket.create_connection((ip, port), timeout=1.5)
                   s.close()
                   return hp, ip
-              except: return hp, None
+              except:
+                  return hp, None
 
           print(f"⚡ TCP-пинг уникальных адресов ({len(unique_hw_map)} шт.)...")
           alive_ips = {}
@@ -193,14 +216,17 @@ jobs:
 
           def get_deep_key(base_url, hp):
               try:
-                  if base_url.startswith(('vless://', 'trojan://')):
-                      u = urllib.parse.urlparse(base_url)
-                      q = urllib.parse.parse_qs(u.query.replace('%3B', '&').replace(';', '&'))
-                      pbk = q.get('pbk', [''])[0]
-                      sni = q.get('sni', [''])[0]
-                      if pbk: return (u.hostname, u.port, pbk, sni)
-              except: pass
-              return hp
+                  if base_url.startswith('vmess://'):
+                      b64_s = base_url[8:] + "=" * ((4 - len(base_url[8:]) % 4) % 4)
+                      v = json.loads(base64.urlsafe_b64decode(b64_s).decode('utf-8'))
+                      return (hp[0], hp[1], str(v.get('host') or v.get('sni') or ''), str(v.get('path') or ''))
+                  u = urllib.parse.urlparse(base_url)
+                  q = urllib.parse.parse_qs(u.query.replace('%3B', '&').replace(';', '&'))
+                  pbk = q.get('pbk', [''])[0]
+                  sni = q.get('sni', [''])[0] or q.get('host', [''])[0]
+                  return (hp[0], hp[1], pbk, sni)
+              except:
+                  return hp
 
           node_groups = {}
           url_to_name = {}
@@ -237,7 +263,7 @@ jobs:
               if 'type=grpc' in url: score += 8
               if 'hysteria2://' in url or 'hy2://' in url: score += 7
               if 'trojan://' in url: score += 6
-              if 'type=ws' in url: score += 5
+              if 'type=ws' in url or 'type=httpupgrade' in url: score += 5
               if 'vmess://' in url: score += 4
               return score
 
@@ -273,11 +299,16 @@ jobs:
                       if cipher_type in ["", "null", "none", "false", "0"]: 
                           cipher_type = "auto"
                           
+                      v_net = str(v.get("net", "tcp")).strip().lower()
+                      v_httpupgrade = (v_net == "httpupgrade")
+                      if v_httpupgrade:
+                          v_net = "ws"
+
                       base = {
                           "name": node_name, "type": "vmess", 
                           "server": str(v.get("add", "")), "port": int(v.get("port", 0) or 0), 
                           "uuid": str(v.get("id", "")), "alterId": int(v.get("aid", 0) or 0), 
-                          "cipher": cipher_type, "network": v.get("net", "tcp"), "udp": True
+                          "cipher": cipher_type, "network": v_net, "udp": True
                       }
                       if str(v.get("tls")) == "tls":
                           base["tls"] = True
@@ -295,6 +326,7 @@ jobs:
                           if not path.startswith('/'): path = '/' + path
                           base["ws-opts"] = {"path": path}
                           if v.get("host"): base["ws-opts"]["headers"] = {"Host": str(v.get("host"))}
+                          if v_httpupgrade: base["ws-opts"]["v2ray-http-upgrade"] = True
                   else:
                       u = urllib.parse.urlparse(main_part)
                       query_str = u.query.replace('%3B', '&').replace(';', '&').replace('&amp;', '&')
@@ -303,9 +335,11 @@ jobs:
                           m = re.search(r'[?&]' + name + r'=([^&]+)', '?' + query_str)
                           return urllib.parse.unquote(m.group(1)) if m else default
 
-                      net_type = get_param('type', 'tcp')
-                      if net_type == 'raw': net_type = 'tcp'
+                      net_type = get_param('type', 'tcp').lower()
+                      is_httpupgrade = (net_type == 'httpupgrade')
+                      if net_type in ['raw', '']: net_type = 'tcp'
                       elif net_type == 'http': net_type = 'h2'
+                      elif is_httpupgrade: net_type = 'ws'
 
                       base = {"name": node_name, "server": u.hostname, "port": int(u.port) if u.port else 0, "udp": True}
                       password = urllib.parse.unquote(u.username) if u.username else ""
@@ -336,6 +370,7 @@ jobs:
                               base["ws-opts"] = {"path": path}
                               host = get_param('host') or sni
                               if host: base["ws-opts"]["headers"] = {"Host": host}
+                              if is_httpupgrade: base["ws-opts"]["v2ray-http-upgrade"] = True
                           elif base["network"] == "grpc":
                               base["grpc-opts"] = {"grpc-service-name": get_param('serviceName', '')}
 
@@ -374,6 +409,7 @@ jobs:
                               base["ws-opts"] = {"path": path}
                               host = get_param('host') or sni
                               if host: base["ws-opts"]["headers"] = {"Host": host}
+                              if is_httpupgrade: base["ws-opts"]["v2ray-http-upgrade"] = True
                           elif base["network"] == "grpc":
                               base["grpc-opts"] = {"grpc-service-name": get_param('serviceName', '')}
 
@@ -488,8 +524,6 @@ jobs:
                   
                   if cc and country:
                       base_name = f"{get_flag(cc)} {country}"
-                      if "CIDR" in raw_name.upper():
-                          base_name += " [*CIDR]"
                   else:
                       clean_name = re.sub(r'(?i)(telegram|t\.me|@)\S*', '', raw_name)
                       clean_name = re.sub(r'[\[\]\(\)]', '', clean_name)
