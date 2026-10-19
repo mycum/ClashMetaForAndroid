@@ -1,7 +1,4 @@
-# profile-title: 🍎 Telegood CIDR iOS (19.10.2026 09:45)
-# 🛡️ Alive: 4
+# profile-title: 🍎 Telegood CIDR iOS (19.10.2026 10:50)
+# 🛡️ Alive: 1
 
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFRoZSBOZXRoZXJsYW5kcyBbKkNJRFJdIFsxXSIsImFkZCI6IjE2OC4xMTMuMjE1LjYiLCJwb3J0IjoiMzM3MzYiLCJpZCI6IjEyODFhY2NhLWYyMWQtNDc1Yy1iZjA0LWVjY2JlZTdmOGRmMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvdm1lc3Mtd3MiLCJ0bHMiOiIiLCJob3N0IjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIn0=
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFRoZSBOZXRoZXJsYW5kcyBbKkNJRFJdIFsyXSIsImFkZCI6IjE2OC4xMTMuMjE1LjYiLCJwb3J0IjoiMzM3MzYiLCJ0eXBlIjoibm9uZSIsImlkIjoiMTI4MWFjY2EtZjIxZC00NzVjLWJmMDQtZWNjYmVlN2Y4ZGYyIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy13cyIsImhvc3QiOiJubC0yYTk3MmM4MDUyLnNoYW1hbmFwcC5vbmxpbmUiLCJ0bHMiOiIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIn0=
-vless://aca886aa-9b51-4eb2-8d7a-12d6b89caf4d@funvideos.video:443?security=tls&sni=funvideos.video&type=ws&path=/api/53d53ac3/a7fa61/096357bebc62&host=funvideos.video&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B14%5D
-vless://2d5cc88b-802e-4c01-9acd-4d532040fdcb@heoleti.pro:14443?security=tls&sni=heoleti.pro&type=ws&path=/n2ws&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B27%5D
+vless://aca886aa-9b51-4eb2-8d7a-12d6b89caf4d@funvideos.video:443?security=tls&sni=funvideos.video&type=ws&path=/api/53d53ac3/a7fa61/096357bebc62&host=funvideos.video&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B5%5D
