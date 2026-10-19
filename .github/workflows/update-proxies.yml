@@ -97,7 +97,7 @@ jobs:
           print(f"   📥 Распаковано свежих ссылок: {len(lines)}")
 
           # 💾 Поднятие старого золотого запаса из списков Sing-box, Clash и iOS
-          for gold_file in ['proxy_lists/fixed_proxies.txt', 'proxy_lists/fixed_proxies_clash.txt', 'proxy_lists/fixed_proxies_ios.txt']:
+          for gold_file in ['proxy_lists/fixed_proxies.txt', 'proxy_lists/fixed_proxies_hy.txt', 'proxy_lists/fixed_proxies_clash.txt', 'proxy_lists/fixed_proxies_ios.txt']:
               if os.path.exists(gold_file):
                   with open(gold_file, 'r', encoding='utf-8') as f:
                       old_lines = [l.strip() for l in f.readlines() if l.strip() and not l.startswith('#')]
