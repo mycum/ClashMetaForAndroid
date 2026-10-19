@@ -1,5 +1,4 @@
-# profile-title: 🍎 Telegood CIDR iOS (19.10.2026 11:54)
-# 🛡️ Alive: 2
+# profile-title: 🍎 Telegood CIDR iOS (19.10.2026 12:58)
+# 🛡️ Alive: 1
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFRoZSBOZXRoZXJsYW5kcyBbKkNJRFJdIFsxXSIsImFkZCI6IjE2OC4xMTMuMjE1LjYiLCJwb3J0IjoiMzM3MzYiLCJpZCI6IjEyODFhY2NhLWYyMWQtNDc1Yy1iZjA0LWVjY2JlZTdmOGRmMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvdm1lc3Mtd3MiLCJ0bHMiOiIiLCJob3N0IjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIn0=
-vless://aca886aa-9b51-4eb2-8d7a-12d6b89caf4d@funvideos.video:443?security=tls&sni=funvideos.video&type=ws&path=/api/53d53ac3/a7fa61/096357bebc62&host=funvideos.video&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20%5B5%5D
