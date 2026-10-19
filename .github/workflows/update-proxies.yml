@@ -508,35 +508,47 @@ jobs:
           final_raw_links = []
           final_pure_links = []
           name_counts = {}
+          seen_global_cfgs = set()
 
           for deep_key, urls in node_groups.items():
               ip = deep_key_to_ip[deep_key]
               geo = ip_info.get(ip, {})
               urls.sort(key=score_link, reverse=True)
-              best_links = urls[:max_variants(urls)]
-              
-              for url in best_links:
+              limit_v = max_variants(urls)
+              added_in_group = 0
+
+              for url in urls:
+                  if added_in_group >= limit_v:
+                      break
                   raw_name = url_to_name.get(url, "")
                   pure_link = f"{url}#{raw_name}" if raw_name else url
-                  
+
                   cc = geo.get('countryCode')
                   country = geo.get('country')
-                  
+
                   if cc and country:
                       base_name = f"{get_flag(cc)} {country}"
                   else:
                       clean_name = re.sub(r'(?i)(telegram|t\.me|@)\S*', '', raw_name)
                       clean_name = re.sub(r'[\[\]\(\)]', '', clean_name)
                       base_name = clean_name.split('|')[0].split(',')[0].strip()
-                      if not base_name or base_name.startswith("Node_"): 
+                      if not base_name or base_name.startswith("Node_"):
                           base_name = "🌍 Unknown"
 
-                  name_counts[base_name] = name_counts.get(base_name, 0) + 1
+                  next_num = name_counts.get(base_name, 0) + 1
                   node_name = f"Node_{len(final_json_data)}"
-                  final_name = f"{base_name} [{name_counts[base_name]}]"
-                  
+                  final_name = f"{base_name} [{next_num}]"
+
                   parsed_obj = parse_to_mihomo(url, node_name, final_name)
                   if parsed_obj:
+                      clean_cfg = {k: v for k, v in parsed_obj["config"].items() if k != "name"}
+                      cfg_sig = json.dumps(clean_cfg, sort_keys=True, ensure_ascii=False)
+                      if cfg_sig in seen_global_cfgs:
+                          continue
+                      seen_global_cfgs.add(cfg_sig)
+                      name_counts[base_name] = next_num
+                      added_in_group += 1
+
                       parsed_obj["config"]["name"] = node_name
                       parsed_obj["meta"] = {
                           "original_name": final_name,
