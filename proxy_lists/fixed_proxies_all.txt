@@ -1,44 +1,38 @@
-# profile-title: 🚀 Telegood VPN (ВСЕ ЖИВЫЕ от 21.10.2026 08:24)
-# 🛡️ Total Alive: 40
-# 📊 Stats: Вход: 1338 | Пинг: 60 | >300KB/s: 40 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
+# profile-title: 🚀 Telegood VPN (ВСЕ ЖИВЫЕ от 21.10.2026 09:29)
+# 🛡️ Total Alive: 34
+# 📊 Stats: Вход: 1458 | Пинг: 61 | >300KB/s: 34 | SB-Old: 31 | SB-HY: 32 | Clash: 32 | iOS: 16
 
-vless://6eca8bc3-c4e1-48d1-bf15-1eb016dd6272@178.176.128.128:443?encryption=none&fp=ios&host=edge3.statiqedge.com&path=/assets/v1&security=tls&sni=edge3.statiqedge.com&type=httpupgrade#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B45%5D
-vless://6eca8bc3-c4e1-48d1-bf15-1eb016dd6272@178.176.128.128:443?encryption=none&fp=firefox&host=edge3.statiqedge.com&path=/assets/v1&security=tls&sni=edge3.statiqedge.com&type=httpupgrade#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B47%5D
-vless://6eca8bc3-c4e1-48d1-bf15-1eb016dd6272@178.176.128.128:443?encryption=none&fp=edge&host=edge3.statiqedge.com&path=/assets/v1&security=tls&sni=edge3.statiqedge.com&type=httpupgrade#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B46%5D
-vmess://eyJhZGQiOiJldTMuOTk4OTk4LmJlc3QiLCJhaWQiOjAsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJzZXJ2ZXI0MC45OTY2MzM4Lnh5eiIsImlkIjoiNTUwNGVhYTgtMTM5NS00MDJmLThlMGUtNzVlY2Q3NjJlNjI3IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FpYWlhaSIsInBjcyI6IiIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFsxMTFdIiwic2N5IjoiYXV0byIsInNuaSI6InNlcnZlcjQwLjk5NjYzMzgueHl6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwidmNuIjoiIn0=
 vmess://eyJhZGQiOiJldTMuOTk4OTk4LmJlc3QiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNlcnZlcjQwLjk5NjYzMzgueHl6IiwiaWQiOiI1NTA0ZWFhOC0xMzk1LTQwMmYtOGUwZS03NWVjZDc2MmU2MjciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYWlhaWFpIiwicGNzIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbMTEwXSIsInNjeSI6ImF1dG8iLCJzbmkiOiJzZXJ2ZXI0MC45OTY2MzM4Lnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInZjbiI6IiJ9
-vless://7c86240f-ac0c-4cfe-87c8-fa0dd69b2d25@46.243.142.2:443?alpn=http/1.1&encryption=none&fp=edge&host=floweroom.vip&path=/cart/sync/g-jSjxyhq24P&security=tls&sni=floweroom.vip&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B118%5D
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&sni=de7.dedushka.top#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B29%5D
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&sni=de7.dedushka.top&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B30%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B10%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B4%5D
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.24.73:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B16%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B8%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.54:19999?type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B5%5D
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?type=tcp&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&security=reality&sid=6c5c7900406a1ae7&sni=www.samsung.com&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B56%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B3%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B7%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B33%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B6%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B11%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbMTAxXSIsImFkZCI6ImNmLjBzbS5jb20iLCJwb3J0Ijo0NDMsImlkIjoiMGNmNmQ5NzAtM2YxZC00YWFlLWE5ODktOTJhOGY3NmFlM2RiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwicGF0aCI6Ii93cyIsInRscyI6InRscyIsInNuaSI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJmcCI6ImNocm9tZSIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
-ss://YWVzLTI1Ni1nY206NjJtbmdydjZyY3E4aWY4YQ==@45.89.223.16:443#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B27%5D
-hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?insecure=1&sni=www.docker.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B29%5D
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B141%5D
-trojan://mitivpn@188.114.97.6:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/--@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=d-e.mitivpn.in.net&fp=chrome&ech=cloudflare-ech.com+udp://78.157.42.100&type=ws&allowInsecure=0&sni=d-e.mitivpn.in.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B68%5D
-trojan://mitivpn@188.114.97.6:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/--@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=de.mitivpn.in.net&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=de.mitivpn.in.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B66%5D
+vmess://eyJhZGQiOiJldTMuOTk4OTk4LmJlc3QiLCJhaWQiOjAsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJzZXJ2ZXI0MC45OTY2MzM4Lnh5eiIsImlkIjoiNTUwNGVhYTgtMTM5NS00MDJmLThlMGUtNzVlY2Q3NjJlNjI3IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FpYWlhaSIsInBjcyI6IiIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFsxMTFdIiwic2N5IjoiYXV0byIsInNuaSI6InNlcnZlcjQwLjk5NjYzMzgueHl6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwidmNuIjoiIn0=
+vless://7c86240f-ac0c-4cfe-87c8-fa0dd69b2d25@46.243.142.2:443?alpn=http/1.1&encryption=none&fp=edge&host=floweroom.vip&path=/cart/sync/g-jSjxyhq24P&security=tls&sni=floweroom.vip&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B127%5D
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&sni=de7.dedushka.top&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B47%5D
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&sni=de7.dedushka.top#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B46%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEdlcm1hbnkgWzE0XSIsImFkZCI6ImRlLWQyMWU1NmMxM2Muc2hhbWFuYXBwLm9ubGluZSIsInBvcnQiOiIzMzc0NCIsImlkIjoiYjNhMTEwNjgtMWE3ZS00NjQzLTg1ZGUtN2M4MmNjZTQ2OTQzIiwiYWlkIjoiMCIsInNjeSI6Im5vbmUiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImRlLWQyMWU1NmMxM2Muc2hhbWFuYXBwLm9ubGluZTozMzc0NCIsInBhdGgiOiIvU2hhbWFuVk1FU1MyMDI2IiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFRoZSBOZXRoZXJsYW5kcyBbMThdIiwiYWRkIjoiMTY4LjExMy4yMTUuNiIsInBvcnQiOiIzMzczNiIsImlkIjoiMTI4MWFjY2EtZjIxZC00NzVjLWJmMDQtZWNjYmVlN2Y4ZGYyIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJwYXRoIjoiL3ZtZXNzLXdzIiwiaG9zdCI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B4%5D
+vmess://eyJhZGQiOiIyMTcuNjAuMTgzLjk1IiwiYWlkIjoiMCIsImhvc3QiOiJkZS1kMjFlNTZjMTNjLnNoYW1hbmFwcC5vbmxpbmU6MzM3NDQiLCJpZCI6ImIzYTExMDY4LTFhN2UtNDY0My04NWRlLTdjODJjY2U0Njk0MyIsIm5ldCI6IndzIiwicGF0aCI6Ii9TaGFtYW5WTUVTUzIwMjYiLCJwb3J0IjoiMzM3NDQiLCJwcyI6Ilx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSBHZXJtYW55IFsxN10iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
+hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?insecure=1&sni=www.docker.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B33%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.18:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B3%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B12%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B10%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFRoZSBOZXRoZXJsYW5kcyBbMTldIiwiYWRkIjoiMTY4LjExMy4yMTUuNiIsInBvcnQiOiIzMzczNiIsInR5cGUiOiJub25lIiwiaWQiOiIxMjgxYWNjYS1mMjFkLTQ3NWMtYmYwNC1lY2NiZWU3ZjhkZjIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLXdzIiwiaG9zdCI6Im5sLTJhOTcyYzgwNTIuc2hhbWFuYXBwLm9ubGluZSIsInRscyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.54:19999?type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B6%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B42%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B9%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B8%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B5%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B11%5D
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B135%5D
 trojan://mitivpn@188.114.97.6:443?security=tls&alpn=http/1.1&insecure=0&host=d-e.mitivpn.in.net&fp=chrome&ech=cloudflare-ech.com+udp://78.157.42.100&type=ws&allowInsecure=0&sni=d-e.mitivpn.in.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B70%5D
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B144%5D
-trojan://mitivpn@188.114.97.6:443?path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&host=d-e.mitivpn.in.net&fp=chrome&type=ws&sni=d-e.mitivpn.in.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B69%5D
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#%F0%9F%87%AE%F0%9F%87%B3%20India%20%5B2%5D
-vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM1MDM0IiwicHMiOiJcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZmMgVGFpd2FuIFsxXSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B69%5D
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B4%5D
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p141.panda001.net:4652#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B10%5D
-vmess://eyJhZGQiOiIxMDQuMjEuNy4xMzMiLCJhaWQiOjAsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0Ijo4MCwicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFsxODJdIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B132%5D
 trojan://mitivpn@188.114.97.6:443?path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&host=de.mitivpn.in.net&fp=chrome&type=ws&sni=de.mitivpn.in.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B67%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbMTAwXSIsImFkZCI6ImNmLjBzbS5jb20iLCJwb3J0IjoiNDQzIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsInBhdGgiOiIvd3M/ZWQ9MjA0OCIsInRscyI6InRscyIsInNuaSI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJmcCI6ImNocm9tZSIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B4%5D
-ss://YWVzLTI1Ni1nY206SnVENk1OZ3RYM25WcEN6RnpYWVZZakRUWjduc21hVHY=@191.223.221.53:8388#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B10%5D
-hysteria2://wvA0PtDIuFbSqooIC2goKzFr@38.175.202.26:443?insecure=1&sni=bing.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B50%5D
+trojan://mitivpn@188.114.97.6:443?path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&host=d-e.mitivpn.in.net&fp=chrome&type=ws&sni=d-e.mitivpn.in.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B69%5D
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#%F0%9F%87%AE%F0%9F%87%B3%20India%20%5B1%5D
+trojan://mitivpn@188.114.97.6:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/--@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=d-e.mitivpn.in.net&fp=chrome&ech=cloudflare-ech.com+udp://78.157.42.100&type=ws&allowInsecure=0&sni=d-e.mitivpn.in.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B68%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUWVFb1hDNVlsNVBablBMdktVcEZUVTljeVFjTkc5MDJ6cGliV2t3R2JvPQ@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B2%5D
+vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM1MDM0IiwicHMiOiJcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZmMgVGFpd2FuIFsxXSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B100%5D
+trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B128%5D
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B2%5D
+hysteria2://wvA0PtDIuFbSqooIC2goKzFr@38.175.202.26:443?insecure=1&sni=bing.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B55%5D
+vmess://eyJhZGQiOiJqcDQuOTk4OTk4LmJlc3QiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5hdDEyLjk5NjYzMzgueHl6IiwiaWQiOiI1NTA0ZWFhOC0xMzk1LTQwMmYtOGUwZS03NWVjZDc2MmU2MjciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdnZ2dnZ2dnZ2IiwicGNzIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbMTEyXSIsInNjeSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiJuYXQxMi45OTY2MzM4Lnh5eiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B7%5D
