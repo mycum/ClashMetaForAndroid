@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 22.10.2026 06:27)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 22.10.2026 07:32)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1383 | Пинг: 72 | >300KB/s: 46 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
+# 📊 Stats: Вход: 1392 | Пинг: 118 | >300KB/s: 78 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
 
-vmess://eyJhZGQiOiJtaXgyLjk5ODk5OC5iZXN0IiwiYWlkIjowLCJob3N0Ijoic2VydmVyMTAuOTk2NjMzOC54eXoiLCJpZCI6IjU1MDRlYWE4LTEzOTUtNDAyZi04ZTBlLTc1ZWNkNzYyZTYyNyIsIm5ldCI6IndzIiwicGF0aCI6Ii9ydGhpdWdveXJldGRzdWlnZyIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFsxNjddIiwic2N5IjoiYXV0byIsInNlcnZpY2VOYW1lIjoiIiwic25pIjoic2VydmVyMTAuOTk2NjMzOC54eXoiLCJ0bHMiOiJ0bHMiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsImZwIjoiY2hyb21lIn0=
-vmess://eyJhZGQiOiJldTMuOTk4OTk4LmJlc3QiLCJhaWQiOjAsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJzZXJ2ZXI0MC45OTY2MzM4Lnh5eiIsImlkIjoiNTUwNGVhYTgtMTM5NS00MDJmLThlMGUtNzVlY2Q3NjJlNjI3IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FpYWlhaSIsInBjcyI6IiIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFsxMDZdIiwic2N5IjoiYXV0byIsInNuaSI6InNlcnZlcjQwLjk5NjYzMzgueHl6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwidmNuIjoiIn0=
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de3.dedushka.top:443?alpn=http/1.1&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B14%5D
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&alpn=http/1.1&fp=chrome&type=tcp&sni=t.me/FuckTheWall#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B18%5D
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&headerType=none&type=tcp&fp=chrome&sni=de7.dedushka.top#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B22%5D
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B17%5D
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@it1.dedushka.top:443?fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B26%5D
+vmess://eyJhZGQiOiJtaXgyLjk5ODk5OC5iZXN0IiwiYWlkIjowLCJob3N0Ijoic2VydmVyMTAuOTk2NjMzOC54eXoiLCJpZCI6IjU1MDRlYWE4LTEzOTUtNDAyZi04ZTBlLTc1ZWNkNzYyZTYyNyIsIm5ldCI6IndzIiwicGF0aCI6Ii9ydGhpdWdveXJldGRzdWlnZyIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFsxNzBdIiwic2N5IjoiYXV0byIsInNlcnZpY2VOYW1lIjoiIiwic25pIjoic2VydmVyMTAuOTk2NjMzOC54eXoiLCJ0bHMiOiJ0bHMiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsImZwIjoiY2hyb21lIn0=
+vless://6e05822a-e9da-4135-a9db-71aa07a944af@8.6.112.0:443?encryption=none&security=tls&alpn=http/1.1&type=ws&host=fi1.merky.one&path=/mky-ws-4f19c8a7&headers=%7B%0A++%22Host%22%3A+%22fi1.merky.one%22%0A%7D&fp=edge&sni=fi1.merky.one#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B7%5D
+vless://21ffcccd-8fbe-43fb-9dd1-24452fdfa8ad@cdn111.whitenw.net:8449/?type=ws&encryption=none&flow=&path=/journal-sync/e8d4c790&security=tls&sni=foliage.lalibobi.online&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B41%5D
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de12.dedushka.top:443?security=tls&fp=chrome&alpn=http/1.1&type=tcp&headerType=none&sni=de12.dedushka.top#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B26%5D
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de3.dedushka.top:443?alpn=http/1.1&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B29%5D
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&headerType=none&type=tcp&sni=de7.dedushka.top&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B36%5D
+vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@201.51.30.47:443?security=reality&encryption=none&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=quest.eos-shop.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B49%5D
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&fp=chrome&sni=t.me/fuckthewall#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B19%5D
+vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@198.202.146.51:443?encryption=none&flow=xtls-rprx-vision&pbk=B5DMtKe8wjH_WeM8M8IEuKwPqJ6-Ku98JH_LifwehEY&security=reality&sid=6fe2994a0e208408&type=tcp&fp=edge&sni=198.202.146.51.sslip.io#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B11%5D
+ss://YWVzLTI1Ni1nY206aU9hSVhOc1FYVkl4d21rWQ@140.82.56.38:8388#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B67%5D
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@it1.dedushka.top:443?fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B41%5D
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.99:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B6%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B4%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.197:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B24%5D
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B18%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFRoZSBOZXRoZXJsYW5kcyBbNF0iLCJhZGQiOiIxNjguMTEzLjIxNS42IiwicG9ydCI6MzM3MzYsImlkIjoiMTI4MWFjY2EtZjIxZC00NzVjLWJmMDQtZWNjYmVlN2Y4ZGYyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL3ZtZXNzLXdzIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B9%5D
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B2%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B3%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B10%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B7%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B5%5D
-hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?sni=www.docker.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B33%5D
