@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 22.10.2026 13:00)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 22.10.2026 15:47)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1409 | Пинг: 78 | >300KB/s: 47 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
+# 📊 Stats: Вход: 1348 | Пинг: 82 | >300KB/s: 42 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
 
-vmess://eyJhZGQiOiI2NjYuY2YuY25hbWUudnZoYW4uY29tIiwiYWlkIjowLCJob3N0Ijoic2VydmVyNy45OTY2MzM4Lnh5eiIsImlkIjoiNTUwNGVhYTgtMTM5NS00MDJmLThlMGUtNzVlY2Q3NjJlNjI3IiwibmV0Ijoid3MiLCJwYXRoIjoiL3Nzc3NzdyIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFsxMDddIiwic2N5IjoiYXV0byIsInNlcnZpY2VOYW1lIjoiIiwic25pIjoic2VydmVyNy45OTY2MzM4Lnh5eiIsInRscyI6InRscyIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwiZnAiOiJjaHJvbWUifQ==
-vmess://eyJhZGQiOiJldTMuOTk4OTk4LmJlc3QiLCJhaWQiOjAsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJzZXJ2ZXI0MC45OTY2MzM4Lnh5eiIsImlkIjoiNTUwNGVhYTgtMTM5NS00MDJmLThlMGUtNzVlY2Q3NjJlNjI3IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FpYWlhaSIsInBjcyI6IiIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFsxMTVdIiwic2N5IjoiYXV0byIsInNuaSI6InNlcnZlcjQwLjk5NjYzMzgueHl6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwidmNuIjoiIn0=
-vless://e2f1af0e-2de9-43d8-8d95-c4c20845b9af@64.188.78.147:443?security=reality&encryption=none&pbk=g-w0ZEC8CDn-1yDpKSnQj7OUHJRXC9dVRR3TaWUzqmc&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fonts.gstatic.com#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B1%5D
-ss://YWVzLTI1Ni1nY206aU9hSVhOc1FYVkl4d21rWQ@140.82.56.38:8388#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B80%5D
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?sni=de7.dedushka.top&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B45%5D
-vless://7f36e606-3eb9-4b60-b783-8d8806818286@5.22.212.81:8080?encryption=none&host=&path=/&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B12%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFRoZSBOZXRoZXJsYW5kcyBbMTVdIiwiYWRkIjoiMTY4LjExMy4yMTUuNiIsInBvcnQiOjMzNzM2LCJpZCI6IjEyODFhY2NhLWYyMWQtNDc1Yy1iZjA0LWVjY2JlZTdmOGRmMiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJubC0yYTk3MmM4MDUyLnNoYW1hbmFwcC5vbmxpbmUiLCJwYXRoIjoiL3ZtZXNzLXdzIiwidGxzIjoiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@it1.dedushka.top:443?fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B50%5D
-trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.137:443?path=/f2fc2a1f&security=tls&host=2.hi-l.im&type=ws&sni=2.HI-L.IM&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B17%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B2%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B5%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B4%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B13%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B6%5D
-vless://21ffcccd-8fbe-43fb-9dd1-24452fdfa8ad@media.vik.lalibobi.online:443/?type=ws&encryption=none&flow=&host=media.vik.lalibobi.online&path=/live/showroom&security=tls&alpn=http/1.1&fp=firefox&sni=media.vik.lalibobi.online#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B1%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B3%5D
+vmess://eyJhZGQiOiI2NjYuY2YuY25hbWUudnZoYW4uY29tIiwiYWlkIjowLCJob3N0Ijoic2VydmVyNy45OTY2MzM4Lnh5eiIsImlkIjoiNTUwNGVhYTgtMTM5NS00MDJmLThlMGUtNzVlY2Q3NjJlNjI3IiwibmV0Ijoid3MiLCJwYXRoIjoiL3Nzc3NzdyIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFsxODBdIiwic2N5IjoiYXV0byIsInNlcnZpY2VOYW1lIjoiIiwic25pIjoic2VydmVyNy45OTY2MzM4Lnh5eiIsInRscyI6InRscyIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwiZnAiOiJjaHJvbWUifQ==
+vmess://eyJhZGQiOiJldTMuOTk4OTk4LmJlc3QiLCJhaWQiOjAsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJzZXJ2ZXI0MC45OTY2MzM4Lnh5eiIsImlkIjoiNTUwNGVhYTgtMTM5NS00MDJmLThlMGUtNzVlY2Q3NjJlNjI3IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FpYWlhaSIsInBjcyI6IiIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFsxMTddIiwic2N5IjoiYXV0byIsInNuaSI6InNlcnZlcjQwLjk5NjYzMzgueHl6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwidmNuIjoiIn0=
+vmess://eyJhZGQiOiJtaXgyLjk5ODk5OC5iZXN0IiwiYWlkIjowLCJob3N0Ijoic2VydmVyMTAuOTk2NjMzOC54eXoiLCJpZCI6IjU1MDRlYWE4LTEzOTUtNDAyZi04ZTBlLTc1ZWNkNzYyZTYyNyIsIm5ldCI6IndzIiwicGF0aCI6Ii9ydGhpdWdveXJldGRzdWlnZyIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFsxMjFdIiwic2N5IjoiYXV0byIsInNlcnZpY2VOYW1lIjoiIiwic25pIjoic2VydmVyMTAuOTk2NjMzOC54eXoiLCJ0bHMiOiJ0bHMiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsImZwIjoiY2hyb21lIn0=
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de3.dedushka.top:443?security=tls&alpn=http/1.1&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B24%5D
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?fp=chrome&sni=de7.dedushka.top#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B32%5D
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@it1.dedushka.top:443?fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B36%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEdlcm1hbnkgWzZdIiwiYWRkIjoiMjE3LjYwLjE4My45NSIsInBvcnQiOjMzNzQ0LCJpZCI6ImIzYTExMDY4LTFhN2UtNDY0My04NWRlLTdjODJjY2U0Njk0MyIsImFpZCI6MCwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsInBhdGgiOiIvU2hhbWFuVk1FU1MyMDI2IiwiaG9zdCI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFRoZSBOZXRoZXJsYW5kcyBbNl0iLCJhZGQiOiIxNjguMTEzLjIxNS42IiwicG9ydCI6MzM3MzYsInR5cGUiOiJub25lIiwiaWQiOiIxMjgxYWNjYS1mMjFkLTQ3NWMtYmYwNC1lY2NiZWU3ZjhkZjIiLCJhaWQiOjAsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy13cyIsImhvc3QiOiJubC0yYTk3MmM4MDUyLnNoYW1hbmFwcC5vbmxpbmUiLCJ0bHMiOiIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B3%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B2%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B7%5D
+trojan://mitivpn@b2n.ir:443?host=de.mitivpn.in.net&path=/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/--%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1&type=ws&sni=de.mitivpn.in.net&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B88%5D
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de12.dedushka.top:443?security=tls&alpn=http/1.1&headerType=none&fp=chrome&type=tcp&sni=de12.dedushka.top#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B20%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B4%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B10%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.99:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B9%5D
