@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 24.10.2026 08:16)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 24.10.2026 09:22)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1464 | Пинг: 121 | >300KB/s: 77 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
+# 📊 Stats: Вход: 1499 | Пинг: 103 | >300KB/s: 64 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
 
-vmess://eyJhZGQiOiJtaXgyLjk5ODk5OC5iZXN0IiwiYWlkIjowLCJob3N0Ijoic2VydmVyMTAuOTk2NjMzOC54eXoiLCJpZCI6IjU1MDRlYWE4LTEzOTUtNDAyZi04ZTBlLTc1ZWNkNzYyZTYyNyIsIm5ldCI6IndzIiwicGF0aCI6Ii9ydGhpdWdveXJldGRzdWlnZyIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFsxNzNdIiwic2N5IjoiYXV0byIsInNlcnZpY2VOYW1lIjoiIiwic25pIjoic2VydmVyMTAuOTk2NjMzOC54eXoiLCJ0bHMiOiJ0bHMiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsImZwIjoiY2hyb21lIn0=
-vless://6eca8bc3-c4e1-48d1-bf15-1eb016dd6272@178.176.128.128:443?encryption=none&fp=firefox&host=edge3.statiqedge.com&path=/assets/v1&security=tls&type=httpupgrade&sni=edge3.statiqedge.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B95%5D
-vless://ebdf87e8-4f75-4b84-94e0-65ce4894993a@168.222.143.254:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&pbk=3_Qy1SAtWfbiQbznyhlXxJtqB-5QQ46VF1Uz2h5A7Q4&sid=2dc17935&sni=st.avito.ru&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B143%5D
-trojan://humanity@172.66.40.99:443?path=/assignment&security=tls&alpn=http/1.1&host=www.trusteeforward.com&fp=chrome&type=ws&sni=www.trusteeforward.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B42%5D
-trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/%3F&security=tls&alpn=http/1.1&host=mitivpn.ac.ir&fp=chrome&type=ws&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B17%5D
-trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&host=mitivpn.ac.ir&fp=chrome&type=ws&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B137%5D
-vless://314c0ccc-a379-4c3b-a0ec-01216f4d23e0@199.232.78.150:80?encryption=none&security=none&type=ws&headerType=none&path=/&host=icjucvsgoqjwmtw102020123.global.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B1%5D
-vless://c9d6f7a6-41d7-4bdd-bf3f-7415cc9d7f90@200.169.184.168:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&pbk=QnaizqXrXA0e4XihP_5Nf1z1aOOf0obBoyJ8QY_03kw&sid=9d0e1b6bf9c5eddb&fp=safari&sni=net.formatgo.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B66%5D
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&alpn=http/1.1&type=tcp&fp=chrome&sni=t.me/FuckTheWall#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B13%5D
-vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@147.45.46.142:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&sni=gb.ozon.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B73%5D
-hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443?alpn=h3&sni=promo.betust.net#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B1%5D
-vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@193.160.140.125:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&sni=gb.ozon.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B74%5D
-vless://6845a59f-970b-4e1e-8e26-06a34ee663d6@185.98.63.6:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=apple.com#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5B2%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B10%5D
-vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@185.88.173.186:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&sni=abuse.ozon.ru#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B7%5D
-hysteria2://0ce6e041-b701-4dd0-a82a-96b287abc4bf@fl.solomon-planet.ru:443?alpn=h3&sni=fl.solomon-planet.ru#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B1%5D
+vless://80f7b6c7-2b3c-4937-af9e-49404d926e7c@185.86.145.183:443?alpn=http/1.1&encryption=none&fp=edge&host=online.wyre-file.ru&path=/nl7ws&security=tls&type=ws&sni=online.wyre-file.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B98%5D
+trojan://humanity@172.66.40.99:443?path=/assignment&security=tls&alpn=http/1.1&host=www.trusteeforward.com&fp=chrome&type=ws&sni=www.trusteeforward.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B39%5D
+vless://46785352-db89-4839-8079-d4c69ad87996@46.254.19.228:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=X1M7Fd99WDlb1_5jDILCqBUPrrMoR4a1vpCEy71J2W4&security=reality&type=raw&sni=eh.vk.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B92%5D
+trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/%3F&security=tls&alpn=http/1.1&host=mitivpn.ac.ir&fp=chrome&type=ws&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B69%5D
+trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/%3F&security=tls&alpn=http/1.1&host=mitivpn.ac.ir&fp=chrome&type=ws&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B149%5D
+vmess://eyJhZGQiOiJtaXgyLjk5ODk5OC5iZXN0IiwiYWlkIjowLCJob3N0Ijoic2VydmVyMTAuOTk2NjMzOC54eXoiLCJpZCI6IjU1MDRlYWE4LTEzOTUtNDAyZi04ZTBlLTc1ZWNkNzYyZTYyNyIsIm5ldCI6IndzIiwicGF0aCI6Ii9ydGhpdWdveXJldGRzdWlnZyIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFsxNzFdIiwic2N5IjoiYXV0byIsInNlcnZpY2VOYW1lIjoiIiwic25pIjoic2VydmVyMTAuOTk2NjMzOC54eXoiLCJ0bHMiOiJ0bHMiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsImZwIjoiY2hyb21lIn0=
+vless://46785352-db89-4839-8079-d4c69ad87996@46.254.19.39:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qPRwGMNP4ARLW0wm2IQD29HjX8cqO3KnEy8Eld2SiGA&security=reality&type=raw&sni=smartcaptcha.yandexcloud.net#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B99%5D
+hysteria2://78559873-84ef-4cab-a0b2-46d4cd20de4a@sweden.luxes.network:2053?alpn=h3&sni=sweden.luxes.network#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B2%5D
+vless://6845a59f-970b-4e1e-8e26-06a34ee663d6@185.98.63.6:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=apple.com#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5B1%5D
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@185.88.173.186:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&sni=abuse.ozon.ru#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B2%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B11%5D
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&alpn=http/1.1&type=tcp&fp=chrome&sni=t.me/FuckTheWall#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B25%5D
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@193.160.140.125:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&sni=gb.ozon.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B65%5D
+hysteria2://46785352-db89-4839-8079-d4c69ad87996@pl4.cryposikel.ru:443?sni=pl4.cryposikel.ru#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B74%5D
+hysteria2://78559873-84ef-4cab-a0b2-46d4cd20de4a@noway.luxes.network:2053?alpn=h3&sni=noway.luxes.network#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B13%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B6%5D
