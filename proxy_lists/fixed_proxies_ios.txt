@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 24.10.2026 17:02)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 24.10.2026 18:07)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1443 | Пинг: 84 | >300KB/s: 34 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
+# 📊 Stats: Вход: 1431 | Пинг: 77 | >300KB/s: 36 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
 
-vmess://eyJhZGQiOiJldTMuOTk4OTk4LmJlc3QiLCJhaWQiOjAsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJzZXJ2ZXI0MC45OTY2MzM4Lnh5eiIsImlkIjoiNTUwNGVhYTgtMTM5NS00MDJmLThlMGUtNzVlY2Q3NjJlNjI3IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FpYWlhaSIsInBjcyI6IiIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFsxMTJdIiwic2N5IjoiYXV0byIsInNuaSI6InNlcnZlcjQwLjk5NjYzMzgueHl6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwidmNuIjoiIn0=
 trojan://humanity@172.66.40.99:443?path=/assignment&security=tls&alpn=http/1.1&host=www.trusteeforward.com&fp=chrome&type=ws&sni=www.trusteeforward.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B39%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B12%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B14%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B11%5D
-vless://0b6a937e-5b0e-49ca-b31e-f03f290e97cf@45.9.118.203:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=ios&sni=ozon.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B96%5D
-vless://0b6a937e-5b0e-49ca-b31e-f03f290e97cf@113.30.154.246:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&sni=ozon.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B104%5D
-vmess://eyJhZGQiOiJ1czUtMS45OTg5OTguYmVzdCIsImFpZCI6MCwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6InNlcnZlcjQuOTk2NjMzOC54eXoiLCJpZCI6IjU1MDRlYWE4LTEzOTUtNDAyZi04ZTBlLTc1ZWNkNzYyZTYyNyIsIm5ldCI6IndzIiwicGF0aCI6Ii9hbmRyb2lyZmRzcmVvaWdodHJqaCIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFsxMDVdIiwic2N5IjoiYXV0byIsInNuaSI6InNlcnZlcjQuOTk2NjMzOC54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B13%5D
-vless://0b6a937e-5b0e-49ca-b31e-f03f290e97cf@45.9.118.200:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&sni=ozon.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B93%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B7%5D
-vless://0b6a937e-5b0e-49ca-b31e-f03f290e97cf@113.30.154.216:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&sni=ozon.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B102%5D
-vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@147.45.47.83:443?flow=xtls-rprx-vision&type=raw&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&sni=ozon.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B107%5D
+vless://0b6a937e-5b0e-49ca-b31e-f03f290e97cf@147.45.46.135:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=safari&sni=abuse.ozon.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B81%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B8%5D
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B10%5D
-vless://0b6a937e-5b0e-49ca-b31e-f03f290e97cf@193.160.141.21:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=ios&sni=abuse.ozon.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B87%5D
-vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@103.91.147.253:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&type=tcp&sni=gb.ozon.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B156%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B12%5D
+vless://0b6a937e-5b0e-49ca-b31e-f03f290e97cf@45.9.118.203:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&sni=ozon.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B89%5D
+vless://0b6a937e-5b0e-49ca-b31e-f03f290e97cf@113.30.154.226:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&sni=abuse.ozon.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B78%5D
+vless://0b6a937e-5b0e-49ca-b31e-f03f290e97cf@113.30.154.246:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&sni=ozon.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B98%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B11%5D
+vmess://eyJhZGQiOiJ1czUtMS45OTg5OTguYmVzdCIsImFpZCI6MCwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6InNlcnZlcjQuOTk2NjMzOC54eXoiLCJpZCI6IjU1MDRlYWE4LTEzOTUtNDAyZi04ZTBlLTc1ZWNkNzYyZTYyNyIsIm5ldCI6IndzIiwicGF0aCI6Ii9hbmRyb2lyZmRzcmVvaWdodHJqaCIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFsxMDZdIiwic2N5IjoiYXV0byIsInNuaSI6InNlcnZlcjQuOTk2NjMzOC54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@103.91.147.215:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&sni=abuse.ozon.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B20%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B7%5D
+vless://0b6a937e-5b0e-49ca-b31e-f03f290e97cf@113.30.154.216:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&sni=ozon.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B96%5D
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@103.91.147.253:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&sni=gb.ozon.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B18%5D
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@147.45.47.83:443?flow=xtls-rprx-vision&type=raw&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&sni=ozon.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B32%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyV0lnMTZwbGdaODJWN01UTmN3MVVUZ2lZSzRvb1BVQjk1cVZoS0l3SURjPQ@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B3%5D
