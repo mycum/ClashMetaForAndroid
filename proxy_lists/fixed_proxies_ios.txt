@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 25.10.2026 21:25)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 25.10.2026 22:30)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1405 | Пинг: 70 | >300KB/s: 32 | SB-Old: 31 | SB-HY: 31 | Clash: 32 | iOS: 16
+# 📊 Stats: Вход: 1393 | Пинг: 63 | >300KB/s: 18 | SB-Old: 17 | SB-HY: 18 | Clash: 18 | iOS: 16
 
-trojan://humanity@8.6.112.206:443?path=/assignment&security=tls&alpn=http/1.1&host=www.trusteeforward.com&fp=chrome&type=ws&sni=www.trusteeforward.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B103%5D
-trojan://humanity@172.66.40.99:443?alpn=http/1.1&type=ws&host=www.trusteeforward.com&path=/assignment&sni=www.trusteeforward.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B44%5D
-vless://968c71ab-c205-409b-9b2d-3b44f758adf2@103.24.207.42:8443?flow=xtls-rprx-vision&security=reality&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&fp=firefox&sni=edge-fr.extazy.net#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B71%5D
-trojan://8yup05o4lz0csoxb@216.24.57.225:2083?type=ws&path=/YaujaGsyr&security=tls&alpn=h2,http/1.1,h3&fp=chrome&sni=fin.netvia.ir#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B46%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B2%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B9%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B7%5D
+trojan://humanity@8.6.112.206:443?path=/assignment&security=tls&alpn=http/1.1&host=www.trusteeforward.com&fp=chrome&type=ws&sni=www.trusteeforward.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B83%5D
+trojan://humanity@172.66.40.99:443?alpn=http/1.1&type=ws&host=www.trusteeforward.com&path=/assignment&sni=www.trusteeforward.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B46%5D
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B21%5D
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B3%5D
-vmess://eyJhZGQiOiIxMDQuMjEuNy4xMzMiLCJhaWQiOjAsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0Ijo4MCwicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFsxMjldIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B4%5D
-vless://fd0a5c32-afc0-4d57-b95a-ca6ec8f93e87@193.160.140.115:443?flow=xtls-rprx-vision&type=raw&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=safari&sni=ozon.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B56%5D
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B151%5D
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&host=www.trusteeforward.com&fp=chrome&type=ws&sni=www.trusteeforward.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B61%5D
-vless://fd0a5c32-afc0-4d57-b95a-ca6ec8f93e87@147.45.47.78:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&sni=ai.ozon.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B83%5D
-vless://fd0a5c32-afc0-4d57-b95a-ca6ec8f93e87@103.91.147.255:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=edge&sni=abuse.ozon.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B51%5D
-trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?sni=blog.findlocaljobnetworkandbuildcommunityconnections.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B96%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.99:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B11%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B13%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B5%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B8%5D
+hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?sni=www.docker.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B36%5D
+vless://9ba53795-4356-40ab-8067-76ec2ae2a3d8@46.243.142.104:443?alpn=http/1.1&encryption=none&fp=edge&path=/media/stream/E2QlYgrvniT_&security=tls&type=ws&sni=santehdv.site#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B102%5D
+vmess://eyJ2IjpudWxsLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVbml0ZWQgU3RhdGVzIFsxMDVdIiwiYWRkIjoiMzguOTEuMTA3LjQ5IiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6IlVTIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCB8IEBSYXlkaWthbHggfCAzQTYxMEMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&headerType=none&type=tcp&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B78%5D
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B132%5D
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&host=www.trusteeforward.com&fp=chrome&type=ws&sni=www.trusteeforward.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B63%5D
+vless://9ba53795-4356-40ab-8067-76ec2ae2a3d8@46.243.142.25:443?alpn=http/1.1&encryption=none&fp=edge&path=/media/stream/3VTlT49iHS1H&security=tls&type=ws&sni=slivdom-spb.site#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B112%5D
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B10%5D
