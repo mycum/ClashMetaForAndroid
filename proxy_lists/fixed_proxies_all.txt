@@ -1,16 +1,26 @@
-# profile-title: 🚀 Telegood VPN (ВСЕ ЖИВЫЕ от 25.10.2026 23:34)
-# 🛡️ Total Alive: 12
-# 📊 Stats: Вход: 1435 | Пинг: 56 | >300KB/s: 12 | SB-Old: 11 | SB-HY: 12 | Clash: 12 | iOS: 12
+# profile-title: 🚀 Telegood VPN (ВСЕ ЖИВЫЕ от 26.10.2026 00:38)
+# 🛡️ Total Alive: 22
+# 📊 Stats: Вход: 1374 | Пинг: 55 | >300KB/s: 22 | SB-Old: 19 | SB-HY: 21 | Clash: 22 | iOS: 16
 
 trojan://humanity@8.6.112.206:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=chrome&type=ws&allowInsecure=0&sni=www.trusteeforward.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B89%5D
 trojan://humanity@8.6.112.206:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B88%5D
 trojan://humanity@172.66.40.99:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=chrome&type=ws&allowInsecure=0&sni=www.trusteeforward.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B45%5D
-trojan://humanity@172.66.40.99:443?allowInsecure=1&sni=www.trusteeforward.com&alpn=http/1.1&type=ws&host=www.trusteeforward.com&path=/assignment#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B44%5D
+trojan://humanity@172.66.40.99:443?allowInsecure=1&sni=www.trusteeforward.com&alpn=http/1.1&type=ws&host=www.trusteeforward.com&path=/assignment#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B46%5D
+trojan://9b347a9b-d7a6-4b51-9890-eff62b832834@45-149-147-213.sslip.io:4444?type=grpc&security=tls&serviceName=kobedin-server1-trojan&mode=gun&fp=chrome&sni=45-149-147-213.sslip.io&alpn=h2#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B1%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B21%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.180:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B20%5D
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B2%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B5%5D
-vless://9ba53795-4356-40ab-8067-76ec2ae2a3d8@46.243.142.25:443?encryption=none&fp=edge&host=slivdom-spb.site&path=/media/stream/3VTlT49iHS1H&security=tls&sni=slivdom-spb.site&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B115%5D
-hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?insecure=1&sni=www.docker.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B41%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B4%5D
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=chrome&ech=cloudflare-ech.com udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.trusteeforward.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B61%5D
-vmess://eyJ2IjpudWxsLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVbml0ZWQgU3RhdGVzIFsxMTBdIiwiYWRkIjoiMzguOTEuMTA3LjQ5IiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjpudWxsLCJuYW1lIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IHwgQFJheWRpa2FseCB8IDNBNjEwQyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFNvdXRoIEtvcmVhIFsxXSIsImFkZCI6IjE0Ni41Ni4xMTIuMTEwIiwicG9ydCI6Ijg4ODgiLCJpZCI6ImU3YzMwMmYzLTkwZDYtNDJkZC05ZDdkLTk0YTM2ODNhMzcwNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjEzNiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vless://bdb68a1c-7983-4a00-84af-011e3d0d25d1@frn3.mobileemdad.top:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&security=reality&sid=377d&sni=delivery.mp.microsoft.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B32%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B6%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B5%5D
+vless://bdb68a1c-7983-4a00-84af-011e3d0d25d1@nln12.mobileemdad.top:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&security=reality&sid=070a23aed243&sni=delivery.mp.microsoft.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B163%5D
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@germanylanzrestik.site:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=aHxzHc7w0r_8X8mdx1XCyg2ooRLjcOQMOuscdAQPrEo&sni=germanylanzrestik.site&encryption=none&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B35%5D
+vmess://eyJ2IjpudWxsLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVbml0ZWQgU3RhdGVzIFszMDBdIiwiYWRkIjoiMzguOTEuMTA3LjQ5IiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6IlVTIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCB8IEBSYXlkaWthbHggfCAzQTYxMEMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B7%5D
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=chrome&ech=cloudflare-ech.com udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.trusteeforward.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B62%5D
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p141.panda001.net:4652#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B6%5D
+vmess://eyJhZGQiOiIxMDQuMTcuMTQ3LjIyMiIsImFpZCI6MCwiaG9zdCI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsIm5ldCI6IndzIiwicGF0aCI6Ii93cz9lZD0yMDQ4IiwicG9ydCI6ODAsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbMTE3XSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B8%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B9%5D
+hysteria2://gf1%3Agfhysteria2024@173.212.201.85:443?insecure=1&sni=www.docker.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B39%5D
+hysteria2://633bc3be486b646190661ac2387c150a@152.67.115.203:443?insecure=1&obfs=salamander&obfs-password=850a3fb1cd33a28f12d837578ae1a2e7&sni=www.bing.com#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20%5B3%5D
