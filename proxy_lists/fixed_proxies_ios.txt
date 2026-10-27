@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 28.10.2026 02:23)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 28.10.2026 03:29)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1462 | Пинг: 85 | >300KB/s: 43 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
+# 📊 Stats: Вход: 1471 | Пинг: 81 | >300KB/s: 39 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
 
-trojan://humanity@8.6.112.206:443?path=/assignment&security=tls&alpn=http/1.1&host=www.trusteeforward.com&fp=chrome&type=ws&sni=www.trusteeforward.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B89%5D
-trojan://humanity@104.18.45.38:443?path=/assignment&security=tls&alpn=http/1.1&host=www.trusteeforward.com&type=ws&fp=chrome&sni=www.trusteeforward.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B39%5D
-trojan://humanity@172.66.40.99:443?path=/assignment&security=tls&alpn=http/1.1&host=www.trusteeforward.com&fp=chrome&type=ws&sni=www.trusteeforward.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B54%5D
-trojan://humanity@104.18.37.127:443?path=/assignment&security=tls&host=www.trusteeforward.com&type=ws&fp=chrome&sni=www.trusteeforward.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B36%5D
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@finlandlanzarotte.live:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=6lZ5dkQN2sH9tYca374W4N1n9eCanD_F2FfghcksKSo&fp=chrome&sni=finlandlanzarotte.live#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B38%5D
-vmess://eyJhZGQiOiI4Mi40MC42My44NyIsImFpZCI6MCwiaG9zdCI6IjgyLjQwLjYzLjg3IiwiaWQiOiI3N2ZhYjMwOC1mZTUwLTRmNjItYWZlMC03MTZjMmQ0NDNhMzMiLCJuZXQiOiJ3cyIsInBhdGgiOiIva2Rsc3Bhb3N4amthbXd6YWtzIiwicG9ydCI6ODA4MCwicHMiOiJcdWQ4M2NcdWRkZjVcdWQ4M2NcdWRkZjEgUG9sYW5kIFsxXSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+trojan://humanity@8.6.112.206:443?path=/assignment&security=tls&alpn=http/1.1&host=www.trusteeforward.com&fp=chrome&type=ws&sni=www.trusteeforward.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B92%5D
+trojan://humanity@104.18.45.38:443?path=/assignment&security=tls&alpn=http/1.1&host=www.trusteeforward.com&type=ws&fp=chrome&sni=www.trusteeforward.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B38%5D
+trojan://humanity@104.18.37.127:443?path=/assignment&security=tls&host=www.trusteeforward.com&type=ws&sni=www.trusteeforward.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B34%5D
+trojan://humanity@172.66.40.99:443?path=/assignment&security=tls&alpn=http/1.1&host=www.trusteeforward.com&fp=chrome&type=ws&sni=www.trusteeforward.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B53%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.99:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B9%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B4%5D
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B8%5D
-vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@83.147.18.75:443?security=reality&encryption=none&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sid=7f1e29593aa94ad1&sni=www.bing.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B21%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B5%5D
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B2%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B3%5D
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B7%5D
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B6%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.99:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B9%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B3%5D
+hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?upmbps=10&type=tcp&downmbps=50&nonce=e98RZ2Wn&_t=227da4f0&sni=css.rbxcdn.com#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5B1%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B5%5D
+vmess://eyJhZGQiOiIxMDQuMjEuNy4xMzMiLCJhaWQiOjAsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0Ijo4MCwicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFsxODhdIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B151%5D
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B11%5D
-vmess://eyJhZGQiOiIxMDQuMjEuNy4xMzMiLCJhaWQiOjAsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0Ijo4MCwicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFsxOTBdIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
