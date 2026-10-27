@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 27.10.2026 20:57)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 27.10.2026 22:03)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1472 | Пинг: 92 | >300KB/s: 51 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
+# 📊 Stats: Вход: 1478 | Пинг: 118 | >300KB/s: 63 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
 
-trojan://humanity@172.66.40.99:443?path=/assignment&security=tls&alpn=http/1.1&host=www.trusteeforward.com&type=ws&sni=www.trusteeforward.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B57%5D
-trojan://mitivpn@199.232.78.160:443?host=mitivpn-mitivpn.ac.ir&path=/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/NLSus---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1&security=tls&type=ws&fp=firefox&sni=community.fastly.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B14%5D
-trojan://mitivpn@151.101.36.244:443?alpn=http/1.1&host=mitivpn-mitivpn.ac.ir&path=/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/NLSus---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1&security=tls&type=ws&fp=chrome&sni=ns2.firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B46%5D
-trojan://mitivpn@167.82.64.46:443?type=ws&host=mitivpn-mitivpn.ac.ir&path=/%3FDailyConfigs--DailyConfigs--DailyConfigs&security=tls&fp=chrome&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=http/1.1&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B101%5D
-vless://94fb33dc-1e6d-4820-9dd6-bde226dfa0fe@chat.gpt.prem-ai.shop:443?security=tls&alpn=http/1.1&type=ws&path=/gateway/v1/ws/791f9a4d19f715c2ffaedfbaf99d88bd&fp=chrome&sni=chat.gpt.prem-ai.shop#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B42%5D
-trojan://mitivpn@199.232.9.244:443?alpn=http/1.1&host=mitivpn-mitivpn.ac.ir&path=/%E2%80%94%40MiTiVPN%E2%80%94%40MiTiVPN/%E2%80%94%40MiTiVPN%E2%80%94%40MiTiVPN/%E2%80%94%40MiTiVPN%E2%80%94%40MiTiVPN/NLSus%E2%80%94%40MiTiVPN%E2%80%94%40MiTiVPN/%E2%80%94%40MiTiVPN%E2%80%94%40MiTiVPN/%E2%80%94%40MiTiVPN%E2%80%94%40MiTiVPN&security=tls&type=ws&fp=chrome&sni=ns1.firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B45%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B8%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dktOdWRWLU44QVVDcnlrUGl5em5B@87.236.166.215:56134#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B12%5D
+trojan://humanity@8.6.112.206:443?path=/assignment&security=tls&alpn=http/1.1&host=www.trusteeforward.com&fp=chrome&type=ws&sni=www.trusteeforward.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B96%5D
+trojan://mitivpn@199.232.9.244:443?alpn=http/1.1&host=mitivpn-mitivpn.ac.ir&path=/%E2%80%94%40MiTiVPN%E2%80%94%40MiTiVPN/%E2%80%94%40MiTiVPN%E2%80%94%40MiTiVPN/%E2%80%94%40MiTiVPN%E2%80%94%40MiTiVPN/NLSus%E2%80%94%40MiTiVPN%E2%80%94%40MiTiVPN/%E2%80%94%40MiTiVPN%E2%80%94%40MiTiVPN/%E2%80%94%40MiTiVPN%E2%80%94%40MiTiVPN&security=tls&type=ws&fp=ios&sni=ns1.firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B51%5D
+trojan://mitivpn@199.232.78.160:443?host=mitivpn-mitivpn.ac.ir&path=/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/NLSus---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1&security=tls&type=ws&fp=chrome&sni=community.fastly.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B8%5D
+trojan://humanity@172.66.40.99:443?path=/assignment&security=tls&alpn=http/1.1&host=www.trusteeforward.com&fp=chrome&type=ws&sni=www.trusteeforward.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B55%5D
+trojan://mitivpn@151.101.36.244:443?alpn=http/1.1&host=mitivpn-mitivpn.ac.ir&path=/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/NLSus---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1&security=tls&type=ws&fp=chrome&sni=ns2.firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B45%5D
+trojan://mitivpn@167.82.64.46:443?alpn=http/1.1&fp=chrome&security=tls&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=ws&host=mitivpn-mitivpn.ac.ir&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B104%5D
 trojan://humanity@104.18.45.38:443?path=/assignment&security=tls&alpn=http/1.1&host=www.trusteeforward.com&type=ws&sni=www.trusteeforward.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B39%5D
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B147%5D
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B148%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.99:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B10%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dktOdWRWLU44QVVDcnlrUGl5em5B@185.80.196.70:56134#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B17%5D
-vless://4a270d3e-27b4-497d-8c8c-28f1f54958d9@83.147.14.168:9443?security=reality&flow=xtls-rprx-vision&pbk=0hIFPaEn4RdFib8_eP8HYxMywR5izEwM3JA2W1Zo8U4&sid=b390142456517acc&fp=chrome&type=tcp&headerType=none&host=www.amazon.com&path=/&sni=www.amazon.com#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%5B1%5D
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&host=www.trusteeforward.com&fp=chrome&type=ws&sni=www.trusteeforward.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B76%5D
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B167%5D
+trojan://humanity@104.18.37.127:443?path=/assignment&security=tls&host=www.trusteeforward.com&type=ws&fp=chrome&sni=www.trusteeforward.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B37%5D
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:443?encryption=none&host=xsru2.freeddns.org&path=/wsru&security=tls&type=ws&fp=chrome&sni=xsru2.freeddns.org#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B33%5D
+vless://f9613819-d2fe-4b3a-a2e6-40c184c6854c@194.87.143.165:8443?encryption=none&type=ws&path=/&security=tls&fp=chrome&sni=wsru1.wba-pn.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B41%5D
+hysteria2://41edb44c8e@103.88.243.142:11592?security=tls&sni=srv-17e124.21freedom.net#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B53%5D
+hysteria2://8d18449d-e60d-40e1-b100-0468f1c2035b@media.embrofree.org:443/?hop_interval=10&sni=media.embrofree.org#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B8%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B9%5D
+vless://6aed42ba-cd2d-4671-87d9-c949b6876888@171.22.119.74:8447?security=none&headerType=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B9%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B8%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B3%5D
