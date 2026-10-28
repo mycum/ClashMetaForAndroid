@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 28.10.2026 15:39)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 28.10.2026 16:45)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1494 | Пинг: 92 | >300KB/s: 58 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
+# 📊 Stats: Вход: 1468 | Пинг: 105 | >300KB/s: 50 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
 
+trojan://humanity@8.6.112.206:443?path=/assignment&security=tls&alpn=http/1.1&host=www.trusteeforward.com&fp=chrome&type=ws&sni=www.trusteeforward.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B94%5D
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&host=www.trusteeforward.com&type=ws&fp=chrome&sni=www.trusteeforward.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B29%5D
 trojan://humanity@45.128.76.242:443?path=/assignment&security=tls&host=www.trusteeforward.com&type=ws&sni=www.trusteeforward.com&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B25%5D
-trojan://humanity@104.18.37.127:443?path=/assignment&security=tls&alpn=http/1.1&host=www.trusteeforward.com&fp=chrome&type=ws&sni=www.trusteeforward.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B42%5D
-trojan://humanity@104.18.45.38:443?path=/assignment&security=tls&alpn=http/1.1&host=www.trusteeforward.com&type=ws&sni=www.trusteeforward.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B46%5D
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&host=www.trusteeforward.com&type=ws&sni=www.trusteeforward.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B27%5D
-trojan://humanity@172.66.40.99:443?path=/assignment&security=tls&alpn=http/1.1&host=www.trusteeforward.com&fp=chrome&type=ws&sni=www.trusteeforward.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B68%5D
-trojan://humanity@8.6.112.206:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&host=www.trusteeforward.com&fp=chrome&type=ws&sni=www.trusteeforward.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B100%5D
-vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@83.147.18.75:443?security=reality&encryption=none&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sid=7f1e29593aa94ad1&sni=www.bing.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B19%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B9%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B8%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.99:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B10%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B12%5D
+trojan://humanity@104.18.45.38:443?path=/assignment&security=tls&alpn=http/1.1&host=www.trusteeforward.com&type=ws&sni=www.trusteeforward.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B48%5D
+trojan://humanity@104.18.37.127:443?path=/assignment&security=tls&host=www.trusteeforward.com&type=ws&sni=www.trusteeforward.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B45%5D
+trojan://humanity@172.66.40.99:443?path=/assignment&security=tls&alpn=http/1.1&host=www.trusteeforward.com&fp=chrome&type=ws&sni=www.trusteeforward.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B70%5D
+vmess://eyJhZGQiOiIxMDQuMTcuMTQ3LjIyMiIsImFpZCI6MCwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii93cyIsInBvcnQiOjgwLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBDYW5hZGEgWzE0Nl0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B5%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B1%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B3%5D
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B6%5D
-vmess://eyJhZGQiOiIxNzIuNjcuMTg3LjE0NSIsImFpZCI6MCwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii93cyIsInBvcnQiOjgwLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBDYW5hZGEgWzE0Nl0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.99:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B10%5D
+vmess://eyJhZGQiOiIxNzIuNjQuMjI5LjIxIiwiYWlkIjowLCJhbHBuIjoibnVsbCIsImZwIjoiY2hyb21lIiwiaG9zdCI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii93cyIsInBjcyI6IiIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFsxMzNdIiwic2N5IjoiYXV0byIsInNuaSI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B3%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B8%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B12%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B9%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B1%5D
