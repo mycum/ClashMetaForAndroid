@@ -1,36 +1,36 @@
-# profile-title: 📦 Telegood Sing-box (ТОП-32 от 28.10.2026 10:07)
+# profile-title: 📦 Telegood Sing-box (ТОП-32 от 28.10.2026 11:14)
 # 🛡️ Verified Sing-box Legacy: 32
-# 📊 Stats: Вход: 1734 | Пинг: 151 | >300KB/s: 105 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
+# 📊 Stats: Вход: 1666 | Пинг: 137 | >300KB/s: 84 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
 
-trojan://humanity@104.18.45.38:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&fp=chrome&sni=www.trusteeforward.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B45%5D
-trojan://humanity@8.6.112.206:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=chrome&type=ws&allowInsecure=0&sni=www.trusteeforward.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B132%5D
-trojan://humanity@104.18.37.127:443?path=/assignment&security=tls&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B40%5D
-trojan://humanity@45.128.76.242:443?path=/assignment&security=tls&host=www.trusteeforward.com&type=ws&sni=www.trusteeforward.com&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B42%5D
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B26%5D
-vless://073b7df7-5527-45a2-ba29-183b85c39071@194.55.239.89:443?alpn=http/1.1&headerType=none&host=broadcast.liveflow.space&path=/live.stream.v1.Broadcast/&security=tls&type=ws&fp=safari&sni=broadcast.liveflow.space#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B30%5D
-vless://5940086d-3158-464a-9abd-95ade1482140@91.197.98.94:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&pbk=uEAZ8LNf1nlIhGncag8NmLxbxmJamQx2eiX3SKTnxWs&sid=12934b0bcd48eee6&sni=ads.x5.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B7%5D
-trojan://humanity@172.66.40.99:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=chrome&type=ws&allowInsecure=0&sni=www.trusteeforward.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B64%5D
-vless://bbe37c75-d097-4b72-a074-445a56fe3969@77.90.46.10:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&security=reality&sid=50&type=tcp&sni=la.cdn-tech-images.com#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B1%5D
-vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@83.147.18.75:443?security=reality&encryption=none&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sid=7f1e29593aa94ad1&sni=www.bing.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B20%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMekVlTGoyT1AwRFFtcFBEdFZUYXpkR0MwY0hjVDBLbg@dns22.m3hrzd.ir:1349#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B64%5D
-vless://9420ba04-6647-4c95-96f1-a9e094b922ed@de8ddk.vault-connect.online:443?security=reality&encryption=none&pbk=570bJ-qVwDZinvel-Vj3tDk3-iExm3KdnT-nGT3TbXI&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sid=cfdb5828734a&sni=de8ddk.vault-connect.online#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B1%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B9%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.166:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.discovergreatjobsandadvanceyourcareer.com&fp=chrome#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B7%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B7%5D
+trojan://humanity@8.6.112.206:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=chrome&type=ws&allowInsecure=0&sni=www.trusteeforward.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B131%5D
+trojan://humanity@45.128.76.242:443?path=/assignment&security=tls&host=www.trusteeforward.com&type=ws&sni=www.trusteeforward.com&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B27%5D
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&fp=chrome&sni=www.trusteeforward.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B29%5D
+trojan://humanity@104.18.45.38:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B47%5D
+trojan://humanity@104.18.37.127:443?path=/assignment&security=tls&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B43%5D
+trojan://humanity@172.66.40.99:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=chrome&type=ws&allowInsecure=0&sni=www.trusteeforward.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B67%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMekVlTGoyT1AwRFFtcFBEdFZUYXpkR0MwY0hjVDBLbg@dns22.m3hrzd.ir:1354#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B53%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B4%5D
+vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@83.147.18.75:443?security=reality&encryption=none&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sid=7f1e29593aa94ad1&sni=www.bing.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B19%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B10%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B5%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.166:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.discovergreatjobsandadvanceyourcareer.com&fp=chrome#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B8%5D
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.131:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.discovergreatjobsandadvanceyourcareer.com&fp=chrome#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B6%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B8%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B10%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B3%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B6%5D
+vmess://eyJhZGQiOiIxMDQuMTcuMTQ3LjIyMiIsImFpZCI6MCwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii93cyIsInBvcnQiOjgwLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBDYW5hZGEgWzE0Nl0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B1%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B3%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B6%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B9%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoVFRnN2x3UU16cGFGN0tYcFkzQTh3@alb.rvpn.app:8388#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B1%5D
-vless://f7274516-0050-4544-9462-0f1ca689db54@myschoolonline.cvedcmimikal.space:8843?mode=gun&security=reality&encryption=none&authority=myschoolonline.cvedcmimikal.space&pbk=XD-GOGR9K3rGRCfpytDaJZmtXOr7ZO6OdczpjUE0Dh8&fp=chrome&type=grpc&serviceName=46205b&sid=a4f8c92d&sni=myschoolonline.cvedcmimikal.space#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B1%5D
-vmess://eyJhZGQiOiIxMDQuMTcuMTQ3LjIyMiIsImFpZCI6MCwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii93cyIsInBvcnQiOjgwLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBDYW5hZGEgWzE0NV0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.searchnationwidecareerchangehelperandguidancetoday.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B93%5D
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B173%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B7%5D
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B192%5D
 vmess://eyJhZGQiOiIxNzIuNjQuMjI5LjIxIiwiYWlkIjowLCJhbHBuIjoibnVsbCIsImZwIjoiY2hyb21lIiwiaG9zdCI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii93cyIsInBjcyI6IiIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFsxMzddIiwic2N5IjoiYXV0byIsInNuaSI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.6:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B195%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.nextjobopportunityandclaimyouridealrole.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B77%5D
-vless://264bee07-e004-41c7-812f-aaf2daaad2c9@my.wawojk.dpdns.org:8443?flow=xtls-rprx-vision&fp=chrome&pbk=akVbcyv-ypq-YT4-bsi_ts85pkDwhAIapn5bCb_hj28&security=reality&sid=85f609aa0f0bead8&type=tcp&sni=www.asus.com#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20%5B4%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.212:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.healthcarejobshubenhancemedicalprofessionalskillstoday.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B79%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.42:443?allowInsecure=1&sni=blog.healthcarejobshubenhancemedicalprofessionalskillstoday.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B80%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.65:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.healthcarejobshubenhancemedicalprofessionalskillstoday.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B81%5D
+vmess://eyJhZGQiOiIxNzIuNjcuMTg3LjE0NSIsImFpZCI6MCwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii93cyIsInBvcnQiOjgwLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBDYW5hZGEgWzVdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.6:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B193%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.nextjobopportunityandclaimyouridealrole.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B72%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.59:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.nextjobopportunityandclaimyouridealrole.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B74%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.113:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.searchnationwidecareerchangehelperandguidancetoday.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B91%5D
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B200%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.212:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.healthcarejobshubenhancemedicalprofessionalskillstoday.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B75%5D
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.168:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B203%5D
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B191%5D
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B202%5D
