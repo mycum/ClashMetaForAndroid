@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 29.10.2026 10:21)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 29.10.2026 13:31)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1211 | Пинг: 96 | >300KB/s: 75 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
+# 📊 Stats: Вход: 1106 | Пинг: 78 | >300KB/s: 51 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
 
-vless://ddc27ad2-631e-4431-b380-0045547acef4@82.202.157.123:5002?flow=&type=ws&host=br1.centermass.net&path=/media.playback.v1.SessionGateway&security=tls&alpn=http/1.1&echfq=none&fp=edge&sni=br1.centermass.net#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B28%5D
-trojan://UAKWGor-h0woFsxKSWK92HptcM0g2k2h@176.114.95.242:443?security=tls&fp=ios&sni=lt-1.1984.love#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B12%5D
-trojan://MiTiVPN@199.232.78.120:443?alpn=http/1.1&host=mitivpn--mitivpn.ac.ir&path=/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/NLSus---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1&security=tls&type=ws&fp=chrome&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B65%5D
-vless://34ec30ca-c499-46c5-a0b9-20638e5197e9@185.86.145.37:443?security=tls&type=ws&path=/amws&host=pulse-resume.pro&fp=safari&sni=pulse-resume.pro#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B24%5D
-trojan://MiTiVPN@151.101.36.120:443?alpn=http/1.1&host=mitivpn--mitivpn.ac.ir&path=/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/NLSus---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1&security=tls&type=ws&fp=chrome&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B67%5D
-trojan://MiTiVPN@146.75.57.120:443?alpn=http/1.1&host=mitivpn--mitivpn.ac.ir&path=/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/NLSus---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1&security=tls&type=ws&fp=chrome&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B69%5D
-vless://d9833bab-0a4d-4ebf-9d80-1f6ab04f3964@185.229.9.135:443?security=tls&type=ws&path=/chws&host=app.lesotorg-kirov.ru&fp=chrome&sni=app.lesotorg-kirov.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B34%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.26:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B91%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B72%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B77%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B89%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.178:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B68%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B93%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B70%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B76%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B62%5D
+trojan://MiTiVPN@151.101.36.120:443?alpn=http/1.1&host=mitivpn--mitivpn.ac.ir&path=/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/NLSus---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1&security=tls&type=ws&fp=chrome&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B39%5D
+trojan://MiTiVPN@146.75.57.120:443?alpn=http/1.1&host=mitivpn--mitivpn.ac.ir&path=/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/NLSus---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1&security=tls&type=ws&fp=chrome&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B32%5D
+trojan://MiTiVPN@199.232.78.120:443?alpn=http/1.1&host=mitivpn--mitivpn.ac.ir&path=/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/NLSus---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1&security=tls&type=ws&fp=ios&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B36%5D
+trojan://MiTiVPN@167.82.64.120:443?alpn=http/1.1&host=mitivpn--mitivpn.ac.ir&path=/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/NLSus---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1&security=tls&type=ws&fp=firefox&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B38%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.178:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B53%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B50%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.182:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B56%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B49%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B61%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.220:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B67%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.171:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B180%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B57%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B72%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B68%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B62%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.219:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B66%5D
