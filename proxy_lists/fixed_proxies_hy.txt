@@ -1,36 +1,36 @@
-# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 31.10.2026 05:49)
+# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 31.10.2026 06:51)
 # 🛡️ Verified Sing-box Elite: 32
-# 📊 Stats: Вход: 1100 | Пинг: 100 | >300KB/s: 68 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
+# 📊 Stats: Вход: 1095 | Пинг: 109 | >300KB/s: 85 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
 
-vless://7a0348d6-55d3-4c23-b22f-6277fcb2264c@178.236.26.179:8475?security=reality&encryption=none&pbk=utnaPfWs-8DrJIP5p0gaQ9ix9VfRvUvoR1ZSE25uTWY&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=10aff1a6&sni=addons.mozilla.org#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B36%5D
-vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443?encryption=none&security=tls&type=tcp&fp=firefox&sni=hvtlr-ru-47sb.fade.mom#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B52%5D
-trojan://MiTiVPN@146.75.57.120:443?allowInsecure=1&alpn=http/1.1&host=mitivpn--mitivpn.ac.ir&path=/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/NLSus---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1&security=tls&type=ws&fp=firefox&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B18%5D
-trojan://MiTiVPN@199.232.78.120:443?allowInsecure=1&alpn=http/1.1&host=mitivpn--mitivpn.ac.ir&path=/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/NLSus---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1&security=tls&type=ws&fp=firefox&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B25%5D
-trojan://MiTiVPN@167.82.64.120:443?allowInsecure=1&alpn=http/1.1&host=mitivpn--mitivpn.ac.ir&path=/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/NLSus---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1&security=tls&type=ws&fp=safari&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B23%5D
-trojan://MiTiVPN@151.101.36.120:443?allowInsecure=1&alpn=http/1.1&host=mitivpn--mitivpn.ac.ir&path=/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/NLSus---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1&security=tls&type=ws&fp=firefox&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B20%5D
-vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@84.38.184.126:2089?encryption=none&pbk=4Ba7EKm90gUC57U-0WtkSVXgmeLzR9TG5Qw3dqgjbDQ&security=reality&serviceName=cas-fi&sid=c1db0a1b&type=grpc&fp=ios&sni=s3.storage.selcloud.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B1%5D
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.21:9443?insecure=1&sni=onecloudstream.com#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B3%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B47%5D
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.142:9443?insecure=1&sni=onecloudstream.com#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B2%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.220:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B49%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B42%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B46%5D
-vless://7a0348d6-55d3-4c23-b22f-6277fcb2264c@185.225.205.53:443?security=reality&encryption=none&pbk=2XyUS3_ONl5REQ7NiwikdJphAe7oJ61-21zuqnN67y8&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=2e82d7ac&sni=addons.mozilla.org#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B2%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B177%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B32%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.178:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B38%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B40%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B43%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.54:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B178%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B33%5D
-vless://8f763a7f-4cda-4db1-90e3-9aeae0860dc0@business.lesotorg-kirov.ru:443?path=/chws&security=tls&encryption=none&insecure=0&host=business.lesotorg-kirov.ru&type=ws&allowInsecure=0&sni=business.lesotorg-kirov.ru&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B56%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B36%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B53%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B44%5D
-hysteria2://2bc6428196efb899f544d750bea0c06d@promo2.betust.net:443?security=tls&alpn=h3&insecure=0&sni=promo2.betust.net#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B1%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B37%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B6%5D
+vless://ba895ce4-8c24-0003-9f22-81ee227c89d0@45.12.5.171:443?type=raw&security=reality&flow=xtls-rprx-vision&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&sid=a73cf719b624&fp=safari&sni=ru9.aimodelhub.top#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B39%5D
+vless://8f763a7f-4cda-4db1-90e3-9aeae0860dc0@business.lesotorg-kirov.ru:443?path=/chws&security=tls&encryption=none&insecure=0&host=business.lesotorg-kirov.ru&type=ws&allowInsecure=0&fp=safari&sni=business.lesotorg-kirov.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B43%5D
+vless://07680ffb-0666-4836-b6ad-ec0de62bc38f@app-mi-26.spbstudentlife.com:443?security=reality&encryption=none&pbk=cYtAkO6yUCuRTxHvF8EH76bybk1yfS005KLls-at2yc&headerType=none&type=tcp&flow=xtls-rprx-vision&sid=a7856800c2deb7b2&fp=chrome&sni=assets-mi-26.spbstudentlife.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B36%5D
+vless://07680ffb-0666-4836-b6ad-ec0de62bc38f@app-ms-90.next-gen-shopping.com:443?security=reality&encryption=none&pbk=HA8RX24k72lyACy0T1mCDeYcUQh22XRlT4wuhj3Onl4&headerType=none&type=tcp&flow=xtls-rprx-vision&sid=36b707a341db758d&fp=chrome&sni=assets-ms-90.next-gen-shopping.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B26%5D
+vless://07680ffb-0666-4836-b6ad-ec0de62bc38f@app-twr-83.statsmarket-wb.com:443?security=reality&encryption=none&pbk=NcboMSfllc9UV7YVPZZCAU2bObHCmYYvbsxpgh5u51c&headerType=none&type=tcp&flow=xtls-rprx-vision&sid=1bd6c0cd25d0b832&fp=chrome&sni=assets-twr-83.statsmarket-wb.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B22%5D
+trojan://MiTiVPN@199.232.78.120:443?allowInsecure=1&alpn=http/1.1&host=mitivpn--mitivpn.ac.ir&path=/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/NLSus---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1&security=tls&type=ws&fp=firefox&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B31%5D
+trojan://MiTiVPN@151.101.36.120:443?allowInsecure=1&alpn=http/1.1&host=mitivpn--mitivpn.ac.ir&path=/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/NLSus---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1&security=tls&type=ws&fp=firefox&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B33%5D
+trojan://MiTiVPN@146.75.57.120:443?allowInsecure=1&alpn=http/1.1&fp=chrome&host=mitivpn--mitivpn.ac.ir&path=/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/NLSus---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1&security=tls&type=ws&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B24%5D
+vless://07680ffb-0666-4836-b6ad-ec0de62bc38f@app-tw-131.ecom-ai-solutions.com:443?encryption=none&flow=xtls-rprx-vision&pbk=RIUz-mLSh5USmpPw1uHkOLlJOlgOeNjTUyp4HEvE020&security=reality&sid=c17d00c501c75fde&type=tcp&fp=chrome&sni=assets-tw-131.ecom-ai-solutions.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B20%5D
+trojan://MiTiVPN@167.82.64.120:443?allowInsecure=1&alpn=http/1.1&host=mitivpn--mitivpn.ac.ir&path=/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/NLSus---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1&security=tls&type=ws&fp=safari&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B26%5D
+vless://706bce83-91db-4260-b175-cba29145cd56@87.242.94.84:443?security=tls&alpn=http/1.1&type=ws&path=/checkout/step/gplirAP9szjx&host=lingvaburo.cc&fp=firefox&sni=lingvaburo.cc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B28%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.54:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B171%5D
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@fl3.nexfile.net:4444?security=tls&alpn=h3&insecure=0&sni=fl3.nexfile.net#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B1%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B9%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B34%5D
+hysteria2://69e41e64-a832-471a-b740-94577ca85520@forshynewh.duckdns.org:443?security=tls&alpn=h3&insecure=0&sni=forshynewh.duckdns.org#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B13%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.180:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B33%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B25%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B30%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B31%5D
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.21:9443?insecure=1&sni=onecloudstream.com#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B3%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B28%5D
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.142:9443?insecure=1&sni=onecloudstream.com#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B2%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B38%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B45%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B40%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B46%5D
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@8.211.196.252:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B4%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.178:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B32%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B41%5D
+vmess://eyJhZGQiOiJvY3RwdXMxLmdzbW9ubGluZS5pciIsImFpZCI6MCwiaG9zdCI6InNuYXBwLmlyIiwiaWQiOiJmMzNkMTAyNi1jZTNiLTQxNzUtOWY4MS1mZWI1MjJmY2ZlZjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODA4MCwicHMiOiJcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZjcgVHVya2V5IFsxXSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwiYWxwbiI6IiIsImZwIjoiIn0=#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5B1%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B36%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B37%5D
+vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@5.1.40.6:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&type=ws&sni=speedtestmark.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B9%5D
