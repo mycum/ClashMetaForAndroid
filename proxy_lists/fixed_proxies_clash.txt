@@ -1,31 +1,36 @@
-# profile-title: 🚀 Telegood Clash (ТОП-32 от 01.11.2026 01:24)
-# 🛡️ Verified Clash Elite: 27
-# 📊 Stats: Вход: 1022 | Пинг: 74 | >300KB/s: 27 | SB-Old: 26 | SB-HY: 26 | Clash: 27 | iOS: 16
+# profile-title: 🚀 Telegood Clash (ТОП-32 от 01.11.2026 02:25)
+# 🛡️ Verified Clash Elite: 32
+# 📊 Stats: Вход: 1101 | Пинг: 85 | >300KB/s: 42 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B28%5D
-ss://chacha20-ietf-poly1305:k1dBOmOB4oqi7Ump37a1bQ@82.38.31.185:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B20%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B131%5D
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B32%5D
-ss://chacha20-ietf-poly1305:oZIoA69Q8yhcQV8ka3Pa3A@82.38.31.7:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B26%5D
-ss://chacha20-ietf-poly1305:oZIoA69Q8yhcQV8ka3Pa3A@82.38.31.174:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B25%5D
+vless://36592d47-b9f5-4e8f-949e-45ac05472aab@news.zoom.us:2083?path=/&security=tls&encryption=none&host=site.check-looks.space&type=ws&sni=site.check-looks.space&allowInsecure=0&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B9%5D
+ss://chacha20-ietf-poly1305:oZIoA69Q8yhcQV8ka3Pa3A@82.38.31.149:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B45%5D
+ss://chacha20-ietf-poly1305:k1dBOmOB4oqi7Ump37a1bQ@82.38.31.185:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B41%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B152%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B153%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B52%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B48%5D
+ss://chacha20-ietf-poly1305:oZIoA69Q8yhcQV8ka3Pa3A@82.38.31.7:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B47%5D
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B54%5D
+trojan://humanity@87.236.146.111:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=/assignment#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B2%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoTmZlTENOM1h6WWdMRlNBV29fZnhPbDRIQzFnTncwVg@185.4.115.146:8044#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B37%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B53%5D
+ss://chacha20-ietf-poly1305:oZIoA69Q8yhcQV8ka3Pa3A@82.38.31.174:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B46%5D
+trojan://humanity@83.228.199.3:443?security=tls&insecure=1&allowInsecure=1&type=ws&path=/assignment&sni=www.cordweave.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B4%5D
+trojan://humanity@138.124.231.159:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=/assignment#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B7%5D
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B3%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B132%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B130%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B30%5D
-ss://chacha20-ietf-poly1305:k1dBOmOB4oqi7Ump37a1bQ@82.38.31.195:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B21%5D
-trojan://humanity@87.236.146.111:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=/assignment#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B1%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B31%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoTmZlTENOM1h6WWdMRlNBV29fZnhPbDRIQzFnTncwVg@dns24.m3hrzd.ir:8044#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B18%5D
-trojan://humanity@5.253.29.83:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=/assignment#%F0%9F%87%AE%F0%9F%87%B3%20India%20%5B1%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B134%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoTmZlTENOM1h6WWdMRlNBV29fZnhPbDRIQzFnTncwVg@dns27.m3hrzd.ir:8044#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B19%5D
+vless://8fa83828-9777-4a5b-a951-60a4523f3e3d@77.239.108.17:443?security=tls&sni=k7m2qa.kolombur24.website&type=ws&path=/ws&host=k7m2qa.kolombur24.website&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B2%5D
+vmess://eyJhZGQiOiI5My4xNTcuMTM4LjEzNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI3OGM4YWIxNy04MTRlLTRjMTAtYTY0Mi1mNjE2YzliZTk3OWQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjExMjUiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVbml0ZWQgU3RhdGVzIFsxMl0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B154%5D
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.54.59.102:443#%F0%9F%87%AA%F0%9F%87%AC%20Egypt%20%5B1%5D
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.104.107.41:8090#%F0%9F%87%A8%F0%9F%87%B4%20Colombia%20%5B1%5D
-trojan://humanity@179.255.136.189:443?security=tls&insecure=1&allowInsecure=1&type=ws&path=/assignment&sni=www.cordweave.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B21%5D
-trojan://humanity@83.228.199.3:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=/assignment#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B1%5D
-trojan://humanity@179.255.127.45:443?security=tls&insecure=1&allowInsecure=1&type=ws&path=/assignment&fp=chrome&sni=www.cordweave.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B19%5D
-trojan://humanity@82.118.18.179:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=/assignment#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%5B1%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoTmZlTENOM1h6WWdMRlNBV29fZnhPbDRIQzFnTncwVg@185.4.115.147:8044#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B17%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B29%5D
-trojan://humanity@5.253.29.83:443?security=tls&insecure=1&allowInsecure=1&type=ws&path=/assignment&sni=www.cordweave.com&fp=chrome#%F0%9F%87%AE%F0%9F%87%B3%20India%20%5B2%5D
-trojan://humanity@179.255.136.189:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=/assignment#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B20%5D
+trojan://humanity@5.253.29.83:443?security=tls&insecure=1&allowInsecure=1&type=ws&path=/assignment&sni=www.cordweave.com&fp=chrome#%F0%9F%87%AE%F0%9F%87%B3%20India%20%5B5%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEhvbmcgS29uZyBbNDVdIiwiYWRkIjoiYXotMS5saW5rYWEueHl6IiwicG9ydCI6IjUzMTEwIiwiaWQiOiI2RTU3MTQ4NC00MTY2LTQ2OTktOEY1OC1CMzRBMTgyMzY5MUYiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJhei0xLmxpbmthYS54eXoiLCJwYXRoIjoiL2dhbWUvcmVzb3VyY2VzIiwidGxzIjoiIiwic2N5IjoiYXV0byIsInNuaSI6ImF6LTEubGlua2FhLnh5eiIsImFsbG93SW5zZWN1cmUiOnRydWUsImFscG4iOiIiLCJmcCI6IiJ9
+trojan://humanity@130.12.46.156:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=/assignment#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B33%5D
+trojan://humanity@199.119.137.32:8443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=/assignment#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B49%5D
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.79:8388#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B49%5D
+vmess://eyJhZGQiOiIxNDIuMTcxLjQ4LjE3OSIsImFpZCI6IjAiLCJob3N0IjoiZ3cuYWxpY2RuLmNvbSIsImlkIjoiYTAxODFjYjMtZmNjNS00YTBhLTllNzEtZGI5NDNhMjMwOWZhIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyODE2NyIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMgWzEzXSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwiYWxwbiI6IiIsImZwIjoiIn0=
+trojan://humanity@179.255.127.45:443?security=tls&insecure=1&allowInsecure=1&type=ws&path=/assignment&fp=chrome&sni=www.cordweave.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B44%5D
+trojan://humanity@103.69.128.221:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=/assignment#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B48%5D
+trojan://humanity@193.17.183.48:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=/assignment#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B1%5D
+hysteria2://8bb68d04-6973-11ee-b518-f23c9164ca5d@558afe74-tmeqo0-tpv2b9-1o8ak.nw4.hyhuawei.com:443?insecure=1&sni=558afe74-tmeqo0-tpv2b9-1o8ak.nw4.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B29%5D
+trojan://humanity@179.255.136.189:443?security=tls&insecure=1&allowInsecure=1&type=ws&path=/assignment&fp=chrome&sni=www.cordweave.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B47%5D
+hysteria2://633bc3be486b646190661ac2387c150a@152.67.115.203:443?insecure=1&obfs=salamander&obfs-password=850a3fb1cd33a28f12d837578ae1a2e7&sni=www.bing.com#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20%5B2%5D
