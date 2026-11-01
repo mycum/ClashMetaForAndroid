@@ -1,28 +1,21 @@
-# profile-title: 📦 Telegood Sing-box (ТОП-32 от 01.11.2026 18:12)
-# 🛡️ Verified Sing-box Legacy: 24
-# 📊 Stats: Вход: 1114 | Пинг: 74 | >300KB/s: 38 | SB-Old: 24 | SB-HY: 32 | Clash: 32 | iOS: 16
+# profile-title: 📦 Telegood Sing-box (ТОП-32 от 01.11.2026 19:13)
+# 🛡️ Verified Sing-box Legacy: 17
+# 📊 Stats: Вход: 1161 | Пинг: 48 | >300KB/s: 31 | SB-Old: 17 | SB-HY: 30 | Clash: 31 | iOS: 16
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B34%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B32%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B31%5D
-vless://9ec97e03-5e0b-4feb-b6f2-1c377977e471@140.225.209.180:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&type=ws&sni=speedtestmark.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B1%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B36%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B27%5D
-vless://85fe968d-fbb5-40dc-8422-30635eccb149@c20s5.portablesubmarines.com:443?security=reality&encryption=none&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sid=051f20c2344a2dfd&sni=portal.citygrainla.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B2%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B33%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.54:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B38%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B30%5D
-trojan://humanity@103.69.128.221:443?security=tls&insecure=1&allowInsecure=1&type=ws&path=/assignment&sni=www.cordweave.com&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B4%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B33%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B38%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B43%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.54:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B44%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B36%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B39%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B40%5D
+vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?host=www.chip.de&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&security=reality&sid=23732d14a527990d&type=tcp&fp=chrome&sni=www.chip.de#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B1%5D
+vless://6ba4ed2e-b42b-4880-8b3b-c7e2df2d02f6@se3.shtil.io:443?encryption=none&security=tls&alpn=h2,http/1.1&fp=firefox&type=tcp&sni=se3.shtil.io#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B1%5D
+trojan://humanity@103.69.128.221:443?security=tls&insecure=1&allowInsecure=1&type=ws&path=/assignment&fp=chrome&sni=www.cordweave.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B7%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B37%5D
+trojan://humanity@31.130.152.102:443?security=tls&type=ws&path=/assignment&sni=www.cordweave.com&fp=chrome#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%5B1%5D
 trojan://humanity@76.13.188.13:8443?security=tls&fp=firefox&type=ws&path=/assignment&host=www.cordweave.com&sni=www.cordweave.com#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20%5B1%5D
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@130.94.69.15:7001#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20%5B6%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIFRhaXdhbiBbNF0iLCJhZGQiOiJtZGsubWRtZWtqbGwuYmVzdCIsInBvcnQiOjgwLCJpZCI6IjZFNTcxNDg0LTQxNjYtNDY5OS04RjU4LUIzNEExODIzNjkxRiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2dhbWUvcmVzb3VyY2VzIiwidGxzIjoiIiwiaG9zdCI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
-vless://75b517db-1f97-4bda-a479-863d988c31a0@5.1.40.60:2083?security=tls&alpn=http/1.1&fp=firefox&type=ws&path=/vless-ws&sni=speedtestmark.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B20%5D
-trojan://humanity@103.219.195.65:443?security=tls&insecure=1&allowInsecure=1&type=ws&path=/assignment&fp=chrome&sni=www.cordweave.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B3%5D
-vless://85fe968d-fbb5-40dc-8422-30635eccb149@c20s5.portablesubmarines.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&fp=chrome&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&type=tcp&headerType=none&host=portal.citygrainla.com&sni=portal.citygrainla.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B1%5D
-trojan://humanity@103.69.128.221:443?security=tls&insecure=1&allowInsecure=1&type=ws&path=/assignment&fp=chrome&sni=www.cordweave.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B5%5D
-trojan://humanity@76.13.188.13:8443?security=tls&type=ws&path=/assignment&host=www.cordweave.com&fp=chrome&sni=www.cordweave.com#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20%5B4%5D
-vless://85fe968d-fbb5-40dc-8422-30635eccb149@c20s5.portablesubmarines.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=reality&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&packetEncoding=xudp&sni=portal.citygrainla.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B3%5D
-trojan://humanity@76.13.188.13:8443?security=tls&type=ws&path=/assignment&host=www.cordweave.com&fp=safari&sni=www.cordweave.com#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20%5B5%5D
-vless://85fe968d-fbb5-40dc-8422-30635eccb149@c20s5.portablesubmarines.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&fp=chrome&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&type=tcp&headerType=none&host=portal.citygrainla.com&sni=portal.citygrainla.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B4%5D
-trojan://humanity@76.13.188.13:8443?security=tls&type=ws&path=/assignment&host=www.cordweave.com&fp=chrome&sni=www.cordweave.com#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20%5B3%5D
-trojan://humanity@76.13.188.13:8443?security=tls&insecure=1&allowInsecure=1&type=ws&path=/assignment&sni=www.cordweave.com&fp=chrome#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20%5B2%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIFRhaXdhbiBbNV0iLCJhZGQiOiJtZGsubWRtZWtqbGwuYmVzdCIsInBvcnQiOjgwLCJpZCI6IjZFNTcxNDg0LTQxNjYtNDY5OS04RjU4LUIzNEExODIzNjkxRiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii9nYW1lL3Jlc291cmNlcyIsImhvc3QiOiJtZGsubWRtZWtqbGwuYmVzdCIsInNuaSI6IiIsImZwIjoiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B42%5D
+vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?host=www.chip.de&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&security=reality&sid=23732d14a527990d&type=tcp&fp=random&sni=www.chip.de#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B2%5D
+trojan://humanity@103.69.128.221:443?security=tls&insecure=1&allowInsecure=1&type=ws&path=/assignment&sni=www.cordweave.com&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B6%5D
