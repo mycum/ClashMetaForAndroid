@@ -1,36 +1,36 @@
-# profile-title: 📦 Telegood Sing-box (ТОП-32 от 01.11.2026 06:35)
+# profile-title: 📦 Telegood Sing-box (ТОП-32 от 01.11.2026 07:38)
 # 🛡️ Verified Sing-box Legacy: 32
-# 📊 Stats: Вход: 1166 | Пинг: 100 | >300KB/s: 72 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
+# 📊 Stats: Вход: 1181 | Пинг: 132 | >300KB/s: 106 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
 
-vless://36592d47-b9f5-4e8f-949e-45ac05472aab@141.193.213.21:2083?security=tls&type=ws&host=site.check-looks.space&path=/&allowInsecure=0&insecure=0&sni=site.check-looks.space&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B9%5D
-vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443/?type=tcp&encryption=none&flow=&security=tls&alpn=http/1.1,h2&fp=chrome&sni=hvtlr-ru-47sb.fade.mom#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B38%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B155%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B41%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B32%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B42%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B40%5D
+vless://36592d47-b9f5-4e8f-949e-45ac05472aab@141.193.213.21:2083?security=tls&type=ws&host=site.check-looks.space&path=/&allowInsecure=0&insecure=0&fp=chrome&sni=site.check-looks.space#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B7%5D
+vless://36592d47-b9f5-4e8f-949e-45ac05472aab@news.zoom.us:2083?path=/&security=tls&encryption=none&host=site.check-looks.space&type=ws&allowInsecure=0&insecure=0&fp=ios&sni=site.check-looks.space#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B11%5D
+vless://902e7be9-d0a8-000b-994f-8320916a9d9e@45.132.178.130:443?security=reality&encryption=none&pbk=fERXyd24DZcsFqE84AHjugHha0U5H6Wdb2wCIo5kPV8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=0cabf7c24918fe72&sni=media.usicloid.my#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B50%5D
+vless://e07a6d05-f665-4811-91f0-9b3dc1094e4d@178.20.45.164:443?flow=xtls-rprx-vision&security=reality&fp=firefox&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&sid=8f3c6e2a1b5d4f09&sni=tradingview.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B26%5D
+vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@185.50.202.4:443?security=reality&encryption=none&pbk=UW2KCNPSvGsHK2UXmcFveOY17nWWo3CoCk8ydVT7A3s&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=953e2426ac9a7c0e&sni=media2.usicloid.my#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B41%5D
+vless://902e7be9-d0a8-000e-994f-8320916a9d9e@45.132.178.123:443?security=reality&encryption=none&pbk=fERXyd24DZcsFqE84AHjugHha0U5H6Wdb2wCIo5kPV8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=0cabf7c24918fe72&sni=media.usicloid.my#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B40%5D
+vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@176.108.240.123:443?security=reality&encryption=none&pbk=GCX_q_koh5w1cgh_SIV1u76B3B_lsNc5AmpzjKacnUk&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=e3962226e961ed60&sni=rf3.vkcommt.space#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B60%5D
+vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@83.166.238.173:443?security=reality&encryption=none&pbk=7VYlDCJXbPfNeDI3PGmEQc-cYg1r8CPCp4Xw4Pm4hlc&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=ce5f35fe1015d222&sni=willow.gaznw.my#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B32%5D
+vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@37.18.14.6:9447?security=reality&encryption=none&pbk=nvPp2FY7spulp6eCgHmPFJeRke_NVO9m2SReXgkCdX4&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sid=e4063089&sni=dobro.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B43%5D
+vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@217.16.31.193:443?security=reality&encryption=none&pbk=ejbzKnJoNSYWWIcDgo9Ghy-lQvjsp3QQFAGKDaFQbUo&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sid=624ed7c00c61576b&sni=hel.mtmajestic.space#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B21%5D
+vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@83.166.237.167:443?security=reality&encryption=none&pbk=oKG1EhkfIvBM6xLEk7ck51ZbjvUKDR22RNjTJR_7sTU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=46da9a2868751b85&sni=pine.gaznw.my#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B42%5D
+vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@90.156.214.92:443?security=reality&encryption=none&pbk=ejbzKnJoNSYWWIcDgo9Ghy-lQvjsp3QQFAGKDaFQbUo&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sid=624ed7c00c61576b&sni=hel.mtmajestic.space#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B22%5D
+vless://d4001352-dc64-48b8-b786-5860b284ad3d@94.183.209.182:443?security=reality&type=tcp&packetEncoding=xudp&fp=edge&flow=xtls-rprx-vision&sid=5c56a4cfea5866c0&pbk=HyVJj9KuPfDV5lOLEkMeVmYFZoFMQid6eiLC_6Yf1mQ&encryption=none&sni=steamcommunity.com#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B13%5D
+vless://6036c28a-8db2-432e-8118-ff0c16641ad0@200.169.184.168:443?security=reality&flow=xtls-rprx-vision&pbk=QnaizqXrXA0e4XihP_5Nf1z1aOOf0obBoyJ8QY_03kw&sid=9d0e1b6bf9c5eddb&fp=ios&sni=net.formatgo.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B31%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B39%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B154%5D
-trojan://humanity@130.12.46.156:443?security=tls&insecure=1&allowInsecure=1&type=ws&path=/assignment&sni=www.cordweave.com&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B22%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoTmZlTENOM1h6WWdMRlNBV29fZnhPbDRIQzFnTncwVg@dns27.m3hrzd.ir:8044#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B31%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoTmZlTENOM1h6WWdMRlNBV29fZnhPbDRIQzFnTncwVg@185.4.115.147:1352#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B27%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B38%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B35%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B44%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B34%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B37%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B156%5D
-vless://6036c28a-8db2-432e-8118-ff0c16641ad0@200.169.184.168:443?security=reality&flow=xtls-rprx-vision&pbk=2IylNqpuTBeUvd333tXWY6i0l8nkH6o5qfRVKZm6FA0&sid=e0aadc6f38ff06a8&fp=firefox&sni=tm6.24convertflow.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B19%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B4%5D
-trojan://humanity@130.78.185.4:443?security=tls&insecure=1&allowInsecure=1&type=ws&path=/assignment&fp=chrome&sni=www.cordweave.com#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%5B2%5D
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.54.59.102:443#%F0%9F%87%AA%F0%9F%87%AC%20Egypt%20%5B1%5D
-trojan://humanity@193.17.183.48:443?security=tls&insecure=1&allowInsecure=1&type=ws&path=/assignment&fp=chrome&sni=www.cordweave.com#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B2%5D
-trojan://humanity@199.119.137.32:8443?security=tls&insecure=1&allowInsecure=1&type=ws&path=/assignment&sni=www.cordweave.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B50%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbNDZdIiwiYWRkIjoiMTA0LjE3LjE0Ny4yMjIiLCJwb3J0Ijo4MCwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoiIiwiYWxwbiI6IiIsInBhdGgiOiIvd3MiLCJob3N0Ijoidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsInNuaSI6IiIsImZwIjoiIn0=
-trojan://humanity@5.253.29.83:443?security=tls&insecure=1&allowInsecure=1&type=ws&path=/assignment&sni=www.cordweave.com&fp=chrome#%F0%9F%87%AE%F0%9F%87%B3%20India%20%5B1%5D
-trojan://humanity@103.219.195.65:443?security=tls&insecure=1&allowInsecure=1&type=ws&path=/assignment&sni=www.cordweave.com&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B49%5D
-trojan://humanity@45.8.115.202:443?security=tls&insecure=1&allowInsecure=1&type=ws&path=/assignment&sni=www.cordweave.com&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B1%5D
-vmess://eyJhZGQiOiI0Ny4yNTAuMTM1LjI0NCIsImlkIjoiYWVkYzY2YjgtOTlkNy00YTIxLTgzMTAtNjE4NzBlN2Y4NzBkIiwicG9ydCI6MTAwMDAsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBzIjoiXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIE1hbGF5c2lhIFsyXSIsImFpZCI6MCwiaG9zdCI6IiIsInBhdGgiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
-trojan://humanity@45.196.235.64:443?security=tls&insecure=1&allowInsecure=1&type=ws&path=/assignment&sni=www.cordweave.com&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B55%5D
-trojan://humanity@193.134.209.165:443?security=tls&insecure=1&allowInsecure=1&type=ws&path=/assignment&fp=chrome&sni=www.cordweave.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B54%5D
-trojan://humanity@103.69.128.221:443?security=tls&insecure=1&allowInsecure=1&type=ws&path=/assignment&fp=chrome&sni=www.cordweave.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B52%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B34%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B32%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B33%5D
+vless://77755b10-51fe-4147-b89e-46ec0d6516e8@189.74.106.132:443?flow=xtls-rprx-vision&security=reality&fp=safari&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.setevoypriliv.cc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B23%5D
+vless://df7b592d-89c4-4693-86b3-c9ce76bf1d10@189.74.106.74:443?flow=xtls-rprx-vision&security=reality&fp=safari&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.setevoypriliv.cc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B25%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoTmZlTENOM1h6WWdMRlNBV29fZnhPbDRIQzFnTncwVg@dns24.m3hrzd.ir:8044#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B30%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B154%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoTmZlTENOM1h6WWdMRlNBV29fZnhPbDRIQzFnTncwVg@dns27.m3hrzd.ir:8044#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B31%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B155%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B41%5D
+trojan://humanity@130.12.46.156:443?security=tls&insecure=1&allowInsecure=1&type=ws&path=/assignment&sni=www.cordweave.com&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B22%5D
+vless://d8a47403-5dbf-4450-8640-0134719b1d86@185.229.9.135:443?security=tls&alpn=http/1.1&fp=chrome&type=ws&path=/chws&host=business.lesotorg-kirov.ru&sni=business.lesotorg-kirov.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B75%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B42%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B35%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B44%5D
