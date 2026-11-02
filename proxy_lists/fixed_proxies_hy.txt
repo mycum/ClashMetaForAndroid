@@ -1,29 +1,26 @@
-# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 03.11.2026 03:15)
-# 🛡️ Verified Sing-box Elite: 25
-# 📊 Stats: Вход: 865 | Пинг: 39 | >300KB/s: 27 | SB-Old: 22 | SB-HY: 25 | Clash: 27 | iOS: 16
+# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 03.11.2026 04:15)
+# 🛡️ Verified Sing-box Elite: 22
+# 📊 Stats: Вход: 892 | Пинг: 48 | >300KB/s: 24 | SB-Old: 17 | SB-HY: 22 | Clash: 24 | iOS: 16
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B17%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B12%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B15%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.54:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B20%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B14%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B19%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B10%5D
-vless://2bdef398-4587-4d9d-b350-992e461c9325@162.248.78.234:443?security=reality&flow=xtls-rprx-vision&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&type=tcp&headerType=none&host=portal.citygrainla.com&path=/&fp=ios&sni=portal.citygrainla.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B2%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B9%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B8%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B13%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODc4OTk4OC04ODdlLTRlNDEtODNjZC0yN2JiZmI3OTk5YWQ@xunlinknode.csdjhajkshdjkas.com:40006#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B7%5D
-trojan://6cddea99-9b18-4d42-8638-131bd9f5374f@jp1.8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net:443?security=tls&type=tcp&allowInsecure=1&fp=ios&sni=8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B159%5D
-trojan://gHQP0D7D15@104.25.239.113:2053?security=tls&type=ws&path=/&fp=chrome&sni=marvdasht.phonecomparisonblog.org#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B51%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B11%5D
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206K1NwSTZBajVSNVRleDZxS2ZXRjNadz09@38.54.85.230:8445#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B18%5D
-hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=speedtest.tinkoff.ru#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B5%5D
-vless://2bdef398-4587-4d9d-b350-992e461c9325@162.248.78.234:443?security=reality&flow=xtls-rprx-vision&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&type=tcp&headerType=none&host=portal.citygrainla.com&path=/&fp=chrome&sni=portal.citygrainla.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B1%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B16%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B18%5D
-trojan://6cddea99-9b18-4d42-8638-131bd9f5374f@jp1.8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net:443?security=tls&type=tcp&allowInsecure=1&fp=chrome&sni=8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B158%5D
-trojan://gHQP0D7D15@104.25.239.113:2053?security=tls&type=ws&path=/&sni=marvdasht.phonecomparisonblog.org&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B52%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODc4OTk4OC04ODdlLTRlNDEtODNjZC0yN2JiZmI3OTk5YWQ@58.152.58.193:40006#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B6%5D
-vless://2bdef398-4587-4d9d-b350-992e461c9325@162.248.78.234:443?security=reality&flow=xtls-rprx-vision&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&type=tcp&headerType=none&host=portal.citygrainla.com&path=/&fp=chrome&sni=portal.citygrainla.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B3%5D
-vless://2bdef398-4587-4d9d-b350-992e461c9325@162.248.78.234:443?security=reality&flow=xtls-rprx-vision&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&type=tcp&headerType=none&host=portal.citygrainla.com&path=/&fp=safari&sni=portal.citygrainla.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B4%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B23%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B22%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B15%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B12%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B19%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZGMyNzUxMmIzMTg0MjEzOTNjNTM4OTYzMzAzMjIzMw@5.202.8.202:555#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B1%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B17%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B13%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.54:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B24%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B16%5D
+hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=google.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B8%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B18%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODc4OTk4OC04ODdlLTRlNDEtODNjZC0yN2JiZmI3OTk5YWQ@58.152.58.193:40006#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B7%5D
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206K1NwSTZBajVSNVRleDZxS2ZXRjNadz09@38.54.85.230:8445#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B5%5D
+trojan://6cddea99-9b18-4d42-8638-131bd9f5374f@jp1.8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net:443?security=tls&type=tcp&allowInsecure=1&fp=ios&sni=8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B160%5D
+trojan://gHQP0D7D15@104.25.239.113:2053?security=tls&type=ws&path=/&fp=chrome&sni=marvdasht.phonecomparisonblog.org#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B39%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTU2NOMlFLN21SOXBWNHhI@96.45.186.114:8443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B17%5D
+hysteria2://91e8215c-cc6a-4494-b52b-efd87836ef50@31.76.0.142:443?alpn=h3&sni=media.embrofree.org#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B5%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B21%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B20%5D
+trojan://6cddea99-9b18-4d42-8638-131bd9f5374f@jp1.8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net:443?security=tls&type=tcp&allowInsecure=1&fp=chrome&sni=8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B161%5D
+hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=www.linux.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B11%5D
