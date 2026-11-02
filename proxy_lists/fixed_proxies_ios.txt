@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 02.11.2026 19:09)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 02.11.2026 20:11)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 997 | Пинг: 129 | >300KB/s: 68 | SB-Old: 30 | SB-HY: 32 | Clash: 32 | iOS: 16
+# 📊 Stats: Вход: 994 | Пинг: 111 | >300KB/s: 73 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
 
-vless://36592d47-b9f5-4e8f-949e-45ac05472aab@141.193.213.21:2083?security=tls&type=ws&host=site.check-looks.space&path=/&fp=chrome&sni=site.check-looks.space#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B1%5D
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?alpn=http/1.1&encryption=none&host=lorettmay.top&path=/blog/posts&security=tls&type=ws&fp=safari&sni=lorettmay.top#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B37%5D
-vless://52d3cbc8-7e7c-4328-b21e-46c1d7064bd2@95.182.110.135:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=reality&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&sid=ba4b2afa9e7193ea&sni=edge-fr.extazy.net#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B94%5D
-trojan://MiTiVPN@167.82.64.120:443?alpn=http/1.1&host=mitivpn--mitivpn-mitivpn.ac.ir&path=/---%40GHOFLSHCAN---%40GHOFLSHCAN/---%40GHOFLSHCAN---%40GHOFLSHCAN/---%40GHOFLSHCAN---%40GHOFLSHCAN/NLSus---%40GHOFLSHCAN---%40GHOFLSHCAN/---%40GHOFLSHCAN---%40GHOFLSHCAN/---%40GHOFLSHCAN---%40GHOFLSHCAN&security=tls&type=ws&fp=safari&sni=community.fastly.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B36%5D
-trojan://MiTiVPN@151.101.36.120:443?alpn=http/1.1&host=mitivpn-mitivpn-mitivpn.ac.ir&path=/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/NLSus---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN&security=tls&type=ws&fp=safari&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B54%5D
-trojan://MiTiVPN@146.75.57.120:443?alpn=http/1.1&host=mitivpn--mitivpn-mitivpn.ac.ir&path=/---%40GHOFLSHCAN---%40GHOFLSHCAN/---%40GHOFLSHCAN---%40GHOFLSHCAN/---%40GHOFLSHCAN---%40GHOFLSHCAN/NLSus---%40GHOFLSHCAN---%40GHOFLSHCAN/---%40GHOFLSHCAN---%40GHOFLSHCAN/---%40GHOFLSHCAN---%40GHOFLSHCAN&security=tls&type=ws&fp=chrome&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B14%5D
-trojan://MiTiVPN@199.232.78.120:443?alpn=http/1.1&host=mitivpn-mitivpn-mitivpn.ac.ir&path=/%E2%80%94%40MiTiVPN%E2%80%94%40MiTiVPN/%E2%80%94%40MiTiVPN%E2%80%94%40MiTiVPN/%E2%80%94%40MiTiVPN%E2%80%94%40MiTiVPN/NLSus%E2%80%94%40MiTiVPN%E2%80%94%40MiTiVPN/%E2%80%94%40MiTiVPN%E2%80%94%40MiTiVPN/%E2%80%94%40MiTiVPN%E2%80%94%40MiTiVPN&security=tls&type=ws&fp=chrome&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B25%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B39%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B34%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B45%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B36%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B42%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B41%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B44%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B35%5D
-vless://35c9f200-7520-4005-b78e-f8a2fb9f68f7@45.91.202.32:8444?security=tls&alpn=http/1.1&type=ws&path=/api/v1/devices/02585a2d89/telemetry&host=nl15.meshbeat.online&fp=edge&sni=nl15.meshbeat.online#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B20%5D
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@185.178.208.167:443?alpn=http/1.1&host=lorettmay.top&path=/blog/posts&security=tls&type=ws&fp=firefox&sni=lorettmay.top#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B40%5D
+trojan://MiTiVPN@167.82.64.120:443?alpn=http/1.1&host=mitivpn--mitivpn-mitivpn.ac.ir&path=/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/NLSus---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1/---%40VPNine1---%40VPNine1&security=tls&type=ws&fp=chrome&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B23%5D
+trojan://MiTiVPN@199.232.78.120:443?alpn=http/1.1&host=mitivpn-mitivpn-mitivpn.ac.ir&path=/%E2%80%94%40MiTiVPN%E2%80%94%40MiTiVPN/%E2%80%94%40MiTiVPN%E2%80%94%40MiTiVPN/%E2%80%94%40MiTiVPN%E2%80%94%40MiTiVPN/NLSus%E2%80%94%40MiTiVPN%E2%80%94%40MiTiVPN/%E2%80%94%40MiTiVPN%E2%80%94%40MiTiVPN/%E2%80%94%40MiTiVPN%E2%80%94%40MiTiVPN&security=tls&type=ws&fp=firefox&sni=community.fastly.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B46%5D
+trojan://MiTiVPN@146.75.57.120:443?alpn=http/1.1&host=mitivpn--mitivpn-mitivpn.ac.ir&path=/---%40GHOFLSHCAN---%40GHOFLSHCAN/---%40GHOFLSHCAN---%40GHOFLSHCAN/---%40GHOFLSHCAN---%40GHOFLSHCAN/NLSus---%40GHOFLSHCAN---%40GHOFLSHCAN/---%40GHOFLSHCAN---%40GHOFLSHCAN/---%40GHOFLSHCAN---%40GHOFLSHCAN&security=tls&type=ws&fp=chrome&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B49%5D
+trojan://MiTiVPN@151.101.36.120:443?alpn=http/1.1&host=mitivpn-mitivpn-mitivpn.ac.ir&path=/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/NLSus---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN/---%40MiTiVPN---%40MiTiVPN&security=tls&type=ws&fp=firefox&sni=community.fastly.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B15%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B47%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B42%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B44%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B36%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B40%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B38%5D
+vless://35c9f200-7520-4005-b78e-f8a2fb9f68f7@45.91.202.32:8444?security=tls&alpn=http/1.1&type=ws&path=/api/v1/devices/02585a2d89/telemetry&host=nl15.meshbeat.online&fp=edge&sni=nl15.meshbeat.online#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B23%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B37%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B46%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B39%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B41%5D
