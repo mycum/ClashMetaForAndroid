@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 02.11.2026 22:11)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 02.11.2026 23:11)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 964 | Пинг: 36 | >300KB/s: 19 | SB-Old: 17 | SB-HY: 18 | Clash: 19 | iOS: 16
+# 📊 Stats: Вход: 889 | Пинг: 49 | >300KB/s: 21 | SB-Old: 17 | SB-HY: 19 | Clash: 21 | iOS: 16
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B41%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B51%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B48%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B44%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B42%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.54:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B54%5D
-vless://689a62e4-37e7-41de-9e6a-f2a56368c9e2@130.49.162.7:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&fp=firefox&sni=sk3.speedtestinternet.link#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20%5B1%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B46%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODc4OTk4OC04ODdlLTRlNDEtODNjZC0yN2JiZmI3OTk5YWQ@58.152.58.193:40006#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B8%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B53%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B49%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B47%5D
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206K1NwSTZBajVSNVRleDZxS2ZXRjNadz09@38.54.85.230:8445#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B23%5D
-vless://7a5cbb56-228f-4a38-b640-5d5803b5dbb5@45.198.0.133:443?type=raw&security=reality&flow=xtls-rprx-vision&pbk=cmHxNU_t7SQibzl8QuyDNPorLZkYp0mYKb79-4kEm1M&sid=5ff72a0ca3e4a1b6&fp=chrome&sni=govnetkurwa.farted.net#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B5%5D
-hysteria2://633bc3be486b646190661ac2387c150a@152.67.115.203:443?obfs=salamander&obfs-password=850a3fb1cd33a28f12d837578ae1a2e7&sni=www.bing.com#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20%5B1%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B50%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B9%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B13%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B18%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B8%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B19%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B15%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.54:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B21%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B16%5D
+vless://6a40e66a-de98-47a4-82b5-c170cd4b92b5@usawsb.edges.fyi:443?encryption=none&security=reality&type=tcp&flow=&alpn=&pbk=HYY52az_HItfkFMxkpFFJnTgsxVUHjBmaJP2yIo7PgI&sid=121d03f8&fp=safari&sni=download-porter.hoyoverse.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B13%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?headerType=none&security=tls&type=tcp&fp=safari&sni=blog.connectingpeoplewithgreatjobs.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B10%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B20%5D
+trojan://6cddea99-9b18-4d42-8638-131bd9f5374f@jp1.8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net:443?security=tls&type=tcp&fp=ios&sni=8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B24%5D
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206K1NwSTZBajVSNVRleDZxS2ZXRjNadz09@38.54.85.230:8445#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B16%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B14%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B11%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B17%5D
