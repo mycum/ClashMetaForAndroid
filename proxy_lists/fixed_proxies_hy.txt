@@ -1,36 +1,23 @@
-# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 03.11.2026 13:20)
-# 🛡️ Verified Sing-box Elite: 32
-# 📊 Stats: Вход: 950 | Пинг: 73 | >300KB/s: 38 | SB-Old: 30 | SB-HY: 32 | Clash: 32 | iOS: 16
+# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 03.11.2026 14:22)
+# 🛡️ Verified Sing-box Elite: 19
+# 📊 Stats: Вход: 1013 | Пинг: 56 | >300KB/s: 21 | SB-Old: 18 | SB-HY: 19 | Clash: 21 | iOS: 16
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B22%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B16%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B13%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B20%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B12%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B19%5D
-vless://63959ed7-d26f-48dd-8c7b-ebdb6ea68535@qtir1.dnetsolutions.ru:443/?type=grpc&encryption=none&flow=&serviceName=grpc-90&fp=chrome&security=reality&pbk=9X-tgXeFaqxURY0nGxFNdz9bpNIo7DTXHoWXpBqiOj0&sid=cbc638acc8ac87&sni=max.ru#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B1%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B18%5D
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swidenafterlanzerotte.space:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=MQrvfivvEfLGzDee7h0j5uC-DwaD_38_NXOY9-NhqxM&sni=swidenafterlanzerotte.space#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B8%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B11%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B17%5D
-vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@5.230.216.85:443?security=reality&encryption=none&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&headerType=&type=tcp&flow=xtls-rprx-vision&sid=1a2b3c4d&fp=chrome&sni=files.porsche.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B5%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODc4OTk4OC04ODdlLTRlNDEtODNjZC0yN2JiZmI3OTk5YWQ@58.152.58.193:40006#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B22%5D
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206K1NwSTZBajVSNVRleDZxS2ZXRjNadz09@38.54.85.230:8445#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B21%5D
-vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@89.144.53.4:8445?security=reality&encryption=none&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&headerType=&type=tcp&flow=xtls-rprx-vision&sid=1a2b3c4d&fp=chrome&sni=videos.porsche.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B2%5D
-hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443/?insecure=1&sni=vk.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B5%5D
-vless://7f733b1a-6c00-48ac-ae3b-cbc178a9146e@195.137.226.133:2083?path=/wss&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=nexostore.xnetaro.ir&fp=firefox&type=ws&allowInsecure=0&sni=nexostore.xnetaro.ir#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B16%5D
-trojan://6cddea99-9b18-4d42-8638-131bd9f5374f@jp1.8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net:443?security=tls&type=tcp&allowInsecure=1&fp=ios&sni=8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B174%5D
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&fp=ios&sni=t.me/FuckTheWall#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B24%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTU2NOMlFLN21SOXBWNHhI@96.45.186.114:8443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B28%5D
+vless://7f733b1a-6c00-48ac-ae3b-cbc178a9146e@195.137.226.133:2083?path=/wss&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=nexostore.xnetaro.ir&type=ws&allowInsecure=0&fp=chrome&sni=nexostore.xnetaro.ir#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B16%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B21%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B19%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B22%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B13%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B16%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B18%5D
+vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?type=raw&security=none#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B1%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B24%5D
+vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@185.103.100.113:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&security=reality&sid=1a2b3c4d&type=tcp&fp=safari&sni=images.porsche.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B53%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODc4OTk4OC04ODdlLTRlNDEtODNjZC0yN2JiZmI3OTk5YWQ@58.152.58.193:40006#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B7%5D
 trojan://gHQP0D7D15@104.25.239.113:2053?security=tls&type=ws&path=/&fp=chrome&sni=marvdasht.phonecomparisonblog.org#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B40%5D
-vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@185.103.100.113:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&security=reality&sid=1a2b3c4d&type=tcp&fp=chrome&sni=images.porsche.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B11%5D
-hysteria2://633bc3be486b646190661ac2387c150a@152.67.115.203:443?insecure=1&obfs=salamander&obfs-password=850a3fb1cd33a28f12d837578ae1a2e7&sni=www.bing.com#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20%5B2%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B21%5D
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swidenafterlanzerotte.space:443?encryption=none&flow=xtls-rprx-vision&pbk=MQrvfivvEfLGzDee7h0j5uC-DwaD_38_NXOY9-NhqxM&security=reality&type=tcp&fp=safari&sni=swidenafterlanzerotte.space#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B6%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B15%5D
-vless://63959ed7-d26f-48dd-8c7b-ebdb6ea68535@qtir1.dnetsolutions.ru:443?type=grpc&security=reality&fp=firefox&pbk=9X-tgXeFaqxURY0nGxFNdz9bpNIo7DTXHoWXpBqiOj0&sid=cbc638acc8ac87&serviceName=grpc-90&sni=max.ru#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B5%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODc4OTk4OC04ODdlLTRlNDEtODNjZC0yN2JiZmI3OTk5YWQ@xunlinknode.csdjhajkshdjkas.com:40006#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B5%5D
-vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@89.144.53.4:8445?security=reality&encryption=none&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&headerType=&type=tcp&flow=xtls-rprx-vision&sid=1a2b3c4d&fp=chrome&sni=videos.porsche.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B3%5D
-vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@185.103.100.113:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&security=reality&sid=1a2b3c4d&type=tcp&fp=firefox&sni=images.porsche.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B14%5D
-vless://7f733b1a-6c00-48ac-ae3b-cbc178a9146e@195.137.226.133:2083?path=/wss&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=nexostore.xnetaro.ir&type=ws&allowInsecure=0&fp=chrome&sni=nexostore.xnetaro.ir#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B17%5D
-hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=www.linux.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B10%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTU2NOMlFLN21SOXBWNHhI@96.45.186.114:8443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B22%5D
+hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=www.linux.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B12%5D
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206K1NwSTZBajVSNVRleDZxS2ZXRjNadz09@38.54.85.230:8445#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B24%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B23%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B17%5D
+vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@185.103.100.113:443?security=reality&encryption=none&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&headerType=&type=tcp&flow=xtls-rprx-vision&sid=1a2b3c4d&fp=firefox&sni=images.porsche.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B54%5D
+vless://7f733b1a-6c00-48ac-ae3b-cbc178a9146e@195.137.226.133:2083?path=/wss&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=nexostore.xnetaro.ir&fp=firefox&type=ws&allowInsecure=0&sni=nexostore.xnetaro.ir#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B15%5D
