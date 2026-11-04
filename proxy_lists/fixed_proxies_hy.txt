@@ -1,27 +1,23 @@
-# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 04.11.2026 14:44)
-# 🛡️ Verified Sing-box Elite: 23
-# 📊 Stats: Вход: 932 | Пинг: 45 | >300KB/s: 24 | SB-Old: 21 | SB-HY: 23 | Clash: 24 | iOS: 16
+# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 04.11.2026 15:44)
+# 🛡️ Verified Sing-box Elite: 19
+# 📊 Stats: Вход: 939 | Пинг: 52 | >300KB/s: 20 | SB-Old: 18 | SB-HY: 19 | Clash: 20 | iOS: 16
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B13%5D
-vless://bbe37c75-d097-4b72-a074-445a56fe3969@test.wolf-moose.test-cdn-kkk.com:443?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&sni=la.cdn-tech-images.com#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B3%5D
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.101:4444?alpn=h3&sni=pl1.nexfile.net#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B3%5D
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@185.178.208.140:443?security=tls&alpn=http/1.1&fp=firefox&type=ws&path=/shop/catalog&host=marshalltmp.top&sni=marshalltmp.top#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B7%5D
+vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@217.16.26.34:2081?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&security=reality&sid=b0d8c9a285c70f6f&type=raw&sni=unpkg.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B58%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B8%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbMV0iLCJhZGQiOiIxMDQuMTcuMTQ3LjIyMiIsInBvcnQiOjgwLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii93cyIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwic25pIjoiIiwiZnAiOiIifQ==#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B10%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B12%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B7%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B15%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMgWzI5XSIsImFkZCI6IjE5Mi4xNjYuODIuMjEiLCJwb3J0Ijo0NDMsImlkIjoiZmZlOGFlNDktMDVkNy00ZjU2LWE4MmItZGQ2MTgxMDhjMjcwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL3NhY2FjYSIsInRscyI6InRscyIsInNuaSI6InVzLXNsYy1nbG9iYWwxLnhlb3ZvLmV1IiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIn0=#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B29%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B9%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B16%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B15%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B11%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B14%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B9%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B12%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B13%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbMl0iLCJhZGQiOiIxMDQuMTcuMTQ3LjIyMiIsInBvcnQiOjgwLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii93cyIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwic25pIjoiIiwiZnAiOiIifQ==#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B2%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ@64.49.12.39:8044#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B166%5D
-vless://ca4cb252-3fcb-4937-9d08-c39683e46e42@136.0.197.99:49520?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=c4S7RKiXGJElV2F5_cPCUc_NDZzjpcPHTEs-OwO6A2c&security=reality&type=tcp&sni=www.ebay.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B19%5D
-vmess://eyJhZGQiOiJjZi4wc20uY29tIiwiYWlkIjowLCJob3N0Ijoidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsImlkIjoiMGNmNmQ5NzAtM2YxZC00YWFlLWE5ODktOTJhOGY3NmFlM2RiIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzIiwicG9ydCI6ODAsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbMzNdIiwic25pIjoidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJzY3kiOiJhdXRvIiwiYWxwbiI6IiIsImZwIjoiIn0=#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B33%5D
-hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B3%5D
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206K1NwSTZBajVSNVRleDZxS2ZXRjNadz09@38.54.85.230:8445#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B6%5D
-vless://09f30c46-3964-41ce-882a-72aee83ddd42@hw6.divarkhaghazi.com:465?encryption=none&host=hw6.divarkhaghazi.com.&path=/&security=tls&type=ws&fp=ios&sni=hw6.divarkhaghazi.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B21%5D
-vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?host=www.chip.de&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&security=reality&sid=23732d14a527990d&type=tcp&fp=random&sni=www.chip.de#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B14%5D
-vless://bbe37c75-d097-4b72-a074-445a56fe3969@test.wolf-moose.test-cdn-kkk.com:443?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&headerType=none&type=tcp&flow=xtls-rprx-vision&sid=50&fp=safari&sni=la.cdn-tech-images.com#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B2%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B14%5D
-vless://09f30c46-3964-41ce-882a-72aee83ddd42@hw6.divarkhaghazi.com:465?encryption=none&host=hw6.divarkhaghazi.com.&path=/&security=tls&type=ws&fp=chrome&sni=hw6.divarkhaghazi.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B22%5D
-vless://bbe37c75-d097-4b72-a074-445a56fe3969@test.wolf-moose.test-cdn-kkk.com:443?security=reality&flow=xtls-rprx-vision&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=chrome&type=tcp&headerType=none&host=la.cdn-tech-images.com&path=/&sni=la.cdn-tech-images.com#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B1%5D
-vless://09f30c46-3964-41ce-882a-72aee83ddd42@hw6.divarkhaghazi.com:465?encryption=none&host=hw6.divarkhaghazi.com.&path=/&security=tls&type=ws&sni=hw6.divarkhaghazi.com&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B20%5D
+vless://09f30c46-3964-41ce-882a-72aee83ddd42@hw6.divarkhaghazi.com:465?encryption=none&host=hw6.divarkhaghazi.com.&path=/&security=tls&type=ws&fp=ios&sni=hw6.divarkhaghazi.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B23%5D
+vmess://eyJhZGQiOiJjZi4wc20uY29tIiwiYWlkIjowLCJob3N0Ijoidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsImlkIjoiMGNmNmQ5NzAtM2YxZC00YWFlLWE5ODktOTJhOGY3NmFlM2RiIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzIiwicG9ydCI6ODAsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbMzRdIiwic25pIjoidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJzY3kiOiJhdXRvIiwiYWxwbiI6IiIsImZwIjoiIn0=#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B34%5D
+hysteria2://633bc3be486b646190661ac2387c150a@152.67.115.203:443?insecure=1&obfs=salamander&obfs-password=850a3fb1cd33a28f12d837578ae1a2e7&sni=www.bing.com#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20%5B2%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ@dns3.m3hrzd.ir:8044#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B37%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B10%5D
+vless://09f30c46-3964-41ce-882a-72aee83ddd42@hw6.divarkhaghazi.com:465?encryption=none&host=hw6.divarkhaghazi.com.&path=/&security=tls&type=ws&fp=chrome&sni=hw6.divarkhaghazi.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B24%5D
