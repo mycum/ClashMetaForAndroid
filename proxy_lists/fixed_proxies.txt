@@ -1,16 +1,28 @@
-# profile-title: 📦 Telegood Sing-box (ТОП-32 от 04.11.2026 20:38)
-# 🛡️ Verified Sing-box Legacy: 12
-# 📊 Stats: Вход: 830 | Пинг: 32 | >300KB/s: 12 | SB-Old: 12 | SB-HY: 12 | Clash: 12 | iOS: 12
+# profile-title: 📦 Telegood Sing-box (ТОП-32 от 04.11.2026 21:39)
+# 🛡️ Verified Sing-box Legacy: 24
+# 📊 Stats: Вход: 881 | Пинг: 63 | >300KB/s: 26 | SB-Old: 24 | SB-HY: 25 | Clash: 26 | iOS: 16
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B14%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B18%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B16%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B15%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B9%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B11%5D
-vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.74:443?security=reality&type=tcp&host=patch-25.topp-con.xyz&flow=xtls-rprx-vision&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&sid=b9120cd53ffd7bba&fp=random&sni=patch-25.topp-con.xyz#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B13%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ@64.49.12.39:8044#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B154%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B13%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B12%5D
-vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@connect4.accessgate.link:1085?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&sid=b0d8c9a285c70f6f&allowInsecure=1&fp=edge&sni=unpkg.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B24%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ@dns3.m3hrzd.ir:8044#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B24%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B14%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B19%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B16%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B23%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B22%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B20%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B21%5D
+ss://YWVzLTEyOC1nY206OTdiNDI1ZDYxZWUwZGJlNTg0NDllMzYxNGRhZTNlODk@64.20.53.126:17911#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B47%5D
+vless://4dbf1ade-33f1-40dc-9273-e51babd570fe@104.225.239.235:443?encryption=none&flow=xtls-rprx-vision&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&security=reality&sid=051f20c2344a2dfd&type=tcp&fp=firefox&sni=portal.citygrainla.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B27%5D
+vless://d18e433f-0f40-4f71-8055-aea4a0a42af4@col.serverah.ir:443?security=reality&type=tcp&flow=xtls-rprx-vision&pbk=5l4RnloO79fW8U0ROmCmWsjNb9WECNxVDqZeTt9HDEc&sid=f64da10a&udp=true&fp=safari&sni=de.col.serverah.ir#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B21%5D
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206ZDFyUEZPUDBWSGtLMjk2aUdETS9lZz09@23.175.201.177:63691#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B2%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ@64.49.12.39:8044#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B177%5D
+vless://9227afcd-026e-781f-1abc-c06efabd2338@mg1.ainivp.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&pbk=epgveXEcUs0sbs4jV_1KldTkZGnWUHfMKcs0XNyP41Y&sid=a1b2c3d4&type=tcp&headerType=none&host=www.microsoft.com&path=/&fp=edge&sni=www.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B34%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B18%5D
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@35.209.12.212:63691#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B46%5D
+vless://47e5e6c1-7228-402d-8df9-fa01b1010ba0@179.255.139.212:41392?encryption=none&flow=xtls-rprx-vision&pbk=LOUa3SbB3M-pcOZTl5-Bei8gJRIiagR35arRnxNmFic&security=reality&sid=77f82e43&type=tcp&fp=ios&sni=apple.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B21%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B17%5D
+vless://4dbf1ade-33f1-40dc-9273-e51babd570fe@104.225.239.235:443?encryption=none&flow=xtls-rprx-vision&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&security=reality&sid=051f20c2344a2dfd&type=tcp&fp=ios&sni=portal.citygrainla.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B32%5D
+vless://9227afcd-026e-781f-1abc-c06efabd2338@mg1.ainivp.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&pbk=epgveXEcUs0sbs4jV_1KldTkZGnWUHfMKcs0XNyP41Y&sid=a1b2c3d4&type=tcp&headerType=none&host=www.microsoft.com&path=/&fp=firefox&sni=www.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B35%5D
+vless://d18e433f-0f40-4f71-8055-aea4a0a42af4@col.serverah.ir:443?security=reality&type=tcp&flow=xtls-rprx-vision&pbk=5l4RnloO79fW8U0ROmCmWsjNb9WECNxVDqZeTt9HDEc&sid=f64da10a&udp=true&fp=edge&sni=de.col.serverah.ir#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B17%5D
+vless://4dbf1ade-33f1-40dc-9273-e51babd570fe@104.225.239.235:443?encryption=none&flow=xtls-rprx-vision&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&security=reality&sid=051f20c2344a2dfd&type=tcp&fp=chrome&sni=portal.citygrainla.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B31%5D
+vless://9227afcd-026e-781f-1abc-c06efabd2338@mg1.ainivp.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&pbk=epgveXEcUs0sbs4jV_1KldTkZGnWUHfMKcs0XNyP41Y&sid=a1b2c3d4&type=tcp&headerType=none&host=www.microsoft.com&path=/&fp=safari&sni=www.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B39%5D
+vless://4dbf1ade-33f1-40dc-9273-e51babd570fe@104.225.239.235:443?encryption=none&flow=xtls-rprx-vision&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&security=reality&sid=051f20c2344a2dfd&type=tcp&fp=edge&sni=portal.citygrainla.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B26%5D
+vless://9227afcd-026e-781f-1abc-c06efabd2338@mg1.ainivp.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&pbk=epgveXEcUs0sbs4jV_1KldTkZGnWUHfMKcs0XNyP41Y&sid=a1b2c3d4&type=tcp&headerType=none&host=www.microsoft.com&path=/&fp=chrome&sni=www.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B38%5D
