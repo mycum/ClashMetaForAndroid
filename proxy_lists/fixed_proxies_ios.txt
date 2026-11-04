@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 04.11.2026 10:40)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 04.11.2026 11:42)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1102 | Пинг: 70 | >300KB/s: 44 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
+# 📊 Stats: Вход: 1069 | Пинг: 62 | >300KB/s: 40 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
 
-hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B19%5D
-vless://a7c8cd64-ee86-49a1-925a-f359ff2b57c6@91.186.198.169:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Fatl2jnU5cyp5jwnMSX3FQeCluRfD-UJ6yDFfK49YnY&security=reality&type=tcp&sni=rutube.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B35%5D
-vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@45.132.176.61:443?encryption=none&security=reality&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&type=tcp&headerType=none&flow=xtls-rprx-vision&fp=chrome&sni=sopelka.yandex-api.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B28%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B37%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B30%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B34%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B33%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B36%5D
-hysteria2://80cbaaec-caff-4181-8539-ea6e51731007@45.88.12.119:443?alpn=h3&sni=crt.onecloudstream.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B29%5D
-vless://b74ab89e-9bee-43df-a1f7-f64f90044d8d@151.101.1.242:443?path=/ws&security=tls&encryption=none&host=sparkling-gadabout.quick-cdn.net&fp=chrome&type=ws&sni=sparkling-gadabout.quick-cdn.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B29%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B25%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B27%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B24%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B32%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B31%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B27%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B30%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B33%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B31%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B28%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B24%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B35%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B32%5D
+hysteria2://80cbaaec-caff-4181-8539-ea6e51731007@45.88.12.119:443?alpn=h3&sni=crt.onecloudstream.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B20%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B23%5D
+trojan://7bpe9s002exll38s@199.68.156.250:2087?alpn=http/1.1&host=nexoshop.netvia.ir&path=/wss&security=tls&type=ws&fp=firefox&sni=nexoshop.netvia.ir#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B47%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B22%5D
+ss://YWVzLTI1Ni1nY206YzVQdExoeWxZNXIzakpRNlhsekdpT2RYZVlZbGh1LWs@204.10.192.22:3043#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B2%5D
+vless://53155cc4-d669-4356-856f-42ec82963d1e@107.174.67.166:443?encryption=none&security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=k7e-oGFIbQZC1PH1jduMnmc5SqCKGWc5X6WSIb3Gq10&sid=a9e483ef0cd86589&sni=gateway.icloud.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B151%5D
+trojan://8deb189a-3aed-4865-843b-b72dae954c46@47.75.104.211:443?host=api.85s.me&path=/&security=tls&type=ws&fp=chrome&sni=api.85s.me#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B19%5D
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206K1NwSTZBajVSNVRleDZxS2ZXRjNadz09@38.54.85.230:8445#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B24%5D
