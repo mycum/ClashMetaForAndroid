@@ -624,7 +624,7 @@ jobs:
           ROOT = Path("proxy_lists")
           API_PORT = 9090
           API = f"http://127.0.0.1:{API_PORT}"
-          TEST_URL = "https://www.gstatic.com/generate_204"
+          TEST_URL = "https://t.me"
 
           # Настройки проверки
           MAX_WORKERS = 32
@@ -764,7 +764,7 @@ jobs:
                   + urllib.parse.urlencode({
                       "url": TEST_URL,
                       "timeout": CHECK_TIMEOUT_MS,
-                      "expected": "204"
+                      "expected": "200"
                   })
               )
 
