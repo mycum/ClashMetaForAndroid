@@ -603,6 +603,294 @@ jobs:
           python3 filter.py
           rm proxy_lists/raw_temp.txt
 
+      
+      - name: Deep Check via Gstatic (Mihomo)
+        run: |
+          cat > gstatic_check.py <<'PY'
+          import json
+          import gzip
+          import os
+          import re
+          import time
+          import secrets
+          import shutil
+          import subprocess
+          import urllib.request
+          import urllib.error
+          import urllib.parse
+          from pathlib import Path
+          from concurrent.futures import ThreadPoolExecutor, as_completed
+
+          ROOT = Path("proxy_lists")
+          API_PORT = 9090
+          API = f"http://127.0.0.1:{API_PORT}"
+          TEST_URL = "https://www.gstatic.com/generate_204"
+
+          # Настройки проверки
+          MAX_WORKERS = 32
+          CHECK_TIMEOUT_MS = 8000
+          API_TIMEOUT = 14
+
+          print("📂 Загружаем список после первичной проверки...")
+          source_file = ROOT / "raw_proxies.json"
+          records = json.loads(source_file.read_text(encoding="utf-8"))
+
+          entries = []
+          for i, item in enumerate(records):
+              cfg = item.get("config", {})
+              if isinstance(cfg, dict) and cfg.get("name"):
+                  entries.append((i, cfg))
+
+          if not entries:
+              raise SystemExit("❌ Нет конфигураций для проверки!")
+
+          print(f"📥 Получено конфигураций: {len(entries)}")
+
+          # Загружаем последнюю стабильную версию Mihomo
+          print("⬇️ Загружаем Mihomo...")
+
+          release_req = urllib.request.Request(
+              "https://api.github.com/repos/MetaCubeX/mihomo/releases/latest",
+              headers={"User-Agent": "GitHub-Actions-Proxy-Checker"}
+          )
+
+          with urllib.request.urlopen(release_req, timeout=30) as r:
+              release = json.loads(r.read())
+
+          tag = release["tag_name"]
+          assets = {a["name"]: a for a in release["assets"]}
+
+          preferred = [
+              f"mihomo-linux-amd64-compatible-{tag}.gz",
+              f"mihomo-linux-amd64-v1-{tag}.gz",
+              f"mihomo-linux-amd64-{tag}.gz",
+          ]
+
+          asset = next(
+              (assets[n] for n in preferred if n in assets),
+              None
+          )
+
+          if not asset:
+              raise SystemExit("❌ Не найден Linux AMD64 бинарник Mihomo")
+
+          tmp = Path(os.environ.get("RUNNER_TEMP", "/tmp"))
+          work = tmp / "mihomo-gstatic"
+          work.mkdir(parents=True, exist_ok=True)
+
+          binary = work / "mihomo"
+
+          with urllib.request.urlopen(
+              asset["browser_download_url"], timeout=90
+          ) as r:
+              binary.write_bytes(gzip.decompress(r.read()))
+
+          binary.chmod(0o755)
+          print(f"✅ Mihomo {tag} загружен")
+
+          # Формируем временный JSON из уже готовых Mihomo-конфигураций
+          token = secrets.token_hex(24)
+
+          mihomo_config = {
+              "log-level": "error",
+              "allow-lan": False,
+              "external-controller": f"127.0.0.1:{API_PORT}",
+              "secret": token,
+              "proxies": [cfg for _, cfg in entries]
+          }
+
+          config_file = work / "config.json"
+          config_file.write_text(
+              json.dumps(mihomo_config, ensure_ascii=False),
+              encoding="utf-8"
+          )
+
+          log_file = work / "mihomo.log"
+          log_handle = open(log_file, "w", encoding="utf-8")
+
+          process = subprocess.Popen(
+              [
+                  str(binary),
+                  "-d", str(work),
+                  "-f", str(config_file)
+              ],
+              stdout=log_handle,
+              stderr=subprocess.STDOUT
+          )
+
+          def api_get(path, timeout=API_TIMEOUT):
+              req = urllib.request.Request(
+                  API + path,
+                  headers={"Authorization": f"Bearer {token}"}
+              )
+              with urllib.request.urlopen(req, timeout=timeout) as r:
+                  return r.read()
+
+          # Ждём готовности локального API
+          print("🚀 Запускаем Mihomo...")
+
+          ready = False
+
+          for _ in range(60):
+              if process.poll() is not None:
+                  break
+              try:
+                  api_get("/version", timeout=2)
+                  ready = True
+                  break
+              except Exception:
+                  time.sleep(0.5)
+
+          if not ready:
+              process.terminate()
+              log_handle.close()
+              print(log_file.read_text(encoding="utf-8")[-12000:])
+              raise SystemExit("❌ Mihomo не запустился")
+
+          print("✅ Mihomo готов")
+          print(f"🌐 Цель: {TEST_URL}")
+          print(f"⚡ Параллельных проверок: {MAX_WORKERS}")
+
+          # Проверяем каждый прокси через собственный outbound Mihomo.
+          # expected=204 означает, что принимается только HTTP 204.
+          def check_one(entry):
+              original_index, cfg = entry
+              name = cfg["name"]
+
+              endpoint = (
+                  "/proxies/"
+                  + urllib.parse.quote(name, safe="")
+                  + "/delay?"
+                  + urllib.parse.urlencode({
+                      "url": TEST_URL,
+                      "timeout": CHECK_TIMEOUT_MS,
+                      "expected": "204"
+                  })
+              )
+
+              try:
+                  data = json.loads(api_get(endpoint))
+                  if "delay" in data:
+                      return original_index, True, data["delay"], ""
+
+                  return original_index, False, 0, "No delay"
+
+              except urllib.error.HTTPError as e:
+                  return original_index, False, 0, f"HTTP {e.code}"
+              except Exception as e:
+                  return original_index, False, 0, str(e)[:100]
+
+          passed = {}
+          failures = {}
+
+          try:
+              with ThreadPoolExecutor(
+                  max_workers=min(MAX_WORKERS, len(entries))
+              ) as executor:
+
+                  futures = [
+                      executor.submit(check_one, entry)
+                      for entry in entries
+                  ]
+
+                  for count, future in enumerate(as_completed(futures), 1):
+                      idx, ok, delay, error = future.result()
+
+                      if ok:
+                          passed[idx] = delay
+                      else:
+                          failures[idx] = error
+
+                      if count % 100 == 0:
+                          print(
+                              f"🔎 Проверено {count}/{len(entries)} | "
+                              f"Успешно: {len(passed)}"
+                          )
+
+          finally:
+              if process.poll() is None:
+                  process.terminate()
+                  try:
+                      process.wait(timeout=10)
+                  except subprocess.TimeoutExpired:
+                      process.kill()
+                      process.wait()
+
+              log_handle.close()
+
+          # Восстанавливаем исходную последовательность
+          passed_indices = sorted(passed.keys())
+          passed_records = [records[i] for i in passed_indices]
+
+          print("\n" + "=" * 45)
+          print(f"📊 Всего проверено: {len(entries)}")
+          print(f"✅ Gstatic HTTP 204: {len(passed_records)}")
+          print(f"❌ Не прошли: {len(failures)}")
+          print("=" * 45)
+
+          # Сохраняем полную базу после Ping на всякий случай
+          backups = [
+              ("raw_proxies.json", "raw_proxies_ping.json"),
+              ("raw_proxies_original.txt",
+               "raw_proxies_ping_original.txt"),
+              ("raw_proxies_pure.txt",
+               "raw_proxies_ping_pure.txt")
+          ]
+
+          for src, dst in backups:
+              src_path = ROOT / src
+              if src_path.exists():
+                  shutil.copy2(src_path, ROOT / dst)
+
+          # Перезаписываем основные файлы только прошедшими узлами
+          with open(ROOT / "raw_proxies.json", "w", encoding="utf-8") as f:
+              json.dump(
+                  passed_records,
+                  f,
+                  ensure_ascii=False,
+                  indent=2
+              )
+
+          for src, dst in [
+              ("raw_proxies_original.txt", "raw_proxies_original.txt"),
+              ("raw_proxies_pure.txt", "raw_proxies_pure.txt")
+          ]:
+              src_path = ROOT / (
+                  "raw_proxies_ping_original.txt"
+                  if "original" in src
+                  else "raw_proxies_ping_pure.txt"
+              )
+
+              lines = src_path.read_text(
+                  encoding="utf-8"
+              ).splitlines() if src_path.exists() else []
+
+              selected = [
+                  lines[i]
+                  for i in passed_indices
+                  if i < len(lines)
+              ]
+
+              (ROOT / dst).write_text(
+                  "\n".join(selected) + ("\n" if selected else ""),
+                  encoding="utf-8"
+              )
+
+          # Отчёт по времени ответа
+          with open(
+              ROOT / "gstatic_delays.txt", "w", encoding="utf-8"
+          ) as f:
+              for idx in passed_indices:
+                  name = records[idx]["config"]["name"]
+                  f.write(f"{name}\t{passed[idx]} ms\n")
+
+          print("💾 Списки успешно обновлены")
+          print("📱 Теперь телефон получит только прошедшие HTTP 204")
+          PY
+
+          python3 gstatic_check.py
+
+      
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
