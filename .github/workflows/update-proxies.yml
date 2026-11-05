@@ -87,6 +87,8 @@ jobs:
           echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/refs/heads/main/data/githubmirror/clean/vmess.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/refs/heads/main/data/githubmirror/clean/hy2.txt >> proxy_lists/raw_temp.txt
+          echo "" >> proxy_lists/raw_temp.txt
           
           cat << 'EOF' > filter.py
           import urllib.request, json, re, socket, urllib.parse, base64, html, os, time
