@@ -1,18 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 06.11.2026 02:48)
-# 🛡️ Verified Elite: 14
-# 📊 Stats: Вход: 1799 | Пинг: 31 | >300KB/s: 16 | SB-Old: 7 | SB-HY: 14 | Clash: 16 | iOS: 14
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 06.11.2026 03:40)
+# 🛡️ Verified Elite: 16
+# 📊 Stats: Вход: 2538 | Пинг: 35 | >300KB/s: 19 | SB-Old: 5 | SB-HY: 17 | Clash: 19 | iOS: 16
 
-trojan://gHQP0D7D15@104.18.0.1:2053?type=ws&security=tls&fp=chrome&host=marvdasht.phonecomparisonblog.org&sni=marvdasht.phonecomparisonblog.org#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B144%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQ2FtZ2x6ck9SYW9wcWJwQmxwdHpidDlRZGlINENTTg@45.86.158.154:8044#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B1%5D
-vless://47525ee4-b128-444a-bcc6-95917b5e2053@cdn.crackerbinam.org:2083?alpn=http/1.1&encryption=none&host=cdn.crackerbinam.org&path=/connect-a7b2&security=tls&type=ws&fp=safari&sni=cdn.crackerbinam.org#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B57%5D
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&type=tcp&fp=safari&sni=de-bots4.h1cloud.net#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B25%5D
-hysteria2://633bc3be486b646190661ac2387c150a@152.67.115.203:443?obfs=salamander&obfs-password=850a3fb1cd33a28f12d837578ae1a2e7&sni=www.bing.com#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20%5B2%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbMTU3XSIsImFkZCI6InZpcGNjYy5jYyIsInBvcnQiOjQ0MywidHlwZSI6Im5vbmUiLCJpZCI6IjViZWFkMzJmLWE5ODctNGY1Ny1iMWE4LTY2OTg3NzhmYWNkYSIsImFpZCI6MCwibmV0Ijoid3MiLCJwYXRoIjoiL3JheV9wcm94eSIsImhvc3QiOiJ2aXBjY2MuY2MiLCJ0bHMiOiJ0bHMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIn0=
-trojan://gHQP0D7D15@104.18.0.1:2053?host=marvdasht.phonecomparisonblog.org&path=/&security=tls&type=ws&sni=marvdasht.phonecomparisonblog.org&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B143%5D
-vless://47525ee4-b128-444a-bcc6-95917b5e2053@cdn.crackerbinam.org:2083?alpn=http/1.1&encryption=none&host=cdn.crackerbinam.org&path=/connect-a7b2&security=tls&type=ws&fp=firefox&sni=cdn.crackerbinam.org#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B55%5D
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&alpn=http/1.1&type=tcp&fp=edge&sni=t.me/FuckTheWall#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B21%5D
-vless://47525ee4-b128-444a-bcc6-95917b5e2053@cdn.crackerbinam.org:2083?alpn=http/1.1&encryption=none&host=cdn.crackerbinam.org&path=/connect-a7b2&security=tls&type=ws&fp=ios&sni=cdn.crackerbinam.org#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B56%5D
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.25.95.49:443?type=ws&path=/order/ads/&host=ltf8.jueson.de5.net&sni=ltf8.jueson.de5.net&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B239%5D
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&alpn=http/1.1&type=tcp&fp=chrome&sni=t.me/FuckTheWall#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B22%5D
+trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?type=tcp&sni=mx001.zestapp778.com&fp=chrome#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%20%5B4%5D
+hysteria2://GnVqzYNYGYRXNUq8fBOxGsv9pNBdYvKP@204.152.221.177:443?obfs=salamander&obfs-password=0Jy/BjMrgPxwRG9bx+YIyZz2hqUfE7Cf&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B204%5D
+trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?type=tcp&security=tls&fp=chrome&sni=kr002.zestapp778.com#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B17%5D
+hysteria2://kztyblVC7ZlEKR3ZO5HW@142.11.207.17:443?up=50&down=200&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B207%5D
+trojan://5t6i121em5lkmsmk@us001.zestapp778.com:57277?type=tcp&sni=us001.zestapp778.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B406%5D
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&headerType=none&type=tcp&fp=chrome&sni=t.me/FuckTheWall#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B24%5D
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&headerType=none&type=tcp&fp=chrome&sni=t.me/FuckTheWall#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B25%5D
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B16%5D
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?type=tcp&fp=chrome&sni=t.me%2ffuckthewall#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B29%5D
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&type=tcp&fp=safari&sni=de-bots4.h1cloud.net#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B27%5D
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B19%5D
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B18%5D
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&headerType=none&type=tcp&fp=ios&sni=t.me/FuckTheWall#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B19%5D
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&headerType=none&type=tcp&fp=chrome&sni=t.me/FuckTheWall#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B22%5D
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&type=tcp&fp=chrome&sni=de-bots4.h1cloud.net#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B26%5D

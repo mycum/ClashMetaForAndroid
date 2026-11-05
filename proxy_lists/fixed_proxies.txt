@@ -1,11 +1,9 @@
-# profile-title: 📦 Telegood Sing-box (ТОП-32 от 06.11.2026 02:48)
-# 🛡️ Verified Sing-box Legacy: 7
-# 📊 Stats: Вход: 1799 | Пинг: 31 | >300KB/s: 16 | SB-Old: 7 | SB-HY: 14 | Clash: 16 | iOS: 14
+# profile-title: 📦 Telegood Sing-box (ТОП-32 от 06.11.2026 03:40)
+# 🛡️ Verified Sing-box Legacy: 5
+# 📊 Stats: Вход: 2538 | Пинг: 35 | >300KB/s: 19 | SB-Old: 5 | SB-HY: 17 | Clash: 19 | iOS: 16
 
-trojan://gHQP0D7D15@104.18.0.1:2053?type=ws&security=tls&fp=chrome&host=marvdasht.phonecomparisonblog.org&sni=marvdasht.phonecomparisonblog.org#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B144%5D
+vless://ffaa2141-759b-424f-f28c-23dbeae00f10@122.8.47.4:8443?type=grpc&security=reality&fp=chrome&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ&mode=gun&serviceName=TunService&sni=www.philips.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B21%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQ2FtZ2x6ck9SYW9wcWJwQmxwdHpidDlRZGlINENTTg@45.86.158.154:8044#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B1%5D
-vless://47525ee4-b128-444a-bcc6-95917b5e2053@cdn.crackerbinam.org:2083?alpn=http/1.1&encryption=none&host=cdn.crackerbinam.org&insecure=0&path=/connect-a7b2&security=tls&type=ws&fp=safari&sni=cdn.crackerbinam.org#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B57%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbMTU3XSIsImFkZCI6InZpcGNjYy5jYyIsInBvcnQiOjQ0MywidHlwZSI6Im5vbmUiLCJpZCI6IjViZWFkMzJmLWE5ODctNGY1Ny1iMWE4LTY2OTg3NzhmYWNkYSIsImFpZCI6MCwibmV0Ijoid3MiLCJwYXRoIjoiL3JheV9wcm94eSIsImhvc3QiOiJ2aXBjY2MuY2MiLCJ0bHMiOiJ0bHMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIn0=
-trojan://gHQP0D7D15@104.18.0.1:2053?host=marvdasht.phonecomparisonblog.org&path=/&security=tls&type=ws&sni=marvdasht.phonecomparisonblog.org&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B143%5D
-vless://47525ee4-b128-444a-bcc6-95917b5e2053@cdn.crackerbinam.org:2083?alpn=http/1.1&encryption=none&host=cdn.crackerbinam.org&insecure=0&path=/connect-a7b2&security=tls&type=ws&fp=firefox&sni=cdn.crackerbinam.org#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B55%5D
-vless://47525ee4-b128-444a-bcc6-95917b5e2053@cdn.crackerbinam.org:2083?alpn=http/1.1&encryption=none&host=cdn.crackerbinam.org&insecure=0&path=/connect-a7b2&security=tls&type=ws&fp=ios&sni=cdn.crackerbinam.org#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B56%5D
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.25.95.49:443?type=ws&path=/order/ads/&host=ltf8.jueson.de5.net&sni=ltf8.jueson.de5.net&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B239%5D
+trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?allowInsecure=1&type=tcp&sni=mx001.zestapp778.com&fp=chrome#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%20%5B4%5D
+trojan://5t6i121em5lkmsmk@us001.zestapp778.com:57277?allowInsecure=1&type=tcp&sni=us001.zestapp778.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B406%5D
