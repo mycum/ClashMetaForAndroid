@@ -55,10 +55,10 @@ jobs:
           echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/Hidashimora/free-vpn-anti-rkn/refs/heads/main/configs/33.2.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
-          # curl -s https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/vmess.txt >> proxy_lists/raw_temp.txt
-          # echo "" >> proxy_lists/raw_temp.txt
-          # curl -s https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/ss.txt >> proxy_lists/raw_temp.txt
-          # echo "" >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/3inker/v2ray-subscription/main/subs/all_not_ru.txt >> proxy_lists/raw_temp.txt
+          echo "" >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/refs/heads/main/verified/configs.txt >> proxy_lists/raw_temp.txt
+          echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_lite.txt >> proxy_lists/raw_temp.txt
