@@ -1,32 +1,36 @@
-# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 05.11.2026 07:46)
-# 🛡️ Verified Sing-box Elite: 28
-# 📊 Stats: Вход: 951 | Пинг: 61 | >300KB/s: 33 | SB-Old: 21 | SB-HY: 28 | Clash: 32 | iOS: 16
+# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 05.11.2026 08:47)
+# 🛡️ Verified Sing-box Elite: 32
+# 📊 Stats: Вход: 1007 | Пинг: 72 | >300KB/s: 43 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
 
-vless://7feec880-56f0-4425-9313-e2e340206284@200.169.184.140:443?security=tls&alpn=h2&type=grpc&serviceName=glush.de1.v1&mode=gun&fp=safari&sni=basterdym.asia#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B26%5D
+vless://7feec880-56f0-4425-9313-e2e340206284@200.169.184.140:443?security=tls&alpn=h2&type=grpc&serviceName=glush.de1.v1&mode=gun&fp=ios&sni=basterdym.asia#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B26%5D
+vless://411a6057-dc5f-4653-bf67-0e9c25554ec7@213.176.19.188:443?security=reality&encryption=none&pbk=FsfogJiifVzkmmk0WryHUcw_bPbd9b8PLoJJBA9Swyk&headerType=none&type=tcp&flow=xtls-rprx-vision&sid=2011f0f1f08231a6&fp=edge&sni=m.dzen.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B10%5D
+vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@45.132.176.61:443?security=reality&flow=xtls-rprx-vision&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&type=tcp&headerType=none&path=/&fp=ios&sni=sopelka.yandex-api.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B31%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B19%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B17%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.182:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B20%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B16%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B18%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IElyYW4gWzFdIiwiYWRkIjoiZ2V0bmV0LnNlcnZlcnN1YmFzbGkudG9wIiwicG9ydCI6ODA4MCwiaWQiOiJkMmI2N2U0OC1jMzQxLTQ3YmEtOGNhYS01NjU4ZGY2OTNhYzQiLCJhaWQiOjAsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsImFscG4iOiJodHRwLzEuMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIifQ==#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B1%5D
-vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@83.147.18.75:443?flow=xtls-rprx-vision&fp=chrome&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&security=reality&sid=7f1e29593aa94ad1&spx=/&type=tcp&sni=www.bing.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B12%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B24%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B22%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B21%5D
-hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443/?insecure=1&sni=vk.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B10%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B23%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WmlQcnI0ODRPZFNZY2l2RFV2K1VJeWd3dnlXK0hRWXl0S3NJZ1R3OXRVPQ@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B1%5D
-hysteria2://948b48e5-a202-4770-8552-f35a12dac378@172.245.6.155:18687?alpn=h3&insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B32%5D
-ss://YWVzLTEyOC1nY206OTdiNDI1ZDYxZWUwZGJlNTg0NDllMzYxNGRhZTNlODk@64.20.53.126:17911#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B38%5D
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@35.209.12.212:63691#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B34%5D
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.9:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B37%5D
-ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B35%5D
-vless://7feec880-56f0-4425-9313-e2e340206284@200.169.184.140:443?security=tls&alpn=h2&type=grpc&serviceName=glush.de1.v1&mode=gun&fp=ios&sni=basterdym.asia#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B25%5D
-hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=google.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B12%5D
-vmess://eyJhZGQiOiJnZXRuZXQuc2VydmVyc3ViYXNsaS50b3AiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImQyYjY3ZTQ4LWMzNDEtNDdiYS04Y2FhLTU2NThkZjY5M2FjNCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MDgwLCJwcyI6Ilx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyBJcmFuIFszXSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIn0=#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B3%5D
+vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@83.147.18.75:443?flow=xtls-rprx-vision&fp=chrome&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&security=reality&sid=7f1e29593aa94ad1&spx=/&type=tcp&sni=www.bing.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B3%5D
 hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=www.linux.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B15%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B16%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B22%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.182:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B20%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B24%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B17%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B21%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B23%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvQW01X0wxNkJaWGg1NS1LdWdudnI5d2pjNkMxaDZnSg@95.182.98.143:1080#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B1%5D
 vmess://eyJhZGQiOiJnZXRuZXQuc2VydmVyc3ViYXNsaS50b3AiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImQyYjY3ZTQ4LWMzNDEtNDdiYS04Y2FhLTU2NThkZjY5M2FjNCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MDgwLCJwcyI6Ilx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyBJcmFuIFsyXSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIn0=#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B2%5D
-vless://7feec880-56f0-4425-9313-e2e340206284@200.169.184.140:443?security=tls&alpn=h2&type=grpc&serviceName=glush.de1.v1&mode=gun&fp=firefox&sni=basterdym.asia#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B24%5D
-hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B11%5D
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206ZDFyUEZPUDBWSGtLMjk2aUdETS9lZz09@23.175.201.177:63691#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B1%5D
+ss://YWVzLTEyOC1nY206OTdiNDI1ZDYxZWUwZGJlNTg0NDllMzYxNGRhZTNlODk@64.20.53.126:17911#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B38%5D
+vless://2739258b-a278-4bed-bc5d-f88830824dce@23.95.115.116:2053?encryption=none&security=reality&fp=chrome&flow=xtls-rprx-vision&type=tcp&pbk=plwyjJZIVDt1OtwDAxfcLjDsR7dseVCe9Ia3HceIKEg&sid=a1b2c3d4&sni=www.cloudflare.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B89%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WmlQcnI0ODRPZFNZY2l2RFV2K1VJeWd3dnlXK0hRWXl0S3NJZ1R3OXRVPQ@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B1%5D
+vless://0ef68b97-f878-4cea-b756-c56ea3632851@news.zoom.us:2087?path=/&security=tls&alpn=http/1.1&encryption=none&host=free.vkehi.store&type=ws&fp=edge&sni=free.vkehi.store#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B18%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMgWzMxXSIsImFkZCI6IjQzLjE3My42Ny40MiIsInBvcnQiOjQ3MTE2LCJpZCI6ImZjMzM0N2UyLTAwN2QtNGNhZC1mZTI4LTNkODA2NzJjM2NjYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ==#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B31%5D
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.9:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B37%5D
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.6:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B36%5D
+ss://YWVzLTEyOC1nY206M2I2ZThkZDA1Y2JlNmRiYjAxM2UxNzVjZGVjMjE0ZGM@64.42.181.100:12994#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B33%5D
+ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B35%5D
+vless://59fca0f3-9a6d-471a-9f32-044f353be7eb@djjsg5.wawojk.dpdns.org:24204?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=cYQgUq-cSRENj3PWzyBLvXqIdVYSTqQ8vrnYGATiliI&sid=7788afae&sni=www.asus.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B42%5D
+vless://411a6057-dc5f-4653-bf67-0e9c25554ec7@213.176.19.188:443?security=reality&encryption=none&pbk=FsfogJiifVzkmmk0WryHUcw_bPbd9b8PLoJJBA9Swyk&headerType=none&type=tcp&flow=xtls-rprx-vision&sid=2011f0f1f08231a6&fp=chrome&sni=m.dzen.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B9%5D
+vless://7feec880-56f0-4425-9313-e2e340206284@200.169.184.140:443?security=tls&alpn=h2&type=grpc&serviceName=glush.de1.v1&mode=gun&fp=safari&sni=basterdym.asia#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B27%5D
+vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@45.132.176.61:443?encryption=none&flow=xtls-rprx-vision&security=reality&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&type=tcp&headerType=none&host=sopelka.yandex-api.com&fp=firefox&sni=sopelka.yandex-api.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B29%5D
+vmess://eyJhZGQiOiJnZXRuZXQuc2VydmVyc3ViYXNsaS50b3AiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImQyYjY3ZTQ4LWMzNDEtNDdiYS04Y2FhLTU2NThkZjY5M2FjNCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MDgwLCJwcyI6Ilx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyBJcmFuIFszXSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIn0=#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B3%5D
 hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=speedtest.tinkoff.ru#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B13%5D
-hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=t.me#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B14%5D
+vless://0ef68b97-f878-4cea-b756-c56ea3632851@news.zoom.us:2087?path=/&security=tls&alpn=http/1.1&encryption=none&host=free.vkehi.store&type=ws&fp=chrome&sni=free.vkehi.store#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B17%5D

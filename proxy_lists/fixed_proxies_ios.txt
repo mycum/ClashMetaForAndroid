@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 05.11.2026 07:46)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 05.11.2026 08:47)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 951 | Пинг: 61 | >300KB/s: 33 | SB-Old: 21 | SB-HY: 28 | Clash: 32 | iOS: 16
+# 📊 Stats: Вход: 1007 | Пинг: 72 | >300KB/s: 43 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
 
+vless://411a6057-dc5f-4653-bf67-0e9c25554ec7@213.176.19.188:443?security=reality&encryption=none&pbk=FsfogJiifVzkmmk0WryHUcw_bPbd9b8PLoJJBA9Swyk&headerType=none&type=tcp&flow=xtls-rprx-vision&sid=2011f0f1f08231a6&fp=edge&sni=m.dzen.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B10%5D
+vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@45.132.176.61:443?security=reality&flow=xtls-rprx-vision&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&type=tcp&headerType=none&path=/&fp=ios&sni=sopelka.yandex-api.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B31%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B19%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B17%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.182:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B20%5D
+vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@83.147.18.75:443?flow=xtls-rprx-vision&fp=chrome&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&security=reality&sid=7f1e29593aa94ad1&spx=/&type=tcp&sni=www.bing.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B3%5D
+hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?sni=www.linux.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B15%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B16%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B18%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IElyYW4gWzFdIiwiYWRkIjoiZ2V0bmV0LnNlcnZlcnN1YmFzbGkudG9wIiwicG9ydCI6ODA4MCwiaWQiOiJkMmI2N2U0OC1jMzQxLTQ3YmEtOGNhYS01NjU4ZGY2OTNhYzQiLCJhaWQiOjAsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsImFscG4iOiJodHRwLzEuMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIifQ==
-vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@83.147.18.75:443?flow=xtls-rprx-vision&fp=chrome&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&security=reality&sid=7f1e29593aa94ad1&spx=/&type=tcp&sni=www.bing.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B12%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B24%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B22%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.182:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B20%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B24%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B17%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B21%5D
-hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443/?sni=vk.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B10%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B23%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WmlQcnI0ODRPZFNZY2l2RFV2K1VJeWd3dnlXK0hRWXl0S3NJZ1R3OXRVPQ@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B1%5D
-hysteria2://948b48e5-a202-4770-8552-f35a12dac378@172.245.6.155:18687?alpn=h3&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B32%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvQW01X0wxNkJaWGg1NS1LdWdudnI5d2pjNkMxaDZnSg@95.182.98.143:1080#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B1%5D
+vmess://eyJhZGQiOiJnZXRuZXQuc2VydmVyc3ViYXNsaS50b3AiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImQyYjY3ZTQ4LWMzNDEtNDdiYS04Y2FhLTU2NThkZjY5M2FjNCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MDgwLCJwcyI6Ilx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyBJcmFuIFsyXSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIn0=
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206ZDFyUEZPUDBWSGtLMjk2aUdETS9lZz09@23.175.201.177:63691#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B1%5D
 ss://YWVzLTEyOC1nY206OTdiNDI1ZDYxZWUwZGJlNTg0NDllMzYxNGRhZTNlODk@64.20.53.126:17911#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B38%5D
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@35.209.12.212:63691#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B34%5D
