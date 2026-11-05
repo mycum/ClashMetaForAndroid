@@ -35,13 +35,25 @@ jobs:
           echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/trojan.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/6.txt >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/Hidashimora/free-vpn-anti-rkn/refs/heads/main/configs/27.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/24.txt >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/Hidashimora/free-vpn-anti-rkn/refs/heads/main/configs/28.1.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/7.txt >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/Hidashimora/free-vpn-anti-rkn/refs/heads/main/configs/28.2.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/22.txt >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/Hidashimora/free-vpn-anti-rkn/refs/heads/main/configs/29.txt >> proxy_lists/raw_temp.txt
+          echo "" >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/Hidashimora/free-vpn-anti-rkn/refs/heads/main/configs/30.txt >> proxy_lists/raw_temp.txt
+          echo "" >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/Hidashimora/free-vpn-anti-rkn/refs/heads/main/configs/31.txt >> proxy_lists/raw_temp.txt
+          echo "" >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/Hidashimora/free-vpn-anti-rkn/refs/heads/main/configs/32.1.txt >> proxy_lists/raw_temp.txt
+          echo "" >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/Hidashimora/free-vpn-anti-rkn/refs/heads/main/configs/32.2.txt >> proxy_lists/raw_temp.txt
+          echo "" >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/Hidashimora/free-vpn-anti-rkn/refs/heads/main/configs/33.1.txt >> proxy_lists/raw_temp.txt
+          echo "" >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/Hidashimora/free-vpn-anti-rkn/refs/heads/main/configs/33.2.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/vmess.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
