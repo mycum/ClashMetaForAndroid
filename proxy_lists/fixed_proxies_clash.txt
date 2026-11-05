@@ -1,21 +1,24 @@
-# profile-title: 🚀 Telegood Clash (ТОП-32 от 05.11.2026 18:03)
-# 🛡️ Verified Clash Elite: 17
-# 📊 Stats: Вход: 939 | Пинг: 37 | >300KB/s: 17 | SB-Old: 12 | SB-HY: 14 | Clash: 17 | iOS: 14
+# profile-title: 🚀 Telegood Clash (ТОП-32 от 05.11.2026 19:04)
+# 🛡️ Verified Clash Elite: 20
+# 📊 Stats: Вход: 928 | Пинг: 40 | >300KB/s: 20 | SB-Old: 17 | SB-HY: 18 | Clash: 20 | iOS: 16
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B19%5D
-ss://chacha20-ietf-poly1305:k1dBOmOB4oqi7Ump37a1bQ@82.38.31.185:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B15%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B21%5D
+ss://chacha20-ietf-poly1305:k1dBOmOB4oqi7Ump37a1bQ@82.38.31.185:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B14%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B20%5D
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B23%5D
-vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@83.147.18.75:443?flow=xtls-rprx-vision&fp=chrome&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&security=reality&sid=7f1e29593aa94ad1&sni=www.bing.com&spx=/&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B3%5D
-ss://chacha20-ietf-poly1305:k1dBOmOB4oqi7Ump37a1bQ@82.38.31.204:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B16%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B21%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B17%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B19%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B22%5D
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@98.98.142.161:8080#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B21%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2R3pmZG1kMmN2eWUxcXlLb3ViOUU3ZVdpak1EUjJsSw@64.49.12.39:8044#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B22%5D
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206ZDFyUEZPUDBWSGtLMjk2aUdETS9lZz09@23.175.201.177:63691#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B2%5D
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B4%5D
-hysteria2://8dOHZ13sx33R1%2FPQbhTK%2Fw%3D%3D@34.24.25.1:443?sni=bing.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B21%5D
-ss://YWVzLTEyOC1nY206YmRmYzliYWY3MzU3NmU4NmY1ZGM0NGE4NDA4NjBjNmY@156.244.3.14:18167#%F0%9F%87%B6%F0%9F%87%A6%20Qatar%20%5B1%5D
-vmess://eyJhZGQiOiIxMDQuMjEuNy4xMzMiLCJhaWQiOjAsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0Ijo4MCwicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFszMV0iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2N5IjoiYXV0byIsImFscG4iOiIiLCJmcCI6IiJ9
-hysteria2://633bc3be486b646190661ac2387c150a@152.67.115.203:443?insecure=1&obfs=salamander&obfs-password=850a3fb1cd33a28f12d837578ae1a2e7&sni=www.bing.com#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20%5B2%5D
+ss://chacha20-ietf-poly1305:k1dBOmOB4oqi7Ump37a1bQ@82.38.31.204:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B16%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2R3pmZG1kMmN2eWUxcXlLb3ViOUU3ZVdpak1EUjJsSw@64.49.12.39:8044#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B171%5D
+vless://2739258b-a278-4bed-bc5d-f88830824dce@23.95.115.116:2053?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&type=tcp&pbk=plwyjJZIVDt1OtwDAxfcLjDsR7dseVCe9Ia3HceIKEg&sid=a1b2c3d4#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B80%5D
+vless://0a3432cd-74b8-413a-896d-f51492b030bc@174.137.53.15:443?encryption=none&flow=xtls-rprx-vision&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&security=reality&sid=051f20c2344a2dfd&sni=portal.citygrainla.com&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B18%5D
+vless://0a3432cd-74b8-413a-896d-f51492b030bc@144.168.57.96:443?encryption=none&flow=xtls-rprx-vision&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&security=reality&sid=051f20c2344a2dfd&sni=portal.citygrainla.com&type=tcp&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B25%5D
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B1%5D
+vmess://eyJhZGQiOiIxMDQuMjEuNy4xMzMiLCJhaWQiOjAsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0Ijo4MCwicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFszM10iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2N5IjoiYXV0byIsImFscG4iOiIiLCJmcCI6IiJ9
+hysteria2://8dOHZ13sx33R1%2FPQbhTK%2Fw%3D%3D@34.24.25.1:443?sni=bing.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B28%5D
+vless://0a3432cd-74b8-413a-896d-f51492b030bc@174.137.53.15:443?encryption=none&flow=xtls-rprx-vision&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&security=reality&sid=051f20c2344a2dfd&sni=portal.citygrainla.com&type=tcp&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B15%5D
+vless://0a3432cd-74b8-413a-896d-f51492b030bc@144.168.57.96:443?encryption=none&flow=xtls-rprx-vision&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&security=reality&sid=051f20c2344a2dfd&sni=portal.citygrainla.com&type=tcp&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B22%5D
+vless://0a3432cd-74b8-413a-896d-f51492b030bc@144.168.57.96:443?encryption=none&flow=xtls-rprx-vision&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&security=reality&sid=051f20c2344a2dfd&sni=portal.citygrainla.com&type=tcp&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B23%5D
+vless://0a3432cd-74b8-413a-896d-f51492b030bc@144.168.57.96:443?encryption=none&flow=xtls-rprx-vision&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&security=reality&sid=051f20c2344a2dfd&sni=portal.citygrainla.com&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B20%5D
+vless://0a3432cd-74b8-413a-896d-f51492b030bc@144.168.57.96:443?encryption=none&flow=xtls-rprx-vision&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&security=reality&sid=051f20c2344a2dfd&sni=portal.citygrainla.com&type=tcp&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B26%5D
