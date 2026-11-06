@@ -1,25 +1,14 @@
-# profile-title: 🚀 Telegood Clash (ТОП-32 от 06.11.2026 16:26)
-# 🛡️ Verified Clash Elite: 21
-# 📊 Stats: Вход: 1172 | Пинг: 58 | >300KB/s: 21 | SB-Old: 17 | SB-HY: 21 | Clash: 21 | iOS: 16
+# profile-title: 🚀 Telegood Clash (ТОП-32 от 06.11.2026 17:29)
+# 🛡️ Verified Clash Elite: 10
+# 📊 Stats: Вход: 1075 | Пинг: 28 | >300KB/s: 10 | SB-Old: 7 | SB-HY: 9 | Clash: 10 | iOS: 9
 
-trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.17.10.171:443?type=ws&path=/categories/community/&host=ltf8.jueson.de5.net&fp=chrome&sni=ltf8.jueson.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B940%5D
-trojan://MiTiVPN@146.75.57.120:443?allowInsecure=1&alpn=http/1.1&fp=chrome&host=mtlooabmakaakaoijji.global.ssl.fastly.net&path=/---%40MiTiVPN---%40MiTiVPN&security=tls&sni=cdn.akamai.steamstatic.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B14%5D
-trojan://MiTiVPN@199.232.78.120:443?alpn=http/1.1&host=mtlooabmakaakaoijji.global.ssl.fastly.net&path=/---%40MiTiVPN---%40MiTiVPN&security=tls&sni=cdn.akamai.steamstatic.com&type=ws&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B106%5D
-vmess://eyJhZGQiOiI5MS4xMDcuMTY5LjIyNCIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5kbnMtbG9vay5zcGFjZS4iLCJpZCI6Ijc4ZWQyYzgyLTIwZDYtNDhlZC1hNzZkLTI5NDA2NTgwMzI1OSIsIm5ldCI6Imh0dHB1cGdyYWRlIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MCwicHMiOiJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgR2VybWFueSBbNzZdIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ2IjoiMiJ9
-vless://255a8044-3337-473e-af26-46a37208adcc@nl2.botfight.fun:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=KzMIiJZl6BXPiDBCOFNEiL1Uc3CJg_ZSZJLrc4MgFnU&sid=f3912f1a2dd0ed8e&sni=nl2.botfight.fun#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B49%5D
-vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@82.148.240.81:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&sid=1a2b3c4d&sni=images.porsche.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B10%5D
-vless://255a8044-3337-473e-af26-46a37208adcc@md.flicker.work:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=wRmMiCGZjpdyIxZSPF0EGeFcsBk8TDqPu9pYRxLzIEA&sni=md.flicker.work#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%5B1%5D
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@fi3game.japancase.site:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi3game.japancase.site&fp=chrome&security=reality&pbk=1ONSjyJWD3lAomwIqFmmzb6lAhg077bvMJ7rGJCDk0g&sid=38559e47f5536913#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B14%5D
-hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@9.247.54.188:443?sni=nl1.obxodvpn.us#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B285%5D
-trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.25.95.49:443?type=ws&path=/order/ads/&host=ltf8.jueson.de5.net&fp=chrome&sni=ltf8.jueson.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1120%5D
-trojan://5t6i121em5lkmsmk@us001.zestapp778.com:57277?allowInsecure=1&sni=us001.zestapp778.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B346%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.218:443?sni=learn.discoverfreshgraduatejobsstartyourprofessionaljourney.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B263%5D
-trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?type=tcp#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%20%5B3%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFBvbGFuZCBbNjBdIiwiYWRkIjoiNTQuMzcuMTMxLjEyNiIsInBvcnQiOiI4MCIsImlkIjoiMDU5ZmRhM2UtNWNhOS00ZmJkLWRkODktMDFjYzZkNGJiNWRkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii8iLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uaGVzYW5pZDguaXIuIn0=
-vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@82.148.240.74:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&sid=1a2b3c4d&sni=assets-v2.porsche.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B18%5D
-trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?security=tls&sni=ph001.zestapp778.com&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%AD%20Philippines%20%5B1%5D
-vless://6bffe2e2-86f1-4778-b09d-299db8fe4c3e@sub.vicdn.dev:8080?security=none&type=ws&path=/ws&host=sub.vicdn.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B992%5D
-trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.17.10.171:443?sni=ltf8.jueson.de5.net&type=ws&path=/categories/community/&host=ltf8.jueson.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B939%5D
-vless://255a8044-3337-473e-af26-46a37208adcc@185.209.15.44:443?flow=xtls-rprx-vision&fp=firefox&pbk=KzMIiJZl6BXPiDBCOFNEiL1Uc3CJg_ZSZJLrc4MgFnU&security=reality&sid=f3912f1a2dd0ed8e&sni=nl2.botfight.fun&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B63%5D
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@193.233.199.84:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi3game.japancase.site&fp=firefox&security=reality&pbk=1ONSjyJWD3lAomwIqFmmzb6lAhg077bvMJ7rGJCDk0g&sid=38559e47f5536913#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B5%5D
-vless://255a8044-3337-473e-af26-46a37208adcc@md.flicker.work:443?security=reality&encryption=none&pbk=wRmMiCGZjpdyIxZSPF0EGeFcsBk8TDqPu9pYRxLzIEA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=md.flicker.work#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%5B2%5D
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.17.10.171:443?sni=ltf8.jueson.de5.net&type=ws&path=/categories/community/&host=ltf8.jueson.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B285%5D
+trojan://MiTiVPN@146.75.57.120:443?alpn=http/1.1&host=mtlooabmakaakaoijji.global.ssl.fastly.net&path=/---%40MiTiVPN---%40MiTiVPN&security=tls&sni=cdn.akamai.steamstatic.com&type=ws&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B54%5D
+trojan://MiTiVPN@199.232.78.120:443?alpn=http/1.1&host=mtlooabmakaakaoijji.global.ssl.fastly.net&path=/---%40MiTiVPN---%40MiTiVPN&security=tls&sni=cdn.akamai.steamstatic.com&type=ws&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B69%5D
+vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@5.175.178.214:8445?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&sid=1a2b3c4d&sni=assets-v2.porsche.com#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B9%5D
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.25.95.49:443?type=ws&path=/order/ads/&host=ltf8.jueson.de5.net&fp=chrome&sni=ltf8.jueson.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B288%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@99.79.32.21:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B261%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.218:443?security=tls&sni=learn.discoverfreshgraduatejobsstartyourprofessionaljourney.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B236%5D
+vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@82.148.240.81:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&sid=1a2b3c4d&sni=images.porsche.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B17%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYxIENoaWxlIFsxXSIsImFkZCI6IjE3MC4yMzkuODYuMTc2IiwicG9ydCI6IjQwNzA4IiwiaWQiOiI1MzAwNWFjOC1lZWQxLTRlMzItODE4My03MTUyZTA5OTg3N2EiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ==
+vless://6bffe2e2-86f1-4778-b09d-299db8fe4c3e@sub.vicdn.dev:8080?security=none&type=ws&path=/ws&host=sub.vicdn.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B367%5D
