@@ -1,21 +1,17 @@
-# profile-title: 🚀 Telegood Clash (ТОП-32 от 06.11.2026 23:49)
-# 🛡️ Verified Clash Elite: 17
-# 📊 Stats: Вход: 1071 | Пинг: 23 | >300KB/s: 17 | SB-Old: 12 | SB-HY: 17 | Clash: 17 | iOS: 16
+# profile-title: 🚀 Telegood Clash (ТОП-32 от 07.11.2026 00:52)
+# 🛡️ Verified Clash Elite: 13
+# 📊 Stats: Вход: 1071 | Пинг: 26 | >300KB/s: 13 | SB-Old: 10 | SB-HY: 11 | Clash: 13 | iOS: 9
 
-trojan://gHQP0D7D15@104.18.0.1:2053?type=ws&security=tls&fp=chrome&sni=marvdasht.phonecomparisonblog.org&host=marvdasht.phonecomparisonblog.org#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B181%5D
-trojan://MiTiVPN@199.232.78.120:443?alpn=http/1.1&host=mtlooabmakaakaoijji.global.ssl.fastly.net&path=/---%40MiTiVPN---%40MiTiVPN&security=tls&sni=cdn.akamai.steamstatic.com&type=ws&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B75%5D
-trojan://MiTiVPN@146.75.57.120:443?allowInsecure=1&alpn=http/1.1&fp=chrome&host=mtlooabmakaakaoijji.global.ssl.fastly.net&path=/---%40MiTiVPN---%40MiTiVPN&security=tls&sni=cdn.akamai.steamstatic.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B16%5D
-trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.17.10.171:443?sni=ltf8.jueson.de5.net&type=ws&path=/categories/community/&host=ltf8.jueson.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B568%5D
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@nl4.japancase.site:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=lXCVb-MY5dJqMUw6xvkuPbi0idyfF-OkSY_6GpOovVI&sid=9f05c35b73b47d53&sni=nl4.japancase.site#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B166%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWN1dMYVlkdWprd25qNnh4WHEtMkJTeEdXRWNTSnRUQQ==@88.216.254.18:1080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B217%5D
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us9.h1clayd.click:443?encryption=none&type=tcp&security=reality&sni=04535dt.us9.h1clayd.click&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&sid=ba2a3dce62b99092&fp=firefox&spx=/#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B55%5D
-trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.25.95.49:443?sni=ltf8.jueson.de5.net&type=ws&path=/order/ads/&host=ltf8.jueson.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B570%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IEZyYW5jZSBbMzJdIiwiYWRkIjoiMTQ1LjIzOS41NS4yMTAiLCJwb3J0IjoiODAiLCJpZCI6ImM1NDQzZjU1LWQ0MDUtNDk5MC1hYzM2LThmZDgzYWUyYzE3ZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwiYWxwbiI6IiIsInBhdGgiOiIvIiwiaG9zdCI6Imdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLmZvcnRyZXNzaG9zdC5pci4ifQ==
-hysteria2://eRlY6dXnQ4QUzVOQi6YDfZWq@18.141.210.28:10000?insecure=1&alpn=h3&sni=sg-transit-3.nebulacloud.win#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B93%5D
-trojan://gHQP0D7D15@104.18.0.1:2053?alpn=http/1.1&host=marvdasht.phonecomparisonblog.org&insecure=0&path=/&security=tls&sni=marvdasht.phonecomparisonblog.org&type=ws&fp=firefox#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B182%5D
+vless://8fb19a9e-ca2b-433a-8469-e4c7796033b2@falmero.store:443?alpn=h2&encryption=none&mode=gun&security=tls&serviceName=glush.de1.v1&sni=falmero.store&type=grpc&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B26%5D
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.17.10.171:443?sni=ltf8.jueson.de5.net&type=ws&path=/categories/community/&host=ltf8.jueson.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B507%5D
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@nl4.japancase.site:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=lXCVb-MY5dJqMUw6xvkuPbi0idyfF-OkSY_6GpOovVI&sid=9f05c35b73b47d53&sni=nl4.japancase.site#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B189%5D
+vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?encryption=none&fp=safari&mode=multi&security=tls&serviceName=sync.v1&sni=tz5gtjwlki.j.cloudfront.hls.hlsnode.net&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B81%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IEZyYW5jZSBbMzZdIiwiYWRkIjoiMTQ1LjIzOS41NS4yMTAiLCJwb3J0IjoiODAiLCJpZCI6ImM1NDQzZjU1LWQ0MDUtNDk5MC1hYzM2LThmZDgzYWUyYzE3ZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwiYWxwbiI6IiIsInBhdGgiOiIvIiwiaG9zdCI6Imdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLmZvcnRyZXNzaG9zdC5pci4ifQ==
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@0592efg.us9.h1clayd.click:443?encryption=none&type=grpc&security=reality&sni=0592efg.us9.h1clayd.click&pbk=cO3wYHISTeorXcM8ffaDCDdqZ-olBQL-GyZqb-W7rTk&sid=bd8f712209a9c283&fp=firefox&spx=/&serviceName=99f2107b03f8#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B12%5D
-trojan://MiTiVPN@146.75.57.120:443?allowInsecure=1&alpn=http/1.1&host=mtlooabmakaakaoijji.global.ssl.fastly.net&path=/---%40MiTiVPN---%40MiTiVPN&security=tls&type=ws&fp=edge&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B18%5D
-trojan://gHQP0D7D15@104.18.0.1:2053?alpn=http/1.1&host=marvdasht.phonecomparisonblog.org&insecure=0&path=/&security=tls&sni=marvdasht.phonecomparisonblog.org&type=ws&fp=safari#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B183%5D
-trojan://MiTiVPN@146.75.57.120:443?allowInsecure=1&alpn=http/1.1&host=mtlooabmakaakaoijji.global.ssl.fastly.net&path=/---%40MiTiVPN---%40MiTiVPN&security=tls&type=ws&fp=safari&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B17%5D
-trojan://gHQP0D7D15@104.18.0.1:2053?alpn=http/1.1&host=marvdasht.phonecomparisonblog.org&insecure=0&path=/&security=tls&sni=marvdasht.phonecomparisonblog.org&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B179%5D
-trojan://gHQP0D7D15@104.18.0.1:2053?path=/&security=tls&insecure=0&type=ws&allowInsecure=0&sni=marvdasht.phonecomparisonblog.org&host=marvdasht.phonecomparisonblog.org&alpn=http/1.1&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B180%5D
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.25.95.49:443?type=ws&path=/order/ads/&host=ltf8.jueson.de5.net&sni=ltf8.jueson.de5.net&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B508%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWN1dMYVlkdWprd25qNnh4WHEtMkJTeEdXRWNTSnRUQQ==@88.216.254.18:1080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B205%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?security=tls&headerType=none&type=tcp&sni=searchhealthcarejobsandbuildmedicalcareerpathway.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B16%5D
+trojan://MiTiVPN@199.232.78.120:443?alpn=http/1.1&host=mtlooabmakaakaoijji.global.ssl.fastly.net&path=/---%40MiTiVPN---%40MiTiVPN&security=tls&sni=cdn.akamai.steamstatic.com&type=ws&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B74%5D
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.17.10.171:443?type=ws&path=/categories/community/&host=ltf8.jueson.de5.net&sni=ltf8.jueson.de5.net&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B506%5D
+vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?alpn=h2&encryption=none&fp=safari&mode=multi&security=tls&serviceName=sync.v1&sni=tz5gtjwlki.j.cloudfront.hls.hlsnode.net&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B82%5D
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.25.95.49:443?sni=ltf8.jueson.de5.net&type=ws&path=/order/ads/&host=ltf8.jueson.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B509%5D
