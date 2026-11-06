@@ -1,28 +1,18 @@
-# profile-title: 🚀 Telegood Clash (ТОП-32 от 06.11.2026 19:38)
-# 🛡️ Verified Clash Elite: 24
-# 📊 Stats: Вход: 1150 | Пинг: 62 | >300KB/s: 24 | SB-Old: 19 | SB-HY: 23 | Clash: 24 | iOS: 16
+# profile-title: 🚀 Telegood Clash (ТОП-32 от 06.11.2026 20:41)
+# 🛡️ Verified Clash Elite: 14
+# 📊 Stats: Вход: 1140 | Пинг: 22 | >300KB/s: 14 | SB-Old: 9 | SB-HY: 14 | Clash: 14 | iOS: 14
 
-trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.17.10.171:443?sni=ltf8.jueson.de5.net&type=ws&path=/categories/community/&host=ltf8.jueson.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B389%5D
-trojan://MiTiVPN@199.232.78.120:443?alpn=http/1.1&host=mtlooabmakaakaoijji.global.ssl.fastly.net&path=/---%40MiTiVPN---%40MiTiVPN&security=tls&sni=cdn.akamai.steamstatic.com&type=ws&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B62%5D
-vmess://eyJhZGQiOiI5MS4xMDcuMTY5LjIyNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZG5zLWxvb2suc3BhY2UuIiwiaWQiOiI3OGVkMmM4Mi0yMGQ2LTQ4ZWQtYTc2ZC0yOTQwNjU4MDMyNTkiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJodHRwdXBncmFkZSIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgR2VybWFueSBbNjJdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@nl3.japancase.site:443?encryption=none&flow=xtls-rprx-vision&pbk=ZsKgmywoAPRRkYHqQ8hUHFB6X_f7tjXfYmvSeHj0-xQ&security=reality&sid=0d98b07acc98ccef&sni=nl3.japancase.site&type=tcp&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B158%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?sni=searchhealthcarejobsandbuildmedicalcareerpathway.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B16%5D
-trojan://gHQP0D7D15@104.18.0.1:2053?path=/&security=tls&insecure=0&type=ws&allowInsecure=0&sni=marvdasht.phonecomparisonblog.org&host=marvdasht.phonecomparisonblog.org&alpn=http/1.1&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B269%5D
-trojan://gHQP0D7D15@172.66.0.1:2053?alpn=http/1.1&host=marvdasht.phonecomparisonblog.org&insecure=0&path=/&security=tls&sni=marvdasht.phonecomparisonblog.org&type=ws&fp=ios#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B245%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@99.79.32.21:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B363%5D
-trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.25.95.49:443?type=ws&path=/order/ads/&host=ltf8.jueson.de5.net&fp=chrome&sni=ltf8.jueson.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B394%5D
-trojan://5t6i121em5lkmsmk@us001.zestapp778.com:57277?type=tcp&security=tls&fp=chrome&sni=us001.zestapp778.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B182%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.218:443?security=tls&sni=learn.discoverfreshgraduatejobsstartyourprofessionaljourney.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B188%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.131:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.explorecreativejobsandenhanceyourcareerportfolio.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B148%5D
-trojan://5t6i121em5lkmsmk@br001.zestapp778.com:39533?type=tcp&sni=br001.zestapp778.com#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5B1%5D
-vless://c1fdf1e6-6370-4bad-a866-f80f27f5e785@213.108.21.173:443?security=reality&encryption=none&pbk=oSbyJBoI2JTEva2ks51kmUCA7z-iFUcoGYCk-ciEaDU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl1.kids-games.ru#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B43%5D
-trojan://MiTiVPN@146.75.57.120:443?allowInsecure=1&alpn=http/1.1&fp=chrome&host=mtlooabmakaakaoijji.global.ssl.fastly.net&path=/---%40MiTiVPN---%40MiTiVPN&security=tls&sni=cdn.akamai.steamstatic.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B6%5D
-trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.17.10.171:443?type=ws&path=/categories/community/&host=ltf8.jueson.de5.net&fp=chrome&sni=ltf8.jueson.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B390%5D
-trojan://gHQP0D7D15@104.18.0.1:2053?alpn=http/1.1&host=marvdasht.phonecomparisonblog.org&insecure=0&path=/&security=tls&sni=marvdasht.phonecomparisonblog.org&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B266%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.131:443?sni=blog.explorecreativejobsandenhanceyourcareerportfolio.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B147%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.218:443?security=tls&fp=chrome&sni=learn.discoverfreshgraduatejobsstartyourprofessionaljourney.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B189%5D
-trojan://gHQP0D7D15@172.66.0.1:2053?security=tls&sni=marvdasht.phonecomparisonblog.org&type=ws&host=marvdasht.phonecomparisonblog.org&path=/&fp=chrome&alpn=http/1.1&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B247%5D
-vless://c1fdf1e6-6370-4bad-a866-f80f27f5e785@213.108.21.173:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=oSbyJBoI2JTEva2ks51kmUCA7z-iFUcoGYCk-ciEaDU&sni=nl1.kids-games.ru#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B42%5D
-trojan://5t6i121em5lkmsmk@us001.zestapp778.com:57277?allowInsecure=1&sni=us001.zestapp778.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B181%5D
-trojan://gHQP0D7D15@104.18.0.1:2053?host=marvdasht.phonecomparisonblog.org&path=/&security=tls&sni=marvdasht.phonecomparisonblog.org&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B265%5D
-trojan://gHQP0D7D15@172.66.0.1:2053?alpn=http/1.1&host=marvdasht.phonecomparisonblog.org&insecure=0&path=/&security=tls&sni=marvdasht.phonecomparisonblog.org&type=ws&fp=safari#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B246%5D
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.17.10.171:443?sni=ltf8.jueson.de5.net&type=ws&path=/categories/community/&host=ltf8.jueson.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B359%5D
+trojan://MiTiVPN@146.75.57.120:443?allowInsecure=1&alpn=http/1.1&fp=chrome&host=mtlooabmakaakaoijji.global.ssl.fastly.net&path=/---%40MiTiVPN---%40MiTiVPN&security=tls&sni=cdn.akamai.steamstatic.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B16%5D
+trojan://MiTiVPN@199.232.78.120:443?alpn=http/1.1&host=mtlooabmakaakaoijji.global.ssl.fastly.net&path=/---%40MiTiVPN---%40MiTiVPN&security=tls&sni=cdn.akamai.steamstatic.com&type=ws&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B89%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?security=tls&headerType=none&type=tcp&sni=searchhealthcarejobsandbuildmedicalcareerpathway.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B16%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.208:443?security=tls&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&sni=resources.yourultimateprofessionalcareerhub.com#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B19%5D
+hysteria2://72dc58e9-2583-4905-9a32-0635217a0ad9@37.18.15.116:5555?sni=wl11.white-dns.cloud&alpn=h3#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B54%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.131:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.explorecreativejobsandenhanceyourcareerportfolio.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B130%5D
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.25.95.49:443?type=ws&path=/order/ads/&host=ltf8.jueson.de5.net&fp=chrome&sni=ltf8.jueson.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B549%5D
+vless://6bffe2e2-86f1-4778-b09d-299db8fe4c3e@sub.vicdn.dev:8080?security=none&type=ws&path=/ws&host=sub.vicdn.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B414%5D
+hysteria2://1794082870%3A063fff3c-d6dd-43e3-b2fb-124785f13029%3ACTIsdSVtro0BDR9MTUEuiYpjN3F5BN169ytiJfmMR6c@212.41.8.76:36104?sni=gb2.lumacache.com&alpn=h3#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B52%5D
+hysteria2://eRlY6dXnQ4QUzVOQi6YDfZWq@18.141.210.28:10000?insecure=1&alpn=h3&sni=sg-transit-3.nebulacloud.win#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B96%5D
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.17.10.171:443?type=ws&path=/categories/community/&host=ltf8.jueson.de5.net&sni=ltf8.jueson.de5.net&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B360%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?sni=searchhealthcarejobsandbuildmedicalcareerpathway.com&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B17%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.131:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&fp=chrome&sni=blog.explorecreativejobsandenhanceyourcareerportfolio.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B131%5D
