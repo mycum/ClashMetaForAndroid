@@ -1,13 +1,13 @@
-# profile-title: 📦 Telegood Sing-box (ТОП-32 от 06.11.2026 20:41)
+# profile-title: 📦 Telegood Sing-box (ТОП-32 от 06.11.2026 21:44)
 # 🛡️ Verified Sing-box Legacy: 9
-# 📊 Stats: Вход: 1140 | Пинг: 22 | >300KB/s: 14 | SB-Old: 9 | SB-HY: 14 | Clash: 14 | iOS: 14
+# 📊 Stats: Вход: 1109 | Пинг: 31 | >300KB/s: 14 | SB-Old: 9 | SB-HY: 14 | Clash: 14 | iOS: 14
 
-trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.17.10.171:443?type=ws&path=/categories/community/&host=ltf8.jueson.de5.net&sni=ltf8.jueson.de5.net&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B359%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?security=tls&headerType=none&type=tcp&sni=searchhealthcarejobsandbuildmedicalcareerpathway.com&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B16%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.208:443?security=tls&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&sni=resources.yourultimateprofessionalcareerhub.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B19%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.131:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.explorecreativejobsandenhanceyourcareerportfolio.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B130%5D
-trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.25.95.49:443?type=ws&path=/order/ads/&host=ltf8.jueson.de5.net&fp=chrome&sni=ltf8.jueson.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B549%5D
-vless://6bffe2e2-86f1-4778-b09d-299db8fe4c3e@sub.vicdn.dev:8080?security=none&type=ws&path=/ws&host=sub.vicdn.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B414%5D
-trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.17.10.171:443?type=ws&path=/categories/community/&host=ltf8.jueson.de5.net&fp=chrome&sni=ltf8.jueson.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B360%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?fp=chrome&sni=searchhealthcarejobsandbuildmedicalcareerpathway.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B17%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.131:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&fp=chrome&sni=blog.explorecreativejobsandenhanceyourcareerportfolio.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B131%5D
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.17.10.171:443?type=ws&path=/categories/community/&host=ltf8.jueson.de5.net&sni=ltf8.jueson.de5.net&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B485%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?security=tls&headerType=none&type=tcp&fp=chrome&sni=searchhealthcarejobsandbuildmedicalcareerpathway.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B18%5D
+vless://6bffe2e2-86f1-4778-b09d-299db8fe4c3e@sub.vicdn.dev:8080?security=none&type=ws&path=/ws&host=sub.vicdn.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B336%5D
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.25.95.49:443?type=ws&path=/order/ads/&host=ltf8.jueson.de5.net&fp=chrome&sni=ltf8.jueson.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B266%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbMjFdIiwiYWRkIjoiMTcyLjY3LjE1Ni4xMjEiLCJwb3J0Ijo0NDMsImlkIjoiZTcwYTViNzAtZjYzYy00NDUwLWFmOGItOTQ5OTBjZGY4MGMwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ3d3cuZ3B0Y2xvdWRhaS5jb20iLCJwYXRoIjoiL3RydXRoIiwidGxzIjoidGxzIiwic25pIjoid3d3LmdwdGNsb3VkYWkuY29tIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiJjaHJvbWUifQ==
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.17.10.171:443?type=ws&path=/categories/community/&host=ltf8.jueson.de5.net&fp=chrome&sni=ltf8.jueson.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B484%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?security=tls&headerType=none&type=tcp&sni=searchhealthcarejobsandbuildmedicalcareerpathway.com&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B17%5D
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.25.95.49:443?type=ws&path=/order/ads/&host=ltf8.jueson.de5.net&sni=ltf8.jueson.de5.net&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B265%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbNV0iLCJhZGQiOiJ3d3cuZ3B0Y2xvdWRhaS5jb20iLCJwb3J0Ijo0NDMsImlkIjoiZTcwYTViNzAtZjYzYy00NDUwLWFmOGItOTQ5OTBjZGY4MGMwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImFscG4iOiIiLCJzbmkiOiJ3d3cuZ3B0Y2xvdWRhaS5jb20iLCJwYXRoIjoiL3RydXRoIiwiaG9zdCI6IiIsImZwIjoiY2hyb21lIn0=

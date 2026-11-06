@@ -1,18 +1,18 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 06.11.2026 20:41)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 06.11.2026 21:44)
 # 🛡️ Verified Elite: 14
-# 📊 Stats: Вход: 1140 | Пинг: 22 | >300KB/s: 14 | SB-Old: 9 | SB-HY: 14 | Clash: 14 | iOS: 14
+# 📊 Stats: Вход: 1109 | Пинг: 31 | >300KB/s: 14 | SB-Old: 9 | SB-HY: 14 | Clash: 14 | iOS: 14
 
-trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.17.10.171:443?type=ws&path=/categories/community/&host=ltf8.jueson.de5.net&sni=ltf8.jueson.de5.net&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B359%5D
-trojan://MiTiVPN@146.75.57.120:443?alpn=http/1.1&fp=chrome&host=mtlooabmakaakaoijji.global.ssl.fastly.net&path=/---%40MiTiVPN---%40MiTiVPN&security=tls&type=ws&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B16%5D
-trojan://MiTiVPN@199.232.78.120:443?alpn=http/1.1&host=mtlooabmakaakaoijji.global.ssl.fastly.net&path=/---%40MiTiVPN---%40MiTiVPN&security=tls&type=ws&fp=chrome&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B89%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?security=tls&headerType=none&type=tcp&sni=searchhealthcarejobsandbuildmedicalcareerpathway.com&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B16%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.208:443?security=tls&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&sni=resources.yourultimateprofessionalcareerhub.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B19%5D
-hysteria2://72dc58e9-2583-4905-9a32-0635217a0ad9@37.18.15.116:5555?alpn=h3&sni=wl11.white-dns.cloud#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B54%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.131:443?security=tls&headerType=none&type=tcp&sni=blog.explorecreativejobsandenhanceyourcareerportfolio.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B130%5D
-trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.25.95.49:443?type=ws&path=/order/ads/&host=ltf8.jueson.de5.net&fp=chrome&sni=ltf8.jueson.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B549%5D
-vless://6bffe2e2-86f1-4778-b09d-299db8fe4c3e@sub.vicdn.dev:8080?security=none&type=ws&path=/ws&host=sub.vicdn.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B414%5D
-hysteria2://1794082870%3A063fff3c-d6dd-43e3-b2fb-124785f13029%3ACTIsdSVtro0BDR9MTUEuiYpjN3F5BN169ytiJfmMR6c@212.41.8.76:36104?alpn=h3&sni=gb2.lumacache.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B52%5D
-hysteria2://eRlY6dXnQ4QUzVOQi6YDfZWq@18.141.210.28:10000?alpn=h3&sni=sg-transit-3.nebulacloud.win#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B96%5D
-trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.17.10.171:443?type=ws&path=/categories/community/&host=ltf8.jueson.de5.net&fp=chrome&sni=ltf8.jueson.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B360%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?fp=chrome&sni=searchhealthcarejobsandbuildmedicalcareerpathway.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B17%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.131:443?security=tls&headerType=none&type=tcp&fp=chrome&sni=blog.explorecreativejobsandenhanceyourcareerportfolio.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B131%5D
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.17.10.171:443?type=ws&path=/categories/community/&host=ltf8.jueson.de5.net&sni=ltf8.jueson.de5.net&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B485%5D
+trojan://MiTiVPN@146.75.57.120:443?alpn=http/1.1&host=mtlooabmakaakaoijji.global.ssl.fastly.net&path=/---%40MiTiVPN---%40MiTiVPN&security=tls&type=ws&fp=edge&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B18%5D
+trojan://MiTiVPN@199.232.78.120:443?alpn=http/1.1&host=mtlooabmakaakaoijji.global.ssl.fastly.net&path=/---%40MiTiVPN---%40MiTiVPN&security=tls&type=ws&fp=chrome&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B94%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?security=tls&headerType=none&type=tcp&fp=chrome&sni=searchhealthcarejobsandbuildmedicalcareerpathway.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B18%5D
+vless://6bffe2e2-86f1-4778-b09d-299db8fe4c3e@sub.vicdn.dev:8080?security=none&type=ws&path=/ws&host=sub.vicdn.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B336%5D
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.25.95.49:443?type=ws&path=/order/ads/&host=ltf8.jueson.de5.net&fp=chrome&sni=ltf8.jueson.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B266%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbMjFdIiwiYWRkIjoiMTcyLjY3LjE1Ni4xMjEiLCJwb3J0Ijo0NDMsImlkIjoiZTcwYTViNzAtZjYzYy00NDUwLWFmOGItOTQ5OTBjZGY4MGMwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ3d3cuZ3B0Y2xvdWRhaS5jb20iLCJwYXRoIjoiL3RydXRoIiwidGxzIjoidGxzIiwic25pIjoid3d3LmdwdGNsb3VkYWkuY29tIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiJjaHJvbWUifQ==
+hysteria2://1794082870%3A063fff3c-d6dd-43e3-b2fb-124785f13029%3ACTIsdSVtro0BDR9MTUEuiYpjN3F5BN169ytiJfmMR6c@212.41.8.76:36104?alpn=h3&sni=gb2.lumacache.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B58%5D
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.17.10.171:443?type=ws&path=/categories/community/&host=ltf8.jueson.de5.net&fp=chrome&sni=ltf8.jueson.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B484%5D
+trojan://MiTiVPN@146.75.57.120:443?alpn=http/1.1&host=mtlooabmakaakaoijji.global.ssl.fastly.net&path=/---%40MiTiVPN---%40MiTiVPN&security=tls&type=ws&fp=safari&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B19%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?security=tls&headerType=none&type=tcp&sni=searchhealthcarejobsandbuildmedicalcareerpathway.com&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B17%5D
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.25.95.49:443?type=ws&path=/order/ads/&host=ltf8.jueson.de5.net&sni=ltf8.jueson.de5.net&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B265%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbNV0iLCJhZGQiOiJ3d3cuZ3B0Y2xvdWRhaS5jb20iLCJwb3J0Ijo0NDMsImlkIjoiZTcwYTViNzAtZjYzYy00NDUwLWFmOGItOTQ5OTBjZGY4MGMwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImFscG4iOiIiLCJzbmkiOiJ3d3cuZ3B0Y2xvdWRhaS5jb20iLCJwYXRoIjoiL3RydXRoIiwiaG9zdCI6IiIsImZwIjoiY2hyb21lIn0=
+trojan://MiTiVPN@146.75.57.120:443?alpn=http/1.1&host=mtlooabmakaakaoijji.global.ssl.fastly.net&path=/---%40MiTiVPN---%40MiTiVPN&security=tls&type=ws&fp=chrome&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B16%5D
