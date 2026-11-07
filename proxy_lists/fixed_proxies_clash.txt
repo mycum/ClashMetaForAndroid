@@ -1,33 +1,30 @@
-# profile-title: 🚀 Telegood Clash (ТОП-32 от 07.11.2026 14:49)
-# 🛡️ Verified Clash Elite: 29
-# 📊 Stats: Вход: 1243 | Пинг: 51 | >300KB/s: 29 | SB-Old: 19 | SB-HY: 29 | Clash: 29 | iOS: 16
+# profile-title: 🚀 Telegood Clash (ТОП-32 от 07.11.2026 15:53)
+# 🛡️ Verified Clash Elite: 26
+# 📊 Stats: Вход: 1205 | Пинг: 40 | >300KB/s: 26 | SB-Old: 15 | SB-HY: 26 | Clash: 26 | iOS: 16
 
-vless://fc486b2b-8a22-4c93-8a8b-f40e1522ba78@ct.877774.xyz:443?encryption=none&security=tls&sni=it-mil.862400.xyz&fp=random&type=ws&host=it-mil.862400.xyz&path=/announcement%3Fed%3D2048#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B449%5D
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@5d0319t.nl7.h1clayd.click:443?security=reality&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&sid=361d0dd59c70516f&fp=firefox&sni=5d0319t.nl7.h1clayd.click&type=tcp&headerType=none&host=5d0319t.nl7.h1clayd.click&path=/#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B5%5D
-vless://3bb97d46-789b-4229-88f6-9beb222a4137@50.7.176.65:443?flow=xtls-rprx-vision&pbk=lIZbI6KG18rkVDyMhLo7e6KvmffxR6fvFNzzC-O9vT8&security=reality&sni=smart2.khinikadze.com&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B18%5D
-vless://b7b8ee80-db83-4276-8c68-87dc88b0b0b5@15d7fft.nl11.h1clayd.click:443?encryption=none&pbk=xv6OUZcyzEHXFMTfumuJH-1Rd4NQ0cdmWikek4mm0m4&security=reality&sid=c71118d9399fb8c2&sni=15d7fft.nl11.h1clayd.click&spx=/&type=tcp&fp=ios#%F0%9F%87%A7%F0%9F%87%BE%20Belarus%20%5B9%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?sni=searchhealthcarejobsandbuildmedicalcareerpathway.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B6%5D
-vless://90157e25-cee1-4217-921e-91f300bc1a24@50.7.227.77:443?encryption=none&flow=xtls-rprx-vision&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=bizorg.su&type=tcp&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B10%5D
-vless://12776e55-6230-48b9-b069-1bb8a04b4237@217.60.27.78:443?security=reality&flow=xtls-rprx-vision&sni=music.3apes.online&type=tcp&fp=qq&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B4%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IEZyYW5jZSBbMzRdIiwiYWRkIjoiMTQ1LjIzOS41NS4yMTAiLCJwb3J0IjoiODAiLCJpZCI6ImM1NDQzZjU1LWQ0MDUtNDk5MC1hYzM2LThmZDgzYWUyYzE3ZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwiYWxwbiI6IiIsInBhdGgiOiIvIiwiaG9zdCI6Imdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLmZvcnRyZXNzaG9zdC5pci4ifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWN1dMYVlkdWprd25qNnh4WHEtMkJTeEdXRWNTSnRUQQ@88.216.254.18:1080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B26%5D
-vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@107.174.34.25:7443?security=tls&sni=666-7sf.pages.dev&fp=firefox&type=ws&path=/&host=666-7sf.pages.dev&ech=cloudflare-ech.com%2Bhttps%3A//dns.alidns.com/dns-query#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B58%5D
-hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.102.144:20443?sni=hy62c5d8.w-mebel.pro#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B334%5D
-hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@88.216.57.197:20443?sni=hy51290d.w-mebel.pro#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B493%5D
-hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@88.216.254.13:20443?sni=hy51290d.w-mebel.pro#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B492%5D
-hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.102.163:20443?sni=hy62c5d8.w-mebel.pro#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B332%5D
-hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.102.158:20443?sni=hy62c5d8.w-mebel.pro#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B333%5D
-hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.98.84:20443?sni=hy6b373d.w-mebel.pro#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B249%5D
-hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.102.145:20443?sni=hy62c5d8.w-mebel.pro#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B329%5D
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.25.95.49:443?sni=ltf8.jueson.de5.net&type=ws&path=/order/ads/&host=ltf8.jueson.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B485%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?security=tls&sni=searchhealthcarejobsandbuildmedicalcareerpathway.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B5%5D
+vless://90157e25-cee1-4217-921e-91f300bc1a24@fduknew.titun.su:443?type=tcp&security=reality&sni=bizorg.su&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&fp=chrome&spx=/&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B11%5D
+vless://12776e55-6230-48b9-b069-1bb8a04b4237@music.3apes.online:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&sni=music.3apes.online#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B24%5D
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@tr3.japancase.site:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=B5Rbu23-J_PmzD6d-5ra_pxKaXd1MeRf6IT4jT_6PEM&security=reality&sid=071c3bd86b0c3c73&sni=tr3.japancase.site&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B101%5D
+hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.102.158:20443?sni=hy62c5d8.w-mebel.pro#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B303%5D
+hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.102.145:20443?sni=hy62c5d8.w-mebel.pro#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B300%5D
+hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@88.216.254.13:20443?sni=hy51290d.w-mebel.pro#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B493%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?sni=learn.yourultimateprofessionalcareerhub.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B11%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IEZyYW5jZSBbMzJdIiwiYWRkIjoiMTQ1LjIzOS41NS4yMTAiLCJwb3J0IjoiODAiLCJpZCI6ImM1NDQzZjU1LWQ0MDUtNDk5MC1hYzM2LThmZDgzYWUyYzE3ZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwiYWxwbiI6IiIsInBhdGgiOiIvIiwiaG9zdCI6Imdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLmZvcnRyZXNzaG9zdC5pci4ifQ==
+hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.102.153:20443?sni=hy62c5d8.w-mebel.pro#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B299%5D
+hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.102.163:20443?sni=hy62c5d8.w-mebel.pro#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B302%5D
+hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.102.144:20443?sni=hy62c5d8.w-mebel.pro#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B304%5D
 vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@192.240.96.12:993?encryption=none&fp=firefox&host=us2-ws.gacvpn.site&path=/static/js/vendor.2e12e7f4.js&security=tls&type=ws&sni=us2-ws.gacvpn.site#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B44%5D
-vless://55458d10-24ab-4ea6-a522-13741b546f2a@345739t.de15.h1clayd.click:443?type=raw&security=reality&sni=345739t.de15.h1clayd.click&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&sid=23732d14a527990d&fp=chrome&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B17%5D
-hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.23.76:20443?sni=hy530899.w-mebel.pro#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B144%5D
-hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.102.153:20443?sni=hy62c5d8.w-mebel.pro#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B328%5D
-vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@dddz-1-x.473221.xyz:43116?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=rLU2xJNZPFvtHy49MygD-nta6OpJEbjarjAZ5vHwpVE&sid=29ad689280e2f0ec&sni=v1-dy.ixigua.com&servername=v1-dy.ixigua.com&spx=/&fp=edge#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B3%5D
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@tr3.japancase.site:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=B5Rbu23-J_PmzD6d-5ra_pxKaXd1MeRf6IT4jT_6PEM&security=reality&sid=071c3bd86b0c3c73&sni=tr3.japancase.site&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B99%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?security=tls&sni=searchhealthcarejobsandbuildmedicalcareerpathway.com&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B5%5D
-vless://90157e25-cee1-4217-921e-91f300bc1a24@fduknew.titun.su:443?type=tcp&security=reality&sni=bizorg.su&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&fp=chrome&spx=/&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B5%5D
-vless://3bb97d46-789b-4229-88f6-9beb222a4137@smart2.khinikadze.com:443?encryption=none&flow=xtls-rprx-vision&pbk=lIZbI6KG18rkVDyMhLo7e6KvmffxR6fvFNzzC-O9vT8&security=reality&sni=smart2.khinikadze.com&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B43%5D
-vless://12776e55-6230-48b9-b069-1bb8a04b4237@music.3apes.online:443?security=reality&type=tcp&packetEncoding=xudp&fp=chrome&flow=xtls-rprx-vision&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&encryption=none&sni=music.3apes.online#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B24%5D
-vless://55458d10-24ab-4ea6-a522-13741b546f2a@ec7a81g.de15.h1clayd.click:443?type=grpc&security=reality&sni=ec7a81g.de15.h1clayd.click&pbk=shUbIWcBJdXaDzO80KqTU9exgMarUCOiiZ56Dwl7XVU&sid=7a8e24da4eb2c1b5&fp=chrome&spx=/&serviceName=43f41cd7fee0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B10%5D
-vless://12776e55-6230-48b9-b069-1bb8a04b4237@music.3apes.online:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&sni=music.3apes.online#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B22%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.208:443?security=tls&sni=resources.yourultimateprofessionalcareerhub.com&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B13%5D
+hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@88.216.57.197:20443?sni=hy51290d.w-mebel.pro#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B495%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.131:443?headerType=none&insecure=0&security=tls&sni=blog.explorecreativejobsandenhanceyourcareerportfolio.com&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B87%5D
+hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.23.76:20443?sni=hy530899.w-mebel.pro#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B141%5D
+vless://7b91b2c3-8af3-449b-a555-00c9460989f4@lvi.su:443?host=lvi.su&path=/vpn-relay%3Ftoken%3D27fede42482b3c29d4c1c9640876c250%26pool%3Dwhitelist2&security=tls&sni=lvi.su&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B26%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?security=tls&sni=searchhealthcarejobsandbuildmedicalcareerpathway.com&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B4%5D
+vless://90157e25-cee1-4217-921e-91f300bc1a24@50.7.227.77:443?encryption=none&flow=xtls-rprx-vision&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=bizorg.su&type=tcp&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B16%5D
+vless://12776e55-6230-48b9-b069-1bb8a04b4237@music.3apes.online:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&sni=music.3apes.online#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B27%5D
+hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.102.145:20443?sni=auto.w-mebel.pro#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B301%5D
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@192.240.96.12:993?encryption=none&fp=firefox&host=us2-ws.gacvpn.site&path=/static/js/vendor.2e12e7f4.js?ed=2048&security=tls&sni=us2-ws.gacvpn.site&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B43%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?headerType=none&insecure=0&security=tls&sni=learn.yourultimateprofessionalcareerhub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B10%5D
+vless://12776e55-6230-48b9-b069-1bb8a04b4237@music.3apes.online:443?security=reality&type=tcp&packetEncoding=xudp&sni=music.3apes.online&fp=qq&flow=xtls-rprx-vision&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B25%5D
