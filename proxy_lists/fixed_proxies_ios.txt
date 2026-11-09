@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 09.11.2026 06:45)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 09.11.2026 07:54)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1359 | Пинг: 149 | >300KB/s: 98 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
+# 📊 Stats: Вход: 1582 | Пинг: 203 | >300KB/s: 139 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
 
-vless://d9cc5c37-b53c-14a1-b4e1-1b9f7fbea1b1@46.243.232.71:443?alpn=http/1.1&encryption=none&fp=chrome&path=/ogVAL8moh5SB&security=tls&type=ws&sni=6b9iw.guardora.pro#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B159%5D
-vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@saas.sin.fan:443?host=vp.1145678.xyz&path=/course/app/album&security=tls&type=ws&fp=chrome&sni=vp.1145678.xyz#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B51%5D
-vless://8f317272-36ed-4235-9c19-94c5a4dc9d21@141.193.213.20:8443?security=tls&type=ws&host=gem.hilaxjenu.cv&path=/&fp=chrome&sni=gem.hilaxjenu.cv#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B372%5D
-trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.17.10.171:443?type=ws&path=/categories/community/&host=ltf8.jueson.de5.net&sni=ltf8.jueson.de5.net&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B225%5D
-trojan://MiTiVPN@151.101.36.7:443?alpn=http/1.1&fp=chrome&host=Abu.ac.ir&path=/---%40MiTiVPN---%40MiTiVPN&security=tls&type=ws&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B28%5D
-trojan://MiTiVPN@146.75.57.7:443?alpn=http/1.1&fp=chrome&host=MiTiVPN-1-mitivpn.ac.ir&path=/---%40MiTiVPN---%40MiTiVPN&security=tls&type=ws&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B27%5D
-trojan://MiTiVPN@199.232.78.160:443?alpn=http/1.1&fp=chrome&host=MiTiVPN-1-mitivpn.ac.ir&path=/---%40MiTiVPN---%40MiTiVPN&security=tls&type=ws&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B29%5D
-vless://68a67906-5b37-4779-a6cc-58a1655f18b4@87.228.33.153:6443?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&type=raw&sni=for.cloudgamings.org#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B146%5D
-trojan://MiTiVPN@167.82.64.7:443?alpn=http/1.1&fp=chrome&host=MiTiVPN-1-mitivpn.ac.ir&path=/---%40MiTiVPN---%40MiTiVPN&security=tls&type=ws&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B26%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0QUdHemdSQ2k2Vzk1VXdHMHFlcmY2@87.228.61.175:1443#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B124%5D
-vless://9ff455f4-d2ca-4459-a824-495fda97dae7@167.233.187.38:1405?security=reality&type=tcp&fp=firefox&flow=xtls-rprx-vision&sid=4ea6a183&pbk=bNpg56GtTArrVyrnonNlMA-3JyYIAFATdgsH_wn0gmc&sni=ai.android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B89%5D
-vless://68a67906-5b37-4779-a6cc-58a1655f18b4@185.178.208.156:443?alpn=http/1.1&encryption=none&fp=firefox&path=/api/v2/checkout/poll&security=tls&type=ws&sni=sport.herumhas.shop#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B148%5D
-ss://YWVzLTI1Ni1nY206RkpvX1YtS012cmlEZWtOMENZa2ROSDBD@177.202.64.67:1080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B74%5D
-vless://4f17a683-61dc-4267-95f1-26ce9cdf7db7@201.51.20.202:80?security=reality&pbk=01TVUAOh5KwdTUgKgn_wSykY7fCPcQ409wzqjKCw0Vc&sid=183b98&type=tcp&encryption=none&fp=safari&sni=yahoo.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B2%5D
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?fp=chrome&sni=t.me/fuckthewall#%F0%9F%87%B3%F0%9F%87%AA%20Niger%20%5B7%5D
-vless://68a67906-5b37-4779-a6cc-58a1655f18b4@194.55.239.39:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&alpn=h2,http/1.1&fp=chrome&sni=cdn-network.cloudgamings.org#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B65%5D
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.17.10.171:443?path=/categories/community/&security=tls&host=ltf8.jueson.de5.net&type=ws&sni=ltf8.jueson.de5.net&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B269%5D
+vless://226279dd-28b2-4b61-96be-a2a0b1afd522@www.visa.com:8443?path=/%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&security=tls&encryption=none&host=hk.zhaoqing.city&fp=chrome&type=ws&sni=hk.zhaoqing.city#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B297%5D
+vless://6f1186f0-48de-42b7-a900-9075a794b72e@185.86.145.174:10452?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=L1Ug_ELbeZ_5q9QRzO5Lg_ZMkus9n72aiUfvFirN9Vo&security=reality&sid=c8a79c7b64adca2a&spx=/&type=raw&sni=passport.yandex.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B197%5D
+vless://cfa71937-73d5-4eb8-9b25-eadecd944803@radar.cloudflare.com:8080?type=ws&host=sh-harand.shcharand00.workers.dev&sni=radar.cloudflare.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B320%5D
+vless://6eb642a2-f8ee-47cc-9c13-fabb0a50350d@168.113.128.70:20103?flow=xtls-rprx-vision&security=tls&alpn=h2,http/1.1&fp=firefox&sni=flatknot.net#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B53%5D
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@176.98.176.60:443?flow=xtls-rprx-vision&security=tls&alpn=h2,http/1.1&fp=firefox&sni=mosaic.topp-con.xyz#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B38%5D
+vless://1d7427ab-8a5d-4317-9335-2e48d50be4fc@178.248.232.105:55443?flow=xtls-rprx-vision&security=reality&fp=chrome&pbk=UoWXZIbLDIDA1opu4ekUYLNWgci5gLgghMJ07ApYTGo&sid=228c1a2e913d1f05&sni=rutube.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B89%5D
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@31.130.151.97:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=0GBR6DwsCQEYEa7QZHnOqbwmEMr8moms1sFU-wT-bHE&sni=addons.mozilla.org#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B47%5D
+vless://4911ec85-501b-4841-92d5-fbf9d942faf4@www.speedtest.net:443?security=tls&type=ws&host=fast-route-279ca1-gw.staging-api-c694f6.workers.dev&fp=chrome&alpn=http/1.1&path=/3c7d135ea6a9e966&sni=fast-route-279ca1-gw.staging-api-c694f6.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B206%5D
+trojan://MiTiVPN@199.232.78.160:443?alpn=http/1.1&fp=chrome&host=MiTiVPN-1-mitivpn.ac.ir&path=/---%40MiTiVPN---%40MiTiVPN&security=tls&type=ws&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B16%5D
+hysteria2://190edece-2750-454c-b766-0570fc32deca@89.125.214.221:19455?fp=firefox&alpn=h3&sni=mshvpn.online#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B14%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0QUdHemdSQ2k2Vzk1VXdHMHFlcmY2@87.228.61.175:1443#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B171%5D
+vless://68a67906-5b37-4779-a6cc-58a1655f18b4@87.228.33.153:6443?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&type=raw&sni=for.cloudgamings.org#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B174%5D
+trojan://MiTiVPN@146.75.57.7:443?alpn=http/1.1&fp=chrome&host=MiTiVPN-1-mitivpn.ac.ir&path=/---%40MiTiVPN---%40MiTiVPN&security=tls&type=ws&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B18%5D
+vless://9ff455f4-d2ca-4459-a824-495fda97dae7@167.233.187.38:1405?security=reality&type=tcp&fp=firefox&flow=xtls-rprx-vision&sid=4ea6a183&pbk=bNpg56GtTArrVyrnonNlMA-3JyYIAFATdgsH_wn0gmc&sni=ai.android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B101%5D
+vless://8af1ac56-283b-4fc5-bb33-6892498a0592@196.196.148.67:25310?encryption=none&flow=xtls-rprx-vision&pbk=TTRwt0Zvu8OWBLFTI3VQv7m8w01VAmRxtghhLIKuXXc&security=reality&sid=69ca1a9ff751056f&type=tcp&fp=ios&sni=cabinet.evotor.ru#%F0%9F%87%B3%F0%9F%87%AA%20Niger%20%5B2%5D
