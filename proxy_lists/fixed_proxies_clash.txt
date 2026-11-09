@@ -1,21 +1,36 @@
-# profile-title: 🚀 Telegood Clash (ТОП-32 от 10.11.2026 03:30)
-# 🛡️ Verified Clash Elite: 17
-# 📊 Stats: Вход: 1167 | Пинг: 65 | >300KB/s: 17 | SB-Old: 16 | SB-HY: 17 | Clash: 17 | iOS: 16
+# profile-title: 🚀 Telegood Clash (ТОП-32 от 10.11.2026 04:35)
+# 🛡️ Verified Clash Elite: 32
+# 📊 Stats: Вход: 1298 | Пинг: 79 | >300KB/s: 47 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
 
-vless://9443badf-414f-4b12-b19a-7cc2c7431163@190.93.247.95:8443?encryption=none&fp=firefox&host=moz.ar-marz.fun&path=/man&security=tls&sni=moz.ar-marz.fun&type=ws#%F0%9F%87%A8%F0%9F%87%B7%20Costa%20Rica%20%5B2%5D
-vless://9443badf-414f-4b12-b19a-7cc2c7431163@162.159.236.61:8443?encryption=none&fp=firefox&host=moz.ar-marz.fun&path=/man&security=tls&sni=moz.ar-marz.fun&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B15%5D
-trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.17.10.171:443?path=/categories/community/&security=tls&insecure=0&host=ltf8.jueson.de5.net&type=ws&allowInsecure=0&sni=ltf8.jueson.de5.net&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B65%5D
-ss://YWVzLTI1Ni1nY206RkpvX1YtS012cmlEZWtOMENZa2ROSDBD@177.202.64.67:1080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B68%5D
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@nl4.japancase.site:443?security=reality&type=tcp&packetEncoding=xudp&sni=nl4.japancase.site&fp=ios&flow=xtls-rprx-vision&sid=9f05c35b73b47d53&pbk=lXCVb-MY5dJqMUw6xvkuPbi0idyfF-OkSY_6GpOovVI#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B230%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINEpIa0hVMnBJUloxc2JydVEtcDM5R3JoMXo2bnhZOA@dns27.m3hrzd.ir:8044#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B270%5D
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@172.67.74.177:443?security=tls&fp=chrome&type=ws&headerType=none&host=fs.qicai99.com&path=/&sni=fs.qicai99.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B536%5D
-trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.25.95.49:443?host=ltf8.jueson.de5.net&path=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&type=ws&fp=chrome&sni=ltf8.jueson.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B787%5D
-vless://bcdb425f-80bc-4ec8-92a5-8edf53639c01@207.148.124.12:8443?security=tls&fp=chrome&sni=www.bing.com&type=tcp&headerType=none&path=/#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B98%5D
-vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.46.6:2096?security=tls&encryption=none&insecure=0&host=pcloud.z-tas.com&fp=chrome&type=ws&allowInsecure=0&sni=pcloud.z-tas.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B85%5D
-trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.24.165.182:443?type=ws&path=/document/&host=ltf8.jueson.de5.net&fp=chrome&sni=ltf8.jueson.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B791%5D
-vless://eb8c97f7-a154-4442-91b0-54c0d055ad0b@143.246.62.191:8443?type=tcp&security=reality&fp=chrome&pbk=4g6gX0ueJap7pY_iTDx23h6bzo3KIOTcFzP1Uacn0QA&sid=4ad2e4e660550e43&sni=github.githubassets.com&packetEncoding=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B124%5D
-vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.45.6:2096?security=tls&encryption=none&insecure=0&host=pcloud.z-tas.com&fp=chrome&type=ws&allowInsecure=0&sni=pcloud.z-tas.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B77%5D
-vless://1653818d-532e-46be-b825-384107fb7c3a@assets.mediacorphub.org:443?type=grpc&security=tls&fp=firefox&sni=assets.mediacorphub.org&serviceName=hub.v1.ObjectService#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B28%5D
-trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.25.95.49:443?security=tls&host=ltf8.jueson.de5.net&type=ws&allowInsecure=0&sni=ltf8.jueson.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B790%5D
-trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.25.95.49:443?path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&host=ltf8.jueson.de5.net&type=ws&allowInsecure=0&sni=ltf8.jueson.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B789%5D
-trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.25.95.49:443?security=tls&insecure=0&host=ltf8.jueson.de5.net&type=ws&allowInsecure=0&fp=chrome&sni=ltf8.jueson.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B788%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0QUdHemdSQ2k2Vzk1VXdHMHFlcmY2@87.228.61.175:1443#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B116%5D
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.148:443?type=grpc&security=tls&fp=firefox&sni=api.mediacorphub.org&serviceName=gw.v2.PushService#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B100%5D
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.152:443?type=grpc&security=tls&fp=firefox&sni=rpc.mediacorphub.org&serviceName=api.v1.FeedService#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B1%5D
+vless://1653818d-532e-46be-b825-384107fb7c3a@hub.mediacorphub.org:443?type=grpc&security=tls&fp=firefox&sni=hub.mediacorphub.org&serviceName=hub.v1.ObjectService#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B27%5D
+vless://1653818d-532e-46be-b825-384107fb7c3a@live.mediacorphub.org:443?type=grpc&security=tls&fp=firefox&sni=live.mediacorphub.org&serviceName=home.v1.ObjectService#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B44%5D
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.149:443?type=grpc&security=tls&fp=firefox&sni=data.mediacorphub.org&serviceName=home.v2.MetricsService#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B55%5D
+vless://1653818d-532e-46be-b825-384107fb7c3a@images.mediacorphub.org:443?security=tls&serviceName=stats.v2.StreamService&sni=images.mediacorphub.org&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B47%5D
+vless://bb3723d7-462e-442c-9472-496750476f45@94.183.157.205:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=VrMjCVfS9bVTnIr2X_zBMIJylL5AMPMJoiwW14kyyjY&sid=b5e4cbe5fea54f53&sni=dir-pl2.filesapp.org#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B5%5D
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@nl4.japancase.site:443?security=reality&type=tcp&packetEncoding=xudp&sni=nl4.japancase.site&fp=ios&flow=xtls-rprx-vision&sid=9f05c35b73b47d53&pbk=lXCVb-MY5dJqMUw6xvkuPbi0idyfF-OkSY_6GpOovVI#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B267%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINEpIa0hVMnBJUloxc2JydVEtcDM5R3JoMXo2bnhZOA==@185.4.115.146:8044#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B182%5D
+vless://07df3711-07a1-4649-9a61-3f16cb931d02@345739t.de19.h1clayd.click:443?type=tcp&security=reality&fp=chrome&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&sid=23732d14a527990d&sni=345739t.de19.h1clayd.click#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B170%5D
+ss://YWVzLTI1Ni1nY206RkpvX1YtS012cmlEZWtOMENZa2ROSDBD@177.202.64.67:1080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B79%5D
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.245.217.70:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=VZS639V1i-35g7VXb9EoTYL-Srm7858sxcvFAunncmA&security=reality&sid=8d0d0679f42ffd98&sni=8a2e72t.nl11.h1clayd.click&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B10%5D
+vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?encryption=none&type=xhttp&security=none&path=/&mode=auto&sni=5.53.124.191#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B21%5D
+vless://c5f59ef3-9540-49fa-bd1e-c6c2f79df49a@134.255.211.36:443?security=reality&flow=xtls-rprx-vision&pbk=KcI3PoYu2yF7whv-e0C7JnRyUoUiUDu6tOlUBPYYbCk&sid=2e96bf6afa823abb&fp=chrome&sni=sg-sin.probe.geomyip.com&type=tcp&headerType=none&host=sg-sin.probe.geomyip.com&path=/#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B11%5D
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@154.86.119.227:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=6sEquzhND4g7HGZptDdnO-B0UjAKib9Pcjkd2_IoC2s&sid=74de1ccddccaa017&sni=be.golangwikito.cfd#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B84%5D
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.25.95.49:443?host=ltf8.jueson.de5.net&path=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&type=ws&fp=chrome&sni=ltf8.jueson.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B589%5D
+vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.45.6:2096?security=tls&encryption=none&insecure=0&host=pcloud.z-tas.com&fp=chrome&type=ws&allowInsecure=0&sni=pcloud.z-tas.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B80%5D
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.24.165.182:443?type=ws&path=/document/&host=ltf8.jueson.de5.net&fp=chrome&sni=ltf8.jueson.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B788%5D
+vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.46.6:2096?security=tls&encryption=none&insecure=0&host=pcloud.z-tas.com&fp=chrome&type=ws&allowInsecure=0&sni=pcloud.z-tas.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B88%5D
+vless://bcdb425f-80bc-4ec8-92a5-8edf53639c01@207.148.124.12:8443?security=tls&fp=chrome&sni=www.bing.com&type=tcp&headerType=none&path=/#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B100%5D
+vless://d7ddade6-b7a0-4cab-a910-d5d5c378d98a@201.58.189.104:2083?type=grpc&security=reality&sni=dl.google.com&pbk=B7x5bYp-YhtLeH31zYcilpKFCkGTMe3jtSECSw-bMC4&sid=8bd80253&fp=chrome&spx=/&serviceName=google.storage.v2.Storage&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B55%5D
+vless://eb8c97f7-a154-4442-91b0-54c0d055ad0b@143.246.62.191:8443?type=tcp&security=reality&fp=chrome&pbk=4g6gX0ueJap7pY_iTDx23h6bzo3KIOTcFzP1Uacn0QA&sid=4ad2e4e660550e43&sni=github.githubassets.com&packetEncoding=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B128%5D
+vless://bb3723d7-462e-442c-9472-496750476f45@109.104.155.131:2053?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=MwJoFytMWCLdwCCt0cSTM8L6ZzYKxlZbFMML_3nnJms&sid=508118120e886b5a&sni=dir-br1.filesapp.org#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5B1%5D
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.148:443?security=tls&serviceName=gw.v2.PushService&sni=api.mediacorphub.org&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B101%5D
+vless://1653818d-532e-46be-b825-384107fb7c3a@img.mediacorphub.org:443?security=tls&serviceName=home.v2.MetricsService&sni=img.mediacorphub.org&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B41%5D
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.147:443?type=grpc&security=tls&fp=firefox&sni=tracker.mediacorphub.org&serviceName=home.v1.ObjectService#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B20%5D
+vless://1653818d-532e-46be-b825-384107fb7c3a@rpc.mediacorphub.org:443?type=grpc&security=tls&fp=firefox&sni=rpc.mediacorphub.org&serviceName=api.v1.FeedService#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B62%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINEpIa0hVMnBJUloxc2JydVEtcDM5R3JoMXo2bnhZOA==@dns27.m3hrzd.ir:8044#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B283%5D
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@154.86.119.227:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6sEquzhND4g7HGZptDdnO-B0UjAKib9Pcjkd2_IoC2s&security=reality&sid=5f0e533560ec8582&sni=be.golangwikito.cfd&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B85%5D
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?security=tls&serviceName=hub.v1.ObjectService&sni=assets.mediacorphub.org&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B8%5D
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.25.95.49:443?security=tls&insecure=0&host=ltf8.jueson.de5.net&type=ws&allowInsecure=0&sni=ltf8.jueson.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B587%5D
