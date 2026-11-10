@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 11.11.2026 00:40)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 11.11.2026 01:45)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1178 | Пинг: 56 | >300KB/s: 33 | SB-Old: 24 | SB-HY: 32 | Clash: 32 | iOS: 16
+# 📊 Stats: Вход: 1138 | Пинг: 66 | >300KB/s: 30 | SB-Old: 12 | SB-HY: 30 | Clash: 30 | iOS: 16
 
-hysteria2://5f091cbe-fb34-11ea-9777-f23c9164ca5d@2193972c-tmkao0-u1vxv2-v3c2.hk3.hyhuawei.com:443?sni=2193972c-tmkao0-u1vxv2-v3c2.hk3.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B7%5D
-vless://52a5a29f-c162-411a-8a37-a3f11b0dc537@74.161.152.237:2083?security=reality&type=tcp&fp=chrome&flow=xtls-rprx-vision&sid=0123456789abcdef&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&encryption=none&sni=www.apple.com#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B16%5D
-vless://52a5a29f-c162-411a-8a37-a3f11b0dc537@68.221.177.135:2083?security=reality&type=tcp&fp=chrome&flow=xtls-rprx-vision&sid=0123456789abcdef&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&encryption=none&sni=www.apple.com#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B8%5D
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&headerType=none&type=tcp&fp=firefox&sni=t.me/FuckTheWall#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B231%5D
 vless://d18e76ed-eca4-43ff-a916-9b34533c4d2e@support.zoom.us:8080?security=none&type=ws&path=/cs&host=asia.csmaster.pp.ua&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B37%5D
-vless://cdb7fa1d-6e7a-467c-da9c-da363c7bf779@panel.apexkey.store:2053?security=reality&type=tcp&fp=chrome&sid=68&pbk=DEFJSLdILrvauMpwtpvFZddadpt3rNtv03Dui2EkmRk&sni=www.cloudflare.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B349%5D
-vless://eb8c97f7-a154-4442-91b0-54c0d055ad0b@143.246.62.191:8443?type=tcp&security=reality&fp=chrome&pbk=4g6gX0ueJap7pY_iTDx23h6bzo3KIOTcFzP1Uacn0QA&sid=4ad2e4e660550e43&packetEncoding=none&sni=github.githubassets.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B181%5D
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2534.wagahaha.xyz:443?encryption=none&security=tls&fp=firefox&alpn=h2,http/1.1&type=tcp&flow=xtls-rprx-vision&sni=u695098udfec02ees2532.xxti.top#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B29%5D
-trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?type=tcp&fp=chrome&sni=mx001.zestapp778.com#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%20%5B4%5D
-hysteria2://88f6e3c4-1d01-11ef-812c-f23c91cfbbc9@f60ef7cf-tmm5c0-trdynx-1rk9y.hk3.hyhuawei.com:443?sni=f60ef7cf-tmm5c0-trdynx-1rk9y.hk3.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B8%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbNTkyXSIsImFkZCI6ImpwNC45OTg5OTguYmVzdCIsInBvcnQiOjQ0MywiaWQiOiI5Yzg1MTYwNi05NzIyLTQyZmMtYTFjMS0xNzVjM2M4MmE3YWUiLCJhaWQiOjAsIm5ldCI6IndzIiwidHlwZSI6IndzIiwiaG9zdCI6Im5hdDEyLjk5NjYzMzgueHl6IiwicGF0aCI6Ii92dnZ2dnZ2dnYiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJuYXQxMi45OTY2MzM4Lnh5eiIsImVjaCI6Im5hdDEyLjk5NjYzMzgueHl6K2h0dHBzOi8vZG9oLnB1Yi9kbnMtcXVlcnkiLCJmcCI6ImNocm9tZSJ9
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2534.wagahaha.xyz:443?encryption=none&security=tls&fp=firefox&alpn=h2,http/1.1&type=tcp&flow=xtls-rprx-vision&sni=u695098udfec02ees2532.xxti.top#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B32%5D
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-001.fastervpn.world:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B118%5D
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B224%5D
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2533.gogocs.xyz:443?encryption=none&security=tls&fp=firefox&alpn=h2,http/1.1&type=tcp&flow=xtls-rprx-vision&sni=u695098udfec02ees2532.xxti.top#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B31%5D
-trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%20%5B3%5D
-hysteria2://92bd8c68-6434-11ee-b644-f23c91cfbbc9@3de2432e-tmm5c0-tonrqx-1khwf.hk3.hyhuawei.com:443?sni=3de2432e-tmm5c0-tonrqx-1khwf.hk3.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B10%5D
-hysteria2://40fb1315-191a-11ed-b0ca-f23c91cfbbc9@f675b7ac-tmeqo0-0-1imi4.hk3.hyhuawei.com:443?sni=f675b7ac-tmeqo0-0-1imi4.hk3.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B5%5D
-hysteria2://f7d95364-607b-11ee-93af-f23c91369f2d@e49952e3-tmm5c0-tv7zgh-1ijh5.hk3.hyhuawei.com:443#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B3%5D
-hysteria2://8f99107c-f091-11ee-9935-f23c9164ca5d@4e3e8635-tmm5c0-tvh2gy-1qzi1.hk3.hyhuawei.com:443?sni=4e3e8635-tmm5c0-tvh2gy-1qzi1.hk3.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B9%5D
-hysteria2://f5c0eda2-4b97-11ed-bd7c-f23c913c8d2b@5af305e9-tmm5c0-ttyjoe-ieln.hk3.hyhuawei.com:443?sni=5af305e9-tmm5c0-ttyjoe-ieln.hk3.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B12%5D
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&headerType=none&type=tcp&fp=chrome&sni=t.me/FuckTheWall#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B229%5D
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?alpn=http/1.1&fp=firefox&sni=t.me/FuckTheWall#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B228%5D
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&type=tcp&fp=chrome&sni=de-bots4.h1cloud.net#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B239%5D
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?type=tcp&fp=chrome&sni=t.mefuckthewall#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B238%5D
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&type=tcp&fp=safari&sni=de-bots4.h1cloud.net#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B240%5D
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?type=tcp&fp=chrome&sni=t.me%2ffuckthewall#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B241%5D
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B227%5D
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?type=tcp&sni=t.mefuckthewall&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B237%5D
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&headerType=none&type=tcp&fp=ios&sni=t.me/FuckTheWall#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B232%5D
