@@ -1,30 +1,19 @@
-# profile-title: 🚀 Telegood VPN (ВСЕ ЖИВЫЕ от 10.11.2026 22:31)
-# 🛡️ Total Alive: 26
-# 📊 Stats: Вход: 1138 | Пинг: 53 | >300KB/s: 26 | SB-Old: 23 | SB-HY: 26 | Clash: 26 | iOS: 10
+# profile-title: 🚀 Telegood VPN (ВСЕ ЖИВЫЕ от 10.11.2026 23:35)
+# 🛡️ Total Alive: 15
+# 📊 Stats: Вход: 1153 | Пинг: 39 | >300KB/s: 15 | SB-Old: 14 | SB-HY: 14 | Clash: 15 | iOS: 5
 
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?type=grpc&security=tls&fp=firefox&sni=assets.mediacorphub.org&serviceName=hub.v1.ObjectService#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B126%5D
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?encryption=none&fp=firefox&security=tls&serviceName=hub.v1.ObjectService&sni=hub.mediacorphub.org&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B127%5D
-vless://1653818d-532e-46be-b825-384107fb7c3a@stats.mediacorphub.org:443?security=tls&serviceName=gw.v2.PushService&sni=stats.mediacorphub.org&type=grpc&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B64%5D
-vless://1653818d-532e-46be-b825-384107fb7c3a@assets.mediacorphub.org:443?security=tls&serviceName=hub.v1.ObjectService&sni=assets.mediacorphub.org&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B132%5D
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443/?type=grpc&encryption=none&flow=&serviceName=hub.v1.ObjectService&security=tls&sni=assets.mediacorphub.org&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B125%5D
-vless://1653818d-532e-46be-b825-384107fb7c3a@hub.mediacorphub.org:443?encryption=none&mode=gun&security=tls&serviceName=hub.v1.ObjectService&sni=hub.mediacorphub.org&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B96%5D
-vless://1653818d-532e-46be-b825-384107fb7c3a@hub.mediacorphub.org:443?security=tls&serviceName=hub.v1.ObjectService&sni=hub.mediacorphub.org&type=grpc&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B95%5D
-vless://1653818d-532e-46be-b825-384107fb7c3a@assets.mediacorphub.org:443?type=grpc&security=tls&fp=firefox&sni=assets.mediacorphub.org&serviceName=hub.v1.ObjectService#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B131%5D
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.148:443?encryption=none&fp=firefox&mode=gun&security=tls&serviceName=gw.v2.PushService&sni=api.mediacorphub.org&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B111%5D
-vless://1653818d-532e-46be-b825-384107fb7c3a@stats.mediacorphub.org:443?type=grpc&security=tls&fp=firefox&sni=stats.mediacorphub.org&serviceName=gw.v2.PushService#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B65%5D
-vless://1653818d-532e-46be-b825-384107fb7c3a@api.mediacorphub.org:443?security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=gw.v2.PushService&allowInsecure=0&sni=api.mediacorphub.org#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B60%5D
-vless://1653818d-532e-46be-b825-384107fb7c3a@stats.mediacorphub.org:443?encryption=none&fp=chrome&mode=gun&security=tls&serviceName=gw.v2.PushService&sni=stats.mediacorphub.org&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B66%5D
-vless://1653818d-532e-46be-b825-384107fb7c3a@api.mediacorphub.org:443?type=grpc&security=tls&fp=firefox&sni=api.mediacorphub.org&serviceName=gw.v2.PushService#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B59%5D
-vless://1653818d-532e-46be-b825-384107fb7c3a@edge.mediacorphub.org:443?security=tls&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=hub.v1.ObjectService&allowInsecure=0&sni=edge.mediacorphub.org#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B254%5D
-vless://1653818d-532e-46be-b825-384107fb7c3a@assets.mediacorphub.org:443?encryption=none&type=grpc&serviceName=hub.v1.ObjectService&security=tls&fp=edge&sni=assets.mediacorphub.org&alpn=h2#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B133%5D
-trojan://5t6i121em5lkmsmk@us001.zestapp778.com:57277?allowInsecure=1&sni=us001.zestapp778.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B351%5D
-vless://8c94dfd8-52dd-451c-8c85-26770cd41768@cfnew.hotpyp.de5.net:443?encryption=none&security=tls&sni=cfnew.hotpyp.de5.net&fp=chrome&allowInsecure=1&type=ws&path=/%3Fed%3D2048&host=cfnew.hotpyp.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B835%5D
-vless://8c94dfd8-52dd-451c-8c85-26770cd41768@cfnew.hotpyp.de5.net:443?encryption=none&security=tls&fp=chrome&allowInsecure=1&type=ws&path=/&host=cfnew.hotpyp.de5.net&sni=cfnew.hotpyp.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B834%5D
-trojan://5t6i121em5lkmsmk@us001.zestapp778.com:57277?security=tls&sni=us001.zestapp778.com&fp=chrome&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B350%5D
-vless://eb8c97f7-a154-4442-91b0-54c0d055ad0b@143.246.62.191:8443?type=tcp&security=reality&fp=chrome&pbk=4g6gX0ueJap7pY_iTDx23h6bzo3KIOTcFzP1Uacn0QA&sid=4ad2e4e660550e43&sni=github.githubassets.com&packetEncoding=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B180%5D
-trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?allowInsecure=1&sni=mx001.zestapp778.com&type=tcp#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%20%5B3%5D
-trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?allowInsecure=1&type=tcp&fp=chrome&sni=mx001.zestapp778.com#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%20%5B4%5D
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2534.wagahaha.xyz:443?encryption=none&security=tls&sni=u695098udfec02ees2532.xxti.top&fp=firefox&alpn=h2,http/1.1&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B32%5D
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.148:443?encryption=none&security=tls&serviceName=gw.v2.PushService&sni=stats.mediacorphub.org&type=grpc&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B110%5D
-vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@82.152.132.74:443?host=82.152.132.74&path=/assets/sync-8f3a71&security=tls&sni=82.152.132.74&type=ws#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5B4%5D
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2533.gogocs.xyz:443?encryption=none&security=tls&sni=u695098udfec02ees2532.xxti.top&fp=firefox&alpn=h2,http/1.1&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B31%5D
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?type=grpc&security=tls&fp=firefox&sni=assets.mediacorphub.org&serviceName=hub.v1.ObjectService#%F0%9F%87%B3%F0%9F%87%B1%20AetrisVPN%20%5B10%5D
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?encryption=none&fp=firefox&security=tls&serviceName=hub.v1.ObjectService&sni=hub.mediacorphub.org&type=grpc#NL%20%F0%9F%87%B3%F0%9F%87%B1%20%5B13%5D
+vless://1653818d-532e-46be-b825-384107fb7c3a@get.mediacorphub.org:443?security=tls&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=gw.v2.PushService&allowInsecure=0&sni=get.mediacorphub.org#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B71%5D
+vless://1653818d-532e-46be-b825-384107fb7c3a@assets.mediacorphub.org:443?security=tls&serviceName=hub.v1.ObjectService&sni=assets.mediacorphub.org&type=grpc#NL%20%F0%9F%87%B3%F0%9F%87%B1%20%5B15%5D
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.148:443?encryption=none&security=tls&serviceName=gw.v2.PushService&sni=stats.mediacorphub.org&type=grpc&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B105%5D
+vless://1653818d-532e-46be-b825-384107fb7c3a@edge.mediacorphub.org:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=hub.v1.ObjectService&allowInsecure=0&sni=edge.mediacorphub.org#NL%20%F0%9F%87%B3%F0%9F%87%B1%20%5B46%5D
+vless://1653818d-532e-46be-b825-384107fb7c3a@hub.mediacorphub.org:443?encryption=none&mode=gun&security=tls&serviceName=hub.v1.ObjectService&sni=hub.mediacorphub.org&type=grpc#NL%20%F0%9F%87%B3%F0%9F%87%B1%20%5B11%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.50:443?security=tls&sni=cdn.nextjobopportunityandclaimyouridealrole.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B275%5D
+vless://eb8c97f7-a154-4442-91b0-54c0d055ad0b@143.246.62.191:8443?type=tcp&security=reality&fp=chrome&pbk=4g6gX0ueJap7pY_iTDx23h6bzo3KIOTcFzP1Uacn0QA&sid=4ad2e4e660550e43&sni=github.githubassets.com&packetEncoding=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B168%5D
+trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?allowInsecure=1&type=tcp&sni=mx001.zestapp778.com&fp=chrome#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%20%5B4%5D
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.148:443?encryption=none&fp=firefox&mode=gun&security=tls&serviceName=gw.v2.PushService&type=grpc&sni=api.mediacorphub.org#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B106%5D
+vless://d18e76ed-eca4-43ff-a916-9b34533c4d2e@support.zoom.us:8080?security=none&type=ws&path=/cs&host=asia.csmaster.pp.ua&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B365%5D
+trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?allowInsecure=1&sni=mx001.zestapp778.com&type=tcp#MX%20%F0%9F%87%B2%F0%9F%87%BD%20%5B2%5D
+vless://1653818d-532e-46be-b825-384107fb7c3a@edge.mediacorphub.org:443?security=tls&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=hub.v1.ObjectService&allowInsecure=0&sni=edge.mediacorphub.org#NL%20%F0%9F%87%B3%F0%9F%87%B1%20%5B45%5D
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@38917fx.es1.h1clayd.click:443?encryption=none&mode=auto&path=/&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&security=reality&sid=d5501b156391e01d&sni=38917fx.es1.h1clayd.click&spx=/&type=xhttp#%F0%9F%87%B3%F0%9F%87%AC%20Nigeria%20%5B1%5D

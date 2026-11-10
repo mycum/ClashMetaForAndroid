@@ -1,14 +1,9 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 10.11.2026 22:31)
-# 🛡️ Verified Elite: 10
-# 📊 Stats: Вход: 1138 | Пинг: 53 | >300KB/s: 26 | SB-Old: 23 | SB-HY: 26 | Clash: 26 | iOS: 10
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 10.11.2026 23:35)
+# 🛡️ Verified Elite: 5
+# 📊 Stats: Вход: 1153 | Пинг: 39 | >300KB/s: 15 | SB-Old: 14 | SB-HY: 14 | Clash: 15 | iOS: 5
 
-trojan://5t6i121em5lkmsmk@us001.zestapp778.com:57277?type=tcp&sni=us001.zestapp778.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B351%5D
-vless://8c94dfd8-52dd-451c-8c85-26770cd41768@cfnew.hotpyp.de5.net:443?encryption=none&security=tls&fp=chrome&type=ws&path=/&host=cfnew.hotpyp.de5.net&sni=cfnew.hotpyp.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B835%5D
-vless://eb8c97f7-a154-4442-91b0-54c0d055ad0b@143.246.62.191:8443?type=tcp&security=reality&fp=chrome&pbk=4g6gX0ueJap7pY_iTDx23h6bzo3KIOTcFzP1Uacn0QA&sid=4ad2e4e660550e43&packetEncoding=none&sni=github.githubassets.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B180%5D
-trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?type=tcp&sni=mx001.zestapp778.com&fp=chrome#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%20%5B3%5D
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2534.wagahaha.xyz:443?encryption=none&security=tls&fp=firefox&alpn=h2,http/1.1&type=tcp&flow=xtls-rprx-vision&sni=u695098udfec02ees2532.xxti.top#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B32%5D
-vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@82.152.132.74:443?host=82.152.132.74&path=/assets/sync-8f3a71&security=tls&type=ws&fp=chrome#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5B4%5D
-vless://8c94dfd8-52dd-451c-8c85-26770cd41768@cfnew.hotpyp.de5.net:443?encryption=none&security=tls&fp=chrome&type=ws&path=/&host=cfnew.hotpyp.de5.net&sni=cfnew.hotpyp.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B834%5D
-trojan://5t6i121em5lkmsmk@us001.zestapp778.com:57277?security=tls&fp=chrome&type=tcp&headerType=none&sni=us001.zestapp778.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B350%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.50:443?security=tls&sni=cdn.nextjobopportunityandclaimyouridealrole.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B275%5D
+vless://eb8c97f7-a154-4442-91b0-54c0d055ad0b@143.246.62.191:8443?type=tcp&security=reality&fp=chrome&pbk=4g6gX0ueJap7pY_iTDx23h6bzo3KIOTcFzP1Uacn0QA&sid=4ad2e4e660550e43&packetEncoding=none&sni=github.githubassets.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B168%5D
 trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?type=tcp&fp=chrome&sni=mx001.zestapp778.com#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%20%5B4%5D
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2533.gogocs.xyz:443?encryption=none&security=tls&fp=firefox&alpn=h2,http/1.1&type=tcp&flow=xtls-rprx-vision&sni=u695098udfec02ees2532.xxti.top#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B31%5D
+vless://d18e76ed-eca4-43ff-a916-9b34533c4d2e@support.zoom.us:8080?security=none&type=ws&path=/cs&host=asia.csmaster.pp.ua&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B365%5D
+trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?type=tcp&sni=mx001.zestapp778.com&fp=chrome#MX%20%F0%9F%87%B2%F0%9F%87%BD%20%5B2%5D
