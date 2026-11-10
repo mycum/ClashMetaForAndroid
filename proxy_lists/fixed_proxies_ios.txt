@@ -1,20 +1,15 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 11.11.2026 01:45)
-# 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1138 | Пинг: 66 | >300KB/s: 30 | SB-Old: 12 | SB-HY: 30 | Clash: 30 | iOS: 16
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 11.11.2026 02:50)
+# 🛡️ Verified Elite: 11
+# 📊 Stats: Вход: 1184 | Пинг: 60 | >300KB/s: 25 | SB-Old: 24 | SB-HY: 25 | Clash: 25 | iOS: 11
 
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&headerType=none&type=tcp&fp=firefox&sni=t.me/FuckTheWall#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B231%5D
-vless://d18e76ed-eca4-43ff-a916-9b34533c4d2e@support.zoom.us:8080?security=none&type=ws&path=/cs&host=asia.csmaster.pp.ua&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B37%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbNTkyXSIsImFkZCI6ImpwNC45OTg5OTguYmVzdCIsInBvcnQiOjQ0MywiaWQiOiI5Yzg1MTYwNi05NzIyLTQyZmMtYTFjMS0xNzVjM2M4MmE3YWUiLCJhaWQiOjAsIm5ldCI6IndzIiwidHlwZSI6IndzIiwiaG9zdCI6Im5hdDEyLjk5NjYzMzgueHl6IiwicGF0aCI6Ii92dnZ2dnZ2dnYiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJuYXQxMi45OTY2MzM4Lnh5eiIsImVjaCI6Im5hdDEyLjk5NjYzMzgueHl6K2h0dHBzOi8vZG9oLnB1Yi9kbnMtcXVlcnkiLCJmcCI6ImNocm9tZSJ9
+vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@138.16.249.118:14443?security=tls&alpn=http/1.1&fp=firefox&type=ws&host=lt.neuroblur.top&path=/api/generate&sni=lt.neuroblur.top#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B11%5D
+vless://3c407db5-d048-4d1f-aede-fb4492e33232@static.167.125.29.2.clients.your-server.de:8443?encryption=none&security=tls&type=tcp&headerType=none&flow=xtls-rprx-vision&fp=chrome&alpn=h2,http/1.1&sni=static.159.132.31.2.clients.your-server.de#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B10%5D
+vless://3c407db5-d048-4d1f-aede-fb4492e33232@static.224.138.28.2.clients.your-server.de:8443?encryption=none&security=tls&type=tcp&headerType=none&flow=xtls-rprx-vision&fp=chrome&alpn=h2,http/1.1&sni=static.44.128.217.95.clients.your-server.de#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B98%5D
+vless://3c407db5-d048-4d1f-aede-fb4492e33232@static.107.217.233.167.clients.your-server.de:8443?encryption=none&security=tls&type=tcp&headerType=none&flow=xtls-rprx-vision&fp=chrome&alpn=h2,http/1.1&sni=static.40.68.12.49.clients.your-server.de#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B97%5D
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.245.217.70:443?encryption=none&flow=xtls-rprx-vision&pbk=VZS639V1i-35g7VXb9EoTYL-Srm7858sxcvFAunncmA&security=reality&sid=8d0d0679f42ffd98&type=tcp&fp=firefox&sni=8a2e72t.nl11.h1clayd.click#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B8%5D
+vless://d18e76ed-eca4-43ff-a916-9b34533c4d2e@support.zoom.us:8080?security=none&type=ws&path=/cs&host=asia.csmaster.pp.ua&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B418%5D
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2534.wagahaha.xyz:443?encryption=none&security=tls&fp=firefox&alpn=h2,http/1.1&type=tcp&flow=xtls-rprx-vision&sni=u695098udfec02ees2532.xxti.top#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B32%5D
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-001.fastervpn.world:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B118%5D
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B224%5D
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2533.gogocs.xyz:443?encryption=none&security=tls&fp=firefox&alpn=h2,http/1.1&type=tcp&flow=xtls-rprx-vision&sni=u695098udfec02ees2532.xxti.top#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B31%5D
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&headerType=none&type=tcp&fp=chrome&sni=t.me/FuckTheWall#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B229%5D
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?alpn=http/1.1&fp=firefox&sni=t.me/FuckTheWall#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B228%5D
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&type=tcp&fp=chrome&sni=de-bots4.h1cloud.net#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B239%5D
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?type=tcp&fp=chrome&sni=t.mefuckthewall#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B238%5D
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&type=tcp&fp=safari&sni=de-bots4.h1cloud.net#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B240%5D
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?type=tcp&fp=chrome&sni=t.me%2ffuckthewall#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B241%5D
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B227%5D
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?type=tcp&sni=t.mefuckthewall&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B237%5D
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&headerType=none&type=tcp&fp=ios&sni=t.me/FuckTheWall#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B232%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbNTk1XSIsImFkZCI6ImpwNC45OTg5OTguYmVzdCIsInBvcnQiOjQ0MywiaWQiOiI5Yzg1MTYwNi05NzIyLTQyZmMtYTFjMS0xNzVjM2M4MmE3YWUiLCJhaWQiOjAsIm5ldCI6IndzIiwidHlwZSI6IndzIiwiaG9zdCI6Im5hdDEyLjk5NjYzMzgueHl6IiwicGF0aCI6Ii92dnZ2dnZ2dnYiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJuYXQxMi45OTY2MzM4Lnh5eiIsImVjaCI6Im5hdDEyLjk5NjYzMzgueHl6K2h0dHBzOi8vZG9oLnB1Yi9kbnMtcXVlcnkiLCJmcCI6ImNocm9tZSJ9
+hysteria2://1794466637%3Adb57c865-2318-4fd2-8aea-e8ba58ec696d%3ASjcl0gc4tJZu1HqNgL502Y4uLCJSzLg9X3R0zYjQ6MQ@31.76.91.168:8443?security=tls&alpn=h3&sni=jp.lumacache.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B23%5D
+vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@50.6.54.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&fp=chrome&pbk=2vd1kmOeZpjjDpgN75FMhwFRzPjNfzvLoUM5LlLrm2U&sid=26b26357bfcd59a1&type=tcp&headerType=none&sni=www.apple.com#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20%5B4%5D
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2533.gogocs.xyz:443?encryption=none&security=tls&fp=firefox&alpn=h2,http/1.1&type=tcp&flow=xtls-rprx-vision&sni=u695098udfec02ees2532.xxti.top#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B33%5D
