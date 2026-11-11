@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 11.11.2026 17:33)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 11.11.2026 18:38)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1190 | Пинг: 63 | >300KB/s: 39 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
+# 📊 Stats: Вход: 1214 | Пинг: 69 | >300KB/s: 26 | SB-Old: 23 | SB-HY: 26 | Clash: 26 | iOS: 16
 
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&path=/static/js/vendor.cc1645b6.js&security=tls&type=ws&sni=nl4.gacvpn.site#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B10%5D
-vless://cf1b08a7-55b7-4241-b80a-c59116272b43@185.242.247.66:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&headerType=none&pbk=DXc-l15XMaLM1zoeGdtkZd-1MymTHrnplcEHxyDvLRQ&security=reality&sid=d9dbc840ce42cd95&type=tcp&sni=home.asperwild.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B3%5D
-ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6RTRRNEJaQUJWV0QveWNFZTA3a1hsRUFLSkNtdzlOYXJnS2prTFowa21hWT0@194.127.178.161:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B92%5D
-vless://5f07a2a1-82a5-494d-847b-b882e6903192@65.109.208.183:443?security=tls&type=tcp&fp=firefox&sni=free.for.member.iiproxy.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B6%5D
-hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24433?fp=firefox&sni=lakes.blog-forme.ru#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B51%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.208:443?security=tls&sni=blog.discoverfreshgraduatejobsstartyourprofessionaljourney.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B173%5D
-ss://YWVzLTI1Ni1nY206QU1vazQwRmZhTStJa3dyZTE2cHNCcFZrNkpIeHNRWnc@209.248.57.105:8388#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B33%5D
-hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@212.34.137.105:443?fp=firefox&sni=shorts.blog-forme.ru#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B265%5D
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.9.240.138:26990?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&security=reality&sid=e51285e3&type=tcp&sni=us1p1.xn--ghq880n3na965a.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B152%5D
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.9.240.186:26990?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&security=reality&sid=e51285e3&type=tcp&sni=us1p1.xn--ghq880n3na965a.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B108%5D
-trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%BD%20Mexico%20%5B3%5D
-vless://b8d08151-73bd-4567-afac-8b4a01daff78@141.193.154.198:443?type=raw&security=reality&fp=chrome&pbk=ZsBXnmtXqG_bOX7M10A1DGtds_Ch-NuvJNlGNl9-OEU&sid=be4d24310c27&sni=cloudflare.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B617%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?sni=connectgraduateswithjobopeningsandgrowprofessionally.com&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B8%5D
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@7aa271t.es1.h1clayd.click:443?flow=xtls-rprx-vision&encryption=none&security=reality&fp=firefox&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&sid=42426c882c5fcd41&spx=/&type=tcp&headerType=none&sni=7aa271t.es1.h1clayd.click#%F0%9F%87%B3%F0%9F%87%AC%20Nigeria%20%5B6%5D
+vless://a9496f88-4c9f-4011-93a7-8b14c2101684@179.254.190.22:2443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&security=reality&sid=a20d3ed244c76426&type=tcp&sni=node21.overcdn.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B168%5D
+vless://cf1b08a7-55b7-4241-b80a-c59116272b43@185.242.247.66:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&headerType=none&pbk=DXc-l15XMaLM1zoeGdtkZd-1MymTHrnplcEHxyDvLRQ&security=reality&sid=d9dbc840ce42cd95&type=tcp&sni=home.asperwild.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B5%5D
+vless://90157e25-cee1-4217-921e-91f300bc1a24@novonl.subv.ru:443?encryption=none&type=tcp&security=reality&headerType=none&fp=chrome&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&flow=xtls-rprx-vision&sni=golos.mail.ru#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B180%5D
+vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@15.222.9.129:80?type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B682%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.208:443?security=tls&sni=blog.discoverfreshgraduatejobsstartyourprofessionaljourney.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B168%5D
+vless://ba4e5cac-7af3-4fd3-9e0b-9020773d3dda@067fbbt.de18.h1clayd.click:443?type=tcp&security=reality&fp=firefox&pbk=ct9Ige1sXFGo-NbfxuJPlzKPvkfIilk43aQkHvLy4j0&sid=ca149dddcfd0deca&sni=067fbbt.de18.h1clayd.click#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B188%5D
+hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24403?sni=docs.blog-forme.ru#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B47%5D
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.9.240.215:26990?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&security=reality&sid=e51285e3&type=tcp&sni=us1p1.xn--ghq880n3na965a.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B107%5D
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.9.240.138:26990?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&security=reality&sid=e51285e3&type=tcp&sni=us1p1.xn--ghq880n3na965a.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B146%5D
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.9.240.186:26990?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&security=reality&sid=e51285e3&type=tcp&sni=us1p1.xn--ghq880n3na965a.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B103%5D
+vless://b8d08151-73bd-4567-afac-8b4a01daff78@141.193.154.198:443?type=raw&security=reality&fp=chrome&pbk=ZsBXnmtXqG_bOX7M10A1DGtds_Ch-NuvJNlGNl9-OEU&sid=be4d24310c27&sni=cloudflare.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B627%5D
+vless://ecc0e60a-f2cc-4266-8353-b228df89730a@45.92.219.47:443?security=reality&pbk=GBO_paFyK9FihgPMH8r_vHa4IKMkSGfvAQ2fhPK_1H4&fp=chrome&flow=xtls-rprx-vision&type=tcp&sni=ty.galactichub.online#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B1%5D
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.84.231.142:443?security=tls&fp=chrome&sni=explorecareerpathsandunlockprofessionalsuccesstoday.com#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa%20%5B5%5D
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.9.240.215:26990?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&security=reality&sid=e51285e3&type=tcp&sni=us1p1.xn--ghq880n3na965a.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B113%5D
+vless://cbd6c099-5d4f-467e-86d2-92cb292892fb@87.120.126.43:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&type=tcp&sni=gr.connect-qik.uk#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B9%5D
+hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@95.85.231.3:443?fp=firefox&sni=guide.blog-forme.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B3%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?sni=connectgraduateswithjobopeningsandgrowprofessionally.com&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B7%5D
