@@ -1,19 +1,19 @@
-# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 12.11.2026 00:01)
+# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 12.11.2026 01:04)
 # 🛡️ Verified Sing-box Elite: 15
-# 📊 Stats: Вход: 1166 | Пинг: 48 | >300KB/s: 16 | SB-Old: 12 | SB-HY: 15 | Clash: 16 | iOS: 12
+# 📊 Stats: Вход: 1156 | Пинг: 44 | >300KB/s: 15 | SB-Old: 10 | SB-HY: 15 | Clash: 15 | iOS: 13
 
-hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@guide.blog-forme.ru:443?security=tls&alpn=h3&insecure=0&sni=guide.blog-forme.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B3%5D
-vless://90157e25-cee1-4217-921e-91f300bc1a24@fduknew.titun.su:443?security=reality&type=tcp&packetEncoding=xudp&fp=chrome&flow=xtls-rprx-vision&sid=428ef87fd47a3a32&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&encryption=none&sni=bizorg.su#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B32%5D
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?encryption=none&fp=firefox&security=tls&serviceName=hub.v1.ObjectService&type=grpc&sni=hub.mediacorphub.org#NL%20%F0%9F%87%B3%F0%9F%87%B1%20%5B1%5D
-vless://2006aa32-9ba2-4fe0-bd3d-3deaceb621e1@129.153.128.162:853?security=none&type=ws&path=/ws&host=firsty.app&encryption=none#US%20%F0%9F%87%BA%F0%9F%87%B8%20%5B42%5D
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.148:443?encryption=none&fp=firefox&mode=gun&security=tls&serviceName=gw.v2.PushService&type=grpc&sni=api.mediacorphub.org#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B36%5D
-vless://3659f248-1797-4d6e-9982-a308565fec79@95.85.234.66:443?security=reality&encryption=none&pbk=MuQH546CBdgYVBzNU_F5fimkbQ0srHxgLKDjl1Wz2Rw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=00000000&sni=fl-modx.webedg.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B69%5D
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@7aa271t.es1.h1clayd.click:443?flow=xtls-rprx-vision&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&security=reality&sid=42426c882c5fcd41&type=tcp&sni=7aa271t.es1.h1clayd.click&fp=chrome#%F0%9F%87%B3%F0%9F%87%AC%20Nigeria%20%5B6%5D
-vless://d8fc873b-860d-4490-b2f0-300d6ae3c2d3@168.110.48.252:10018?security=reality&type=tcp&fp=firefox&flow=xtls-rprx-vision&pbk=YxoFVB0NhCx4BJCgq5Ey5jdteRU2H2toGa-ZKW5XV3c&sni=www.ebay.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B55%5D
-trojan://5t6i121em5lkmsmk@au001.zestapp778.com:54374?allowInsecure=1&type=tcp&sni=au001.zestapp778.com&fp=chrome#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20%5B4%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.84.231.142:443?security=tls&fp=chrome&sni=explorecareerpathsandunlockprofessionalsuccesstoday.com#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa%20%5B5%5D
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@u1sdgxxapi.ianai.it.com:26990?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&sid=e51285e3&sni=us1p1.xn--ghq880n3na965a.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B92%5D
-hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24403?sni=docs.blog-forme.ru#%F0%9F%87%A6%F0%9F%87%AA%20%D0%9E%D0%90%D0%AD%20%5B4%5D
-hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@95.85.231.3:443?fp=firefox&sni=guide.blog-forme.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B2%5D
-vless://1653818d-532e-46be-b825-384107fb7c3a@hub.mediacorphub.org:443?encryption=none&mode=gun&security=tls&serviceName=hub.v1.ObjectService&type=grpc&sni=hub.mediacorphub.org&fp=chrome#%D0%91%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9%20VPN%20tg%3AVLESSFORU%20%F0%9F%87%B3%F0%9F%87%B1%20%5B3%5D
-trojan://5t6i121em5lkmsmk@au001.zestapp778.com:54374?type=tcp&security=tls&fp=chrome&sni=au001.zestapp778.com#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20%5B3%5D
+vless://90157e25-cee1-4217-921e-91f300bc1a24@fduknew.titun.su:443?security=reality&type=tcp&packetEncoding=xudp&fp=chrome&flow=xtls-rprx-vision&sid=428ef87fd47a3a32&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&encryption=none&sni=bizorg.su#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B44%5D
+vless://90157e25-cee1-4217-921e-91f300bc1a24@67.159.44.219:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&fp=chrome&spx=/&sni=bestgif.su#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B32%5D
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@50.7.178.197:8443?encryption=none&security=tls&serviceName=connect-fr&type=grpc&fp=firefox&sni=fr2.gacvpn.site#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B53%5D
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.104:443?encryption=none&fp=firefox&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&security=reality&sid=361d0dd59c70516f&type=tcp&sni=5d0319t.nl7.h1clayd.click#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20%5B3%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbNjE3XSIsImFkZCI6ImNkMC5ibWkuaXIua29sbWFuLmNvbS5kZSIsInBvcnQiOjgwLCJpZCI6ImE1NjQ5ODdhLTM4MGEtNGMyMS1hNDYyLWEwMTE4NjNjYTliZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHB1cGdyYWRlIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiYm1pLmlyLmRyYWZ0LmNvLmltcG9zc2libGUuY29tLmlyLmJtaS5pci5jb20uaXJhbi5pcjYuaWZpbG1pbm8uY29tIiwicGF0aCI6Ii9mOWJHYkc3Wk55NUwwdHpYS1pOeFNYNHEiLCJ0bHMiOiJub25lIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B617%5D
+vless://e668c236-dead-4ea2-8a99-812a738afd13@129.146.5.35:20000?security=reality&type=tcp&fp=firefox&sid=144d7588628c0387&pbk=aCKxBnWGJSFRLP1TC7cvV6lwNBsEdrW3fIqRnVD131w&sni=tesla.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B404%5D
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.9.240.138:26990?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&security=reality&sid=e51285e3&type=tcp&sni=us1p1.xn--ghq880n3na965a.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B140%5D
+hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24433?sni=lakes.blog-forme.ru#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B42%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?allowInsecure=1&sni=connectgraduateswithjobopeningsandgrowprofessionally.com&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B6%5D
+hysteria2://Hy2OracleTokyo2026Owner@168.110.16.191:30000?hop-interval=15&insecure=1&sni=www.bing.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B27%5D
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@185.255.115.103:443?encryption=none&flow=xtls-rprx-vision&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&security=reality&sid=6976d670818644cc&type=tcp&fp=ios&sni=4935e4t.de25.h1clayd.click#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B24%5D
+ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@168.138.205.100:53758#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B37%5D
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.104:443?type=grpc&security=reality&fp=firefox&pbk=zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE&sid=50a749f0eccb628c&serviceName=5b79e8a94241&sni=15b171g.nl7.h1clayd.click#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20%5B1%5D
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.9.240.138:26990?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&security=reality&sid=e51285e3&type=tcp&sni=us1p1.xn--ghq880n3na965a.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B139%5D
+hysteria2://Hy2OracleTokyo2026Owner@168.110.16.191:443?insecure=1&upmbps=30+Mbps&downmbps=80+Mbps&sni=www.bing.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B28%5D
