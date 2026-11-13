@@ -1,8 +1,8 @@
-# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 14.11.2026 00:40)
+# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 14.11.2026 01:42)
 # 🛡️ Verified Sing-box Elite: 4
-# 📊 Stats: Вход: 1027 | Пинг: 11 | >300KB/s: 4 | SB-Old: 4 | SB-HY: 4 | Clash: 4 | iOS: 4
+# 📊 Stats: Вход: 995 | Пинг: 9 | >300KB/s: 4 | SB-Old: 4 | SB-HY: 4 | Clash: 4 | iOS: 4
 
-vless://84be02cf-c5c5-4b33-ba26-31b5f8320033@n1.topingr.ir:443?path=/api/v3/pulse&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdn2.zovip2.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn2.zovip2.ir#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B227%5D
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:43149?security=reality&flow=xtls-rprx-vision&pbk=cvong7paE8XIzzbKWgV5iUruP1pBqI2IhMuBHc8c0UE&sid=15aa0ad4&fp=chrome&type=tcp&headerType=none&host=zfapi.zalolink.com&path=/&sni=psstatic.cdn.bcebos.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B14%5D
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:43149?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=cvong7paE8XIzzbKWgV5iUruP1pBqI2IhMuBHc8c0UE&sid=15aa0ad4&sni=psstatic.cdn.bcebos.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B15%5D
+vless://84be02cf-c5c5-4b33-ba26-31b5f8320033@n1.topingr.ir:443?path=/api/v3/pulse&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdn2.zovip2.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn2.zovip2.ir#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B219%5D
+vmess://eyJhZGQiOiIxNzkuMjU0Ljk1LjU3IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI4MDQzMzRlMi0wNGNhLTQzNGMtODMxMS0zY2NlZTgyMTgxNzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6MjYwMzIsInBzIjoiXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFRoZSBOZXRoZXJsYW5kcyBbMTcwXSIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B170%5D
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:46957?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=1SefqLQXrqkiUdf7cTMF53hrMZyo684_uneRC8-qTxI&sid=8f6683a234d3&sni=psstatic.cdn.bcebos.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B35%5D
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:11802?security=reality&type=tcp&fp=ios&flow=xtls-rprx-vision&sid=6c84fbac2d&pbk=FUBjYwXlKIVwF7IuJf5dt_HU2sUnrEt10s4TIlTe8Q4&sni=psstatic.cdn.bcebos.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B16%5D
