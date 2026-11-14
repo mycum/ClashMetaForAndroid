@@ -1,11 +1,21 @@
-# profile-title: 🚀 Telegood Clash (ТОП-32 от 14.11.2026 19:47)
-# 🛡️ Verified Clash Elite: 7
-# 📊 Stats: Вход: 1010 | Пинг: 20 | >300KB/s: 7 | SB-Old: 4 | SB-HY: 7 | Clash: 7 | iOS: 7
+# profile-title: 🚀 Telegood Clash (ТОП-32 от 14.11.2026 21:42)
+# 🛡️ Verified Clash Elite: 17
+# 📊 Stats: Вход: 1009 | Пинг: 32 | >300KB/s: 17 | SB-Old: 13 | SB-HY: 16 | Clash: 17 | iOS: 11
 
-hysteria2://1e697474-7836-47ed-aaca-b559efcbb298@eu90.cdn77.icu:8453?sni=eu71.cdn77.icu&security=tls#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B57%5D
-vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@base.hosamobenl.co.uk:443?path=/&security=tls&sni=base.hosamobenl.co.uk#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B2%5D
-hysteria2://yO8pug5XmwkBXBAjleYIaVt@192.255.152.147:443?insecure=1&sni=192.255.152.147#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B535%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFBvbGFuZCBbNzBdIiwiYWRkIjoiNTQuMzcuMTMxLjEyNiIsInBvcnQiOiI4MCIsImlkIjoiMWU1NWJlY2EtM2M2OS00ZmE3LWZiMWYtMTVjMWI3Njc0MzVmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii8iLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uaGVzYW5pZDguaXIuIn0=
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IEZyYW5jZSBbNjBdIiwiYWRkIjoiMTQ1LjIzOS41NS4yMTAiLCJwb3J0IjoiODAiLCJpZCI6IjJiYzgwZTc3LTk1OTAtNGRlZC1hNDhiLTBlZGE0OTNmNjExYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwicGF0aCI6Ii8iLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZm9ydHJlc3Nob3N0LmlyLiJ9
-hysteria2://kkaWPI4aVSbVgfDyzu37q1XI@13.212.242.95:40000?insecure=1&alpn=h3&sni=sg-transit-3.nebulacloud.win#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B92%5D
-vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@base.hosamobenl.co.uk:443?encryption=none&type=tcp&security=tls&headerType=none&sni=base.hosamobenl.co.uk&alpn=http/1.1&fp=chrome&pinSHA256=8f40a40d49c7e830e78111a9846f43f322ba049cee043259c108f28a66c16b2a&pcs=8f40a40d49c7e830e78111a9846f43f322ba049cee043259c108f28a66c16b2a#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B1%5D
+vless://3ecbd833-40d8-4ddb-b80b-a7c4628ec7e5@78.159.245.177:59715?encryption=none&fp=firefox&mode=gun&security=tls&serviceName=wn-adaptcloud&sni=wn-pl4.static-s3.org&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B187%5D
+vless://6c022fe4-9838-42fd-a702-1938c5d2ca33@2.31.132.159:8443?security=tls&type=tcp&sni=static.167.125.29.2.clients.your-server.de&fp=firefox&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B12%5D
+vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@87.228.38.56:443?path=/v2/connect/a9cbd64ca09f8612&security=tls&sni=connect6.blog-forme.ru&type=ws&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B188%5D
+vless://6c022fe4-9838-42fd-a702-1938c5d2ca33@167.233.217.107:8443?security=tls&type=tcp&sni=static.80.222.99.91.clients.your-server.de&fp=firefox&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B101%5D
+vless://bbbc1b48-9539-4300-acab-25cea65b533c@194.58.60.221:443?encryption=none&fp=firefox&pbk=PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA&security=reality&serviceName=livestreamcontent&sid=db711de5e3ca0a68&sni=node43.lmdscdn.ru&type=grpc#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B3%5D
+hysteria2://YV1sd3tfCZngTtnvRmy7@206.189.229.48:443?insecure=1&obfs=salamander&obfs-password=ZuPf4OcXKvotJdDxlTus&sni=www.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B513%5D
+vless://51f034e7-2181-457a-9f5a-859b1c4fbb71@88.216.70.65:443?security=reality&type=tcp&sni=de.save-node.com&fp=firefox&flow=xtls-rprx-vision&sid=45ee70d18247e5&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B90%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFBvbGFuZCBbMzNdIiwiYWRkIjoiNTQuMzcuMTMxLjEyNiIsInBvcnQiOiI4MCIsImlkIjoiMWU1NWJlY2EtM2M2OS00ZmE3LWZiMWYtMTVjMWI3Njc0MzVmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii8iLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uaGVzYW5pZDguaXIuIn0=
+hysteria2://yO8pug5XmwkBXBAjleYIaVt@192.255.152.147:443?insecure=1&sni=192.255.152.147#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B525%5D
+vless://3ecbd833-40d8-4ddb-b80b-a7c4628ec7e5@185.86.145.55:10470?security=tls&sni=wn-pl4.static-s3.org&alpn=h2&fp=firefox&type=grpc&serviceName=wn-adaptcloud#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B64%5D
+vless://95c2ba1e-a330-4e6b-bd81-bf9c0f647b2f@49930ag.es8.h1clayd.click:443?encryption=none&type=grpc&security=reality&sni=49930ag.es8.h1clayd.click&pbk=H_sPS4IJjHa4Wd7WLAtp_eamROtKBAj-G0UcMBHLHQw&sid=2437eeeb791b6d80&spx=/&serviceName=61c20be08f4f&fp=safari#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B5%5D
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:11802?security=reality&type=tcp&allowInsecure=1&sni=psstatic.cdn.bcebos.com&fp=chrome&flow=xtls-rprx-vision&sid=6c84fbac2d&pbk=FUBjYwXlKIVwF7IuJf5dt_HU2sUnrEt10s4TIlTe8Q4#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B52%5D
+hysteria2://307ee0e53ea04dfd86a7f2f9fcd53844@130.49.163.188:443?sni=s5.libertyrunet.store&alpn=h3#%F0%9F%87%B7%F0%9F%87%B8%20Serbia%20%5B1%5D
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?type=tcp&headerType=none&security=reality&encryption=none&sni=04535dt.us8.h1clayd.click&fp=firefox&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&sid=ba2a3dce62b99092&spx=/#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B27%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.117.92.138:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B70%5D
+vless://bbbc1b48-9539-4300-acab-25cea65b533c@194.58.60.221:443?encryption=none&pbk=PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA&security=reality&serviceName=livestreamcontent&sid=db711de5e3ca0a68&sni=node43.lmdscdn.ru&type=grpc&fp=edge#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B4%5D
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:30322?security=reality&encryption=none&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=psstatic.cdn.bcebos.com&sid=6a60e7e382d6#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B53%5D
