@@ -1,10 +1,14 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 14.11.2026 17:59)
-# 🛡️ Verified Elite: 6
-# 📊 Stats: Вход: 1065 | Пинг: 16 | >300KB/s: 7 | SB-Old: 5 | SB-HY: 7 | Clash: 7 | iOS: 6
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 14.11.2026 19:02)
+# 🛡️ Verified Elite: 10
+# 📊 Stats: Вход: 1009 | Пинг: 33 | >300KB/s: 15 | SB-Old: 10 | SB-HY: 14 | Clash: 15 | iOS: 10
 
-vless://510e8bc2-020c-412a-9caa-b036031268e8@80.47.228.99:443?encryption=none&fp=firefox&host=5674-4.seenode.app&path=/api/v1/live&security=tls&type=ws&sni=5674-4.seenode.app#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B53%5D
-vless://cd3d8e5c-794f-4c34-8222-59d3e99e35fe@104.20.63.254:443?encryption=none&type=ws&path=/&host=joeypg.ezbiz.dynv6.net&security=tls&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B119%5D
-vless://5407a1c6-fbbf-417a-864d-48563da8e454@163.61.182.194:34646?encryption=none&fp=chrome&pbk=UuXUXzPnZM8IY-D5bQPy4iBIzEpK4PJFEOJzeObISRA&security=reality&sid=4710d669&spx=/53ddb3cfd64cb7b&type=tcp&sni=api.receptivity.io#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20%5B1%5D
-trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@38.180.101.235:5443?security=tls&alpn=h2,http/1.1&fp=firefox&sni=rs.nebulaguard.org#%F0%9F%87%B7%F0%9F%87%B8%20Serbia%20%5B4%5D
-vless://7d718630-7a1a-4af8-9332-aa0610634e8a@hinoki.lalibobi.online:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=of5IGFLdYn5BrWcKnwW3ucJfrQCt7ofPkySZWen3EzI&sid=3e9f3d0780415792&sni=hinoki.lalibobi.online#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B51%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IEZyYW5jZSBbNTddIiwiYWRkIjoiMTQ1LjIzOS41NS4yMTAiLCJwb3J0Ijo4MCwiaWQiOiIyYmM4MGU3Ny05NTkwLTRkZWQtYTQ4Yi0wZWRhNDkzZjYxMWIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJwYXRoIjoiLyIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5mb3J0cmVzc2hvc3QuaXIifQ==
+hysteria2://1e697474-7836-47ed-aaca-b559efcbb298@eu90.cdn77.icu:8453?security=tls&sni=eu71.cdn77.icu#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B59%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IEZyYW5jZSBbNTVdIiwiYWRkIjoiMTQ1LjIzOS41NS4yMTAiLCJwb3J0Ijo4MCwiaWQiOiIyYmM4MGU3Ny05NTkwLTRkZWQtYTQ4Yi0wZWRhNDkzZjYxMWIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJwYXRoIjoiLyIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5mb3J0cmVzc2hvc3QuaXIifQ==
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:42120?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&sid=bb82c8&sni=www.tesla.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B67%5D
+hysteria2://yO8pug5XmwkBXBAjleYIaVt@192.255.152.147:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B528%5D
+trojan://2e7sEZERnvGOlt35hf6rNg@96.44.133.37:2087?sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B516%5D
+hysteria2://kkaWPI4aVSbVgfDyzu37q1XI@13.212.242.95:40000?alpn=h3&sni=sg-transit-3.nebulacloud.win#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B90%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFBvbGFuZCBbMzNdIiwiYWRkIjoiNTQuMzcuMTMxLjEyNiIsInBvcnQiOjgwLCJpZCI6IjFlNTViZWNhLTNjNjktNGZhNy1mYjFmLTE1YzFiNzY3NDM1ZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsImFscG4iOiIiLCJwYXRoIjoiLyIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5oZXNhbmlkOC5pciJ9
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:43149?security=reality&flow=xtls-rprx-vision&pbk=cvong7paE8XIzzbKWgV5iUruP1pBqI2IhMuBHc8c0UE&sid=15aa0ad4&fp=chrome&type=tcp&headerType=none&host=zfapi.zalolink.com&path=/&sni=psstatic.cdn.bcebos.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B46%5D
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:54528?security=reality&flow=xtls-rprx-vision&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7&fp=chrome&type=tcp&headerType=none&host=zfapi.zalolink.com&path=/&sni=www.apple.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B49%5D
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:54528?type=raw&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7&sni=www.apple.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B48%5D
