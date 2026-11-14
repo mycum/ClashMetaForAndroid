@@ -1,14 +1,12 @@
-# profile-title: 🚀 Telegood Clash (ТОП-32 от 14.11.2026 22:44)
-# 🛡️ Verified Clash Elite: 10
-# 📊 Stats: Вход: 968 | Пинг: 23 | >300KB/s: 10 | SB-Old: 8 | SB-HY: 10 | Clash: 10 | iOS: 5
+# profile-title: 🚀 Telegood Clash (ТОП-32 от 14.11.2026 23:46)
+# 🛡️ Verified Clash Elite: 8
+# 📊 Stats: Вход: 924 | Пинг: 27 | >300KB/s: 8 | SB-Old: 6 | SB-HY: 8 | Clash: 8 | iOS: 8
 
-vless://3ecbd833-40d8-4ddb-b80b-a7c4628ec7e5@78.159.245.177:59715?alpn=h2&encryption=none&fp=firefox&mode=gun&security=tls&serviceName=wn-adaptcloud&sni=wn-pl4.static-s3.org&type=grpc#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23104%20%5B1%5D
-vless://3ecbd833-40d8-4ddb-b80b-a7c4628ec7e5@185.86.145.55:10470?security=tls&sni=wn-pl4.static-s3.org&alpn=h2&fp=firefox&type=grpc&serviceName=wn-adaptcloud#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%2ACIDR%20VK%20%5B1%5D
-hysteria2://YV1sd3tfCZngTtnvRmy7@206.189.229.48:443?insecure=1&obfs=salamander&obfs-password=ZuPf4OcXKvotJdDxlTus&sni=www.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B439%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFBvbGFuZCBbMzBdIiwiYWRkIjoiNTQuMzcuMTMxLjEyNiIsInBvcnQiOiI4MCIsImlkIjoiMWU1NWJlY2EtM2M2OS00ZmE3LWZiMWYtMTVjMWI3Njc0MzVmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii8iLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uaGVzYW5pZDguaXIuIn0=
-vless://51f034e7-2181-457a-9f5a-859b1c4fbb71@88.216.70.65:443?security=reality&type=tcp&sni=de.save-node.com&fp=firefox&flow=xtls-rprx-vision&sid=45ee70d18247e5&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B92%5D
-hysteria2://yO8pug5XmwkBXBAjleYIaVt@192.255.152.147:443?insecure=1&sni=192.255.152.147#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B451%5D
-vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFsxMF0iLCJhZGQiOiIxNDUuMjM5LjU1LjIxMCIsInBvcnQiOiI4MCIsImlkIjoiMmJjODBlNzctOTU5MC00ZGVkLWE0OGItMGVkYTQ5M2Y2MTFiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii8iLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZm9ydHJlc3Nob3N0LmlyLiJ9
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@201.8.71.230:443?encryption=none&pbk=xn7KVKS5MOnsFrYrEeRS04JssBCOxh12rxegaDFyGkA&security=reality&serviceName=7d5abcd7d8a1&sid=6d289ff0f47c0aac&sni=961ec0g.nl13.h1clayd.click&type=grpc&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B75%5D
-vless://3ecbd833-40d8-4ddb-b80b-a7c4628ec7e5@78.159.245.177:59715?encryption=none&fp=firefox&mode=gun&security=tls&serviceName=wn-adaptcloud&sni=wn-pl4.static-s3.org&type=grpc#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23101%20%5B1%5D
-vless://3ecbd833-40d8-4ddb-b80b-a7c4628ec7e5@185.86.145.55:10470?encryption=none&fp=firefox&mode=gun&security=tls&serviceName=wn-adaptcloud&sni=wn-pl4.static-s3.org&type=grpc#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23102%20%5B1%5D
+vmess://eyJhZGQiOiIxMDMuMTYwLjE4MC4yNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhNTIwNmE1NS1kNWJkLTQxYjktOTJhNS1iZDI3YTkwMzU1ZmYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIyMjIyIiwicHMiOiJcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZmMgVGFpd2FuIFs0XSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+hysteria2://YV1sd3tfCZngTtnvRmy7@206.189.229.48:443?insecure=1&obfs=salamander&obfs-password=ZuPf4OcXKvotJdDxlTus&sni=www.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B517%5D
+vless://4eebdec5-08eb-4772-a0e6-35fec4c91cb0@185.178.208.167:443?security=tls&sni=uwugirl.dev&alpn=http/1.1&fp=firefox&type=ws&host=speakpro.lol&path=/player/collect/9c8514f9552d/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B31%5D
+vless://51f034e7-2181-457a-9f5a-859b1c4fbb71@88.216.70.65:443?security=reality&type=tcp&sni=de.save-node.com&fp=firefox&flow=xtls-rprx-vision&sid=45ee70d18247e5&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B78%5D
+ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6ckcxdWg1TXkyczhKeXR0NG91U3Y2OGxqb1EraU5wSFQ5bXkvblJndFBBbz0=@dlc.deltapc.digital:12947#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B9%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFBvbGFuZCBbMzNdIiwiYWRkIjoiNTQuMzcuMTMxLjEyNiIsInBvcnQiOiI4MCIsImlkIjoiMWU1NWJlY2EtM2M2OS00ZmE3LWZiMWYtMTVjMWI3Njc0MzVmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii8iLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uaGVzYW5pZDguaXIuIn0=
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@f0d7aft.nl17.h1clayd.click:443?encryption=none&security=reality&type=tcp&sni=f0d7aft.nl17.h1clayd.click&fp=chrome&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&sid=8956c57cb4c4f8d2#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B200%5D
+hysteria2://yO8pug5XmwkBXBAjleYIaVt@192.255.152.147:443?insecure=1&sni=192.255.152.147#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B526%5D
