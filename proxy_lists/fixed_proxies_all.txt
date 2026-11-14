@@ -1,16 +1,11 @@
-# profile-title: 🚀 Telegood VPN (ВСЕ ЖИВЫЕ от 14.11.2026 14:52)
-# 🛡️ Total Alive: 12
-# 📊 Stats: Вход: 1135 | Пинг: 21 | >300KB/s: 12 | SB-Old: 8 | SB-HY: 9 | Clash: 12 | iOS: 7
+# profile-title: 🚀 Telegood VPN (ВСЕ ЖИВЫЕ от 14.11.2026 17:59)
+# 🛡️ Total Alive: 7
+# 📊 Stats: Вход: 1065 | Пинг: 16 | >300KB/s: 7 | SB-Old: 5 | SB-HY: 7 | Clash: 7 | iOS: 6
 
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.237.53.254:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B20%5D
-vless://f2905db1-4c91-48fc-a101-705d1620e279@81.17.154.244:8443?type=grpc&security=tls&sni=nl2-edge.gacvpn.site&serviceName=connect-gb&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B63%5D
-vless://20d56ff9-359e-4983-9b04-6402e9ebce08@145.79.187.52:443?encryption=none&type=xhttp&security=reality&pbk=Zz_n3cpItqh107oNUK15eu-3Ac4TpS5gB_6plrRrZj8&sid=9f3df965329a8e8f&sni=edge.savesafe.info&fp=firefox&path=/&mode=auto&host=edge.savesafe.info&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%22512-1024%22,%22maxConcurrency%22%3A%228-16%22,%22maxConnections%22%3A0,%22hKeepAlivePeriod%22%3A0,%22hMaxRequestTimes%22%3A%2210000%22,%22hMaxReusableSecs%22%3A%2286400%22%7D,%22noGRPCHeader%22%3Afalse,%22xPaddingBytes%22%3A%22100-1000%22,%22scMaxEachPostBytes%22%3A1000000,%22scMinPostsIntervalMs%22%3A30,%22scStreamUpServerSecs%22%3A%2220-80%22%7D#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B77%5D
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.117.92.138:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B82%5D
-vless://d006ef4a-d235-4691-bf05-abbe0d14055c@64.186.233.233:443?encryption=none&fp=firefox&host=clash.ddm4.cn&path=/vless&security=tls&sni=clash.ddm4.cn&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B104%5D
-vless://f2905db1-4c91-48fc-a101-705d1620e279@81.17.154.244:8443?type=grpc&security=tls&sni=nl2-edge.gacvpn.site&serviceName=connect-gb&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B62%5D
-hysteria2://8b64b840-a48d-4ac0-b10f-8f7d7081a0f1@sg1.xiaoliyu.cyou:2056?insecure=1&sni=sg1.xiaoliyu.cyou#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B107%5D
-trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40103?alpn=h2,http/1.1&security=tls&sni=de.nebulaguard.org&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B12%5D
-trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40103?alpn=h2,http/1.1&security=tls&sni=de.nebulaguard.org&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B11%5D
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?headerType=none&host=04535dt.us8.h1clayd.click&path=/&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us8.h1clayd.click&type=tcp&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B40%5D
-trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40103?alpn=h2,http/1.1&security=tls&sni=de.nebulaguard.org&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B10%5D
-trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40103?security=tls&sni=de.nebulaguard.org&alpn=h2,http/1.1&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B9%5D
+vless://510e8bc2-020c-412a-9caa-b036031268e8@80.47.228.99:443?encryption=none&fp=firefox&host=5674-4.seenode.app&path=/api/v1/live&security=tls&sni=5674-4.seenode.app&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B53%5D
+vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.183.243:443?security=tls&sni=f2hbck5x3c0g8pl7.cdn.cachefleet.com&fp=firefox&type=grpc&serviceName=qi8ws15c7jv5q2fa#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B1%5D
+vless://cd3d8e5c-794f-4c34-8222-59d3e99e35fe@104.20.63.254:443?encryption=none&type=ws&path=/%3Fed%3D2048&host=joeypg.ezbiz.dynv6.net&security=tls&allowInsecure=0&insecure=0#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B119%5D
+vless://5407a1c6-fbbf-417a-864d-48563da8e454@163.61.182.194:34646?encryption=none&fp=chrome&pbk=UuXUXzPnZM8IY-D5bQPy4iBIzEpK4PJFEOJzeObISRA&security=reality&sid=4710d669&sni=api.receptivity.io&spx=/53ddb3cfd64cb7b&type=tcp#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20%5B1%5D
+trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@38.180.101.235:5443?security=tls&sni=rs.nebulaguard.org&alpn=h2,http/1.1&fp=firefox#%F0%9F%87%B7%F0%9F%87%B8%20Serbia%20%5B4%5D
+vless://7d718630-7a1a-4af8-9332-aa0610634e8a@hinoki.lalibobi.online:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=of5IGFLdYn5BrWcKnwW3ucJfrQCt7ofPkySZWen3EzI&sid=3e9f3d0780415792&sni=hinoki.lalibobi.online#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B51%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IEZyYW5jZSBbNTddIiwiYWRkIjoiMTQ1LjIzOS41NS4yMTAiLCJwb3J0IjoiODAiLCJpZCI6IjJiYzgwZTc3LTk1OTAtNGRlZC1hNDhiLTBlZGE0OTNmNjExYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwicGF0aCI6Ii8iLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZm9ydHJlc3Nob3N0LmlyLiJ9
