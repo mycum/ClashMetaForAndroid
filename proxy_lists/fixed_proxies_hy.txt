@@ -1,13 +1,13 @@
-# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 14.11.2026 13:49)
+# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 14.11.2026 14:52)
 # 🛡️ Verified Sing-box Elite: 9
-# 📊 Stats: Вход: 1235 | Пинг: 17 | >300KB/s: 11 | SB-Old: 7 | SB-HY: 9 | Clash: 11 | iOS: 9
+# 📊 Stats: Вход: 1135 | Пинг: 21 | >300KB/s: 12 | SB-Old: 8 | SB-HY: 9 | Clash: 12 | iOS: 7
 
-vless://72f10005-8849-4072-b081-db3258c1350f@188.114.97.3:443?type=ws&security=tls&fp=chrome&host=xa6jgykbpcfy6na3tt4zeefsquy2x5kank9hmzdqieofbqkbv3kukzmdfsssaaa.b5mq1ob64b.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B224%5D
-trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40603?security=tls&alpn=h2,http/1.1&fp=firefox&sni=fr.nebulaguard.org#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B145%5D
-vless://d006ef4a-d235-4691-bf05-abbe0d14055c@64.186.233.233:443?encryption=none&fp=firefox&host=clash.ddm4.cn&path=/vless&security=tls&type=ws&sni=clash.ddm4.cn#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B111%5D
-vless://c1208c5a-2350-0003-affd-fc41b4319286@188.114.99.137:443?type=ws&encryption=none&packetEncoding=none&security=tls&fp=firefox&path=/media/ws/&host=decdn-28.nome-rkp.net&sni=decdn-28.nome-rkp.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B24%5D
-hysteria2://8b64b840-a48d-4ac0-b10f-8f7d7081a0f1@sg1.xiaoliyu.cyou:2056?insecure=1&sni=sg1.xiaoliyu.cyou#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B103%5D
-trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40103?security=tls&alpn=h2,http/1.1&fp=firefox&sni=de.nebulaguard.org#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B106%5D
-trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40601?security=tls&alpn=http/1.1&fp=firefox&type=ws&host=fr.nebulaguard.org&path=/459005d860/&sni=fr.nebulaguard.org#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B151%5D
-trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40503?security=tls&alpn=h2,http/1.1&fp=firefox&sni=al.nebulaguard.org#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B133%5D
-trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40501?security=tls&alpn=http/1.1&fp=firefox&type=ws&host=al.nebulaguard.org&path=/0cadd58edb/&sni=al.nebulaguard.org#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B160%5D
+vless://f2905db1-4c91-48fc-a101-705d1620e279@81.17.154.244:8443?type=grpc&security=tls&serviceName=connect-gb&fp=ios&sni=nl2-edge.gacvpn.site#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B63%5D
+vless://d006ef4a-d235-4691-bf05-abbe0d14055c@64.186.233.233:443?encryption=none&fp=firefox&host=clash.ddm4.cn&path=/vless&security=tls&type=ws&sni=clash.ddm4.cn#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B104%5D
+hysteria2://8b64b840-a48d-4ac0-b10f-8f7d7081a0f1@sg1.xiaoliyu.cyou:2056?insecure=1&sni=sg1.xiaoliyu.cyou#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B107%5D
+trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40103?alpn=h2,http/1.1&security=tls&fp=safari&sni=de.nebulaguard.org#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B12%5D
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?headerType=none&host=04535dt.us8.h1clayd.click&path=/&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&type=tcp&fp=ios&sni=04535dt.us8.h1clayd.click#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B40%5D
+vless://f2905db1-4c91-48fc-a101-705d1620e279@81.17.154.244:8443?type=grpc&security=tls&serviceName=connect-gb&fp=firefox&sni=nl2-edge.gacvpn.site#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B62%5D
+trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40103?alpn=h2,http/1.1&security=tls&fp=ios&sni=de.nebulaguard.org#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B11%5D
+trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40103?alpn=h2,http/1.1&security=tls&fp=edge&sni=de.nebulaguard.org#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B10%5D
+trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40103?security=tls&alpn=h2,http/1.1&fp=firefox&sni=de.nebulaguard.org#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B9%5D
