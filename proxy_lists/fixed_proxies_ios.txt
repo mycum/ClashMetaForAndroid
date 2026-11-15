@@ -1,20 +1,15 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 16.11.2026 02:07)
-# 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1080 | Пинг: 50 | >300KB/s: 19 | SB-Old: 16 | SB-HY: 18 | Clash: 19 | iOS: 16
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 16.11.2026 03:10)
+# 🛡️ Verified Elite: 11
+# 📊 Stats: Вход: 1022 | Пинг: 38 | >300KB/s: 14 | SB-Old: 11 | SB-HY: 12 | Clash: 14 | iOS: 11
 
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.134.252.228:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B36%5D
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.175.238.57:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B40%5D
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@3.71.19.239:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B100%5D
-vless://2443c85b-8566-4d61-b6fa-9ccc012701e9@144.48.10.243:443?flow=xtls-rprx-vision&security=tls&alpn=h2,http/1.1&fp=firefox&sni=ab1.xt-game.net#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B5%5D
-vless://16f3d526-8cf8-4af5-a86f-b023c5b52085@132.243.163.114:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=XQWaIMBPo0mpWs3MooxxkjWNSgxnkIESd_2PnR8_2HA&sid=1061f1b1cdaad3ad&sni=3fb2b6t.se2.h1clayd.click#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B14%5D
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@3.79.47.19:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B69%5D
-vless://71327a90-b9c4-4385-b850-4d3c5832d9cc@91.213.186.45:46986?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=5Uk63lFOn1Z3gmImXWrXbvQ0b9gXTOiY_VWuI898Vmk&sni=www.paypal.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B7%5D
-hysteria2://YV1sd3tfCZngTtnvRmy7@206.189.229.48:443?obfs=salamander&obfs-password=ZuPf4OcXKvotJdDxlTus&sni=www.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B548%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.159:443?security=tls&sni=resources.healthcarejobshubenhancemedicalprofessionalskillstoday.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B119%5D
-vless://2443c85b-8566-4d61-b6fa-9ccc012701e9@91.188.237.14:443?security=tls&encryption=none&flow=xtls-rprx-vision&fp=firefox&type=tcp&alpn=h2,http/1.1&sni=ab2.xt-game.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B69%5D
-vless://474638a5-dc58-4453-9e40-70bcaa4ef74c@b998f03d.de-p2.h1clayd.click:443?security=reality&type=tcp&packetEncoding=xudp&fp=chrome&sid=c10f4100fa3a8d47&pbk=RjoTK5x2_y3hb4nsOUnjii7IAu6gy5GrC-VN-H_AIh0&encryption=none&sni=b998f03d.de-p2.h1clayd.click#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B10%5D
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:30322?security=reality&flow=xtls-rprx-vision&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo&sid=6a60e7e382d6&type=tcp&headerType=none&host=psstatic.cdn.bcebos.com&path=/&fp=chrome&sni=psstatic.cdn.bcebos.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B26%5D
-vless://74b86103-0a6e-4a0e-8430-2aa84af805fc@104.168.109.213:443?flow=xtls-rprx-vision&security=reality&fp=firefox&pbk=rU4-ii54LkmEWBaliTQHvi3jc0fDTlSmutVtzedMNRM&sid=6ba7b8&sni=www.cloudflare.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B75%5D
-vless://474638a5-dc58-4453-9e40-70bcaa4ef74c@b998f03d.de-p2.h1clayd.click:443?encryption=none&type=tcp&security=reality&pbk=RjoTK5x2_y3hb4nsOUnjii7IAu6gy5GrC-VN-H_AIh0&sid=c10f4100fa3a8d47&fp=chrome&spx=/&sni=b998f03d.de-p2.h1clayd.click#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B8%5D
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:43149?encryption=none&flow=xtls-rprx-vision&security=reality&fp=chrome&pbk=cvong7paE8XIzzbKWgV5iUruP1pBqI2IhMuBHc8c0UE&sid=15aa0ad4&type=tcp&headerType=none&host=zfapi.zalolink.com&path=/&sni=psstatic.cdn.bcebos.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B35%5D
-vless://474638a5-dc58-4453-9e40-70bcaa4ef74c@b998f03d.de-p2.h1clayd.click:443?encryption=none&type=tcp&security=reality&pbk=RjoTK5x2_y3hb4nsOUnjii7IAu6gy5GrC-VN-H_AIh0&sid=c10f4100fa3a8d47&fp=firefox&spx=/&sni=b998f03d.de-p2.h1clayd.click#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B9%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.175.238.57:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B41%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@3.71.19.239:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B65%5D
+vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@201.8.71.201:443?security=reality&fp=firefox&pbk=l3fn2CzC6-oVy6Mf5jafL-kVs8aX_jUfMUjhupBkPz0&sid=1a5d9b3be394fdc7&type=raw&sni=b1eb8et.de14.h1clayd.click#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B150%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@3.79.47.19:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B60%5D
+vless://16f3d526-8cf8-4af5-a86f-b023c5b52085@f3b21at.de18.h1clayd.click:443?type=raw&security=reality&fp=firefox&pbk=lneTk9CP66okHF_VgXVaSj_QNpRzEmvrAmRxmux5JVU&sid=08485ad122fafbd5&sni=f3b21at.de18.h1clayd.click#%F0%9F%87%B3%F0%9F%87%AC%20Nigeria%20%5B1%5D
+hysteria2://YV1sd3tfCZngTtnvRmy7@206.189.229.48:443?obfs=salamander&obfs-password=ZuPf4OcXKvotJdDxlTus&sni=www.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B535%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.159:443?security=tls&sni=resources.healthcarejobshubenhancemedicalprofessionalskillstoday.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B117%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.134.252.228:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B35%5D
+vless://0c85001b-ad48-4f43-bdc9-b2b5c626a26e@54.192.55.98:80?type=ws&host=d36lt9hzl2ug3d.cloudfront.net:assets.opensignal.com&path=/logout#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B28%5D
+vless://16f3d526-8cf8-4af5-a86f-b023c5b52085@132.243.163.114:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=XQWaIMBPo0mpWs3MooxxkjWNSgxnkIESd_2PnR8_2HA&sid=1061f1b1cdaad3ad&sni=3fb2b6t.se2.h1clayd.click#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B11%5D
+vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@f3b21at.de18.h1clayd.click:443?security=reality&encryption=none&pbk=lneTk9CP66okHF_VgXVaSj_QNpRzEmvrAmRxmux5JVU&fp=firefox&spx=/&type=tcp&sid=08485ad122fafbd5&sni=f3b21at.de18.h1clayd.click#%F0%9F%87%B3%F0%9F%87%AC%20Nigeria%20%5B2%5D
