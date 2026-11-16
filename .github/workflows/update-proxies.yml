@@ -654,7 +654,7 @@ jobs:
               headers={"User-Agent": "GitHub-Actions-Proxy-Checker"}
           )
 
-          with urllib.request.urlopen(release_req, timeout=30) as r:
+          with urllib.request.urlopen(release_req, timeout=50) as r:
               release = json.loads(r.read())
 
           tag = release["tag_name"]
