@@ -1,10 +1,9 @@
-# profile-title: 🚀 Telegood VPN (ВСЕ ЖИВЫЕ от 18.11.2026 00:28)
-# 🛡️ Total Alive: 6
-# 📊 Stats: Вход: 1029 | Пинг: 19 | >300KB/s: 6 | SB-Old: 4 | SB-HY: 6 | Clash: 6 | iOS: 6
+# profile-title: 🚀 Telegood VPN (ВСЕ ЖИВЫЕ от 18.11.2026 01:16)
+# 🛡️ Total Alive: 5
+# 📊 Stats: Вход: 999 | Пинг: 13 | >300KB/s: 5 | SB-Old: 4 | SB-HY: 5 | Clash: 5 | iOS: 5
 
-vless://24e3a924-fc4b-4e3f-98a8-85d506d530f9@45.151.102.155:443?flow=xtls-rprx-vision&security=reality&sni=nidel.serverslocal.ru&pbk=p0M6RumtfcATPNPUIFnFcgWy2rzk2gGVWx21sql1hV0&sid=8238d76df92c2560&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B62%5D
-vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@63.32.178.8:80?type=tcp#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B6%5D
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.78.215:443?sni=vpn-sg-001.fastervpn.world#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B142%5D
-vless://24e3a924-fc4b-4e3f-98a8-85d506d530f9@45.151.102.155:443?flow=xtls-rprx-vision&security=reality&sni=nidel.serverslocal.ru&pbk=p0M6RumtfcATPNPUIFnFcgWy2rzk2gGVWx21sql1hV0&sid=8238d76df92c2560&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B61%5D
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.179.113.70:443?sni=vpn-sg-001.fastervpn.world#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B141%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?security=tls&sni=connectgraduateswithjobopeningsandgrowprofessionally.com&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B3%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?security=tls&sni=connectgraduateswithjobopeningsandgrowprofessionally.com&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B2%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?security=tls&type=tcp&headerType=none&sni=connectgraduateswithjobopeningsandgrowprofessionally.com&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B4%5D
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.78.215:443?sni=vpn-sg-001.fastervpn.world#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B93%5D
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@win2loxfde0202.gggrelay.org:30322?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo&sid=6a60e7e382d6&sni=psstatic.cdn.bcebos.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B12%5D
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@win2loxfde0202.gggrelay.org:30322?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo&sid=6a60e7e382d6&sni=psstatic.cdn.bcebos.com&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B11%5D
