@@ -605,6 +605,8 @@ jobs:
 
       
       - name: Deep Check via Gstatic (Mihomo)
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
         run: |
           cat > gstatic_check.py <<'PY'
           import json
@@ -649,13 +651,77 @@ jobs:
           # Загружаем последнюю стабильную версию Mihomo
           print("⬇️ Загружаем Mihomo...")
 
-          release_req = urllib.request.Request(
-              "https://api.github.com/repos/MetaCubeX/mihomo/releases/latest",
-              headers={"User-Agent": "GitHub-Actions-Proxy-Checker"}
-          )
+          # GitHub API ограничивает анонимные запросы (60 в час на IP).
+          # В GitHub Actions используем встроенный токен репозитория, чтобы
+          # не зависеть от общего IP runner'а, и повторяем временные ошибки.
+          RELEASE_API = "https://api.github.com/repos/MetaCubeX/mihomo/releases/latest"
+          github_headers = {
+              "User-Agent": "GitHub-Actions-Proxy-Checker",
+              "Accept": "application/vnd.github+json",
+              "X-GitHub-Api-Version": "2022-11-28",
+          }
+          github_token = os.environ.get("GITHUB_TOKEN")
+          if github_token:
+              github_headers["Authorization"] = f"Bearer {github_token}"
+          else:
+              print("⚠️ GITHUB_TOKEN не найден; запрос пойдёт без авторизации")
 
-          with urllib.request.urlopen(release_req, timeout=50) as r:
-              release = json.loads(r.read())
+          release = None
+          max_api_attempts = 4
+          for attempt in range(1, max_api_attempts + 1):
+              release_req = urllib.request.Request(RELEASE_API, headers=github_headers)
+              try:
+                  with urllib.request.urlopen(release_req, timeout=50) as r:
+                      release = json.loads(r.read().decode("utf-8"))
+                  break
+              except urllib.error.HTTPError as e:
+                  response_headers = e.headers or {}
+                  response_body = e.read().decode("utf-8", errors="replace")[:500]
+                  is_rate_limit = (
+                      e.code in (403, 429)
+                      and (
+                          response_headers.get("X-RateLimit-Remaining") == "0"
+                          or "rate limit" in response_body.lower()
+                      )
+                  )
+                  retryable = is_rate_limit or e.code in (500, 502, 503, 504)
+                  if not retryable or attempt == max_api_attempts:
+                      raise RuntimeError(
+                          f"GitHub Releases API: HTTP {e.code} после {attempt} попыток. "
+                          f"Проверь GITHUB_TOKEN/лимит API. Ответ: {response_body}"
+                      ) from e
+
+                  retry_after = response_headers.get("Retry-After")
+                  rate_remaining = response_headers.get("X-RateLimit-Remaining")
+                  rate_reset = response_headers.get("X-RateLimit-Reset")
+                  if retry_after and retry_after.isdigit():
+                      delay = int(retry_after)
+                  elif rate_remaining == "0" and rate_reset and rate_reset.isdigit():
+                      delay = max(1, int(rate_reset) - int(time.time()) + 1)
+                  elif is_rate_limit:
+                      # Для secondary rate limit GitHub рекомендует ждать минимум минуту.
+                      delay = 60 * attempt
+                  else:
+                      delay = 2 ** attempt
+                  print(
+                      f"⚠️ GitHub API вернул HTTP {e.code}; "
+                      f"повтор {attempt}/{max_api_attempts - 1} через {delay} сек."
+                  )
+                  time.sleep(delay)
+              except urllib.error.URLError as e:
+                  if attempt == max_api_attempts:
+                      raise RuntimeError(
+                          f"Не удалось получить релиз Mihomo после {attempt} попыток: {e}"
+                      ) from e
+                  delay = min(2 ** attempt, 30)
+                  print(
+                      f"⚠️ Сетевая ошибка GitHub API ({e}); "
+                      f"повтор {attempt}/{max_api_attempts - 1} через {delay} сек."
+                  )
+                  time.sleep(delay)
+
+          if not release:
+              raise SystemExit("❌ GitHub API не вернул информацию о последнем релизе Mihomo")
 
           tag = release["tag_name"]
           assets = {a["name"]: a for a in release["assets"]}
