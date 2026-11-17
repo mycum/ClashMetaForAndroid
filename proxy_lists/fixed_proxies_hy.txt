@@ -1,14 +1,9 @@
-# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 17.11.2026 19:52)
-# 🛡️ Verified Sing-box Elite: 10
-# 📊 Stats: Вход: 1128 | Пинг: 13 | >300KB/s: 10 | SB-Old: 10 | SB-HY: 10 | Clash: 10 | iOS: 9
+# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 17.11.2026 20:55)
+# 🛡️ Verified Sing-box Elite: 5
+# 📊 Stats: Вход: 1044 | Пинг: 14 | >300KB/s: 5 | SB-Old: 4 | SB-HY: 5 | Clash: 5 | iOS: 5
 
-vless://12776e55-6230-48b9-b069-1bb8a04b4237@music.3apes.online:443?security=reality&type=tcp&packetEncoding=xudp&fp=chrome&flow=xtls-rprx-vision&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&encryption=none&sni=music.3apes.online#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B39%5D
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@88.214.24.247:443?security=reality&flow=xtls-rprx-vision&pbk=uvYdcBw9FFSxYXpZy5Pr5gzgXan7PWkWJKg940ogxSU&sid=50ea8dd3&fp=firefox&type=tcp&headerType=none&host=fr1.gofizzin.com&path=/&sni=fr1.gofizzin.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B10%5D
-vless://1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@cloud-de01.dynv6.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&sid=8f3c6e2a1b5d4f09&sni=tradingview.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B124%5D
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@69.176.84.172:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ccq4Wk9V2_8IBXou2URsapbdszbxNc7IWD6ExNuB7hU&security=reality&sid=39be97366fac&type=tcp&sni=us6.gofizzin.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B58%5D
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@717252g.nl8.h1clayd.click:443?type=grpc&headerType=none&security=reality&encryption=none&fp=chrome&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&sid=d3bd772514c87d28&spx=/&serviceName=204adda7e3da&mode=gun&sni=717252g.nl8.h1clayd.click#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B72%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?allowInsecure=1&sni=connectgraduateswithjobopeningsandgrowprofessionally.com&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B5%5D
-vless://12776e55-6230-48b9-b069-1bb8a04b4237@music.3apes.online:443?security=reality&type=tcp&packetEncoding=xudp&fp=chrome&flow=xtls-rprx-vision&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&encryption=none&sni=music.3apes.online#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B40%5D
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@69.176.84.172:443?security=reality&encryption=none&pbk=ccq4Wk9V2_8IBXou2URsapbdszbxNc7IWD6ExNuB7hU&headerType=none&fp=chrome&spx=/b4fcc6d25bda84e&type=tcp&flow=xtls-rprx-vision&sid=39be97366fac&sni=us6.gofizzin.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B59%5D
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?allowInsecure=1&fp=chrome&sni=connectgraduateswithjobopeningsandgrowprofessionally.com#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B6%5D
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@88.214.24.247:443?encryption=none&headerType=none&pbk=uvYdcBw9FFSxYXpZy5Pr5gzgXan7PWkWJKg940ogxSU&fp=chrome&sid=50ea8dd3&security=reality&flow=xtls-rprx-vision&host=fr1.gofizzin.com&type=tcp&sni=fr1.gofizzin.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B11%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.30:443?security=tls&fp=chrome&sni=resources.searchnationwidecareerchangehelperandguidancetoday.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B10%5D
+trojan://6aa160fb-c0e6-4cff-9733-881961bca52a@us01.node.qixi.best:443?type=ws&path=/download&host=us01.node.qixi.best&security=tls&fp=chrome&sni=us01.node.qixi.best#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B100%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?allowInsecure=1&fp=chrome&sni=connectgraduateswithjobopeningsandgrowprofessionally.com#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B5%5D
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.78.215:443?sni=vpn-sg-001.fastervpn.world#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B133%5D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?allowInsecure=1&sni=connectgraduateswithjobopeningsandgrowprofessionally.com&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B3%5D
