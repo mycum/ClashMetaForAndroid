@@ -1,24 +1,8 @@
-# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 18.11.2026 23:51)
-# 🛡️ Verified Sing-box Elite: 20
-# 📊 Stats: Вход: 1483 | Пинг: 56 | >300KB/s: 20 | SB-Old: 16 | SB-HY: 20 | Clash: 20 | iOS: 16
+# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 20.11.2026 19:07)
+# 🛡️ Verified Sing-box Elite: 4
+# 📊 Stats: Вход: 1040 | Пинг: 16 | >300KB/s: 4 | SB-Old: 1 | SB-HY: 4 | Clash: 4 | iOS: 4
 
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@3.122.241.248:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B77%5D
-trojan://auRVImItMy7CqRAY7FC8Wg@ipfast.kingmna.com:443?allowInsecure=1&host=copy_az_channel_NUFiLTER_10i.global.ssl.fastly.net.&path=/TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&type=ws&fp=ios&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B11%5D
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.235:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&type=tcp&sni=app.streamru3.net#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B18%5D
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@3.8.236.216:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B28%5D
-vless://12776e55-6230-48b9-b069-1bb8a04b4237@music.3apes.online:443?type=tcp&headerType=none&security=reality&encryption=none&fp=chrome&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&flow=xtls-rprx-vision&sni=music.3apes.online#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B42%5D
-vless://fdd8f4d0-4500-11ef-8227-1577c1651679@104.17.3.81:80?type=ws&host=sg-vless-ws.bypass.id&sni=sg-vless-ws.bypass.id#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B744%5D
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.171.211.44:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B43%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEhvbmcgS29uZyBbNDZdIiwiYWRkIjoiZG9nLWhrLmt1bmx1bjAxZG5zLmNvbSIsInBvcnQiOjIxMDIwLCJpZCI6Ijk0NjRjYTQwLWRkNzUtMzc0Mi1hNjI4LWQ5MzFhOWY0MTNiMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiY3MiOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiIn0=#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B46%5D
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru1.com:443?flow=xtls-rprx-vision&security=tls&type=tcp&fp=edge&sni=app.streamru1.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B17%5D
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.31:443?encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp&fp=edge&sni=app.streamru2.net#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B10%5D
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.179.113.70:443?sni=vpn-sg-001.fastervpn.world#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B121%5D
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.78.215:443?sni=vpn-sg-001.fastervpn.world#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B122%5D
-trojan://auRVImItMy7CqRAY7FC8Wg@ipfast.kingmna.com:443?allowInsecure=1&host=copy_az_channel_NUFiLTER_10i.global.ssl.fastly.net.&path=/TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&type=ws&fp=edge&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B10%5D
-vless://12776e55-6230-48b9-b069-1bb8a04b4237@music.3apes.online:443?encryption=none&flow=xtls-rprx-vision&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&security=reality&type=tcp&fp=safari&sni=music.3apes.online#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B39%5D
-vless://fdd8f4d0-4500-11ef-8227-1577c1651679@104.17.3.81:80?type=ws&path=/worryfree&host=sg-vless-ws.bypass.id#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B745%5D
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.201:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&type=tcp&sni=app.streamru1.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B7%5D
-vless://12776e55-6230-48b9-b069-1bb8a04b4237@music.3apes.online:443?security=reality&type=tcp&packetEncoding=xudp&fp=chrome&flow=xtls-rprx-vision&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&encryption=none&sni=music.3apes.online#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B36%5D
-vless://12776e55-6230-48b9-b069-1bb8a04b4237@music.3apes.online:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&security=reality&type=tcp&fp=edge&sni=music.3apes.online#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B40%5D
-vless://12776e55-6230-48b9-b069-1bb8a04b4237@music.3apes.online:443?security=reality&type=tcp&packetEncoding=xudp&fp=chrome&flow=xtls-rprx-vision&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&encryption=none&sni=music.3apes.online#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B37%5D
-vless://12776e55-6230-48b9-b069-1bb8a04b4237@music.3apes.online:443?encryption=none&flow=xtls-rprx-vision&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&security=reality&type=tcp&fp=firefox&sni=music.3apes.online#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B38%5D
+hysteria2://5de9c7b1-25f2-0001-bbaa-e4292a33a59b@176.108.244.162:443?pinSHA256=b59ce628fb2824c0da7cbfa43e9f93aca2632068ebc29e2367eebe832a1402bf&sni=ohyjf-ru-65sb.my-fade.cloud#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B63%5D
+hysteria2://f25f19f29ce3fb53a35bf1b35b452a43@129.159.156.109:50160?sni=www.bing.com#%F0%9F%87%AE%F0%9F%87%B1%20Israel%20%5B2%5D
+vless://12776e55-6230-48b9-b069-1bb8a04b4237@217.60.27.153:443?encryption=none&flow=xtls-rprx-vision&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&security=reality&type=tcp&fp=edge&sni=music.3apes.online#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B27%5D
+hysteria2://49142625-3a86-0001-9a44-274a17eb89ae@188.68.216.27:443?alpn=h3&pinSHA256=3bb90b7916051275cfc66e6e489a0f2094a823ca081c2041380fca2762df1412&sni=qtuod-ru-56sel.fade.mom#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B69%5D
