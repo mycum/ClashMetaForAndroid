@@ -1,9 +1,15 @@
-# profile-title: 🚀 Telegood Clash (ТОП-32 от 20.11.2026 20:03)
-# 🛡️ Verified Clash Elite: 5
-# 📊 Stats: Вход: 1414 | Пинг: 32 | >300KB/s: 5 | SB-Old: 2 | SB-HY: 5 | Clash: 5 | iOS: 4
+# profile-title: 🚀 Telegood Clash (ТОП-32 от 20.11.2026 20:30)
+# 🛡️ Verified Clash Elite: 11
+# 📊 Stats: Вход: 1433 | Пинг: 41 | >300KB/s: 11 | SB-Old: 5 | SB-HY: 11 | Clash: 11 | iOS: 10
 
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@46.243.205.192:443?security=tls&fp=chrome&sni=46.243.205.192&type=ws&headerType=none&host=46.243.205.192&path=/catalog/feed/H9eui7WsW3xS#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B270%5D
-hysteria2://f25f19f29ce3fb53a35bf1b35b452a43@129.159.156.109:50160?sni=www.bing.com#%F0%9F%87%AE%F0%9F%87%B1%20Israel%20%5B4%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMgWzQyN10iLCJhZGQiOiIxOTIuNzQuMjM2LjE0OCIsInBvcnQiOiIzMDAwNCIsInR5cGUiOiJub25lIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzE3MzM0Nzc3ODM3MDUiLCJob3N0Ijoid3d3LjkxMzM0NTY1Lnh5eiIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.70.220:443?security=reality&type=grpc&mode=gun&serviceName=5b79e8a94241&packetEncoding=xudp&sni=15b171g.nl7.h1clayd.click&fp=firefox&sid=50a749f0eccb628c&pbk=zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE#%F0%9F%87%A6%F0%9F%87%AA%20%F0%9F%8F%B4%20WLUnlocker%20%D0%9E%D0%90%D0%AD%20%5B12%5D
-vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:19482?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&sni=swdist.apple.com&fp=safari#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%5B23%5D
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@46.243.205.192:443?security=tls&fp=chrome&sni=46.243.205.192&type=ws&headerType=none&host=46.243.205.192&path=/catalog/feed/H9eui7WsW3xS#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B575%5D
+trojan://31703819-c5eb-44fe-98d5-07799c80bd70@104.19.180.169:443?type=ws&path=/download&host=it01.node.qixi.best&security=tls&sni=it01.node.qixi.best&fp=firefox#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B224%5D
+trojan://31703819-c5eb-44fe-98d5-07799c80bd70@it01.node.qixi.best:443?type=ws&path=/download&host=it01.node.qixi.best&security=tls&sni=it01.node.qixi.best&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B226%5D
+hysteria2://49142625-3a86-0001-9a44-274a17eb89ae@188.68.216.27:443?sni=qtuod-ru-56sel.fade.mom&alpn=h3&pinSHA256=3bb90b7916051275cfc66e6e489a0f2094a823ca081c2041380fca2762df1412#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B75%5D
+vless://f520bd45-8e26-4a23-a227-2f91acb67928@www.visa.com.hk:443?encryption=none&security=tls&sni=ap-south.862400.xyz&fp=random&type=ws&host=ap-south.862400.xyz&path=/announcement%3Fed%3D2048#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B828%5D
+hysteria2://HPzKAhFXV5XgEmRSTM33DRuTHeFcB5ON@89.117.172.45:443?sni=eth.todsm.com&obfs=salamander&obfs-password=0dRexOATy4t9J1ckKOLpPy9HrNoU5FmN#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B663%5D
+hysteria2://5760fb84-06f8-0001-890a-3d66044897ce@176.108.240.182:443?security=tls&sni=mwtjc-ru-73sb.my-fade.cloud&alpn=h3&pcs=b8414477e40fefd0518261802aeeec0251134eeeb5fb0cda665889061482bc99#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B72%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMgWzcxMF0iLCJhZGQiOiIxOTIuNzQuMjM2LjE0OCIsInBvcnQiOiIzMDAwNCIsInR5cGUiOiJub25lIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzE3MzM0Nzc3ODM3MDUiLCJob3N0Ijoid3d3LjkxMzM0NTY1Lnh5eiIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@961ec0g.nl13.h1clayd.click:443?type=grpc&security=reality&fp=edge&pbk=xn7KVKS5MOnsFrYrEeRS04JssBCOxh12rxegaDFyGkA&sid=6d289ff0f47c0aac&sni=961ec0g.nl13.h1clayd.click&mode=gun&serviceName=7d5abcd7d8a1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B83%5D
+hysteria2://f25f19f29ce3fb53a35bf1b35b452a43@129.159.156.109:50160?insecure=1&sni=www.bing.com#%F0%9F%87%AE%F0%9F%87%B1%20Israel%20%5B1%5D
+trojan://31703819-c5eb-44fe-98d5-07799c80bd70@it01.node.qixi.best:443?type=ws&path=/download&host=it01.node.qixi.best&security=tls&sni=it01.node.qixi.best&fp=firefox#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B225%5D

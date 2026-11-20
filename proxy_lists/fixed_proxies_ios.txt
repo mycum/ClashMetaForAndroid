@@ -1,8 +1,14 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 20.11.2026 20:03)
-# 🛡️ Verified Elite: 4
-# 📊 Stats: Вход: 1414 | Пинг: 32 | >300KB/s: 5 | SB-Old: 2 | SB-HY: 5 | Clash: 5 | iOS: 4
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 20.11.2026 20:30)
+# 🛡️ Verified Elite: 10
+# 📊 Stats: Вход: 1433 | Пинг: 41 | >300KB/s: 11 | SB-Old: 5 | SB-HY: 11 | Clash: 11 | iOS: 10
 
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@46.243.205.192:443?security=tls&fp=chrome&type=ws&headerType=none&host=46.243.205.192&path=/catalog/feed/H9eui7WsW3xS#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B270%5D
-hysteria2://f25f19f29ce3fb53a35bf1b35b452a43@129.159.156.109:50160?sni=www.bing.com#%F0%9F%87%AE%F0%9F%87%B1%20Israel%20%5B4%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMgWzQyN10iLCJhZGQiOiIxOTIuNzQuMjM2LjE0OCIsInBvcnQiOjMwMDA0LCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMTczMzQ3Nzc4MzcwNSIsImhvc3QiOiJ3d3cuOTEzMzQ1NjUueHl6IiwidGxzIjoidGxzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwiZnAiOiJjaHJvbWUifQ==
-vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:19482?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&fp=safari&sni=swdist.apple.com#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%5B23%5D
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@46.243.205.192:443?security=tls&fp=chrome&type=ws&headerType=none&host=46.243.205.192&path=/catalog/feed/H9eui7WsW3xS#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B575%5D
+trojan://31703819-c5eb-44fe-98d5-07799c80bd70@104.19.180.169:443?type=ws&path=/download&host=it01.node.qixi.best&security=tls&fp=firefox&sni=it01.node.qixi.best#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B224%5D
+trojan://31703819-c5eb-44fe-98d5-07799c80bd70@it01.node.qixi.best:443?type=ws&path=/download&host=it01.node.qixi.best&security=tls&fp=chrome&sni=it01.node.qixi.best#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B226%5D
+hysteria2://49142625-3a86-0001-9a44-274a17eb89ae@188.68.216.27:443?alpn=h3&pinSHA256=3bb90b7916051275cfc66e6e489a0f2094a823ca081c2041380fca2762df1412&sni=qtuod-ru-56sel.fade.mom#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B75%5D
+vless://f520bd45-8e26-4a23-a227-2f91acb67928@www.visa.com.hk:443?encryption=none&security=tls&fp=random&type=ws&host=ap-south.862400.xyz&path=/announcement&sni=ap-south.862400.xyz#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B828%5D
+hysteria2://HPzKAhFXV5XgEmRSTM33DRuTHeFcB5ON@89.117.172.45:443?obfs=salamander&obfs-password=0dRexOATy4t9J1ckKOLpPy9HrNoU5FmN&sni=eth.todsm.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B663%5D
+hysteria2://5760fb84-06f8-0001-890a-3d66044897ce@176.108.240.182:443?security=tls&alpn=h3&pcs=b8414477e40fefd0518261802aeeec0251134eeeb5fb0cda665889061482bc99&sni=mwtjc-ru-73sb.my-fade.cloud#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B72%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMgWzcxMF0iLCJhZGQiOiIxOTIuNzQuMjM2LjE0OCIsInBvcnQiOjMwMDA0LCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMTczMzQ3Nzc4MzcwNSIsImhvc3QiOiJ3d3cuOTEzMzQ1NjUueHl6IiwidGxzIjoidGxzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwiZnAiOiJjaHJvbWUifQ==
+hysteria2://f25f19f29ce3fb53a35bf1b35b452a43@129.159.156.109:50160?sni=www.bing.com#%F0%9F%87%AE%F0%9F%87%B1%20Israel%20%5B1%5D
+trojan://31703819-c5eb-44fe-98d5-07799c80bd70@it01.node.qixi.best:443?type=ws&path=/download&host=it01.node.qixi.best&security=tls&fp=firefox&sni=it01.node.qixi.best#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B225%5D
