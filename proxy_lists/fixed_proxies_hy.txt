@@ -1,15 +1,11 @@
-# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 20.11.2026 20:30)
-# 🛡️ Verified Sing-box Elite: 11
-# 📊 Stats: Вход: 1433 | Пинг: 41 | >300KB/s: 11 | SB-Old: 5 | SB-HY: 11 | Clash: 11 | iOS: 10
+# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 20.11.2026 21:38)
+# 🛡️ Verified Sing-box Elite: 7
+# 📊 Stats: Вход: 1243 | Пинг: 22 | >300KB/s: 7 | SB-Old: 4 | SB-HY: 7 | Clash: 7 | iOS: 7
 
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@46.243.205.192:443?security=tls&fp=chrome&type=ws&headerType=none&host=46.243.205.192&path=/catalog/feed/H9eui7WsW3xS#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B575%5D
-trojan://31703819-c5eb-44fe-98d5-07799c80bd70@104.19.180.169:443?type=ws&path=/download&host=it01.node.qixi.best&security=tls&fp=firefox&sni=it01.node.qixi.best#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B224%5D
-trojan://31703819-c5eb-44fe-98d5-07799c80bd70@it01.node.qixi.best:443?type=ws&path=/download&host=it01.node.qixi.best&security=tls&fp=chrome&sni=it01.node.qixi.best#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B226%5D
-hysteria2://49142625-3a86-0001-9a44-274a17eb89ae@188.68.216.27:443?alpn=h3&pinSHA256=3bb90b7916051275cfc66e6e489a0f2094a823ca081c2041380fca2762df1412&sni=qtuod-ru-56sel.fade.mom#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B75%5D
-vless://f520bd45-8e26-4a23-a227-2f91acb67928@www.visa.com.hk:443?encryption=none&security=tls&fp=random&type=ws&host=ap-south.862400.xyz&path=/announcement&sni=ap-south.862400.xyz#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B828%5D
-hysteria2://HPzKAhFXV5XgEmRSTM33DRuTHeFcB5ON@89.117.172.45:443?obfs=salamander&obfs-password=0dRexOATy4t9J1ckKOLpPy9HrNoU5FmN&sni=eth.todsm.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B663%5D
-hysteria2://5760fb84-06f8-0001-890a-3d66044897ce@176.108.240.182:443?security=tls&alpn=h3&pcs=b8414477e40fefd0518261802aeeec0251134eeeb5fb0cda665889061482bc99&sni=mwtjc-ru-73sb.my-fade.cloud#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B72%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMgWzcxMF0iLCJhZGQiOiIxOTIuNzQuMjM2LjE0OCIsInBvcnQiOjMwMDA0LCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMTczMzQ3Nzc4MzcwNSIsImhvc3QiOiJ3d3cuOTEzMzQ1NjUueHl6IiwidGxzIjoidGxzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwiZnAiOiJjaHJvbWUifQ==#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B710%5D
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@961ec0g.nl13.h1clayd.click:443?type=grpc&security=reality&fp=edge&pbk=xn7KVKS5MOnsFrYrEeRS04JssBCOxh12rxegaDFyGkA&sid=6d289ff0f47c0aac&mode=gun&serviceName=7d5abcd7d8a1&sni=961ec0g.nl13.h1clayd.click#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B83%5D
-hysteria2://f25f19f29ce3fb53a35bf1b35b452a43@129.159.156.109:50160?insecure=1&sni=www.bing.com#%F0%9F%87%AE%F0%9F%87%B1%20Israel%20%5B1%5D
-trojan://31703819-c5eb-44fe-98d5-07799c80bd70@it01.node.qixi.best:443?type=ws&path=/download&host=it01.node.qixi.best&security=tls&fp=firefox&sni=it01.node.qixi.best#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B225%5D
+vless://66c78912-4e2d-41dc-8742-aaae2590804e@13.143.187.220:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=eDzVz3bxkv3IoN3BUCa_aA-RicoeG7ACylYSnmS2Pgg&sni=fi-s1.kadrhub.tech#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B85%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IEZyYW5jZSBbMTYyXSIsImFkZCI6IjE0NS4yMzkuNTUuMjEwIiwicG9ydCI6ODAsImlkIjoiMmJjODBlNzctOTU5MC00ZGVkLWE0OGItMGVkYTQ5M2Y2MTFiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5mb3J0cmVzc2hvc3QuaXIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6Imdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLmZvcnRyZXNzaG9zdC5pciIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCJ9#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B162%5D
+hysteria2://HPzKAhFXV5XgEmRSTM33DRuTHeFcB5ON@89.117.172.45:443?obfs=salamander&obfs-password=0dRexOATy4t9J1ckKOLpPy9HrNoU5FmN&sni=eth.todsm.com#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%208%20Limestone%20Networks%20%5B1%5D
+vless://f520bd45-8e26-4a23-a227-2f91acb67928@ct.877774.xyz:443?encryption=none&security=tls&fp=random&type=ws&host=jp-osa.862400.xyz&path=/announcement&sni=jp-osa.862400.xyz#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B883%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMgWzY5MF0iLCJhZGQiOiIxOTIuNzQuMjM2LjE0OCIsInBvcnQiOjMwMDA0LCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMTczMzQ3Nzc4MzcwNSIsImhvc3QiOiJ3d3cuOTEzMzQ1NjUueHl6IiwidGxzIjoidGxzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwiZnAiOiJjaHJvbWUifQ==#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B690%5D
+ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@jpa.123069.xyz:53758#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B16%5D
+hysteria2://https%3A%2F%2Fxship.2fa.cat@starlink-ft.251313.xyz:443?insecure=1&security=tls&sni=xship.top#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B484%5D
