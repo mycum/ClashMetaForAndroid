@@ -1,8 +1,11 @@
-# profile-title: 📦 Telegood Sing-box (ТОП-32 от 20.11.2026 21:38)
-# 🛡️ Verified Sing-box Legacy: 4
-# 📊 Stats: Вход: 1243 | Пинг: 22 | >300KB/s: 7 | SB-Old: 4 | SB-HY: 7 | Clash: 7 | iOS: 7
+# profile-title: 📦 Telegood Sing-box (ТОП-32 от 20.11.2026 22:48)
+# 🛡️ Verified Sing-box Legacy: 7
+# 📊 Stats: Вход: 1255 | Пинг: 38 | >300KB/s: 11 | SB-Old: 7 | SB-HY: 11 | Clash: 11 | iOS: 11
 
-vless://66c78912-4e2d-41dc-8742-aaae2590804e@13.143.187.220:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=eDzVz3bxkv3IoN3BUCa_aA-RicoeG7ACylYSnmS2Pgg&sni=fi-s1.kadrhub.tech#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B85%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IEZyYW5jZSBbMTYyXSIsImFkZCI6IjE0NS4yMzkuNTUuMjEwIiwicG9ydCI6ODAsImlkIjoiMmJjODBlNzctOTU5MC00ZGVkLWE0OGItMGVkYTQ5M2Y2MTFiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5mb3J0cmVzc2hvc3QuaXIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6Imdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLmZvcnRyZXNzaG9zdC5pciIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCJ9
-vless://f520bd45-8e26-4a23-a227-2f91acb67928@ct.877774.xyz:443?encryption=none&security=tls&fp=random&type=ws&host=jp-osa.862400.xyz&path=/announcement&sni=jp-osa.862400.xyz#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B883%5D
-ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@jpa.123069.xyz:53758#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B16%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDOFpKN1I0cF9ISEozMmNzdDdpbFQtMFppMkYyMmhBYw@static.28.210.29.2.clients.your-server.de:25565#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B9%5D
+vless://fdd8f4d0-4500-11ef-8227-1577c1651679@104.17.3.81:80?type=ws&path=/worryfree&host=sg-vless-ws.bypass.id#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B875%5D
+vless://f520bd45-8e26-4a23-a227-2f91acb67928@ct.877774.xyz:443?encryption=none&security=tls&fp=random&type=ws&host=jp-osa.862400.xyz&path=/announcement&sni=jp-osa.862400.xyz#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B828%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEphcGFuIFsyMV0iLCJhZGQiOiI2NC4xNzYuMzQuMTAyIiwicG9ydCI6NDYxMzAsImlkIjoiNDc3MzUwYjItNzUzNi00ZjM4LWVlMjEtMDIwZWZkZGUyZDFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCJ9
+vless://fdd8f4d0-4500-11ef-8227-1577c1651679@104.17.3.81:80?security=none&type=ws&path=//worryfree&host=sg-vless-ws.bypass.id&packetEncoding=xudp#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B873%5D
+vless://f520bd45-8e26-4a23-a227-2f91acb67928@ct.877774.xyz:443?encryption=none&security=tls&fp=random&type=ws&host=jp-osa.862400.xyz&path=/announcement&sni=jp-osa.862400.xyz#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B829%5D
+vless://fdd8f4d0-4500-11ef-8227-1577c1651679@104.17.3.81:80?security=none&type=ws&path=/worryfree&host=sg-vless-ws.bypass.id&packetEncoding=xudp&encryption=none&sni=sg-vless-ws.bypass.id#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B874%5D

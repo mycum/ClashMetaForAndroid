@@ -1,11 +1,15 @@
-# profile-title: 🚀 Telegood VPN (ВСЕ ЖИВЫЕ от 20.11.2026 21:38)
-# 🛡️ Total Alive: 7
-# 📊 Stats: Вход: 1243 | Пинг: 22 | >300KB/s: 7 | SB-Old: 4 | SB-HY: 7 | Clash: 7 | iOS: 7
+# profile-title: 🚀 Telegood VPN (ВСЕ ЖИВЫЕ от 20.11.2026 22:48)
+# 🛡️ Total Alive: 11
+# 📊 Stats: Вход: 1255 | Пинг: 38 | >300KB/s: 11 | SB-Old: 7 | SB-HY: 11 | Clash: 11 | iOS: 11
 
-vless://66c78912-4e2d-41dc-8742-aaae2590804e@13.143.187.220:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=eDzVz3bxkv3IoN3BUCa_aA-RicoeG7ACylYSnmS2Pgg&sni=fi-s1.kadrhub.tech#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B85%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IEZyYW5jZSBbMTYyXSIsImFkZCI6IjE0NS4yMzkuNTUuMjEwIiwicG9ydCI6IjgwIiwiaWQiOiIyYmM4MGU3Ny05NTkwLTRkZWQtYTQ4Yi0wZWRhNDkzZjYxMWIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZm9ydHJlc3Nob3N0LmlyLiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZm9ydHJlc3Nob3N0LmlyLiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCJ9
-hysteria2://HPzKAhFXV5XgEmRSTM33DRuTHeFcB5ON@89.117.172.45:443?sni=eth.todsm.com&obfs=salamander&obfs-password=0dRexOATy4t9J1ckKOLpPy9HrNoU5FmN#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%208%20Limestone%20Networks%20%5B1%5D
-vless://f520bd45-8e26-4a23-a227-2f91acb67928@ct.877774.xyz:443?encryption=none&security=tls&sni=jp-osa.862400.xyz&fp=random&type=ws&host=jp-osa.862400.xyz&path=/announcement%3Fed%3D2048#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B883%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMgWzY5MF0iLCJhZGQiOiIxOTIuNzQuMjM2LjE0OCIsInBvcnQiOiIzMDAwNCIsInR5cGUiOiJub25lIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzE3MzM0Nzc3ODM3MDUiLCJob3N0Ijoid3d3LjkxMzM0NTY1Lnh5eiIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
-ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@jpa.123069.xyz:53758#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B16%5D
-hysteria2://https%3A%2F%2Fxship.2fa.cat@starlink-ft.251313.xyz:443?insecure=1&security=tls&sni=xship.top#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B484%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDOFpKN1I0cF9ISEozMmNzdDdpbFQtMFppMkYyMmhBYw@static.28.210.29.2.clients.your-server.de:25565#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B9%5D
+vless://fdd8f4d0-4500-11ef-8227-1577c1651679@104.17.3.81:80?type=ws&path=/worryfree&host=sg-vless-ws.bypass.id#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B875%5D
+vless://fdd8f4d0-4500-11ef-8227-1577c1651679@104.17.3.81:80?security=none&type=ws&path=//worryfree&host=sg-vless-ws.bypass.id&packetEncoding=xudp#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B873%5D
+vless://fdd8f4d0-4500-11ef-8227-1577c1651679@104.17.3.81:80?security=none&type=ws&path=/worryfree&host=sg-vless-ws.bypass.id&packetEncoding=xudp&sni=sg-vless-ws.bypass.id&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B874%5D
+vless://f520bd45-8e26-4a23-a227-2f91acb67928@ct.877774.xyz:443?encryption=none&security=tls&sni=jp-osa.862400.xyz&fp=random&type=ws&host=jp-osa.862400.xyz&path=/announcement%3Fed%3D2048#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B828%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMgWzYzNl0iLCJhZGQiOiIxOTIuNzQuMjM2LjE0OCIsInBvcnQiOjMwMDA0LCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMTczMzQ3Nzc4MzcwNSIsImhvc3QiOiJ3d3cuOTEzMzQ1NjUueHl6IiwidGxzIjoidGxzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwiZnAiOiJjaHJvbWUifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMgWzYzNV0iLCJhZGQiOiIxOTIuNzQuMjM2LjE0OCIsInBvcnQiOiIzMDAwNCIsInR5cGUiOiJub25lIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzE3MzM0Nzc3ODM3MDUiLCJob3N0Ijoid3d3LjkxMzM0NTY1Lnh5eiIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEphcGFuIFsyMV0iLCJhZGQiOiI2NC4xNzYuMzQuMTAyIiwicG9ydCI6IjQ2MTMwIiwiaWQiOiI0NzczNTBiMi03NTM2LTRmMzgtZWUyMS0wMjBlZmRkZTJkMWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ==
+vless://f520bd45-8e26-4a23-a227-2f91acb67928@ct.877774.xyz:443?encryption=none&security=tls&fp=random&type=ws&host=jp-osa.862400.xyz&path=/announcement&sni=jp-osa.862400.xyz#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B829%5D
+hysteria2://b006650f-8771-0001-b7fa-e18fc6e80ef1@168.113.254.247:443?security=tls&sni=vcerx-ru-67sb.my-fade.cloud&alpn=h3&pcs=c95e0c5630fadff7db0b6954ca210b104a9ea5a913e960a3ccb6d821664968e6#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B17%5D
+hysteria2://HPzKAhFXV5XgEmRSTM33DRuTHeFcB5ON@89.117.172.45:443?sni=eth.todsm.com&obfs=salamander&obfs-password=0dRexOATy4t9J1ckKOLpPy9HrNoU5FmN#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B586%5D
