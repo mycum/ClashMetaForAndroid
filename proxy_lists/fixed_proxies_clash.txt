@@ -1,8 +1,9 @@
-# profile-title: 🚀 Telegood Clash (ТОП-32 от 20.11.2026 19:30)
-# 🛡️ Verified Clash Elite: 4
-# 📊 Stats: Вход: 1287 | Пинг: 31 | >300KB/s: 4 | SB-Old: 1 | SB-HY: 4 | Clash: 4 | iOS: 4
+# profile-title: 🚀 Telegood Clash (ТОП-32 от 20.11.2026 20:03)
+# 🛡️ Verified Clash Elite: 5
+# 📊 Stats: Вход: 1414 | Пинг: 32 | >300KB/s: 5 | SB-Old: 2 | SB-HY: 5 | Clash: 5 | iOS: 4
 
-hysteria2://5de9c7b1-25f2-0001-bbaa-e4292a33a59b@176.108.244.162:443?sni=ohyjf-ru-65sb.my-fade.cloud&pinSHA256=b59ce628fb2824c0da7cbfa43e9f93aca2632068ebc29e2367eebe832a1402bf#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B46%5D
-hysteria2://f25f19f29ce3fb53a35bf1b35b452a43@129.159.156.109:50160?sni=www.bing.com#%F0%9F%87%AE%F0%9F%87%B1%20Israel%20%5B14%5D
-hysteria2://linlin-2026@13.55.52.44:36712?sni=13.55.52.44#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20%5B3%5D
-vless://12776e55-6230-48b9-b069-1bb8a04b4237@217.60.27.153:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&security=reality&sni=music.3apes.online&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B28%5D
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@46.243.205.192:443?security=tls&fp=chrome&sni=46.243.205.192&type=ws&headerType=none&host=46.243.205.192&path=/catalog/feed/H9eui7WsW3xS#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B270%5D
+hysteria2://f25f19f29ce3fb53a35bf1b35b452a43@129.159.156.109:50160?sni=www.bing.com#%F0%9F%87%AE%F0%9F%87%B1%20Israel%20%5B4%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMgWzQyN10iLCJhZGQiOiIxOTIuNzQuMjM2LjE0OCIsInBvcnQiOiIzMDAwNCIsInR5cGUiOiJub25lIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzE3MzM0Nzc3ODM3MDUiLCJob3N0Ijoid3d3LjkxMzM0NTY1Lnh5eiIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.70.220:443?security=reality&type=grpc&mode=gun&serviceName=5b79e8a94241&packetEncoding=xudp&sni=15b171g.nl7.h1clayd.click&fp=firefox&sid=50a749f0eccb628c&pbk=zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE#%F0%9F%87%A6%F0%9F%87%AA%20%F0%9F%8F%B4%20WLUnlocker%20%D0%9E%D0%90%D0%AD%20%5B12%5D
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:19482?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&sni=swdist.apple.com&fp=safari#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%5B23%5D
