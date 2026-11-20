@@ -97,16 +97,6 @@ jobs:
           echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/flaafix/AetrisVPN/refs/heads/main/AetrisVPN.txt >> proxy_lists/raw_temp.txt
-          echo "" >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/aviamastersgh/vpn-free-russia/main/verified_configs.txt >> proxy_lists/raw_temp.txt
-          echo "" >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/histeenn/VLESS-PO-GRIBI/refs/heads/main/deploy/subscriptions/1.txt >> proxy_lists/raw_temp.txt
-          echo "" >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/Mr-Meshky/vify/refs/heads/main/configs/vless.txt >> proxy_lists/raw_temp.txt
-          echo "" >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/Subzio/subzio/refs/heads/main/WHITE_LIST_PROXY_COLLECTION.txt >> proxy_lists/raw_temp.txt
-          echo "" >> proxy_lists/raw_temp.txt
           
           cat << 'EOF' > filter.py
           import urllib.request, json, re, socket, urllib.parse, base64, html, os, time
@@ -322,7 +312,10 @@ jobs:
               try: return 1 <= int(port) <= 65535
               except: return False
 
+          invalid_hy2_obfs_count = 0
+
           def parse_to_mihomo(link, node_name, beautiful_name):
+              global invalid_hy2_obfs_count
               try:
                   link = link.strip()
                   parts = link.split('#')
@@ -459,11 +452,16 @@ jobs:
                               sni = str(u.hostname) if (u.hostname and not re.match(r'^[\d\.]+$', str(u.hostname))) else ""
                           base.update({"type": "hysteria2", "password": password, "tls": True, "skip-cert-verify": True, "alpn": ["h3"]})
                           if sni: base["sni"] = sni
-                          obfs = get_param('obfs')
+                          obfs = get_param('obfs').strip()
                           if obfs:
+                              obfs_pwd = get_param('obfs-password').strip()
+                              # Mihomo требует obfs-password для Hysteria2 с включённым obfs.
+                              # Не добавляем заведомо невалидный узел в общий конфиг.
+                              if not obfs_pwd:
+                                  invalid_hy2_obfs_count += 1
+                                  return None
                               base["obfs"] = obfs
-                              obfs_pwd = get_param('obfs-password')
-                              if obfs_pwd: base["obfs-password"] = obfs_pwd
+                              base["obfs-password"] = obfs_pwd
                       
                       elif u.scheme == "ss":
                           user_info = ""
@@ -599,6 +597,11 @@ jobs:
                       final_pure_links.append(pure_link)
 
           print(f"🚀 Сгенерировано {len(final_json_data)} конфигов для Mihomo.")
+          if invalid_hy2_obfs_count:
+              print(
+                  f"⚠️ Отброшено Hysteria2 с obfs без obfs-password: "
+                  f"{invalid_hy2_obfs_count}"
+              )
           
           with open('proxy_lists/raw_proxies.json', 'w', encoding='utf-8') as f:
               json.dump(final_json_data, f, ensure_ascii=False, indent=2)
@@ -648,10 +651,28 @@ jobs:
           records = json.loads(source_file.read_text(encoding="utf-8"))
 
           entries = []
+          skipped_invalid_obfs = 0
           for i, item in enumerate(records):
               cfg = item.get("config", {})
-              if isinstance(cfg, dict) and cfg.get("name"):
-                  entries.append((i, cfg))
+              if not (isinstance(cfg, dict) and cfg.get("name")):
+                  continue
+
+              # Дополнительная защита: не даём одному старому/стороннему
+              # Hysteria2-конфигу с obfs без пароля остановить весь Mihomo.
+              cfg_type = str(cfg.get("type", "")).lower()
+              has_obfs = bool(str(cfg.get("obfs") or "").strip())
+              has_obfs_password = bool(str(cfg.get("obfs-password") or "").strip())
+              if cfg_type == "hysteria2" and has_obfs and not has_obfs_password:
+                  skipped_invalid_obfs += 1
+                  continue
+
+              entries.append((i, cfg))
+
+          if skipped_invalid_obfs:
+              print(
+                  f"⚠️ Пропущено некорректных Hysteria2 (obfs без obfs-password): "
+                  f"{skipped_invalid_obfs}"
+              )
 
           if not entries:
               raise SystemExit("❌ Нет конфигураций для проверки!")
