@@ -107,11 +107,13 @@ jobs:
           echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/Subzio/subzio/refs/heads/main/WHITE_LIST_PROXY_COLLECTION.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/DarkRoyalty/shnajder-vpn-configs/refs/heads/main/githubmirror/26.txt >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/DarkRoyalty/shnajder-vpn-configs/refs/heads/main/githubmirror/12.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/VOID-Anonymity/V.O.I.D-VPN_Bypass/refs/heads/main/url_work.txt >> proxy_lists/raw_temp.txt
+          echo "" >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/DarkRoyalty/shnajder-vpn-configs/refs/heads/main/githubmirror/22.txt >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
           
           cat << 'EOF' > filter.py
