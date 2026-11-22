@@ -1,14 +1,13 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 22.11.2026 23:59)
-# 🛡️ Verified Elite: 10
-# 📊 Stats: Вход: 1215 | Пинг: 22 | >300KB/s: 10 | SB-Old: 6 | SB-HY: 10 | Clash: 10 | iOS: 10
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 23.11.2026 01:09)
+# 🛡️ Verified Elite: 9
+# 📊 Stats: Вход: 1305 | Пинг: 41 | >300KB/s: 9 | SB-Old: 6 | SB-HY: 9 | Clash: 9 | iOS: 9
 
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@i1tr.mateflora.com:443?sni=i1tr.mateflora.com&fp=chrome#ID%20%F0%9F%87%AE%F0%9F%87%A9%20%5B1%5D
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@dg4.ianai.it.com:443?type=tcp&fp=chrome&sni=dg4.ianai.it.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B63%5D
-hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@nb2hk.hikigo.com:443?alpn=h3&obfs=salamander&obfs-password=o5qgnpl75wayhkn5&sni=nb2hk.hikigo.com#%F0%9F%87%AD%F0%9F%87%B0HK_1%20%5B1%5D
-vmess://eyJhZGQiOiIxNjEuMzMuMjAuMjU1IiwiYWlkIjowLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlMDg1NjUwOC1kNjkzLTQ1MGEtYTA5OS00NTUwOTFkYzRmMjUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZTA4NTY1MDgtZDY5My00NTBhLWEwOTktNDU1MDkxZGM0ZjI1LXZtIiwicGNzIjoiIiwicG9ydCI6ODg4MCwicHMiOiJcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUgSmFwYW4gWzEwOF0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
-hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@a1dgus.supertoolify.com:40205?alpn=h3&obfs=salamander&obfs-password=kydqninqtcdomlcb&sni=psstatic.cdn.bcebos.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%5B3%5D
-vmess://eyJ2IjoiMiIsInBzIjoiUEwgXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFs0XSIsImFkZCI6IjU0LjM3LjEzMS4xMjYiLCJwb3J0Ijo4MCwiaWQiOiIxZTU1YmVjYS0zYzY5LTRmYTctZmIxZi0xNWMxYjc2NzQzNWYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii8iLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uaGVzYW5pZDguaXIifQ==
-vless://b2d4f6a8-1c3e-4a5b-9d7f-2e4a6c8b0d1f@138.2.86.205:443?security=tls&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&path=/7b9977b2af9da85fa86adc065c362efe&sni=www.microsoft.com#%F0%9F%87%B8%F0%9F%87%ACopenproxylist.com%20vless-SG%20%5B2%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IEZyYW5jZSBbNDZdIiwiYWRkIjoiMTQ1LjIzOS41NS4yMTAiLCJwb3J0Ijo4MCwiaWQiOiIyYmM4MGU3Ny05NTkwLTRkZWQtYTQ4Yi0wZWRhNDkzZjYxMWIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii8iLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZm9ydHJlc3Nob3N0LmlyIn0=
-hysteria2://linlin-2026@3.106.35.101:36712?auth=linlin-2026#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20%5B1%5D
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@dg4.ianai.it.com:443?type=tcp&sni=dg4.ianai.it.com&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B62%5D
+hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@22egdg.mateflora.com:40055?alpn=h3&obfs=salamander&obfs-password=6fltjteoyab7fjf1&sni=psstatic.cdn.bcebos.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B100%5D
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@i1tr.mateflora.com:443?fp=chrome&sni=i1tr.mateflora.com#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20%5B3%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IEZyYW5jZSBbNTddIiwiYWRkIjoiMTQ1LjIzOS41NS4yMTAiLCJwb3J0Ijo4MCwiaWQiOiIyYmM4MGU3Ny05NTkwLTRkZWQtYTQ4Yi0wZWRhNDkzZjYxMWIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii8iLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZm9ydHJlc3Nob3N0LmlyIn0=
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@dg4.ianai.it.com:443?type=tcp&sni=dg4.ianai.it.com&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B74%5D
+hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@nb2hk.hikigo.com:443?alpn=h3&obfs=salamander&obfs-password=o5qgnpl75wayhkn5&sni=nb2hk.hikigo.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B20%5D
+vmess://eyJhZGQiOiIxNjEuMzMuMjAuMjU1IiwiYWlkIjowLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlMDg1NjUwOC1kNjkzLTQ1MGEtYTA5OS00NTUwOTFkYzRmMjUiLCJpbnNlY3VyZSI6IjAiLCJuYW1lIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IHwgQFJheWRpa2FseCB8IDk4QTQ4OSIsIm5ldCI6IndzIiwicGF0aCI6Ii9lMDg1NjUwOC1kNjkzLTQ1MGEtYTA5OS00NTUwOTFkYzRmMjUtdm0iLCJwY3MiOiIiLCJwb3J0Ijo4ODgwLCJwcyI6Ilx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSBKYXBhbiBbMjBdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
+hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@hkzfsg2.mateflora.com:443?alpn=h3&obfs=salamander&obfs-password=fcfqz5o4znnjqtrp&sni=hkzfsg2.mateflora.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B21%5D
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@i1tr.mateflora.com:443?sni=i1tr.mateflora.com&fp=chrome#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20%5B2%5D
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@dg4.ianai.it.com:443?type=tcp&fp=chrome&sni=dg4.ianai.it.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B73%5D
