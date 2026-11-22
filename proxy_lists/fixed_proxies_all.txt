@@ -1,16 +1,14 @@
-# profile-title: 🚀 Telegood VPN (ВСЕ ЖИВЫЕ от 22.11.2026 22:50)
-# 🛡️ Total Alive: 12
-# 📊 Stats: Вход: 1321 | Пинг: 61 | >300KB/s: 12 | SB-Old: 9 | SB-HY: 10 | Clash: 12 | iOS: 10
+# profile-title: 🚀 Telegood VPN (ВСЕ ЖИВЫЕ от 22.11.2026 23:59)
+# 🛡️ Total Alive: 10
+# 📊 Stats: Вход: 1215 | Пинг: 22 | >300KB/s: 10 | SB-Old: 6 | SB-HY: 10 | Clash: 10 | iOS: 10
 
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@calendarbaseline.lucheeebezlimitnoekino.stream:443?type=ws&headerType=none&security=tls&encryption=none&sni=calendarbaseline.lucheeebezlimitnoekino.stream&fp=firefox&path=/media/ws/#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B74%5D
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.77.142.19:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=calendarbaseline.lucheeebezlimitnoekino.stream&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B44%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFBvbGFuZCBbMzBdIiwiYWRkIjoiNTQuMzcuMTMxLjEyNiIsInBvcnQiOiI4MCIsImlkIjoiMWU1NWJlY2EtM2M2OS00ZmE3LWZiMWYtMTVjMWI3Njc0MzVmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii8iLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uaGVzYW5pZDguaXIuIn0=
-vless://8ce4ccb8-99ab-4540-a0db-f879c9933986@50.7.28.213:443?encryption=none&fp=firefox&security=tls&sni=api-v3-8ce4ccb8.vmagnum.win&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B14%5D
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@dg4.ianai.it.com:443?type=tcp&sni=dg4.ianai.it.com&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B26%5D
-vless://e9958027-03be-4eb5-bcec-70415b2e4844@107.150.93.5:443?security=tls&sni=e9958027.ferrin.uk&alpn=h2&fp=firefox&type=xhttp&path=/&mode=auto#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B6%5D
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@dg4.ianai.it.com:443?sni=dg4.ianai.it.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B25%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IEZyYW5jZSBbMTIyXSIsImFkZCI6IjE0NS4yMzkuNTUuMjEwIiwicG9ydCI6IjgwIiwiaWQiOiIyYmM4MGU3Ny05NTkwLTRkZWQtYTQ4Yi0wZWRhNDkzZjYxMWIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZm9ydHJlc3Nob3N0LmlyLiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZm9ydHJlc3Nob3N0LmlyLiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCJ9
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@bgsg1.hikigo.com:443?allowInsecure=1&sni=bgsg1.hikigo.com#SG%20%F0%9F%87%B8%F0%9F%87%AC%20%5B1%5D
-vmess://eyJhZGQiOiIxNjEuMzMuMjAuMjU1IiwiYWlkIjowLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlMDg1NjUwOC1kNjkzLTQ1MGEtYTA5OS00NTUwOTFkYzRmMjUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZTA4NTY1MDgtZDY5My00NTBhLWEwOTktNDU1MDkxZGM0ZjI1LXZtIiwicGNzIjoiIiwicG9ydCI6ODg4MCwicHMiOiJcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUgSmFwYW4gWzc1XSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@bgsg1.hikigo.com:443?allowInsecure=1&fp=chrome&sni=bgsg1.hikigo.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B21%5D
-hysteria2://linlin-2026@3.106.35.101:36712?sni=3.106.35.101&auth=linlin-2026#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20%5B3%5D
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@i1tr.mateflora.com:443?allowInsecure=1&sni=i1tr.mateflora.com#ID%20%F0%9F%87%AE%F0%9F%87%A9%20%5B1%5D
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@dg4.ianai.it.com:443?type=tcp&fp=chrome&sni=dg4.ianai.it.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B63%5D
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@dg4.ianai.it.com:443?sni=dg4.ianai.it.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B62%5D
+hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@nb2hk.hikigo.com:443?insecure=1&alpn=h3&sni=nb2hk.hikigo.com&obfs=salamander&obfs-password=o5qgnpl75wayhkn5#%F0%9F%87%AD%F0%9F%87%B0HK_1%20%5B1%5D
+vmess://eyJhZGQiOiIxNjEuMzMuMjAuMjU1IiwiYWlkIjowLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlMDg1NjUwOC1kNjkzLTQ1MGEtYTA5OS00NTUwOTFkYzRmMjUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZTA4NTY1MDgtZDY5My00NTBhLWEwOTktNDU1MDkxZGM0ZjI1LXZtIiwicGNzIjoiIiwicG9ydCI6ODg4MCwicHMiOiJcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUgSmFwYW4gWzEwOF0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
+hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@a1dgus.supertoolify.com:40205?insecure=1&alpn=h3&sni=psstatic.cdn.bcebos.com&obfs=salamander&obfs-password=kydqninqtcdomlcb#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%5B3%5D
+vmess://eyJ2IjoiMiIsInBzIjoiUEwgXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFs0XSIsImFkZCI6IjU0LjM3LjEzMS4xMjYiLCJwb3J0IjoiODAiLCJpZCI6IjFlNTViZWNhLTNjNjktNGZhNy1mYjFmLTE1YzFiNzY3NDM1ZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwiYWxwbiI6IiIsInBhdGgiOiIvIiwiaG9zdCI6Imdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLmhlc2FuaWQ4LmlyLiJ9
+vless://b2d4f6a8-1c3e-4a5b-9d7f-2e4a6c8b0d1f@138.2.86.205:443?security=tls&fp=chrome&packet-encoding=xudp&sni=www.microsoft.com&type=ws&headerType=none&path=/7b9977b2af9da85fa86adc065c362efe#%F0%9F%87%B8%F0%9F%87%ACopenproxylist.com%20vless-SG%20%5B2%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IEZyYW5jZSBbNDZdIiwiYWRkIjoiMTQ1LjIzOS41NS4yMTAiLCJwb3J0IjoiODAiLCJpZCI6IjJiYzgwZTc3LTk1OTAtNGRlZC1hNDhiLTBlZGE0OTNmNjExYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwiYWxwbiI6IiIsInBhdGgiOiIvIiwiaG9zdCI6Imdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLmZvcnRyZXNzaG9zdC5pci4ifQ==
+hysteria2://linlin-2026@3.106.35.101:36712?sni=3.106.35.101&auth=linlin-2026#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20%5B1%5D
