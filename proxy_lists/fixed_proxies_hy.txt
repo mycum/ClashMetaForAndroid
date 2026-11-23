@@ -1,14 +1,16 @@
-# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 24.11.2026 01:07)
-# 🛡️ Verified Sing-box Elite: 10
-# 📊 Stats: Вход: 1280 | Пинг: 22 | >300KB/s: 10 | SB-Old: 2 | SB-HY: 10 | Clash: 10 | iOS: 10
+# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 24.11.2026 02:16)
+# 🛡️ Verified Sing-box Elite: 12
+# 📊 Stats: Вход: 1293 | Пинг: 35 | >300KB/s: 12 | SB-Old: 4 | SB-HY: 12 | Clash: 12 | iOS: 11
 
-vless://04920673-035c-410d-94e4-5b1469d3fb6f@91.132.190.161:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&alpn=h2,http/1.1&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5B10%5D
-hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@dga1de.mateflora.com:40120?insecure=1&alpn=h3&obfs=salamander&obfs-password=pz7lyeav76a5wqzb&sni=psstatic.cdn.bcebos.com#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%20%5B1%5D
-vless://fdd8f4d0-4500-11ef-8227-1577c1651679@104.17.3.81:80?type=ws&path=/worryfree&host=sg-vless-ws.bypass.id#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1002%5D
-hysteria2://ec374b01-8dba-48dc-aa9d-b23cb6b2e694@hk2.5yunapi.buzz:13212?insecure=1&sni=hk2.5yunapi.buzz#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B40%5D
-hysteria2://xbs1t82tt7kyvu6q@46.8.112.169:443?sni=node-1.wt419.site#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B212%5D
-vless://c762af05-2e92-4133-bc30-8cf45dd40a28@188.114.99.137:80?security=none&type=ws&path=/&host=suh.cryptofront.uk&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B169%5D
-hysteria2://Telegram--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X-@m1.config7x.kz.ci:26206?obfs=salamander&obfs-password=vxvnmus9agdzduvz&sni=config7x.de5.net#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B5%5D
+hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@dga1de.mateflora.com:40120?insecure=1&alpn=h3&obfs=salamander&obfs-password=pz7lyeav76a5wqzb&sni=psstatic.cdn.bcebos.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B238%5D
+vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@72.56.1.44:443?security=tls&alpn=http/1.1&fp=firefox&type=ws&path=/api/de6/stream&encryption=none&sni=birchmeadow.moltex.click#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B199%5D
+hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@bgsg2.hikigo.com:443?insecure=1&alpn=h3&obfs=salamander&obfs-password=sj1awrdwnn5lbuno&sni=bgsg2.hikigo.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B91%5D
+hysteria2://302fa49c-7d08-4600-8bc3-a3e21baebdd1@kraw-pl-1.fantoff.online:443?security=tls&sni=kraw-pl-1.fantoff.online#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B34%5D
+vless://04920673-035c-410d-94e4-5b1469d3fb6f@91.132.190.161:443?alpn=h2,http/1.1&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5B1%5D
+vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@103.88.241.220:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=u9GnN8KGzfV0xQj6R8Ydp1nvY4exEWlTIcIbA27N0Wo&sid=bad10ef561d2e2a1&fp=ios&sni=ruhongmicro2.gangplatform.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B65%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6MUtSV1lvTk9CVTFPWFYrZExDaGlSYWdlU1A5dUlSWTJ3c0pQaWVSQzdrWT0@129.146.200.42:50356#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B297%5D
+trojan://GBEqN2BggZfFExc5pTTHUA@ipfast.kingmna.com:443?allowInsecure=1&host=copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net.&path=/TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&type=ws&sni=cdn.akamai.steamstatic.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B54%5D
+vless://ab4b7e9c-6df5-4da0-ac56-1d45f9faa864@194.226.98.175:24645?type=grpc&security=tls&mode=gun&serviceName=v2-hipnl-globalinetforallalwaysandneverbanyoubelieveme-com&fp=chrome&sni=v2.hipnl.globalinetforallalwaysandneverbanyoubelieveme.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B54%5D
 hysteria2://linlin-2026@3.106.35.101:36712#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20%5B4%5D
-hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@a3dgus.supertoolify.com:40055?insecure=1&alpn=h3&obfs=salamander&obfs-password=re61ep4ancwplwh8&sni=psstatic.cdn.bcebos.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B457%5D
-vless://04920673-035c-410d-94e4-5b1469d3fb6f@91.132.190.161:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5B11%5D
+hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@a3dgus.supertoolify.com:40055?insecure=1&alpn=h3&obfs=salamander&obfs-password=re61ep4ancwplwh8&sni=psstatic.cdn.bcebos.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B486%5D
+vless://04920673-035c-410d-94e4-5b1469d3fb6f@91.132.190.161:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5B4%5D
