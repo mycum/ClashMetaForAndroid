@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 23.11.2026 14:57)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 23.11.2026 16:09)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1802 | Пинг: 90 | >300KB/s: 40 | SB-Old: 15 | SB-HY: 32 | Clash: 32 | iOS: 16
+# 📊 Stats: Вход: 1651 | Пинг: 59 | >300KB/s: 28 | SB-Old: 12 | SB-HY: 28 | Clash: 28 | iOS: 16
 
-hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@dga1de.mateflora.com:40120?alpn=h3&obfs=salamander&obfs-password=pz7lyeav76a5wqzb&sni=psstatic.cdn.bcebos.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B312%5D
-hysteria2://e88e8fb9-03bf-4b5f-baa0-2209867ddc05@94.183.195.245:8452?alpn=h3&sni=eu64.cdn77.icu#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B65%5D
-vless://a03e513f-840a-4e13-adc5-16716ab28d36@anten.ir:80?encryption=none&host=cdn.flatron.ir&path=/ws&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B1%5D
-vless://a03e513f-840a-4e13-adc5-16716ab28d36@president.ir:80?encryption=none&host=cdn.flatron.ir&path=/ws&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B2%5D
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@144.31.1.172:443?security=tls&fp=firefox&type=ws&path=/media/ws/&sni=harbortarget.newbuzideas.org#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B41%5D
-trojan://GBEqN2BggZfFExc5pTTHUA@ipfast.kingmna.com:443?path=/TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&host=copy_az_channel_NUFiLTER_10i.global.ssl.fastly.net.&type=ws&fp=chrome&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B92%5D
-vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@72.56.1.44:443?security=tls&alpn=http/1.1&fp=firefox&type=ws&path=/api/de6/stream&encryption=none&sni=birchmeadow.moltex.click#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B204%5D
-vless://04920673-035c-410d-94e4-5b1469d3fb6f@91.132.190.161:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5B13%5D
-hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@48.102.138.190:443?obfs=salamander&obfs-password=AJyvWNsoDgVkMkboZ3juMJXYNRf6uEQE&sni=static-fi.snobvpn.online#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B168%5D
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@3.66.166.72:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B60%5D
-hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@48.102.139.122:443?obfs=salamander&obfs-password=KfgCaxwpO3HE3sklHjeYtZOTDy7sXMwZ&sni=static-se.snobmenu.xyz#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B164%5D
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@191.217.215.228:2096?security=tls&alpn=http/1.1&fp=firefox&type=ws&host=st3b6e5.rumedia-cdn.com&path=/cdn/v3/live&sni=st3b6e5.rumedia-cdn.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B509%5D
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IENhbmFkYSBbNDIyXSIsImFkZCI6IjEwNC4xNy4xMzYuMTk4IiwicG9ydCI6NDQzLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwicGF0aCI6Ii93cyIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIn0=
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@payablemeta.cleanfoodshop.org:443?encryption=none&security=tls&fp=firefox&type=ws&path=/media/ws/&sni=payablemeta.cleanfoodshop.org#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B11%5D
+trojan://GBEqN2BggZfFExc5pTTHUA@ipfast.kingmna.com:443?path=/TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&host=copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net.&type=ws&sni=cdn.akamai.steamstatic.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B76%5D
+vless://04920673-035c-410d-94e4-5b1469d3fb6f@91.132.190.161:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5B16%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@3.66.166.72:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B71%5D
+hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@48.102.139.122:443?obfs=salamander&obfs-password=KfgCaxwpO3HE3sklHjeYtZOTDy7sXMwZ&sni=static-se.snobmenu.xyz#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B153%5D
+hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@dga1de.mateflora.com:40120?alpn=h3&obfs=salamander&obfs-password=pz7lyeav76a5wqzb&sni=psstatic.cdn.bcebos.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B323%5D
+hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@48.102.138.190:443?obfs=salamander&obfs-password=AJyvWNsoDgVkMkboZ3juMJXYNRf6uEQE&sni=static-fi.snobvpn.online#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B155%5D
+hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@dg2us.supertoolify.com:443?alpn=h3&obfs=salamander&obfs-password=oxaanqnluias3s61&sni=dg2us.supertoolify.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B580%5D
+vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@72.56.1.44:443?security=tls&alpn=http/1.1&fp=firefox&type=ws&path=/api/de6/stream&encryption=none&sni=birchmeadow.moltex.click#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B198%5D
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.76.3.51:443?security=tls&fp=firefox&type=ws&path=/media/ws/&sni=accessfooter.cleanfoodshop.org#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B13%5D
-hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@a3dgus.supertoolify.com:40055?alpn=h3&obfs=salamander&obfs-password=re61ep4ancwplwh8&sni=psstatic.cdn.bcebos.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B567%5D
-hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@nb5rb.hikigo.com:443?alpn=h3&obfs=salamander&obfs-password=yhlbhcysaba0wtn1&sni=nb5rb.hikigo.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B47%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEhvbmcgS29uZyBbNzldIiwiYWRkIjoiNDUuMTQ5LjkyLjIzMCIsInBvcnQiOjE2NjMyLCJpZCI6IjkwNGYwNTY5LTg2OTUtNDY2Zi05N2NmLTBkZTJmYWNlMWI0NiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZjkzMDljYzg4NjM3YzI2ZjU1MmExYTY0ZmIzMTFjYWUubW9iZ3NsYi50YmNhY2hlLmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIn0=
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.134.240.81:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B76%5D
+hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@a3dgus.supertoolify.com:40055?alpn=h3&obfs=salamander&obfs-password=re61ep4ancwplwh8&sni=psstatic.cdn.bcebos.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B581%5D
+hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@bgsg2.hikigo.com:443?alpn=h3&obfs=salamander&obfs-password=sj1awrdwnn5lbuno&sni=bgsg2.hikigo.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B95%5D
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@191.217.215.228:2053?flow=xtls-rprx-vision&security=tls&alpn=h2,http/1.1&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B193%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEdlcm1hbnkgWzQ1NV0iLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6MTY2MTgsImlkIjoiOTA0ZjA1NjktODY5NS00NjZmLTk3Y2YtMGRlMmZhY2UxYjQ2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJmOTMwOWNjODg2MzdjMjZmNTUyYTFhNjRmYjMxMWNhZS5tb2Jnc2xiLnRiY2FjaGUuY29tIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ==
