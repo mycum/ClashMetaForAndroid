@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 23.11.2026 09:51)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 23.11.2026 11:09)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 2262 | Пинг: 167 | >300KB/s: 111 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
+# 📊 Stats: Вход: 2219 | Пинг: 151 | >300KB/s: 92 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
 
-hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@86.53.207.113:443?obfs=salamander&obfs-password=8utjvetgzbiuwfa7&sni=dg3yg.mateflora.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B120%5D
-hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@22egdg.mateflora.com:40055/?obfs=salamander&obfs-password=6fltjteoyab7fjf1&sni=psstatic.cdn.bcebos.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B99%5D
-hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@86.53.207.112:40055?obfs=salamander&obfs-password=re61ep4ancwplwh8&sni=psstatic.cdn.bcebos.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B100%5D
-trojan://1vkFHbQX_gN1U8V8jVc@172.66.3.191:443?security=tls&type=ws&host=mhpanel.kigaping.com&path=/trojan-ws&fp=firefox&sni=mhpanel.kigaping.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B320%5D
-trojan://1vkFHbQX_gN1U8V8jVc@104.16.242.176:443?security=tls&type=ws&host=mhpanel.kigaping.com&path=/trojan-ws&fp=edge&sni=mhpanel.kigaping.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B301%5D
-trojan://1vkFHbQX_gN1U8V8jVc@104.19.70.201:443?security=tls&type=ws&host=mhpanel.kigaping.com&path=/trojan-ws&sni=mhpanel.kigaping.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B311%5D
-trojan://1vkFHbQX_gN1U8V8jVc@172.64.150.28:443?security=tls&type=ws&host=mhpanel.kigaping.com&path=/trojan-ws&fp=chrome&sni=mhpanel.kigaping.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B318%5D
-trojan://1vkFHbQX_gN1U8V8jVc@104.16.114.7:443?security=tls&type=ws&host=mhpanel.kigaping.com&path=/trojan-ws&fp=firefox&sni=mhpanel.kigaping.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B309%5D
-vless://0201af77-da3f-4aea-95e1-d35c98ec1b21@208.103.161.2:2087?encryption=none&fp=firefox&security=tls&type=ws&sni=rayAn03-9wwNe2e6-v1.raYan-03.worKers.dEV#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B735%5D
-trojan://1vkFHbQX_gN1U8V8jVc@141.11.202.143:443?security=tls&type=ws&host=mhpanel.kigaping.com&path=/trojan-ws&sni=mhpanel.kigaping.com&fp=chrome#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B1%5D
-trojan://1vkFHbQX_gN1U8V8jVc@104.16.106.252:443?security=tls&type=ws&host=mhpanel.kigaping.com&path=/trojan-ws&sni=mhpanel.kigaping.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B306%5D
-trojan://1vkFHbQX_gN1U8V8jVc@91.209.253.54:443?security=tls&type=ws&host=mhpanel.kigaping.com&path=/trojan-ws&sni=mhpanel.kigaping.com&fp=chrome#%F0%9F%87%B8%F0%9F%87%A6%20Saudi%20Arabia%20%5B1%5D
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@144.31.1.172:443?security=tls&fp=firefox&type=ws&path=/media/ws/&sni=harbortarget.newbuzideas.org#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B49%5D
-hysteria2://d283bbfe-d5cd-4576-bc1a-630a7a5ad829@45.144.52.148:443?sni=swiftshield.lucheeebezlimitnoekino.stream#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%5B1%5D
-hysteria2://d283bbfe-d5cd-4576-bc1a-630a7a5ad829@2.27.26.180:443?sni=clearinggamma.obsch-self.co.uk#%F0%9F%87%A8%F0%9F%87%B3%20China%20%5B2%5D
-hysteria2://d283bbfe-d5cd-4576-bc1a-630a7a5ad829@2.26.191.37:443?sni=waybillmenu.obsch-self.co.uk#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B56%5D
+hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@22egdg.mateflora.com:40055/?obfs=salamander&obfs-password=6fltjteoyab7fjf1&sni=psstatic.cdn.bcebos.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B96%5D
+vless://0201af77-da3f-4aea-95e1-d35c98ec1b21@208.103.161.2:2087?encryption=none&fp=firefox&security=tls&type=ws&sni=rayAn03-9wwNe2e6-v1.raYan-03.worKers.dEV#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B780%5D
+hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@86.53.207.113:443?obfs=salamander&obfs-password=8utjvetgzbiuwfa7&sni=dg3yg.mateflora.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B115%5D
+trojan://1vkFHbQX_gN1U8V8jVc@159.246.55.228:443?security=tls&type=ws&host=mhpanel.kigaping.com&path=/trojan-ws&sni=mhpanel.kigaping.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B127%5D
+trojan://1vkFHbQX_gN1U8V8jVc@172.64.150.28:443?security=tls&type=ws&host=mhpanel.kigaping.com&path=/trojan-ws&fp=chrome&sni=mhpanel.kigaping.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1056%5D
+vless://c2f1f999-365f-42a7-87e7-726cbd0753ae@188.114.98.0:443?security=tls&type=ws&path=/294dd38929bdec5b&host=auth-api-8be4aa-gw.prod-relay-110934.workers.dev&packetEncoding=xudp&alpn=http/1.1&fp=chrome&encryption=none&sni=auth-api-8be4aa-gw.prod-relay-110934.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B272%5D
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@144.31.1.172:443?security=tls&fp=firefox&type=ws&path=/media/ws/&sni=harbortarget.newbuzideas.org#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B51%5D
+vless://cde5d3ef-7d14-2ee0-a74d-ac98e39bf9ec@136.234.10.226:52006?flow=xtls-rprx-vision&security=tls&alpn=h2,http/1.1&fp=firefox&sni=st.sdohnite.org#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B19%5D
+vless://08ef7604-b3a5-0001-b264-0038fa7c44fc@188.68.216.33:443?type=tcp&security=tls&fp=chrome&sni=pmdhivnevikmltdhqp.fcloudservices.site#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B463%5D
+vless://cde5d3ef-7d14-4fed-a74d-ac98e39bf9ec@87.192.47.7:52006?flow=xtls-rprx-vision&security=tls&alpn=h2,http/1.1&fp=firefox&sni=lv.buyclicks.click#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B1%5D
+vless://efc77ebb-405e-4e42-9774-72e1b06fe037@germanyforallkindsd.hchdhsbs12gd.ir:7005?security=reality&fp=ios&pbk=7aICTN0hv6bhd8bYOjNZniDYSXgD20LunZ3BW6_Zyk4&sni=play.googleapis.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B85%5D
+trojan://GBEqN2BggZfFExc5pTTHUA@ipfast.kingmna.com:443?host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.&path=/TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&type=ws&sni=cdn.akamai.steamstatic.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B128%5D
+vless://04920673-035c-410d-94e4-5b1469d3fb6f@91.132.190.161:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20AetrisVPN%20%5B3%5D
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.76.3.51:443?security=tls&fp=firefox&type=ws&path=/media/ws/&encryption=none&sni=accessfooter.cleanfoodshop.org#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B8%5D
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@leviko-al8733.shopingggg.ir:443?encryption=none&security=tls&type=ws&path=/media/ws/&sni=nl.lucheeebezlimitnoekino.stream&fp=chrome#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B15%5D
+vless://a0c7266e-0357-423e-b696-0fe11e0fe85c@189.74.117.14:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.videodolina.cc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B22%5D
