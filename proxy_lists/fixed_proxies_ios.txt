@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 23.11.2026 08:32)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 23.11.2026 09:51)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 2509 | Пинг: 192 | >300KB/s: 92 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
+# 📊 Stats: Вход: 2262 | Пинг: 167 | >300KB/s: 111 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
 
-hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@dg3yg.mateflora.com:443?alpn=h3&obfs=salamander&obfs-password=8utjvetgzbiuwfa7&sni=dg3yg.mateflora.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B101%5D
-vless://50414e45-4c5f-5a45-5553-5a447647929f@77.232.140.7:443?path=/stream/PANEL_ZEUS/5a447647929f&security=tls&encryption=none&host=bbz1x6eau6gs.88bahpu62r.workers.dev&type=ws&sni=bbz1x6eau6gs.88bahpu62r.workers.dev&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%5B65%5D
-vless://c3647117-baf4-4072-a872-fc762fc24ec9@188.114.98.5:443?path=/9ea36182644d0f1f&security=tls&alpn=http/1.1&encryption=none&host=cdn-edge-2fba99-gw.eng-ops-7084b7.workers.dev&fp=chrome&type=ws&sni=cdn-edge-2fba99-gw.eng-ops-7084b7.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B901%5D
-vless://9921b176-e013-4b66-adc3-a6bc33c3ab7d@172.67.247.113:443?security=tls&type=ws&path=/8a3c663fe6311479&host=cdn-edge-334a28-gw.build-svc-987d46.workers.dev&packetEncoding=xudp&alpn=http/1.1&fp=firefox&encryption=none&sni=cdn-edge-334a28-gw.build-svc-987d46.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1232%5D
-vless://775c9d67-2ef3-47e8-8e23-656b68333da8@172.67.235.78:443?security=tls&type=ws&path=/1e0b190b5bbf9d36&host=web-flow-263808-gw.poryya22o.workers.dev&packetEncoding=xudp&alpn=http/1.1&fp=chrome&encryption=none&sni=web-flow-263808-gw.poryya22o.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1245%5D
-vless://c2f1f999-365f-42a7-87e7-726cbd0753ae@188.114.98.0:443?security=tls&type=ws&path=/294dd38929bdec5b&host=auth-api-8be4aa-gw.prod-relay-110934.workers.dev&packetEncoding=xudp&alpn=http/1.1&fp=chrome&encryption=none&sni=auth-api-8be4aa-gw.prod-relay-110934.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B29%5D
-vless://97514cec-cf70-42b1-9743-3f89122adc8e@104.16.244.34:2053?encryption=none&security=tls&type=ws&host=cffq.pages.dev&path=/&sni=cffq.pages.dev&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1284%5D
-vless://50414e45-4c5f-5a45-5553-9c45f3fee7fb@103.116.7.10:2053?security=tls&fp=chrome&type=ws&host=dzzxiyeku44s.mahdihonarvar5.workers.dev&path=/stream/PANEL_ZEUS/9c45f3fee7fb&sni=dzzxiyeku44s.mahdihonarvar5.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B648%5D
-vless://0201af77-da3f-4aea-95e1-d35c98ec1b21@208.103.161.2:2087?encryption=none&fp=firefox&security=tls&type=ws&sni=rayAn03-9wwNe2e6-v1.raYan-03.worKers.dEV#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B420%5D
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@144.31.1.172:443?security=tls&fp=firefox&type=ws&path=/media/ws/&sni=harbortarget.newbuzideas.org#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B68%5D
-trojan://mitivpn@167.82.64.7:443?alpn=http/1.1&fp=firefox&host=mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&path=/%3F28&security=tls&type=ws&sni=steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B56%5D
-trojan://mitivpn@199.232.78.160:443?alpn=http/1.1&fp=chrome&host=mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&path=/&security=tls&type=ws&sni=steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B62%5D
-vless://04920673-035c-410d-94e4-5b1469d3fb6f@91.132.190.161:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&alpn=h2,http/1.1&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5B5%5D
-vless://cde5d3ef-7d14-4fed-a74d-ac98e39bf9ec@144.31.150.6:52006?flow=xtls-rprx-vision&security=tls&alpn=h2,http/1.1&fp=firefox&sni=fl.buyclicks.click#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B1%5D
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@2.26.93.106:443?encryption=none&path=/media/ws/&security=tls&type=ws&fp=safari&sni=depotchannel.lucheeebezlimitnoekino.stream#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B4%5D
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@payablemeta.cleanfoodshop.org:443?encryption=none&security=tls&fp=firefox&type=ws&path=/media/ws/&sni=payablemeta.cleanfoodshop.org#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B73%5D
+hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@86.53.207.113:443?obfs=salamander&obfs-password=8utjvetgzbiuwfa7&sni=dg3yg.mateflora.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B120%5D
+hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@22egdg.mateflora.com:40055/?obfs=salamander&obfs-password=6fltjteoyab7fjf1&sni=psstatic.cdn.bcebos.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B99%5D
+hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@86.53.207.112:40055?obfs=salamander&obfs-password=re61ep4ancwplwh8&sni=psstatic.cdn.bcebos.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B100%5D
+trojan://1vkFHbQX_gN1U8V8jVc@172.66.3.191:443?security=tls&type=ws&host=mhpanel.kigaping.com&path=/trojan-ws&fp=firefox&sni=mhpanel.kigaping.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B320%5D
+trojan://1vkFHbQX_gN1U8V8jVc@104.16.242.176:443?security=tls&type=ws&host=mhpanel.kigaping.com&path=/trojan-ws&fp=edge&sni=mhpanel.kigaping.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B301%5D
+trojan://1vkFHbQX_gN1U8V8jVc@104.19.70.201:443?security=tls&type=ws&host=mhpanel.kigaping.com&path=/trojan-ws&sni=mhpanel.kigaping.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B311%5D
+trojan://1vkFHbQX_gN1U8V8jVc@172.64.150.28:443?security=tls&type=ws&host=mhpanel.kigaping.com&path=/trojan-ws&fp=chrome&sni=mhpanel.kigaping.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B318%5D
+trojan://1vkFHbQX_gN1U8V8jVc@104.16.114.7:443?security=tls&type=ws&host=mhpanel.kigaping.com&path=/trojan-ws&fp=firefox&sni=mhpanel.kigaping.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B309%5D
+vless://0201af77-da3f-4aea-95e1-d35c98ec1b21@208.103.161.2:2087?encryption=none&fp=firefox&security=tls&type=ws&sni=rayAn03-9wwNe2e6-v1.raYan-03.worKers.dEV#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B735%5D
+trojan://1vkFHbQX_gN1U8V8jVc@141.11.202.143:443?security=tls&type=ws&host=mhpanel.kigaping.com&path=/trojan-ws&sni=mhpanel.kigaping.com&fp=chrome#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B1%5D
+trojan://1vkFHbQX_gN1U8V8jVc@104.16.106.252:443?security=tls&type=ws&host=mhpanel.kigaping.com&path=/trojan-ws&sni=mhpanel.kigaping.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B306%5D
+trojan://1vkFHbQX_gN1U8V8jVc@91.209.253.54:443?security=tls&type=ws&host=mhpanel.kigaping.com&path=/trojan-ws&sni=mhpanel.kigaping.com&fp=chrome#%F0%9F%87%B8%F0%9F%87%A6%20Saudi%20Arabia%20%5B1%5D
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@144.31.1.172:443?security=tls&fp=firefox&type=ws&path=/media/ws/&sni=harbortarget.newbuzideas.org#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B49%5D
+hysteria2://d283bbfe-d5cd-4576-bc1a-630a7a5ad829@45.144.52.148:443?sni=swiftshield.lucheeebezlimitnoekino.stream#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%5B1%5D
+hysteria2://d283bbfe-d5cd-4576-bc1a-630a7a5ad829@2.27.26.180:443?sni=clearinggamma.obsch-self.co.uk#%F0%9F%87%A8%F0%9F%87%B3%20China%20%5B2%5D
+hysteria2://d283bbfe-d5cd-4576-bc1a-630a7a5ad829@2.26.191.37:443?sni=waybillmenu.obsch-self.co.uk#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B56%5D
