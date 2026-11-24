@@ -1,8 +1,8 @@
-# profile-title: 📦 Telegood Sing-box (ТОП-32 от 24.11.2026 22:28)
+# profile-title: 📦 Telegood Sing-box (ТОП-32 от 24.11.2026 23:38)
 # 🛡️ Verified Legacy: 4
-# 📊 Stats: Вход: 1577 | Пинг: 15 | >300KB/s: 4 | SB-Old: 2 | SB-HY: 4 | Clash: 4 | iOS: 3
+# 📊 Stats: Вход: 1581 | Пинг: 13 | >300KB/s: 4 | SB-Old: 1 | SB-HY: 3 | Clash: 4 | iOS: 3
 
-vless://6f2177ba-541e-4cc2-9497-bf3da156c99c@167.235.206.94:9443?security=tls&sni=speedshoppanel.shopmannew.ir&alpn=h2,http/1.1&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B97%5D
-hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@a1dgus.supertoolify.com:40205?insecure=1&alpn=h3&sni=psstatic.cdn.bcebos.com&obfs=salamander&obfs-password=kydqninqtcdomlcb#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B589%5D
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.78.215:443?sni=vpn-sg-001.fastervpn.world#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B86%5D
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@153.56.231.73:443?type=grpc&security=reality&fp=firefox&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&sid=d3bd772514c87d28&sni=717252g.nl8.h1clayd.click&serviceName=204adda7e3da#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B5%5D
+hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@22egdg.mateflora.com:40055/?insecure=1&obfs=salamander&obfs-password=6fltjteoyab7fjf1&sni=psstatic.cdn.bcebos.com#1798.%20%F0%9F%87%AC%F0%9F%87%A7%20%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F%20%C2%B7%20hysteria2%20%C2%B7%201279ms%20%C2%B7%201%D1%87%20%5B1%5D
+vless://6f2177ba-541e-4cc2-9497-bf3da156c99c@167.235.206.94:9443?security=tls&sni=speedshoppanel.shopmannew.ir&alpn=h2,http/1.1&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B158%5D
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.240.199.66:443#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B1%5D
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.78.215:443?sni=vpn-sg-001.fastervpn.world#%F0%9F%87%B8%F0%9F%87%AC%20%D0%A1%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80%20%5B1%5D
