@@ -1,11 +1,12 @@
-# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 25.11.2026 02:00)
-# 🛡️ Verified Elite: 7
-# 📊 Stats: Вход: 1598 | Пинг: 19 | >300KB/s: 7 | SB-Old: 3 | SB-HY: 7 | Clash: 7 | iOS: 7
+# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 25.11.2026 03:11)
+# 🛡️ Verified Elite: 8
+# 📊 Stats: Вход: 1571 | Пинг: 18 | >300KB/s: 8 | SB-Old: 3 | SB-HY: 8 | Clash: 8 | iOS: 8
 
-hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@128.254.186.190:13337?sni=mother-earth.fyi#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%5B17%5D
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@win2loxfde0303.gggrelay.org:34745?peer=nu3rb.supertoolify.com&security=tls&fp=chrome&sni=nu3rb.supertoolify.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B3%5D
-hysteria2://c358d323-c2c7-4457-bfdb-dd736ba16d38@193.233.130.66:443?sni=app.vles.space#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B482%5D
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@win2loxfde0303.gggrelay.org:34745?allowInsecure=1&sni=nu3rb.supertoolify.com&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B4%5D
-hysteria2://e2552c42-fdf8-45d4-9be5-98819dcd0211@193.233.130.66:443?sni=app.vles.space#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B483%5D
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@win2loxfde0303.gggrelay.org:34745?peer=nu3rb.supertoolify.com&security=tls&fp=chrome&sni=nu3rb.supertoolify.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B2%5D
-hysteria2://d0975db4-e8c8-41f7-a5f3-a3d1d432e499@193.233.130.66:443?sni=app.vles.space#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B481%5D
+hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@128.254.186.190:13337?sni=mother-earth.fyi#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%5B22%5D
+vless://915b8bfa-ba7a-425a-99e7-b260985df6ba@94.183.164.102:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&type=tcp&sni=elzen.silalink.sbs#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%2021%20Vladislav%20Doniy%20%5B1%5D
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zzfxgcp.mateflora.com:39790?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=yXCR_3MmI7pv1eVBPkPxp2Qc1tmTSAPCjdNUTU64Sz0&sid=c899aef0cf7b&sni=www.lamer.com.sg#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B44%5D
+hysteria2://c358d323-c2c7-4457-bfdb-dd736ba16d38@193.233.130.66:443?sni=app.vles.space#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B339%5D
+vless://c762af05-2e92-4133-bc30-8cf45dd40a28@188.114.99.137:80?type=ws&host=suh.cryptofront.uk#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%5B4%5D
+hysteria2://b42d90fa667942aebc734d60@159.13.55.48:20000?obfs=salamander&obfs-password=b42d90fa667942aebc734d60&sni=hy2-au2.whuiy.xyz#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20%5B6%5D
+hysteria2://e2552c42-fdf8-45d4-9be5-98819dcd0211@193.233.130.66:443?sni=app.vles.space#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B340%5D
+hysteria2://d0975db4-e8c8-41f7-a5f3-a3d1d432e499@193.233.130.66:443?sni=app.vles.space#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B338%5D
