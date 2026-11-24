@@ -97,24 +97,6 @@ jobs:
           echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/flaafix/AetrisVPN/refs/heads/main/AetrisVPN.txt >> proxy_lists/raw_temp.txt
-          echo "" >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/aviamastersgh/vpn-free-russia/main/verified_configs.txt >> proxy_lists/raw_temp.txt
-          echo "" >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/histeenn/VLESS-PO-GRIBI/refs/heads/main/deploy/subscriptions/1.txt >> proxy_lists/raw_temp.txt
-          echo "" >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/Mr-Meshky/vify/refs/heads/main/configs/vless.txt >> proxy_lists/raw_temp.txt
-          echo "" >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/Subzio/subzio/refs/heads/main/WHITE_LIST_PROXY_COLLECTION.txt >> proxy_lists/raw_temp.txt
-          echo "" >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/DarkRoyalty/shnajder-vpn-configs/refs/heads/main/githubmirror/12.txt >> proxy_lists/raw_temp.txt
-          echo "" >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt >> proxy_lists/raw_temp.txt
-          echo "" >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/VOID-Anonymity/V.O.I.D-VPN_Bypass/refs/heads/main/url_work.txt >> proxy_lists/raw_temp.txt
-          echo "" >> proxy_lists/raw_temp.txt
-          curl -s https://raw.githubusercontent.com/DarkRoyalty/shnajder-vpn-configs/refs/heads/main/githubmirror/22.txt >> proxy_lists/raw_temp.txt
-          echo "" >> proxy_lists/raw_temp.txt
           
           cat << 'EOF' > filter.py
           import urllib.request, json, re, socket, urllib.parse, base64, html, os, time
@@ -330,10 +312,25 @@ jobs:
               try: return 1 <= int(port) <= 65535
               except: return False
 
+          def is_valid_reality_short_id(value):
+              # REALITY short-id: 0..8 bytes, hex only, even number of characters.
+              # Empty is valid at the format level; the server must explicitly allow it.
+              if value is None:
+                  return False
+              sid = str(value).strip()
+              if sid.lower() in {"null", "none", "undefined"}:
+                  return False
+              return (
+                  len(sid) <= 16
+                  and len(sid) % 2 == 0
+                  and re.fullmatch(r"[0-9a-fA-F]*", sid) is not None
+              )
+
           invalid_hy2_obfs_count = 0
+          invalid_reality_short_id_count = 0
 
           def parse_to_mihomo(link, node_name, beautiful_name):
-              global invalid_hy2_obfs_count
+              global invalid_hy2_obfs_count, invalid_reality_short_id_count
               try:
                   link = link.strip()
                   parts = link.split('#')
@@ -412,7 +409,14 @@ jobs:
                               if alpn: base["alpn"] = alpn.split(',')
                               
                               if sec == 'reality':
-                                  base["reality-opts"] = {"public-key": get_param('pbk'), "short-id": get_param('sid')}
+                                  sid = get_param('sid').strip()
+                                  if not is_valid_reality_short_id(sid):
+                                      invalid_reality_short_id_count += 1
+                                      return None
+                                  base["reality-opts"] = {
+                                      "public-key": get_param('pbk').strip(),
+                                      "short-id": sid
+                                  }
 
                           if base["network"] == "ws" or get_param('path'):
                               base["network"] = "ws"
@@ -448,7 +452,14 @@ jobs:
                                   base["servername"] = str(u.hostname)
                               
                               if sec == 'reality':
-                                  base["reality-opts"] = {"public-key": get_param('pbk'), "short-id": get_param('sid')}
+                                  sid = get_param('sid').strip()
+                                  if not is_valid_reality_short_id(sid):
+                                      invalid_reality_short_id_count += 1
+                                      return None
+                                  base["reality-opts"] = {
+                                      "public-key": get_param('pbk').strip(),
+                                      "short-id": sid
+                                  }
                           
                           flow = get_param('flow')
                           if flow and base.get("tls") and base["network"] == "tcp": 
@@ -620,6 +631,11 @@ jobs:
                   f"⚠️ Отброшено Hysteria2 с obfs без obfs-password: "
                   f"{invalid_hy2_obfs_count}"
               )
+          if invalid_reality_short_id_count:
+              print(
+                  f"⚠️ Отброшено REALITY с некорректным short-id: "
+                  f"{invalid_reality_short_id_count}"
+              )
           
           with open('proxy_lists/raw_proxies.json', 'w', encoding='utf-8') as f:
               json.dump(final_json_data, f, ensure_ascii=False, indent=2)
@@ -668,8 +684,23 @@ jobs:
           source_file = ROOT / "raw_proxies.json"
           records = json.loads(source_file.read_text(encoding="utf-8"))
 
+          def is_valid_reality_short_id(value):
+              # REALITY short-id: 0..8 bytes, hex only, even number of characters.
+              # Empty is format-valid; the REALITY server must explicitly allow it.
+              if value is None:
+                  return False
+              sid = str(value).strip()
+              if sid.lower() in {"null", "none", "undefined"}:
+                  return False
+              return (
+                  len(sid) <= 16
+                  and len(sid) % 2 == 0
+                  and re.fullmatch(r"[0-9a-fA-F]*", sid) is not None
+              )
+
           entries = []
           skipped_invalid_obfs = 0
+          skipped_invalid_reality = 0
           for i, item in enumerate(records):
               cfg = item.get("config", {})
               if not (isinstance(cfg, dict) and cfg.get("name")):
@@ -684,12 +715,29 @@ jobs:
                   skipped_invalid_obfs += 1
                   continue
 
+              # Защита от некорректного REALITY short-id даже в старых JSON-файлах.
+              reality_opts = cfg.get("reality-opts")
+              if reality_opts:
+                  sid = (
+                      reality_opts.get("short-id", "")
+                      if isinstance(reality_opts, dict)
+                      else None
+                  )
+                  if not is_valid_reality_short_id(sid):
+                      skipped_invalid_reality += 1
+                      continue
+
               entries.append((i, cfg))
 
           if skipped_invalid_obfs:
               print(
                   f"⚠️ Пропущено некорректных Hysteria2 (obfs без obfs-password): "
                   f"{skipped_invalid_obfs}"
+              )
+          if skipped_invalid_reality:
+              print(
+                  f"⚠️ Пропущено REALITY с некорректным short-id: "
+                  f"{skipped_invalid_reality}"
               )
 
           if not entries:
