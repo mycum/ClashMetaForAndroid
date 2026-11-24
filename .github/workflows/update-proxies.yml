@@ -97,9 +97,27 @@ jobs:
           echo "" >> proxy_lists/raw_temp.txt
           curl -s https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru >> proxy_lists/raw_temp.txt
           echo "" >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/flaafix/AetrisVPN/refs/heads/main/AetrisVPN.txt >> proxy_lists/raw_temp.txt
+          echo "" >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/aviamastersgh/vpn-free-russia/main/verified_configs.txt >> proxy_lists/raw_temp.txt
+          echo "" >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/histeenn/VLESS-PO-GRIBI/refs/heads/main/deploy/subscriptions/1.txt >> proxy_lists/raw_temp.txt
+          echo "" >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/Mr-Meshky/vify/refs/heads/main/configs/vless.txt >> proxy_lists/raw_temp.txt
+          echo "" >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/Subzio/subzio/refs/heads/main/WHITE_LIST_PROXY_COLLECTION.txt >> proxy_lists/raw_temp.txt
+          echo "" >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/DarkRoyalty/shnajder-vpn-configs/refs/heads/main/githubmirror/12.txt >> proxy_lists/raw_temp.txt
+          echo "" >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt >> proxy_lists/raw_temp.txt
+          echo "" >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/VOID-Anonymity/V.O.I.D-VPN_Bypass/refs/heads/main/url_work.txt >> proxy_lists/raw_temp.txt
+          echo "" >> proxy_lists/raw_temp.txt
+          curl -s https://raw.githubusercontent.com/DarkRoyalty/shnajder-vpn-configs/refs/heads/main/githubmirror/22.txt >> proxy_lists/raw_temp.txt
+          echo "" >> proxy_lists/raw_temp.txt
           
           cat << 'EOF' > filter.py
-          import urllib.request, json, re, socket, urllib.parse, base64, html, os, time
+          import urllib.request, json, re, socket, urllib.parse, base64, binascii, html, os, time
           from concurrent.futures import ThreadPoolExecutor
 
           print("📂 Загрузка баз...")
@@ -326,11 +344,48 @@ jobs:
                   and re.fullmatch(r"[0-9a-fA-F]*", sid) is not None
               )
 
+          def normalize_reality_public_key(value):
+              # Normalize equivalent 32-byte public-key representations to Mihomo base64url.
+              if value is None:
+                  return None
+              key = str(value).strip()
+              for _ in range(3):
+                  decoded = urllib.parse.unquote(key)
+                  if decoded == key:
+                      break
+                  key = decoded.strip()
+              key = key.strip().strip('"').strip("'")
+              key = re.sub(r"\s+", "", key)
+              if not key or key.lower() in {"null", "none", "undefined"}:
+                  return None
+
+              # Some exporters expose the same 32 bytes as hexadecimal.
+              if re.fullmatch(r"[0-9a-fA-F]{64}", key):
+                  raw = bytes.fromhex(key)
+              else:
+                  if not re.fullmatch(r"[A-Za-z0-9_+/-]+={0,2}", key):
+                      return None
+                  unpadded = key.rstrip("=")
+                  # A 32-byte value has 43 base64 characters without padding.
+                  if len(unpadded) != 43:
+                      return None
+                  standard = unpadded.replace("-", "+").replace("_", "/")
+                  padded = standard + "=" * ((4 - len(standard) % 4) % 4)
+                  try:
+                      raw = base64.b64decode(padded, validate=True)
+                  except (ValueError, binascii.Error):
+                      return None
+
+              if len(raw) != 32:
+                  return None
+              return base64.urlsafe_b64encode(raw).decode("ascii").rstrip("=")
+
           invalid_hy2_obfs_count = 0
           invalid_reality_short_id_count = 0
+          invalid_reality_public_key_count = 0
 
           def parse_to_mihomo(link, node_name, beautiful_name):
-              global invalid_hy2_obfs_count, invalid_reality_short_id_count
+              global invalid_hy2_obfs_count, invalid_reality_short_id_count, invalid_reality_public_key_count
               try:
                   link = link.strip()
                   parts = link.split('#')
@@ -380,8 +435,19 @@ jobs:
                       query_str = u.query.replace('%3B', '&').replace(';', '&').replace('&amp;', '&')
                       
                       def get_param(name, default=""):
-                          m = re.search(r'[?&]' + name + r'=([^&]+)', '?' + query_str)
-                          return urllib.parse.unquote(m.group(1)) if m else default
+                          m = re.search(
+                              r'[?&]' + re.escape(name) + r'=([^&]*)',
+                              '?' + query_str,
+                              flags=re.IGNORECASE
+                          )
+                          return urllib.parse.unquote(m.group(1)).strip() if m else default
+
+                      def get_first_param(*names):
+                          for param_name in names:
+                              value = get_param(param_name)
+                              if value:
+                                  return value
+                          return ""
 
                       net_type = get_param('type', 'tcp').lower()
                       is_httpupgrade = (net_type == 'httpupgrade')
@@ -409,12 +475,18 @@ jobs:
                               if alpn: base["alpn"] = alpn.split(',')
                               
                               if sec == 'reality':
-                                  sid = get_param('sid').strip()
+                                  sid = get_first_param('sid', 'shortId', 'short-id')
                                   if not is_valid_reality_short_id(sid):
                                       invalid_reality_short_id_count += 1
                                       return None
+                                  reality_public_key = normalize_reality_public_key(
+                                      get_first_param('pbk', 'publicKey', 'public-key', 'public_key', 'publickey')
+                                  )
+                                  if not reality_public_key:
+                                      invalid_reality_public_key_count += 1
+                                      return None
                                   base["reality-opts"] = {
-                                      "public-key": get_param('pbk').strip(),
+                                      "public-key": reality_public_key,
                                       "short-id": sid
                                   }
 
@@ -452,12 +524,18 @@ jobs:
                                   base["servername"] = str(u.hostname)
                               
                               if sec == 'reality':
-                                  sid = get_param('sid').strip()
+                                  sid = get_first_param('sid', 'shortId', 'short-id')
                                   if not is_valid_reality_short_id(sid):
                                       invalid_reality_short_id_count += 1
                                       return None
+                                  reality_public_key = normalize_reality_public_key(
+                                      get_first_param('pbk', 'publicKey', 'public-key', 'public_key', 'publickey')
+                                  )
+                                  if not reality_public_key:
+                                      invalid_reality_public_key_count += 1
+                                      return None
                                   base["reality-opts"] = {
-                                      "public-key": get_param('pbk').strip(),
+                                      "public-key": reality_public_key,
                                       "short-id": sid
                                   }
                           
@@ -636,6 +714,10 @@ jobs:
                   f"⚠️ Отброшено REALITY с некорректным short-id: "
                   f"{invalid_reality_short_id_count}"
               )
+          if invalid_reality_public_key_count:
+              print(
+                  f"⚠️ Отброшено REALITY с отсутствующим/неисправимым public-key: {invalid_reality_public_key_count}"
+              )
           
           with open('proxy_lists/raw_proxies.json', 'w', encoding='utf-8') as f:
               json.dump(final_json_data, f, ensure_ascii=False, indent=2)
@@ -667,6 +749,8 @@ jobs:
           import urllib.request
           import urllib.error
           import urllib.parse
+          import base64
+          import binascii
           from pathlib import Path
           from concurrent.futures import ThreadPoolExecutor, as_completed
 
@@ -698,9 +782,42 @@ jobs:
                   and re.fullmatch(r"[0-9a-fA-F]*", sid) is not None
               )
 
+          def normalize_reality_public_key(value):
+              # Normalize recoverable REALITY public-key encodings to Mihomo format.
+              if value is None:
+                  return None
+              key = str(value).strip()
+              for _ in range(3):
+                  decoded = urllib.parse.unquote(key)
+                  if decoded == key:
+                      break
+                  key = decoded.strip()
+              key = key.strip().strip('"').strip("'")
+              key = re.sub(r"\s+", "", key)
+              if not key or key.lower() in {"null", "none", "undefined"}:
+                  return None
+              if re.fullmatch(r"[0-9a-fA-F]{64}", key):
+                  raw = bytes.fromhex(key)
+              else:
+                  if not re.fullmatch(r"[A-Za-z0-9_+/-]+={0,2}", key):
+                      return None
+                  unpadded = key.rstrip("=")
+                  if len(unpadded) != 43:
+                      return None
+                  standard = unpadded.replace("-", "+").replace("_", "/")
+                  padded = standard + "=" * ((4 - len(standard) % 4) % 4)
+                  try:
+                      raw = base64.b64decode(padded, validate=True)
+                  except (ValueError, binascii.Error):
+                      return None
+              if len(raw) != 32:
+                  return None
+              return base64.urlsafe_b64encode(raw).decode("ascii").rstrip("=")
+
           entries = []
           skipped_invalid_obfs = 0
           skipped_invalid_reality = 0
+          skipped_invalid_reality_key = 0
           for i, item in enumerate(records):
               cfg = item.get("config", {})
               if not (isinstance(cfg, dict) and cfg.get("name")):
@@ -715,17 +832,33 @@ jobs:
                   skipped_invalid_obfs += 1
                   continue
 
-              # Защита от некорректного REALITY short-id даже в старых JSON-файлах.
+              # REALITY: сохранить ключи в распространённых эквивалентных кодировках,
+              # нормализовав их к формату Mihomo (base64url без padding, 32 байта).
+              # Исключаем узел только если из значения невозможно восстановить 32 байта.
               reality_opts = cfg.get("reality-opts")
               if reality_opts:
-                  sid = (
-                      reality_opts.get("short-id", "")
-                      if isinstance(reality_opts, dict)
-                      else None
-                  )
+                  if not isinstance(reality_opts, dict):
+                      skipped_invalid_reality_key += 1
+                      continue
+
+                  sid = reality_opts.get("short-id", "")
                   if not is_valid_reality_short_id(sid):
                       skipped_invalid_reality += 1
                       continue
+
+                  raw_public_key = (
+                      reality_opts.get("public-key")
+                      or reality_opts.get("publicKey")
+                      or reality_opts.get("public_key")
+                  )
+                  normalized_public_key = normalize_reality_public_key(raw_public_key)
+                  if not normalized_public_key:
+                      skipped_invalid_reality_key += 1
+                      continue
+
+                  reality_opts["public-key"] = normalized_public_key
+                  reality_opts.pop("publicKey", None)
+                  reality_opts.pop("public_key", None)
 
               entries.append((i, cfg))
 
@@ -738,6 +871,11 @@ jobs:
               print(
                   f"⚠️ Пропущено REALITY с некорректным short-id: "
                   f"{skipped_invalid_reality}"
+              )
+          if skipped_invalid_reality_key:
+              print(
+                  f"⚠️ Пропущено REALITY с public-key, который невозможно нормализовать: "
+                  f"{skipped_invalid_reality_key}"
               )
 
           if not entries:
@@ -851,35 +989,20 @@ jobs:
           binary.chmod(0o755)
           print(f"✅ Mihomo {tag} загружен")
 
-          # Формируем временный JSON из уже готовых Mihomo-конфигураций
+          # Формируем временный JSON из уже готовых Mihomo-конфигураций.
+          # Если Mihomo сам выдаст точную ошибку public key на конкретном индексе,
+          # убираем только этот гарантированно отвергнутый узел и пробуем снова.
           token = secrets.token_hex(24)
-
           mihomo_config = {
               "log-level": "error",
               "allow-lan": False,
               "external-controller": f"127.0.0.1:{API_PORT}",
               "secret": token,
-              "proxies": [cfg for _, cfg in entries]
+              "proxies": []
           }
 
           config_file = work / "config.json"
-          config_file.write_text(
-              json.dumps(mihomo_config, ensure_ascii=False),
-              encoding="utf-8"
-          )
-
           log_file = work / "mihomo.log"
-          log_handle = open(log_file, "w", encoding="utf-8")
-
-          process = subprocess.Popen(
-              [
-                  str(binary),
-                  "-d", str(work),
-                  "-f", str(config_file)
-              ],
-              stdout=log_handle,
-              stderr=subprocess.STDOUT
-          )
 
           def api_get(path, timeout=API_TIMEOUT):
               req = urllib.request.Request(
@@ -889,26 +1012,86 @@ jobs:
               with urllib.request.urlopen(req, timeout=timeout) as r:
                   return r.read()
 
-          # Ждём готовности локального API
+          def start_mihomo_once():
+              mihomo_config["proxies"] = [cfg for _, cfg in entries]
+              config_file.write_text(
+                  json.dumps(mihomo_config, ensure_ascii=False),
+                  encoding="utf-8"
+              )
+              current_log_handle = open(log_file, "w", encoding="utf-8")
+              current_process = subprocess.Popen(
+                  [str(binary), "-d", str(work), "-f", str(config_file)],
+                  stdout=current_log_handle,
+                  stderr=subprocess.STDOUT
+              )
+
+              for _ in range(60):
+                  if current_process.poll() is not None:
+                      break
+                  try:
+                      api_get("/version", timeout=2)
+                      return current_process, current_log_handle, None
+                  except Exception:
+                      time.sleep(0.5)
+
+              if current_process.poll() is None:
+                  current_process.terminate()
+                  try:
+                      current_process.wait(timeout=10)
+                  except subprocess.TimeoutExpired:
+                      current_process.kill()
+                      current_process.wait()
+              current_log_handle.close()
+              startup_log = log_file.read_text(encoding="utf-8", errors="replace")
+              return None, None, startup_log
+
           print("🚀 Запускаем Mihomo...")
+          process = None
+          log_handle = None
+          startup_rejected_public_keys = 0
+          max_selective_retries = min(len(entries), 100)
 
-          ready = False
-
-          for _ in range(60):
-              if process.poll() is not None:
+          for startup_attempt in range(max_selective_retries + 1):
+              process, log_handle, startup_error = start_mihomo_once()
+              if process is not None:
                   break
-              try:
-                  api_get("/version", timeout=2)
-                  ready = True
-                  break
-              except Exception:
-                  time.sleep(0.5)
 
-          if not ready:
-              process.terminate()
-              log_handle.close()
-              print(log_file.read_text(encoding="utf-8")[-12000:])
-              raise SystemExit("❌ Mihomo не запустился")
+              error_tail = startup_error[-12000:]
+              rejected_match = re.search(
+                  r"proxy\s+(\d+):\s*invalid REALITY public key",
+                  startup_error,
+                  flags=re.IGNORECASE
+              )
+              if not rejected_match:
+                  print(error_tail)
+                  raise SystemExit("❌ Mihomo не запустился; причина не распознана как одиночный REALITY public-key")
+
+              rejected_position = int(rejected_match.group(1))
+              if not (0 <= rejected_position < len(entries)):
+                  print(error_tail)
+                  raise SystemExit(
+                      f"❌ Mihomo указал proxy {rejected_position}, но такого индекса нет в текущем списке"
+                  )
+
+              original_index, rejected_cfg = entries.pop(rejected_position)
+              startup_rejected_public_keys += 1
+              print(
+                  "⚠️ Mihomo отверг public-key конкретного узла; исключена только эта запись: "
+                  f"исходный индекс {original_index}, имя {rejected_cfg.get('name', 'unknown')}"
+              )
+
+              if not entries:
+                  raise SystemExit("❌ После исключения отвергнутого Mihomo узла список пуст")
+          else:
+              raise SystemExit(
+                  f"❌ Mihomo не запустился после {max_selective_retries} точечных исправлений REALITY public-key"
+              )
+
+          if startup_rejected_public_keys:
+              print(
+                  f"⚠️ Точечно исключено узлов, отвергнутых Mihomo из-за REALITY public-key: "
+                  f"{startup_rejected_public_keys}"
+              )
 
           print("✅ Mihomo готов")
           print(f"🌐 Цель: {TEST_URL}")
