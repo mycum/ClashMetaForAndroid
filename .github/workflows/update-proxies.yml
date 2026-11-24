@@ -1222,6 +1222,36 @@ jobs:
                   encoding="utf-8"
               )
 
+          # Отдельный список только тех ссылок, которые прошли проверку через Mihomo
+          # (GET /proxies/<name>/delay с expected=204).
+          # Индексы совпадают с исходными records и резервной копией original.txt.
+          mihomo_source_path = ROOT / "raw_proxies_ping_original.txt"
+          mihomo_source_lines = (
+              mihomo_source_path.read_text(encoding="utf-8").splitlines()
+              if mihomo_source_path.exists()
+              else []
+          )
+          if len(mihomo_source_lines) != len(records):
+              print(
+                  "⚠️ Несовпадение количества ссылок и конфигураций: "
+                  f"links={len(mihomo_source_lines)}, configs={len(records)}"
+              )
+
+          mihomo_passed_lines = [
+              mihomo_source_lines[i]
+              for i in passed_indices
+              if i < len(mihomo_source_lines)
+          ]
+          (ROOT / "raw_proxies_ping.txt").write_text(
+              "\n".join(mihomo_passed_lines)
+              + ("\n" if mihomo_passed_lines else ""),
+              encoding="utf-8"
+          )
+          print(
+              "💾 raw_proxies_ping.txt: "
+              f"сохранено {len(mihomo_passed_lines)} ссылок, прошедших Mihomo HTTP 204"
+          )
+
           # Отчёт по времени ответа
           with open(
               ROOT / "gstatic_delays.txt", "w", encoding="utf-8"
