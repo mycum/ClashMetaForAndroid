@@ -1,9 +1,8 @@
-# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 24.11.2026 20:09)
-# 🛡️ Verified Elite: 5
-# 📊 Stats: Вход: 1522 | Пинг: 26 | >300KB/s: 5 | SB-Old: 1 | SB-HY: 5 | Clash: 5 | iOS: 5
+# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 24.11.2026 22:28)
+# 🛡️ Verified Elite: 4
+# 📊 Stats: Вход: 1577 | Пинг: 15 | >300KB/s: 4 | SB-Old: 2 | SB-HY: 4 | Clash: 4 | iOS: 3
 
-hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@22egdg.mateflora.com:40055/?insecure=1&obfs=salamander&obfs-password=6fltjteoyab7fjf1&sni=psstatic.cdn.bcebos.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B92%5D
-vless://c74a51bc-0e10-43e5-b6a8-9395c40f3f54@hsaia.connainho.lol:46074?security=reality&flow=xtls-rprx-vision&pbk=Zpe4RNze71UGv-T9y55k31k9BtY7gS7uvRV5aA7eiWQ&sid=367e3031&fp=edge&packet-encoding=xudp&type=tcp&headerType=none&host=www.apple.com&path=/&sni=www.apple.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B45%5D
-hysteria2://Telegram--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X-@m1.config7x.kz.ci:26206?obfs=salamander&obfs-password=vxvnmus9agdzduvz&sni=config7x.de5.net#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B31%5D
-hysteria2://WA0SnWHPvYWDTaPjIMZgB6WFSJUPj5FH@31.56.189.204:443?fp=firefox&sni=abr.ntsrc.xyz#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B22%5D
-hysteria2://Telegram--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X-@185.42.212.207:26206?obfs=salamander&obfs-password=vxvnmus9agdzduvz&sni=config7x.de5.net#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%5B57%5D
+vless://6f2177ba-541e-4cc2-9497-bf3da156c99c@167.235.206.94:9443?security=tls&alpn=h2,http/1.1&fp=firefox&sni=speedshoppanel.shopmannew.ir#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B97%5D
+hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@a1dgus.supertoolify.com:40205?insecure=1&alpn=h3&obfs=salamander&obfs-password=kydqninqtcdomlcb&sni=psstatic.cdn.bcebos.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B589%5D
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.78.215:443?sni=vpn-sg-001.fastervpn.world#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B86%5D
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@153.56.231.73:443?type=grpc&security=reality&fp=firefox&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&sid=d3bd772514c87d28&serviceName=204adda7e3da&sni=717252g.nl8.h1clayd.click#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B5%5D
