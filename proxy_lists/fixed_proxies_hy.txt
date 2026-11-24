@@ -1,8 +1,9 @@
-# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 24.11.2026 22:28)
-# 🛡️ Verified Elite: 4
-# 📊 Stats: Вход: 1577 | Пинг: 15 | >300KB/s: 4 | SB-Old: 2 | SB-HY: 4 | Clash: 4 | iOS: 3
+# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 25.11.2026 00:50)
+# 🛡️ Verified Elite: 5
+# 📊 Stats: Вход: 1741 | Пинг: 23 | >300KB/s: 5 | SB-Old: 1 | SB-HY: 5 | Clash: 5 | iOS: 5
 
-vless://6f2177ba-541e-4cc2-9497-bf3da156c99c@167.235.206.94:9443?security=tls&alpn=h2,http/1.1&fp=firefox&sni=speedshoppanel.shopmannew.ir#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B97%5D
-hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@a1dgus.supertoolify.com:40205?insecure=1&alpn=h3&obfs=salamander&obfs-password=kydqninqtcdomlcb&sni=psstatic.cdn.bcebos.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B589%5D
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.78.215:443?sni=vpn-sg-001.fastervpn.world#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B86%5D
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@153.56.231.73:443?type=grpc&security=reality&fp=firefox&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&sid=d3bd772514c87d28&serviceName=204adda7e3da&sni=717252g.nl8.h1clayd.click#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B5%5D
+hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@128.254.186.190:13337?sni=mother-earth.fyi#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%5B15%5D
+hysteria2://d0975db4-e8c8-41f7-a5f3-a3d1d432e499@193.233.130.66:443?sni=app.vles.space#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B602%5D
+vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@84.23.52.120:34443?security=reality&flow=xtls-rprx-vision&pbk=NBiCX_Tj3BeMAyG-GbLLKpGjW_qacm3A2Mz5mN8v3Xk&sid=ab532d3308daa67b&fp=firefox&sni=ru.sparxiecn.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B366%5D
+hysteria2://7cbd9bf9-a3b1-4257-8406-df6109cd882f@ee.chick-chirik.com:443?sni=nl.chick-chirik.com#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B12%5D
+hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@a1dgus.supertoolify.com:40205?insecure=1&alpn=h3&obfs=salamander&obfs-password=kydqninqtcdomlcb&sni=psstatic.cdn.bcebos.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B625%5D
