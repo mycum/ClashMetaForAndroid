@@ -1,8 +1,8 @@
-# profile-title: 📦 Telegood Sing-box (ТОП-32 от 26.11.2026 01:52)
+# profile-title: 📦 Telegood Sing-box (ТОП-32 от 26.11.2026 03:02)
 # 🛡️ Verified Legacy: 4
-# 📊 Stats: Вход: 1371 | Пинг: 4 | >300KB/s: 4 | SB-Old: 3 | SB-HY: 4 | Clash: 4 | iOS: 4
+# 📊 Stats: Вход: 1463 | Пинг: 13 | >300KB/s: 4 | SB-Old: 3 | SB-HY: 4 | Clash: 4 | iOS: 4
 
-vless://ed809ef1-338d-4355-b9e8-2de0e522202f@104.16.117.43:2095?type=httpupgrade&host=xn--alspeedtest.net.onlinewebsite24.ir#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B573%5D
-vless://366449c5-ac1e-4314-8142-27a6b1c8c0fb@cfyx.mtf.llc:443?encryption=none&security=tls&sni=sg5-cdn.mtflevel.com&fp=chrome&type=ws&host=sg5-cdn.mtflevel.com&path=/yn-sgora-7900aa59a2ec7bad755a495c&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B1%5D
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0=@18.169.167.165:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B56%5D
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0=@3.70.132.223:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B393%5D
+vless://ed809ef1-338d-4355-b9e8-2de0e522202f@104.16.117.43:2095?type=httpupgrade&host=xn--alspeedtest.net.onlinewebsite24.ir#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1055%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0=@18.169.167.165:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B123%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0=@3.70.132.223:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B516%5D
+vmess://eyJhZGQiOiJzcGVha3Mtb3VyLXVuaS10d2lzdC50cnljbG91ZGZsYXJlLmNvbSIsImFpZCI6IjAiLCJob3N0Ijoic3BlYWtzLW91ci11bmktdHdpc3QudHJ5Y2xvdWRmbGFyZS5jb20iLCJpZCI6IjJhNGQyNGJmLTM2N2EtNDk1MS1iZmU2LTUwYzdhMGJkYjVlYSIsIm5ldCI6IndzIiwicGF0aCI6Ii8yYTRkMjRiZi0zNjdhLTQ5NTEtYmZlNi01MGM3YTBiZGI1ZWEtdm0iLCJwb3J0IjoiNDQzIiwicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ2FuYWRhIFsxMDQwXSIsInNjeSI6ImF1dG8iLCJzbmkiOiJzcGVha3Mtb3VyLXVuaS10d2lzdC50cnljbG91ZGZsYXJlLmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
