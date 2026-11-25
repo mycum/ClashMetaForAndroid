@@ -1,11 +1,12 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 25.11.2026 20:05)
-# 🛡️ Verified Elite: 7
-# 📊 Stats: Вход: 1595 | Пинг: 23 | >300KB/s: 7 | SB-Old: 3 | SB-HY: 7 | Clash: 7 | iOS: 7
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 25.11.2026 21:15)
+# 🛡️ Verified Elite: 8
+# 📊 Stats: Вход: 1518 | Пинг: 16 | >300KB/s: 8 | SB-Old: 4 | SB-HY: 8 | Clash: 8 | iOS: 8
 
-vless://ed809ef1-338d-4355-b9e8-2de0e522202f@104.16.7.70:2095?type=httpupgrade&host=xn--alspeedtest.net.onlinewebsite24.ir#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1081%5D
-vless://9afdc92d-4e88-4787-8d75-c95f7685d294@free-server.techsonic.dev:443?fp=chrome&security=tls&sni=aka.ms#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B594%5D
-vless://04920673-035c-410d-94e4-5b1469d3fb6f@171.22.183.167:443?flow=xtls-rprx-vision&security=tls&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%5B6%5D
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@3.70.132.223:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B215%5D
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.169.167.165:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B45%5D
-vless://366449c5-ac1e-4314-8142-27a6b1c8c0fb@172.66.213.98:443?security=tls&fp=chrome&type=ws&headerType=none&host=us5-cdn.xyn.lgbt&path=/yn-lax-fb366a66e8526ebc4a311464&sni=us5-cdn.xyn.lgbt#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1485%5D
-hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?sni=mother-earth.fyi#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%5B16%5D
+vless://ed809ef1-338d-4355-b9e8-2de0e522202f@104.16.7.70:2095?type=httpupgrade&host=xn--alspeedtest.net.onlinewebsite24.ir#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1041%5D
+vless://366449c5-ac1e-4314-8142-27a6b1c8c0fb@172.66.213.98:443?security=tls&fp=chrome&type=ws&headerType=none&host=us5-cdn.xyn.lgbt&path=/yn-lax-fb366a66e8526ebc4a311464&sni=us5-cdn.xyn.lgbt#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1406%5D
+vless://9afdc92d-4e88-4787-8d75-c95f7685d294@free-server.techsonic.dev:443?fp=chrome&security=tls&sni=aka.ms#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B580%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.169.167.165:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B101%5D
+vless://aff1b196-478c-425a-9403-7ea15d9aafdf@185.200.64.124:443?security=tls&fp=chrome&type=ws&headerType=none&host=hkg.kkp.us.ci&path=/487e07e6-2930-4e71-99b3-6792e5909f16&sni=hkg.kkp.us.ci#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B63%5D
+hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%5B2%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@3.70.132.223:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B583%5D
+hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?sni=mother-earth.fyi#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%5B1%5D
