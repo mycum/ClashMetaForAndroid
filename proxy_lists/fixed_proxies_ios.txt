@@ -1,9 +1,8 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 27.11.2026 02:24)
-# 🛡️ Verified Elite: 5
-# 📊 Stats: Вход: 1219 | Пинг: 19 | >300KB/s: 5 | SB-Old: 5 | SB-HY: 5 | Clash: 5 | iOS: 5
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 27.11.2026 03:32)
+# 🛡️ Verified Elite: 4
+# 📊 Stats: Вход: 1276 | Пинг: 29 | >300KB/s: 7 | SB-Old: 3 | SB-HY: 5 | Clash: 7 | iOS: 4
 
-vless://5807f1c4-b50e-4ec0-8d01-274045da0da5@dddz-1-x.473221.xyz:43113?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=edge&pbk=EK3prcfF8VKm3CoTXWQguRj67LxGbkPIpKmEUKsMKGs&sid=ff2c978a0b&sni=v1-dy.ixigua.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B93%5D
-vless://fdd8f4d0-4500-11ef-8227-1577c1651679@104.17.3.81:80?type=ws&host=sg-vless-ws.bypass.id#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B902%5D
-vless://b1ea01b5-2902-4ff6-a64d-fafd20aea9f1@trn19.mobileemdad.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&fp=firefox&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=08&type=tcp&headerType=none&sni=delivery.mp.microsoft.com#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B11%5D
-ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@jpa.123069.xyz:53758#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B29%5D
-trojan://c2cc86b4-4481-4807-ac9e-24e2d7041248@122.118.135.139:443?security=tls&type=ws&host=zephyr-tw1.bpca2026.top&path=/images&sni=zephyr-tw1.bpca2026.top&fp=chrome#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%5B1%5D
+hysteria2://0c66ef78-33b9-4f88-9529-50db9919fd33@195.209.217.251:30443?sni=dlfd3b.static.tv-av.fun#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B53%5D
+vless://b1ea01b5-2902-4ff6-a64d-fafd20aea9f1@trn19.mobileemdad.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&fp=firefox&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=08&type=tcp&headerType=none&sni=delivery.mp.microsoft.com#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B18%5D
+vless://5807f1c4-b50e-4ec0-8d01-274045da0da5@dddz-1-x.473221.xyz:43113?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=edge&pbk=EK3prcfF8VKm3CoTXWQguRj67LxGbkPIpKmEUKsMKGs&sid=ff2c978a0b&sni=v1-dy.ixigua.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B100%5D
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B69%5D
