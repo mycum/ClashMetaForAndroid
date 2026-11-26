@@ -1,35 +1,30 @@
-# profile-title: 📦 Telegood Sing-box (ТОП-32 от 26.11.2026 09:00)
-# 🛡️ Verified Legacy: 31
-# 📊 Stats: Вход: 2082 | Пинг: 58 | >300KB/s: 31 | SB-Old: 15 | SB-HY: 31 | Clash: 31 | iOS: 16
+# profile-title: 📦 Telegood Sing-box (ТОП-32 от 26.11.2026 10:13)
+# 🛡️ Verified Legacy: 26
+# 📊 Stats: Вход: 2106 | Пинг: 37 | >300KB/s: 26 | SB-Old: 7 | SB-HY: 26 | Clash: 26 | iOS: 16
 
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0=@3.70.132.223:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B525%5D
-vless://b69cf773-da16-486e-afce-a45b94f998b3@178.104.77.229:8443/?type=ws&encryption=none&flow=&host=senflarelink-node-m3bfbn.pages.dev&path=/&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=senflarelink-node-m3bfbn.pages.dev&fp=chrome&packetEncoding=xudp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B467%5D
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0=@18.169.167.165:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B110%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:59361?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B509%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzM0OTkxYTZmMDY0MWNlYTRlYTc1NTkxYWQ2NTEzMg==@sg-telegram-khp25-viber-09773510813.premiumx.giize.com:1080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B20%5D
-trojan://YektaCloud@31.56.229.22:8443?security=tls&sni=31.56.229.22&alpn=h2,h3,http/1.1&fp=firefox&type=ws&path=/YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B119%5D
-vless://d21d1bf2-206a-41c6-a40c-49bdd1f6f3be@104.27.25.196:443?path=/c216a10ece89acba&security=tls&alpn=http/1.1&host=net-bridge-c9d0c4-gw.prod-relay-3c3937.workers.dev&fp=chrome&type=ws&sni=net-bridge-c9d0c4-gw.prod-relay-3c3937.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1480%5D
-vless://b69cf773-da16-486e-afce-a45b94f998b3@43.159.41.66:8443/?type=ws&encryption=none&flow=&host=senflarelink-node-il65vh.pages.dev&path=/&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=senflarelink-node-il65vh.pages.dev&fp=chrome&packetEncoding=xudp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B101%5D
-trojan://7756180a-3a07-4939-91be-ae7664b311ca@23.144.92.53:49213?insecure=1&security=tls&type=tcp&sni=www.itunes.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B40%5D
-vless://92720ee3-27b3-4204-ad2f-d5c8570a4404@104.21.209.174:443?encryption=none&security=tls&type=ws&host=auth-api-fbb93f-gw.dev-team-63276e.workers.dev&fp=chrome&alpn=http/1.1&path=/0df6c30383d404f8&sni=auth-api-fbb93f-gw.dev-team-63276e.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1331%5D
-vless://d21d1bf2-206a-41c6-a40c-49bdd1f6f3be@104.27.127.133:2083?path=/c216a10ece89acba&security=tls&alpn=http/1.1&host=net-bridge-c9d0c4-gw.prod-relay-3c3937.workers.dev&fp=chrome&type=ws&sni=net-bridge-c9d0c4-gw.prod-relay-3c3937.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1482%5D
-vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@104.21.227.134:80?encryption=none&type=ws&host=elenaaaaaaaaaa.cloudns.pro&path=/V2ray_confiig&max_early_data=2560&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B914%5D
-vless://4911ec85-501b-4841-92d5-fbf9d942faf4@fast-route-279ca1-gw.staging-api-c694f6.workers.dev:443?security=tls&type=ws&path=/3c7d135ea6a9e966%3Fed%3D2560&host=fast-route-279ca1-gw.staging-api-c694f6.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=fast-route-279ca1-gw.staging-api-c694f6.workers.dev&fp=chrome&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1394%5D
-hysteria2://EelIYEc5ZR8RT6thWcK9ohYkp3bYZGcn@137.175.93.155:28795?sni=www.microsoft.com&down=99&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B28%5D
-hysteria2://d7121b33-e335-4921-bb00-4c0b157e7fc1@2.27.5.163:443?sni=r7m4.scan-cdn.com&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B85%5D
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443?sni=47.129.241.99#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B72%5D
-hysteria2://CyG0RFxMjzs41uQD4OLuHQ==@150.230.229.100:20000?sni=hy2-br2.whuiy.xyz&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ%3D%3D#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5B10%5D
-vless://2ccb06b6-9eac-44eb-ade7-c1e5afb8e7df@468bc3g.fi16.h1clayd.click:443?type=grpc&security=reality&serviceName=973a13acd723&sni=468bc3g.fi16.h1clayd.click&fp=ios&pbk=ITvHZlJwSY3tsZEN3uTmOGj5hUWk-uazUBh7ZGBy33o&sid=d50d9c31ff34ebc7&spx=/&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B16%5D
-hysteria2://b42d90fa667942aebc734d60@159.13.55.48:20000?sni=hy2-au2.whuiy.xyz&obfs=salamander&obfs-password=b42d90fa667942aebc734d60#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20%5B8%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:27378?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B508%5D
-trojan://YektaCloud@31.56.229.22:8443?security=tls&alpn=h2,h3,http/1.1&fp=firefox&type=ws&path=/YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B120%5D
-vless://d21d1bf2-206a-41c6-a40c-49bdd1f6f3be@104.27.25.196:443?path=/c216a10ece89acba%3Fed%3D2560&security=tls&alpn=http/1.1&host=net-bridge-c9d0c4-gw.prod-relay-3c3937.workers.dev&fp=chrome&type=ws&sni=net-bridge-c9d0c4-gw.prod-relay-3c3937.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1479%5D
-vless://d21d1bf2-206a-41c6-a40c-49bdd1f6f3be@104.27.127.133:2083?path=/c216a10ece89acba%3Fed%3D2560&security=tls&alpn=http/1.1&host=net-bridge-c9d0c4-gw.prod-relay-3c3937.workers.dev&fp=chrome&type=ws&sni=net-bridge-c9d0c4-gw.prod-relay-3c3937.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1481%5D
-vless://4911ec85-501b-4841-92d5-fbf9d942faf4@fast-route-279ca1-gw.staging-api-c694f6.workers.dev:443?security=tls&type=ws&path=/3c7d135ea6a9e966&host=fast-route-279ca1-gw.staging-api-c694f6.workers.dev&packetEncoding=xudp&alpn=http/1.1&fp=chrome&encryption=none&sni=fast-route-279ca1-gw.staging-api-c694f6.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1395%5D
-vless://92720ee3-27b3-4204-ad2f-d5c8570a4404@104.21.209.174:443?encryption=none&security=tls&type=ws&host=auth-api-fbb93f-gw.dev-team-63276e.workers.dev&sni=auth-api-fbb93f-gw.dev-team-63276e.workers.dev&fp=chrome&alpn=http/1.1&path=/0df6c30383d404f8%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1330%5D
-trojan://7756180a-3a07-4939-91be-ae7664b311ca@23.144.92.53:49213?insecure=1&security=tls&sni=www.itunes.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B39%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:36001?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B507%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:24069?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B511%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:13298?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B512%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:12565?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B513%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:40004?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B505%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0=@3.70.132.223:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B506%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0=@18.169.167.165:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B96%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:59361?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B495%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzM0OTkxYTZmMDY0MWNlYTRlYTc1NTkxYWQ2NTEzMg==@sg-telegram-khp25-viber-09773510813.premiumx.giize.com:1080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B18%5D
+vless://05f53797-bd04-4006-8a78-41c071e67837@108.138.26.63:80?type=ws&path=/tikvpn2/&host=d27g7kjkk3cw22.cloudfront.net#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%5B7%5D
+trojan://YektaCloud@31.56.229.22:8443?security=tls&alpn=h2,h3,http/1.1&fp=firefox&type=ws&path=/YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B101%5D
+vless://92720ee3-27b3-4204-ad2f-d5c8570a4404@104.21.209.174:443?encryption=none&security=tls&type=ws&host=auth-api-fbb93f-gw.dev-team-63276e.workers.dev&sni=auth-api-fbb93f-gw.dev-team-63276e.workers.dev&fp=chrome&alpn=http/1.1&path=/0df6c30383d404f8%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1450%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY5XHVkODNjXHVkZGVkIFRoYWlsYW5kIFs1XSIsImFkZCI6IjQ3Ljg3LjY0LjEzMyIsInBvcnQiOiIxODU2NSIsImlkIjoiODUzYTI1MWYtZGU4NS00MGNjLTg0YTYtYWI4NzQ4YzcyNThjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIn0=
+hysteria2://d7121b33-e335-4921-bb00-4c0b157e7fc1@r7m4.scan-cdn.com:443?sni=r7m4.scan-cdn.com#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B29%5D
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443?sni=47.129.241.99#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B71%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:24069?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B497%5D
+trojan://YektaCloud@31.56.229.22:8443?security=tls&sni=31.56.229.22&alpn=h2,h3,http/1.1&fp=firefox&type=ws&path=/YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B102%5D
+vless://92720ee3-27b3-4204-ad2f-d5c8570a4404@104.21.209.174:443?encryption=none&security=tls&type=ws&host=auth-api-fbb93f-gw.dev-team-63276e.workers.dev&fp=chrome&alpn=http/1.1&path=/0df6c30383d404f8&sni=auth-api-fbb93f-gw.dev-team-63276e.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1451%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:59361?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B496%5D
+trojan://YektaCloud@31.56.229.22:8443?allowInsecure=1&alpn=http/1.1,h3,h2&fp=firefox&path=/YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud----%40YektaCloud&security=tls&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B100%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:40004?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B489%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:40004?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B488%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:27378?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B493%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:13298?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B499%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:36001?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B491%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:12565?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B501%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:24069?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B498%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:12565?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B502%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:27378?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B494%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:36001?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B492%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:13298?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B500%5D
