@@ -1,24 +1,30 @@
-# profile-title: 🚀 Telegood VPN (ВСЕ ЖИВЫЕ от 26.11.2026 12:35)
-# 🛡️ Total Alive: 20
-# 📊 Stats: Вход: 1761 | Пинг: 27 | >300KB/s: 20 | SB-Old: 4 | SB-HY: 20 | Clash: 20 | iOS: 16
+# profile-title: 🚀 Telegood VPN (ВСЕ ЖИВЫЕ от 26.11.2026 13:45)
+# 🛡️ Total Alive: 26
+# 📊 Stats: Вход: 1548 | Пинг: 34 | >300KB/s: 26 | SB-Old: 10 | SB-HY: 26 | Clash: 26 | iOS: 16
 
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0=@3.70.132.223:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B516%5D
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0=@18.169.167.165:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B103%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:13298?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B557%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:40004?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B546%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:12565?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B558%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:40004?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B545%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:12565?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B559%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:27378?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B550%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:27378?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B551%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:59361?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B553%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:24069?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B555%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:59361?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B552%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:24069?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B554%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:36001?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B548%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:36001?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B549%5D
-vless://92720ee3-27b3-4204-ad2f-d5c8570a4404@104.21.209.174:443?encryption=none&security=tls&type=ws&host=auth-api-fbb93f-gw.dev-team-63276e.workers.dev&sni=auth-api-fbb93f-gw.dev-team-63276e.workers.dev&fp=chrome&alpn=http/1.1&path=/0df6c30383d404f8%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1495%5D
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443?sni=47.129.241.99#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B80%5D
-hysteria2://CyG0RFxMjzs41uQD4OLuHQ==@150.230.229.100:20000?sni=hy2-br2.whuiy.xyz&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ%3D%3D#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5B10%5D
-vless://92720ee3-27b3-4204-ad2f-d5c8570a4404@104.21.209.174:443?encryption=none&security=tls&type=ws&host=auth-api-fbb93f-gw.dev-team-63276e.workers.dev&fp=chrome&alpn=http/1.1&path=/0df6c30383d404f8&sni=auth-api-fbb93f-gw.dev-team-63276e.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1496%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:13298?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B556%5D
+vless://201d6c87-5de6-4bda-973c-024129b228fb@freev2.cloudflare.182682.xyz:443?security=tls&type=ws&path=/announcement%3Fed%3D2048&host=it-mil.862400.xyz&sni=it-mil.862400.xyz&fp=random&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1066%5D
+vless://201d6c87-5de6-4bda-973c-024129b228fb@www.visa.com.hk:443?security=tls&type=ws&path=/announcement%3Fed%3D2048&host=se-sto.862400.xyz&sni=se-sto.862400.xyz&fp=random&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1065%5D
+vless://bb2a729c-6185-4170-8769-6f5b9f64d5b8@104.18.79.242:443?security=tls&type=ws&path=/11290579a72cdb4e%3Fed%3D2560&host=cloud-sync-3d1512-gw.maziarkish.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=cloud-sync-3d1512-gw.maziarkish.workers.dev&fp=chrome&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1444%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0=@3.70.132.223:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B521%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0=@18.169.167.165:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B108%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:40004?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B524%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:36001?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B526%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:40004?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B523%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:12565?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B537%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:27378?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B529%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:36001?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B527%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:24069?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B532%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:59361?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B531%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:13298?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B535%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:59361?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B530%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:13298?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B534%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:27378?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B528%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:24069?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B533%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:12565?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B536%5D
+vless://92720ee3-27b3-4204-ad2f-d5c8570a4404@104.21.209.174:443?encryption=none&security=tls&type=ws&host=auth-api-fbb93f-gw.dev-team-63276e.workers.dev&fp=chrome&alpn=http/1.1&path=/0df6c30383d404f8&sni=auth-api-fbb93f-gw.dev-team-63276e.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1460%5D
+ss://YWVzLTEyOC1nY206QndscWg3R2NGQg==@168.138.205.100:53758#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B20%5D
+hysteria2://CyG0RFxMjzs41uQD4OLuHQ==@150.230.229.100:20000?sni=hy2-br2.whuiy.xyz&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ%3D%3D#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5B11%5D
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443?sni=47.129.241.99#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B70%5D
+ss://YWVzLTEyOC1nY206QndscWg3R2NGQg==@jpa.123069.xyz:53758#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B23%5D
+vmess://eyJ2IjpudWxsLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVbml0ZWQgU3RhdGVzIFs0NjNdIiwiYWRkIjoiMzguMTEuNjkuNDgiLCJwb3J0IjozMDAwNCwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiL3BhdGgvMTY5ODg0MzU1NTQwMCIsInRscyI6InRscyIsInNuaSI6Ind3dy44Mzc2MTgxNS54eXoiLCJmcCI6bnVsbCwibmFtZSI6IlVTIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCB8IEBSYXlkaWthbHggfCBDNkZCMzgifQ==
+vmess://eyJhZGQiOiIzOC4xMS42OS40OCIsImFpZCI6IjY0IiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy44Mzc2MTgxNS54eXoiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImluc2VjdXJlIjoiMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzE2OTg4NDM1NTU0MDAiLCJwb3J0IjoiMzAwMDQiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVbml0ZWQgU3RhdGVzIFs0NjJdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==

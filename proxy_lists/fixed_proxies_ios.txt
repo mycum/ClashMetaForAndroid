@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 26.11.2026 12:35)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 26.11.2026 13:45)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1761 | Пинг: 27 | >300KB/s: 20 | SB-Old: 4 | SB-HY: 20 | Clash: 20 | iOS: 16
+# 📊 Stats: Вход: 1548 | Пинг: 34 | >300KB/s: 26 | SB-Old: 10 | SB-HY: 26 | Clash: 26 | iOS: 16
 
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@3.70.132.223:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B516%5D
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.169.167.165:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B103%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:13298?fp=chrome&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B557%5D
-vless://92720ee3-27b3-4204-ad2f-d5c8570a4404@104.21.209.174:443?encryption=none&security=tls&type=ws&host=auth-api-fbb93f-gw.dev-team-63276e.workers.dev&fp=chrome&alpn=http/1.1&path=/0df6c30383d404f8&sni=auth-api-fbb93f-gw.dev-team-63276e.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1495%5D
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B80%5D
-hysteria2://CyG0RFxMjzs41uQD4OLuHQ==@150.230.229.100:20000?obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ%3D%3D&sni=hy2-br2.whuiy.xyz#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5B10%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:40004?fp=chrome&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B546%5D
-vless://92720ee3-27b3-4204-ad2f-d5c8570a4404@104.21.209.174:443?encryption=none&security=tls&type=ws&host=auth-api-fbb93f-gw.dev-team-63276e.workers.dev&fp=chrome&alpn=http/1.1&path=/0df6c30383d404f8&sni=auth-api-fbb93f-gw.dev-team-63276e.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1496%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:12565?sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B558%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:40004?sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B545%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:12565?fp=chrome&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B559%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:27378?sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B550%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:27378?fp=chrome&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B551%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:59361?fp=chrome&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B553%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:24069?fp=chrome&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B555%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:59361?sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B552%5D
+vless://201d6c87-5de6-4bda-973c-024129b228fb@freev2.cloudflare.182682.xyz:443?security=tls&type=ws&path=/announcement&host=it-mil.862400.xyz&fp=random&encryption=none&sni=it-mil.862400.xyz#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1066%5D
+vless://201d6c87-5de6-4bda-973c-024129b228fb@www.visa.com.hk:443?security=tls&type=ws&path=/announcement&host=se-sto.862400.xyz&fp=random&encryption=none&sni=se-sto.862400.xyz#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1065%5D
+vless://bb2a729c-6185-4170-8769-6f5b9f64d5b8@104.18.79.242:443?security=tls&type=ws&path=/11290579a72cdb4e&host=cloud-sync-3d1512-gw.maziarkish.workers.dev&packetEncoding=xudp&alpn=http/1.1&fp=chrome&encryption=none&sni=cloud-sync-3d1512-gw.maziarkish.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1444%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@3.70.132.223:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B521%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.169.167.165:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B108%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:40004?fp=chrome&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B524%5D
+vless://92720ee3-27b3-4204-ad2f-d5c8570a4404@104.21.209.174:443?encryption=none&security=tls&type=ws&host=auth-api-fbb93f-gw.dev-team-63276e.workers.dev&fp=chrome&alpn=http/1.1&path=/0df6c30383d404f8&sni=auth-api-fbb93f-gw.dev-team-63276e.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1460%5D
+ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@168.138.205.100:53758#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B20%5D
+hysteria2://CyG0RFxMjzs41uQD4OLuHQ==@150.230.229.100:20000?obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ%3D%3D&sni=hy2-br2.whuiy.xyz#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5B11%5D
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B70%5D
+vmess://eyJ2IjpudWxsLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVbml0ZWQgU3RhdGVzIFs0NjNdIiwiYWRkIjoiMzguMTEuNjkuNDgiLCJwb3J0IjozMDAwNCwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii9wYXRoLzE2OTg4NDM1NTU0MDAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ3d3cuODM3NjE4MTUueHl6IiwiZnAiOiJjaHJvbWUiLCJuYW1lIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IHwgQFJheWRpa2FseCB8IEM2RkIzOCJ9
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:36001?sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B526%5D
+ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@jpa.123069.xyz:53758#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B23%5D
+vmess://eyJhZGQiOiIzOC4xMS42OS40OCIsImFpZCI6NjQsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJ3d3cuODM3NjE4MTUueHl6IiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcGF0aC8xNjk4ODQzNTU1NDAwIiwicG9ydCI6MzAwMDQsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMgWzQ2Ml0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:40004?sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B523%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:12565?fp=chrome&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B537%5D
