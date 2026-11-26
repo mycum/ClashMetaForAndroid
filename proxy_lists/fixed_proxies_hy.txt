@@ -1,9 +1,22 @@
-# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 27.11.2026 03:32)
-# 🛡️ Verified Elite: 5
-# 📊 Stats: Вход: 1276 | Пинг: 29 | >300KB/s: 7 | SB-Old: 3 | SB-HY: 5 | Clash: 7 | iOS: 4
+# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 27.11.2026 04:43)
+# 🛡️ Verified Elite: 18
+# 📊 Stats: Вход: 1305 | Пинг: 72 | >300KB/s: 19 | SB-Old: 15 | SB-HY: 18 | Clash: 19 | iOS: 14
 
-vless://2ccb06b6-9eac-44eb-ade7-c1e5afb8e7df@468bc3g.fi16.h1clayd.click:443?type=grpc&security=reality&fp=ios&pbk=ITvHZlJwSY3tsZEN3uTmOGj5hUWk-uazUBh7ZGBy33o&sid=d50d9c31ff34ebc7&serviceName=973a13acd723&spx=/&sni=468bc3g.fi16.h1clayd.click#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B12%5D
-hysteria2://0c66ef78-33b9-4f88-9529-50db9919fd33@195.209.217.251:30443?sni=dlfd3b.static.tv-av.fun#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B53%5D
-vless://b1ea01b5-2902-4ff6-a64d-fafd20aea9f1@trn19.mobileemdad.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&fp=firefox&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=08&type=tcp&headerType=none&sni=delivery.mp.microsoft.com#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B18%5D
-vless://5807f1c4-b50e-4ec0-8d01-274045da0da5@dddz-1-x.473221.xyz:43113?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=edge&pbk=EK3prcfF8VKm3CoTXWQguRj67LxGbkPIpKmEUKsMKGs&sid=ff2c978a0b&sni=v1-dy.ixigua.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B100%5D
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B69%5D
+vless://e460e7b2-a146-4468-87ed-52510b2caae6@136.234.173.231:8881?encryption=none&type=grpc&security=reality&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&fp=chrome&serviceName=grpc-tunnel&sni=dl.google.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B278%5D
+vless://7af8c5d0-ede6-40ab-9b9e-d7924f79d109@185.86.155.4:14443?encryption=none&type=grpc&security=reality&pbk=TBvwkxwgTGYba7Jl3f2WcNBFvcKJ8uYHjYYdiyZTYCg&sid=d9662905&fp=edge&serviceName=nexusGrpc&sni=cosmo-convert.ru#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B10%5D
+vless://6cd3dbe2-5bb8-4115-aad9-d50b238ce841@48.103.230.114:443?type=ws&headerType=none&security=tls&encryption=none&fp=firefox&path=/access&sni=api.cdn-mirror.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B102%5D
+hysteria2://0c66ef78-33b9-4f88-9529-50db9919fd33@195.209.217.251:30443?sni=dlfd3b.static.tv-av.fun#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B83%5D
+vless://2ccb06b6-9eac-44eb-ade7-c1e5afb8e7df@468bc3g.fi16.h1clayd.click:443?type=grpc&security=reality&fp=ios&pbk=ITvHZlJwSY3tsZEN3uTmOGj5hUWk-uazUBh7ZGBy33o&sid=d50d9c31ff34ebc7&serviceName=973a13acd723&spx=/&sni=468bc3g.fi16.h1clayd.click#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B51%5D
+vless://5dd4822d-b8dc-49dd-84b6-c3ea44ef42f7@145.249.109.248:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=gM_rANbedeIHB3Y1ltLG60xS1i2TuYt0PKgAgC1TzR4&sid=29455a3a790acbd0&sni=mcsp.67resserv67.info#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B3%5D
+vless://5807f1c4-b50e-4ec0-8d01-274045da0da5@dddz-1-x.473221.xyz:43113?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=edge&pbk=EK3prcfF8VKm3CoTXWQguRj67LxGbkPIpKmEUKsMKGs&sid=ff2c978a0b&sni=v1-dy.ixigua.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B90%5D
+vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@e293c7t.us3.h1clayd.click:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=cEapNjAtrnPz_dCSziCJVvXJf2Mq_FtY5UabpQFmI0w&sid=449f801b009f33f4&fp=firefox&headerType=none&encryption=none&sni=e293c7t.us3.h1clayd.click#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B24%5D
+vless://fdd8f4d0-4500-11ef-8227-1577c1651679@104.17.3.81:80?type=ws&host=sg-vless-ws.bypass.id#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B820%5D
+ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.6.223:5555#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B41%5D
+vless://8840fac2-5361-4cb6-b887-cd1b95092394@50.7.159.242:443?security=tls&fp=firefox&sni=jp.reddotcorp.org#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B18%5D
+vmess://eyJhZGQiOiIzOC4xMS42OS40OCIsImFpZCI6NjQsImFscG4iOm51bGwsImZwIjoiY2hyb21lIiwiaG9zdCI6Ind3dy44Mzc2MTgxNS54eXoiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5hbWUiOiJVUyBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggfCBAUmF5ZGlrYWx4IHwgQzA3MzdGIiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMTY5ODg0MzU1NTQwMCIsInBvcnQiOjMwMDA0LCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVbml0ZWQgU3RhdGVzIFs0MjZdIiwic2N5IjoiYXV0byIsInNuaSI6Ind3dy44Mzc2MTgxNS54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjpudWxsLCJ2IjpudWxsfQ==#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B426%5D
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B54%5D
+hysteria2://oracle_hy2_pass_2026@129.225.181.46:8443?insecure=1&sni=bing.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B1%5D
+vless://2ccb06b6-9eac-44eb-ade7-c1e5afb8e7df@153.56.231.174:443?type=grpc&security=reality&fp=ios&pbk=ITvHZlJwSY3tsZEN3uTmOGj5hUWk-uazUBh7ZGBy33o&sid=d50d9c31ff34ebc7&mode=gun&serviceName=973a13acd723&sni=468bc3g.fi16.h1clayd.click#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B25%5D
+vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@45.86.158.201:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cEapNjAtrnPz_dCSziCJVvXJf2Mq_FtY5UabpQFmI0w&security=reality&sid=449f801b009f33f4&type=tcp&sni=e293c7t.us3.h1clayd.click#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B64%5D
+vmess://eyJ2IjpudWxsLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVbml0ZWQgU3RhdGVzIFs0MjddIiwiYWRkIjoiMzguMTEuNjkuNDgiLCJwb3J0IjozMDAwNCwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii9wYXRoLzE2OTg4NDM1NTU0MDAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ3d3cuODM3NjE4MTUueHl6IiwiZnAiOiJjaHJvbWUiLCJuYW1lIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IHwgQFJheWRpa2FseCB8IEM2RkIzOCJ9#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B427%5D
+vless://2ccb06b6-9eac-44eb-ade7-c1e5afb8e7df@f0f0bet.fi16.h1clayd.click:443?type=raw&security=reality&fp=chrome&pbk=GR2jS6u-CicgvYj-mnyfVpbYzkXw-WiXHr6hhqmir38&sid=795c3f4f29745c96&sni=f0f0bet.fi16.h1clayd.click#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B28%5D
