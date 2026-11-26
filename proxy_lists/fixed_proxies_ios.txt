@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 26.11.2026 20:47)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 26.11.2026 21:56)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 1628 | Пинг: 48 | >300KB/s: 32 | SB-Old: 8 | SB-HY: 32 | Clash: 32 | iOS: 16
+# 📊 Stats: Вход: 1395 | Пинг: 30 | >300KB/s: 19 | SB-Old: 2 | SB-HY: 19 | Clash: 19 | iOS: 16
 
-vless://33393561-4c63-416f-91dd-f88efc57c42a@hw3.modemjibi.com:993?path=/%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&security=tls&alpn=http/1.1&encryption=none&fp=chrome&type=ws&sni=hw3.modemjibi.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B161%5D
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.169.167.165:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B84%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:13298?fp=chrome&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B560%5D
-vless://18baf01c-99b2-4675-997c-1ec73e3eadff@45.158.197.237:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&sni=apple.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B308%5D
-hysteria2://bbc56076-6a7c-44b0-8135-596b6614d492@145.249.109.133:25175?pinSHA256=a485db68fa1e0d3a712e1fcdb48fe57c5107666159be520f9ce8c77f727b0d88&sni=03e488t.es9.h1clayd.click#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B32%5D
-vmess://eyJ2IjoiMiIsInBzIjoiWkEgXHVkODNjXHVkZGZmXHVkODNjXHVkZGU2IFsxXSIsImFkZCI6IjE2LjI4LjI4LjE1IiwicG9ydCI6NDQzLCJpZCI6IjhjZTE4ZWFiLWZjYzAtNDc1Ny1iNTUyLWRiZGE1MDQ3ZWExMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6InRscyIsInNuaSI6InphLWEtenp5LmdsbnlobGdjLmNvbSIsInBhdGgiOiIvNzc4OC9hYm91dCIsImZwIjoiY2hyb21lIn0=
-trojan://1sUm9iYpsjLCOC9THsL9cg@ipfast.kingmna.com:443?host=dekoto845.global.ssl.fastly.net.&path=/TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&type=ws&fp=chrome&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B58%5D
-hysteria2://c8aa4ba6a243ddfdeb67515aa849624b@8.220.244.33:7788?sni=www.ddsos.cc#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B20%5D
-ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.18.173:5555#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B44%5D
-ss://YWVzLTI1Ni1nY206MTIzNDU2@8.209.221.183:5555#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B66%5D
-vless://7a87d516-058e-495a-bc09-e527178639b4@jp.075661.xyz:46935?security=reality&flow=xtls-rprx-vision&pbk=MmzrzoNr4muOhgi1ZAmzHbuciiKTWeu3hoi66Rp8Ai4&sid=e582410c5e3ccd68&fp=firefox&type=tcp&headerType=none&host=yahoo.com&path=/&sni=yahoo.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B82%5D
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B68%5D
-vless://c762af05-2e92-4133-bc30-8cf45dd40a28@188.114.99.137:80?type=ws&host=suh.cryptofront.uk&path=/#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B461%5D
-hysteria2://Cqx5aT9Zux@185.200.199.179:54706#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B1%5D
-vless://33393561-4c63-416f-91dd-f88efc57c42a@hw3.modemjibi.com:993?encryption=none&security=tls&fp=chrome&alpn=http/1.1&type=ws&path=/&sni=hw3.modemjibi.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B160%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:36001?sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B555%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.169.167.165:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B41%5D
+vless://b7791707-83d9-444b-9d05-f5c99e90acd4@45.12.255.245:443?security=reality&type=tcp&packetEncoding=xudp&fp=firefox&flow=xtls-rprx-vision&sid=38e0c84b27d01e0d&pbk=GqhAFTkRQ1HkNXyF2dUl3wUzJDHfgx3O9qocK01SLWU&encryption=none&sni=n1.sklserv.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B199%5D
+hysteria2://bbc56076-6a7c-44b0-8135-596b6614d492@145.249.109.133:25175?pinSHA256=a485db68fa1e0d3a712e1fcdb48fe57c5107666159be520f9ce8c77f727b0d88&sni=03e488t.es9.h1clayd.click#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%5B5%5D
+hysteria2://48818046-00b5-4576-bbe8-d2971fe0f844@timeweb-2hmq5ehr3ievlnabv8l2.concept7.ru:443?pinSHA256=bf7bebeecc1878789d73090588553cc51b17fb3b64bcefb1a39f26426ac43281&security=tls&sni=hysteria-gjrao4f1.concept7.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B23%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:12565?sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B369%5D
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B46%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:12565?fp=chrome&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B370%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:40004?sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B359%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:27378?fp=chrome&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B368%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:13298?sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B365%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:59361?sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B357%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:13298?fp=chrome&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B366%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:59361?fp=chrome&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B358%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:36001?sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B361%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:27378?sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B367%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:40004?fp=chrome&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B360%5D
