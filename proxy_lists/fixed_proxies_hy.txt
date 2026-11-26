@@ -1,23 +1,26 @@
-# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 26.11.2026 21:56)
-# 🛡️ Verified Elite: 19
-# 📊 Stats: Вход: 1395 | Пинг: 30 | >300KB/s: 19 | SB-Old: 2 | SB-HY: 19 | Clash: 19 | iOS: 16
+# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 26.11.2026 23:03)
+# 🛡️ Verified Elite: 22
+# 📊 Stats: Вход: 1238 | Пинг: 25 | >300KB/s: 22 | SB-Old: 5 | SB-HY: 22 | Clash: 22 | iOS: 16
 
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.169.167.165:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B41%5D
-vless://b7791707-83d9-444b-9d05-f5c99e90acd4@45.12.255.245:443?security=reality&type=tcp&packetEncoding=xudp&fp=firefox&flow=xtls-rprx-vision&sid=38e0c84b27d01e0d&pbk=GqhAFTkRQ1HkNXyF2dUl3wUzJDHfgx3O9qocK01SLWU&encryption=none&sni=n1.sklserv.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B199%5D
-hysteria2://bbc56076-6a7c-44b0-8135-596b6614d492@145.249.109.133:25175?pinSHA256=a485db68fa1e0d3a712e1fcdb48fe57c5107666159be520f9ce8c77f727b0d88&sni=03e488t.es9.h1clayd.click#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%5B5%5D
-hysteria2://48818046-00b5-4576-bbe8-d2971fe0f844@timeweb-2hmq5ehr3ievlnabv8l2.concept7.ru:443?insecure=1&pinSHA256=bf7bebeecc1878789d73090588553cc51b17fb3b64bcefb1a39f26426ac43281&security=tls&sni=hysteria-gjrao4f1.concept7.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B23%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:12565?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B369%5D
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B46%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:12565?allowInsecure=1&fp=chrome&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B370%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:40004?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B359%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:27378?allowInsecure=1&fp=chrome&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B368%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:13298?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B365%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:59361?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B357%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:13298?allowInsecure=1&fp=chrome&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B366%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:59361?allowInsecure=1&fp=chrome&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B358%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:36001?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B361%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:27378?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B367%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:40004?allowInsecure=1&fp=chrome&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B360%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:24069?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B363%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:24069?allowInsecure=1&fp=chrome&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B364%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:36001?allowInsecure=1&fp=chrome&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B362%5D
+hysteria2://48818046-00b5-4576-bbe8-d2971fe0f844@timeweb-2hmq5ehr3ievlnabv8l2.concept7.ru:443?insecure=1&pinSHA256=bf7bebeecc1878789d73090588553cc51b17fb3b64bcefb1a39f26426ac43281&security=tls&sni=hysteria-gjrao4f1.concept7.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B46%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.169.167.165:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B92%5D
+hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?sni=mother-earth.fyi#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%5B17%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:59361?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B533%5D
+vless://d235ad20-8f30-441e-871e-ee2695e4c430@vl-x2.qz10086.top:37998?security=reality&flow=xtls-rprx-vision&pbk=j7lihAdLvNKWg67WMGQsRSM8WFbaUK5dAi7D2R7iXHM&sid=d5a01375&fp=firefox&packet-encoding=xudp&type=tcp&headerType=none&host=www.apple.com&path=/&sni=www.apple.com#%F0%9F%87%B9%F0%9F%87%AD%20Thailand%20%5B7%5D
+vless://b7791707-83d9-444b-9d05-f5c99e90acd4@45.12.255.245:443?security=reality&type=tcp&packetEncoding=xudp&fp=firefox&flow=xtls-rprx-vision&sid=38e0c84b27d01e0d&pbk=GqhAFTkRQ1HkNXyF2dUl3wUzJDHfgx3O9qocK01SLWU&encryption=none&sni=n1.sklserv.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B341%5D
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B58%5D
+vless://c762af05-2e92-4133-bc30-8cf45dd40a28@188.114.99.137:80?type=ws&encryption=none&packetEncoding=none&path=/&host=suh.cryptofront.uk#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B439%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:13298?allowInsecure=1&fp=chrome&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B542%5D
+vless://c762af05-2e92-4133-bc30-8cf45dd40a28@188.114.99.137:80?type=ws&host=suh.cryptofront.uk&path=/#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B438%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:27378?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B543%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:12565?allowInsecure=1&fp=chrome&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B546%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:36001?allowInsecure=1&fp=chrome&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B538%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:59361?allowInsecure=1&fp=chrome&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B534%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:12565?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B545%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:24069?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B539%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:40004?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B535%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:36001?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B537%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:40004?allowInsecure=1&fp=chrome&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B536%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:13298?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B541%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:27378?allowInsecure=1&fp=chrome&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B544%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:24069?allowInsecure=1&fp=chrome&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B540%5D
