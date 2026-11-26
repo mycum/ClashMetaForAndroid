@@ -1,26 +1,36 @@
-# profile-title: 🚀 Telegood Clash (ТОП-32 от 26.11.2026 16:07)
-# 🛡️ Verified Elite: 22
-# 📊 Stats: Вход: 1540 | Пинг: 54 | >300KB/s: 22 | SB-Old: 11 | SB-HY: 22 | Clash: 22 | iOS: 16
+# profile-title: 🚀 Telegood Clash (ТОП-32 от 26.11.2026 17:16)
+# 🛡️ Verified Elite: 32
+# 📊 Stats: Вход: 1404 | Пинг: 63 | >300KB/s: 39 | SB-Old: 18 | SB-HY: 32 | Clash: 32 | iOS: 16
 
-vless://201d6c87-5de6-4bda-973c-024129b228fb@www.visa.com.hk:443?security=tls&type=ws&path=/announcement%3Fed%3D2048&host=se-sto.862400.xyz&sni=se-sto.862400.xyz&fp=random&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1090%5D
-vless://18baf01c-99b2-4675-997c-1ec73e3eadff@45.158.197.237:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=6ba85179e30d4fc2#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B387%5D
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0=@18.169.167.165:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B99%5D
-hysteria2://Cqx5aT9Zux@185.200.199.179:54706?sni=185.200.199.179#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B254%5D
-vless://201d6c87-5de6-4bda-973c-024129b228fb@freev2.cloudflare.182682.xyz:443?security=tls&type=ws&path=/announcement%3Fed%3D2048&host=it-mil.862400.xyz&sni=it-mil.862400.xyz&fp=random&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1091%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:40004?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B532%5D
-vless://d235ad20-8f30-441e-871e-ee2695e4c430@vl-x2.qz10086.top:38101?security=reality&flow=xtls-rprx-vision&pbk=j7lihAdLvNKWg67WMGQsRSM8WFbaUK5dAi7D2R7iXHM&sid=d5a01375&fp=firefox&packet-encoding=xudp&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=/#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20%5B3%5D
-vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@185.255.115.69:443?flow=xtls-rprx-vision&security=reality&sni=e293c7t.us11.h1clayd.click&fp=firefox&pbk=cEapNjAtrnPz_dCSziCJVvXJf2Mq_FtY5UabpQFmI0w&sid=449f801b009f33f4&encryption=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B75%5D
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0=@3.70.132.223:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B511%5D
-vmess://eyJhZGQiOiJ6ZmQtanB2Mi5rdW5sdW4wMWRucy5jb20iLCJpZCI6IjA4MDJhYzAzLTc5NzMtMzllZi1hMDE5LWJhMDJkZTZjMDFlMSIsInBvcnQiOiIxNjEyMSIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEhvbmcgS29uZyBbMTEyXSJ9
-hysteria2://CyG0RFxMjzs41uQD4OLuHQ==@150.230.229.100:20000?sni=hy2-br2.whuiy.xyz&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ%3D%3D#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5B10%5D
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443?sni=47.129.241.99#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B67%5D
-vless://c762af05-2e92-4133-bc30-8cf45dd40a28@188.114.99.137:80?type=ws&host=suh.cryptofront.uk&packetEncoding=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B555%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:12565?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B538%5D
-vless://201d6c87-5de6-4bda-973c-024129b228fb@freev2.cloudflare.182682.xyz:443?security=tls&type=ws&path=/announcement&host=it-mil.862400.xyz&fp=random&encryption=none&sni=it-mil.862400.xyz#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1092%5D
-vless://d235ad20-8f30-441e-871e-ee2695e4c430@vl-x2.qz10086.top:38105?security=reality&flow=xtls-rprx-vision&pbk=y0p1yI8OoWqcOE4XEv7ueudaSOOc5UIb5yFyA3SstD8&sid=7e7e8c23&fp=firefox&packet-encoding=xudp&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=/#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20%5B2%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:24069?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B534%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:24069?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B535%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:59361?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B531%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:27378?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B537%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:36001?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B533%5D
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:13298?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B536%5D
+vless://201d6c87-5de6-4bda-973c-024129b228fb@www.visa.com.hk:443?security=tls&type=ws&path=/announcement%3Fed%3D2048&host=se-sto.862400.xyz&sni=se-sto.862400.xyz&fp=random&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1039%5D
+hysteria2://c0742f77-5495-43bf-b007-88d368774d7c@88.119.176.49:443?sni=litual3.harcho.shop#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B2%5D
+vless://ed9a4102-24ce-4f64-8312-df534ad56049@189.74.117.19:443?flow=xtls-rprx-vision&security=reality&sni=api.videodolina.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B28%5D
+vless://18baf01c-99b2-4675-997c-1ec73e3eadff@45.158.197.237:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=6ba85179e30d4fc2#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B334%5D
+hysteria2://ad80d93f-8b35-4b0e-861d-128813efc7d1@31.58.234.101:30443?sni=sync46.lernkino.online#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B240%5D
+vless://ed9a4102-24ce-4f64-8312-df534ad56049@189.74.116.4:443?flow=xtls-rprx-vision&security=reality&sni=api.mediatropa.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B36%5D
+vless://ed9a4102-24ce-4f64-8312-df534ad56049@189.74.115.6:443?flow=xtls-rprx-vision&security=reality&sni=api.mediaroshcha.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B9%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0=@18.169.167.165:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B98%5D
+hysteria2://Cqx5aT9Zux@185.200.199.179:54706?sni=185.200.199.179#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B235%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:12565?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B550%5D
+hysteria2://bbc56076-6a7c-44b0-8135-596b6614d492@145.249.109.133:25175?sni=03e488t.es9.h1clayd.click&pinSHA256=a485db68fa1e0d3a712e1fcdb48fe57c5107666159be520f9ce8c77f727b0d88#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B36%5D
+hysteria2://bbc56076-6a7c-44b0-8135-596b6614d492@216.158.234.235:25477?sni=b1636ft.us17.h1clayd.shop&pinSHA256=df817af6d3b9bd450c6245173355c87352446f7a670d955568e262f6969724a9#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B563%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0=@3.70.132.223:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B487%5D
+vless://33393561-4c63-416f-91dd-f88efc57c42a@hw3.modemjibi.com:993?encryption=none&type=ws&path=/&security=tls&alpn=http/1.1&fp=chrome&sni=hw3.modemjibi.com.#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B483%5D
+vless://d235ad20-8f30-441e-871e-ee2695e4c430@vl-x2.qz10086.top:38101?security=reality&flow=xtls-rprx-vision&pbk=j7lihAdLvNKWg67WMGQsRSM8WFbaUK5dAi7D2R7iXHM&sid=d5a01375&fp=firefox&packet-encoding=xudp&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=/#%F0%9F%87%B9%F0%9F%87%AD%20Thailand%20%5B4%5D
+vless://201d6c87-5de6-4bda-973c-024129b228fb@ct.877774.xyz:443?security=tls&type=ws&path=/announcement%3Fed%3D2048&host=ap-south.862400.xyz&sni=ap-south.862400.xyz&fp=random&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1043%5D
+hysteria2://CyG0RFxMjzs41uQD4OLuHQ==@150.230.229.100:20000?sni=hy2-br2.whuiy.xyz&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ%3D%3D#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5B11%5D
+ss://YWVzLTEyOC1nY206QndscWg3R2NGQg==@168.138.205.100:53758#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B15%5D
+ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.18.189:5555#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B31%5D
+vless://bbb945a6-7d16-4099-b802-d3a7ccebd3ca@195.58.46.231:443?type=grpc&security=reality&fp=firefox&pbk=PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA&sid=b8abb26d3cfadcfb&sni=node43.lmdscdn.ru&mode=gun&serviceName=livestreamcontent#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B362%5D
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443?sni=47.129.241.99#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B61%5D
+vless://201d6c87-5de6-4bda-973c-024129b228fb@www.visa.com.hk:443?security=tls&type=ws&path=/announcement&host=se-sto.862400.xyz&fp=random&encryption=none&sni=se-sto.862400.xyz#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1040%5D
+vless://ed9a4102-24ce-4f64-8312-df534ad56049@189.74.117.19:443?flow=xtls-rprx-vision&security=reality&sni=api.videodolina.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B27%5D
+vless://ed9a4102-24ce-4f64-8312-df534ad56049@189.74.116.4:443?flow=xtls-rprx-vision&security=reality&sni=api.mediatropa.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B35%5D
+vless://ed9a4102-24ce-4f64-8312-df534ad56049@189.74.115.6:443?flow=xtls-rprx-vision&security=reality&sni=api.mediaroshcha.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B10%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:36001?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B541%5D
+vless://d235ad20-8f30-441e-871e-ee2695e4c430@vl-x2.qz10086.top:37998?security=reality&flow=xtls-rprx-vision&pbk=j7lihAdLvNKWg67WMGQsRSM8WFbaUK5dAi7D2R7iXHM&sid=d5a01375&fp=firefox&packet-encoding=xudp&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=/#%F0%9F%87%B9%F0%9F%87%AD%20Thailand%20%5B5%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:24069?allowInsecure=1&sni=www.bing.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B544%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:13298?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B545%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:27378?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B547%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:59361?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B537%5D
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:40004?sni=www.bing.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B539%5D
