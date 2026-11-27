@@ -1,10 +1,12 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 27.11.2026 18:52)
-# 🛡️ Verified Elite: 6
-# 📊 Stats: Вход: 1188 | Пинг: 24 | >300KB/s: 6 | SB-Old: 2 | SB-HY: 6 | Clash: 6 | iOS: 6
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 27.11.2026 20:00)
+# 🛡️ Verified Elite: 8
+# 📊 Stats: Вход: 1183 | Пинг: 26 | >300KB/s: 8 | SB-Old: 2 | SB-HY: 8 | Clash: 8 | iOS: 8
 
-vless://cbfdab46-e183-4cc3-bab9-df954c8c601e@104.21.68.231:8443?security=tls&fp=chrome&type=ws&host=cdn.memepunk.ir&path=/vless-ws&sni=cdn.memepunk.ir#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1568%5D
-hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?alpn=h3&security=tls&sni=mother-earth.fyi#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%5B16%5D
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B66%5D
-hysteria2://CyG0RFxMjzs41uQD4OLuHQ==@150.230.229.100:20000?obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ%3D%3D&sni=hy2-br2.whuiy.xyz#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5B7%5D
-hysteria2://linlin-2026@13.55.52.44:36712#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20%5B8%5D
-vmess://eyJhZGQiOiIzOC4xMS42OS40OCIsImFpZCI6NjQsImFscG4iOm51bGwsImZwIjoiY2hyb21lIiwiaG9zdCI6Ind3dy44Mzc2MTgxNS54eXoiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5hbWUiOiJVUyBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggfCBAUmF5ZGlrYWx4IHwgQzA3MzdGIiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMTY5ODg0MzU1NTQwMCIsInBvcnQiOjMwMDA0LCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVbml0ZWQgU3RhdGVzIFs0MTJdIiwic2N5IjoiYXV0byIsInNuaSI6Ind3dy44Mzc2MTgxNS54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjpudWxsLCJ2IjpudWxsfQ==
+trojan://Z-jckziI1rW4yrUMorrv0Q@ipfast.kingmna.com:443?host=loosnsj5aboijji.global.ssl.fastly.net&path=/TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&type=ws&sni=cdn.akamai.steamstatic.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B109%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.133.241.233:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B36%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@3.127.215.115:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B104%5D
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443?allow_&path=%2F#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B11%5D
+hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?alpn=h3&security=tls&sni=mother-earth.fyi#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%5B2%5D
+trojan://Z-jckziI1rW4yrUMorrv0Q@ipfast.kingmna.com:443?host=looazzboijji.global.ssl.fastly.net.&path=/TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&type=ws&sni=cdn.akamai.steamstatic.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B108%5D
+trojan://Z-jckziI1rW4yrUMorrv0Q@ipfast.kingmna.com:443?host=looasaaaboijji.global.ssl.fastly.net.&path=/TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&type=ws&sni=cdn.akamai.steamstatic.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B107%5D
+trojan://Z-jckziI1rW4yrUMorrv0Q@ipfast.kingmna.com:443?host=looasaaa2boijji.global.ssl.fastly.net&path=/TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&type=ws&sni=cdn.akamai.steamstatic.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B106%5D
