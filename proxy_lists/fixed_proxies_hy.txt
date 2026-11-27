@@ -1,8 +1,9 @@
-# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 28.11.2026 00:30)
-# 🛡️ Verified Elite: 4
-# 📊 Stats: Вход: 1126 | Пинг: 24 | >300KB/s: 6 | SB-Old: 3 | SB-HY: 4 | Clash: 6 | iOS: 4
+# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 28.11.2026 01:35)
+# 🛡️ Verified Elite: 5
+# 📊 Stats: Вход: 967 | Пинг: 8 | >300KB/s: 5 | SB-Old: 3 | SB-HY: 5 | Clash: 5 | iOS: 5
 
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.133.241.233:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B66%5D
-vless://ed94398f-893f-40c6-b14c-bf02b5f6be16@130.94.30.242:443?security=reality&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6&fp=chrome&packet-encoding=xudp&type=tcp&headerType=none&host=navi.bankrate.com&path=/&sni=navi.bankrate.com#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%20%5B1%5D
-trojan://Z-jckziI1rW4yrUMorrv0Q@ipfast.kingmna.com:443?allowInsecure=1&host=looaboi4jji.global.ssl.fastly.net.&path=/TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&type=ws&sni=cdn.akamai.steamstatic.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B38%5D
-vless://5f4e9bd0-4c9a-416b-92c3-ca43174728de@104.20.0.89:2053?encryption=none&fp=firefox&host=farsnewsir.pages.dev&security=tls&type=ws&sni=farsnewsir.pages.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B758%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.133.241.233:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B86%5D
+vless://ed94398f-893f-40c6-b14c-bf02b5f6be16@130.94.30.242:443?security=reality&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6&fp=chrome&packet-encoding=xudp&type=tcp&headerType=none&host=navi.bankrate.com&path=/&sni=navi.bankrate.com#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B13%5D
+trojan://Z-jckziI1rW4yrUMorrv0Q@ipfast.kingmna.com:443?allowInsecure=1&host=looasaaa2boijji.global.ssl.fastly.net&path=/TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&type=ws&fp=safari&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B43%5D
+hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?alpn=h3&insecure=1&security=tls&sni=mother-earth.fyi#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%5B18%5D
+vless://5f4e9bd0-4c9a-416b-92c3-ca43174728de@104.20.0.89:2053?encryption=none&fp=firefox&host=farsnewsir.pages.dev&security=tls&type=ws&sni=farsnewsir.pages.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1332%5D
