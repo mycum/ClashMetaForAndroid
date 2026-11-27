@@ -1,12 +1,9 @@
-# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 27.11.2026 20:00)
-# 🛡️ Verified Elite: 8
-# 📊 Stats: Вход: 1183 | Пинг: 26 | >300KB/s: 8 | SB-Old: 2 | SB-HY: 8 | Clash: 8 | iOS: 8
+# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 27.11.2026 21:08)
+# 🛡️ Verified Elite: 5
+# 📊 Stats: Вход: 1094 | Пинг: 22 | >300KB/s: 6 | SB-Old: 4 | SB-HY: 5 | Clash: 6 | iOS: 5
 
-trojan://Z-jckziI1rW4yrUMorrv0Q@ipfast.kingmna.com:443?allowInsecure=1&host=loosnsj5aboijji.global.ssl.fastly.net&path=/TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&type=ws&sni=cdn.akamai.steamstatic.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B109%5D
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.133.241.233:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B36%5D
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@3.127.215.115:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B104%5D
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443?allow_insecure=1&insecure=1&path=%2F#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B11%5D
-hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?alpn=h3&insecure=1&security=tls&sni=mother-earth.fyi#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%5B2%5D
-trojan://Z-jckziI1rW4yrUMorrv0Q@ipfast.kingmna.com:443?allowInsecure=1&host=looazzboijji.global.ssl.fastly.net.&path=/TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&type=ws&sni=cdn.akamai.steamstatic.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B108%5D
-trojan://Z-jckziI1rW4yrUMorrv0Q@ipfast.kingmna.com:443?allowInsecure=1&host=looasaaaboijji.global.ssl.fastly.net.&path=/TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&type=ws&sni=cdn.akamai.steamstatic.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B107%5D
-trojan://Z-jckziI1rW4yrUMorrv0Q@ipfast.kingmna.com:443?allowInsecure=1&host=looasaaa2boijji.global.ssl.fastly.net&path=/TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&type=ws&sni=cdn.akamai.steamstatic.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B106%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@3.127.215.115:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B105%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.133.241.233:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B31%5D
+vless://ea759639-a58c-4c46-8e0b-4cc834bf6658@ru-tmw.funky-monkey.app:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&sni=steam-videos.cc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B103%5D
+trojan://Z-jckziI1rW4yrUMorrv0Q@ipfast.kingmna.com:443?allowInsecure=1&host=looazzboijji.global.ssl.fastly.net.&path=/TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&type=ws&sni=cdn.akamai.steamstatic.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B109%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEdlcm1hbnkgWzNdIiwiYWRkIjoiMTYyLjE5LjE5Mi44OSIsInBvcnQiOjE2NjIyLCJpZCI6ImI0OWFmOGM5LTBjZjEtNDIxMi04ZWQ4LTM1YjcwZDlmMmNmNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiMzQxNmNiZTU3YjdjNTI3MzM3MjE4NTlkNGUyM2JlMzkubW9iZ3NsYi50YmNhY2hlLmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B3%5D
