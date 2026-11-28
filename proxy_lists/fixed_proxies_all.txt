@@ -1,12 +1,10 @@
-# profile-title: 🚀 Telegood VPN (ВСЕ ЖИВЫЕ от 28.11.2026 22:32)
-# 🛡️ Total Alive: 8
-# 📊 Stats: Вход: 1187 | Пинг: 30 | >300KB/s: 8 | SB-Old: 3 | SB-HY: 8 | Clash: 8 | iOS: 8
+# profile-title: 🚀 Telegood VPN (ВСЕ ЖИВЫЕ от 29.11.2026 00:44)
+# 🛡️ Total Alive: 6
+# 📊 Stats: Вход: 1155 | Пинг: 14 | >300KB/s: 6 | SB-Old: 5 | SB-HY: 6 | Clash: 6 | iOS: 3
 
-hysteria2://68eb9113-416b-4ac9-8b10-4de023aec876@129.101.107.158:443?insecure=1&pinSHA256=bf7bebeecc1878789d73090588553cc51b17fb3b64bcefb1a39f26426ac43281&sni=hysteria-gjrao4f1.concept7.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B41%5D
-vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@48.102.202.183:443?flow=xtls-rprx-vision&security=reality&sni=lesson178.schoolpizorbz.xyz&fp=qq&pbk=Dtr_Vep-C3_LsBDGgwZ9sfBfpWcUp_SwMB_fnya5IDo&sid=5167e6149ceb3334#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B579%5D
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.133.241.233:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B135%5D
-hysteria2://2444df7f-4a0c-45bd-9c62-25a7ff8c4dba@193.124.66.172:443?security=tls&alpn=h3&insecure=0&sni=lv.0000000000000.space#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B37%5D
-hysteria2://fanvpn.net@107.148.145.129:443?sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B461%5D
-hysteria2://81f705b5-9039-4adf-8671-783095bba0e8@94.249.225.65:443?sni=nl1.nuvoryxdata.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B222%5D
-hysteria2://81f705b5-9039-4adf-8671-783095bba0e8@nl1.nuvoryxdata.com:443?sni=nl1.nuvoryxdata.com&security=tls#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B221%5D
-vless://c762af05-2e92-4133-bc30-8cf45dd40a28@188.114.99.137:80?type=ws&host=suh.cryptofront.uk&packetEncoding=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B141%5D
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@153.56.231.73:443?encryption=none&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&security=reality&serviceName=204adda7e3da&sid=d3bd772514c87d28&sni=717252g.nl8.h1clayd.click&type=grpc&fp=safari#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B10%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.133.241.233:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B130%5D
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@153.56.231.73:443?type=grpc&security=reality&fp=firefox&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&sid=d3bd772514c87d28&sni=717252g.nl8.h1clayd.click&mode=gun&serviceName=204adda7e3da#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B7%5D
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@153.56.231.73:443?encryption=none&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&security=reality&serviceName=204adda7e3da&sid=d3bd772514c87d28&sni=717252g.nl8.h1clayd.click&type=grpc&fp=edge#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%5B9%5D
+hysteria2://6345ee32-7b62-4584-902d-07cfe588a02e@us3b.h1cloud.asia:25043?sni=b1636ft.us17.h1clayd.shop&security=tls&pinSHA256=df817af6d3b9bd450c6245173355c87352446f7a670d955568e262f6969724a9#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B451%5D
+vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@83.141.73.90:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cEapNjAtrnPz_dCSziCJVvXJf2Mq_FtY5UabpQFmI0w&security=reality&sid=449f801b009f33f4&sni=e293c7t.us6.h1clayd.click&type=tcp#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B8%5D
