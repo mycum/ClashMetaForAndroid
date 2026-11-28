@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 28.11.2026 09:56)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 28.11.2026 11:12)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 2864 | Пинг: 122 | >300KB/s: 60 | SB-Old: 32 | SB-HY: 32 | Clash: 32 | iOS: 16
+# 📊 Stats: Вход: 2380 | Пинг: 84 | >300KB/s: 46 | SB-Old: 27 | SB-HY: 32 | Clash: 32 | iOS: 16
 
-vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@104.16.205.122:2087?type=ws&security=tls&fp=chrome&host=sfsmzggh4hyy2i-0oy5s5dtmkjv2nam6.pages.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B854%5D
-vless://ba373a70-295f-482d-a471-8bc17b54e23b@185.86.147.33:443?security=tls&fp=firefox&type=ws&path=/g189ws&sni=get.rtkdvbr.cc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B197%5D
-vless://50414e45-4c5f-5a45-5553-63379028591d@gaper.ir:8443?security=tls&type=ws&path=/stream/PANEL_ZEUS/63379028591d&host=nnzbi8e9uups.foxvpn551144.workers.dev&packetEncoding=xudp&fp=chrome&sni=nnzbi8e9uups.foxvpn551144.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1926%5D
-vless://50414e45-4c5f-5a45-5553-63379028591d@prometheus.io:8443?security=tls&type=ws&path=/stream/PANEL_ZEUS/63379028591d&host=nnzbi8e9uups.foxvpn551144.workers.dev&packetEncoding=xudp&fp=chrome&sni=nnzbi8e9uups.foxvpn551144.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B139%5D
-vless://ea759639-a58c-4c46-8e0b-4cc834bf6658@ru-cloudru.funky-monkey.app:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&sni=steam-videos.cc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B467%5D
-vless://d21d1bf2-206a-41c6-a40c-49bdd1f6f3be@104.27.25.196:443?path=/c216a10ece89acba&security=tls&alpn=http/1.1&host=net-bridge-c9d0c4-gw.prod-relay-3c3937.workers.dev&fp=chrome&type=ws&sni=net-bridge-c9d0c4-gw.prod-relay-3c3937.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B2039%5D
-vless://3b01a777-55e7-49f6-8637-d94ee69607c6@kozel.cc.cd:443?type=ws&host=kozel.cc.cd&path=/118.151.222.66%3D17317fp%3Dchrome&security=tls&sni=kozel.cc.cd&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%5B30%5D
-vless://92720ee3-27b3-4204-ad2f-d5c8570a4404@104.21.209.174:443?encryption=none&security=tls&type=ws&host=auth-api-fbb93f-gw.dev-team-63276e.workers.dev&fp=chrome&alpn=http/1.1&path=/0df6c30383d404f8&sni=auth-api-fbb93f-gw.dev-team-63276e.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1961%5D
-vless://55d9ec38-1b8a-454b-981a-6acfe8f56d8c@fu.baiproxy.us.ci:2087?security=tls&fp=chrome&type=ws&headerType=none&host=fu.baiproxy.us.ci&path=/#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1912%5D
-trojan://xhl549341@188.114.97.6:443?security=tls&type=ws&path=/&sni=tro.baiyi.cloudns.org&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B204%5D
-vless://ac532d5e-2b9c-45a2-85df-37b3b74cffde@fast-route-4aa49d-gw.staging-api-05a87c.workers.dev:443?security=tls&type=ws&path=/9dffa10cc2d3b317&host=fast-route-4aa49d-gw.staging-api-05a87c.workers.dev&packetEncoding=xudp&alpn=http/1.1&fp=chrome&encryption=none&sni=fast-route-4aa49d-gw.staging-api-05a87c.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1915%5D
-trojan://Z-jckziI1rW4yrUMorrv0Q@ipfast.kingmna.com:443?host=looasaaa2boijji.global.ssl.fastly.net&path=/TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&type=ws&fp=ios&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B154%5D
-trojan://xhl549341@cf.090227.xyz:443?security=tls&type=ws&host=tro.baiyi.cloudns.org&path=/&sni=tro.baiyi.cloudns.org&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B389%5D
-vless://ea759639-a58c-4c46-8e0b-4cc834bf6658@bridge.funky-monkey.app:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&sni=steam-videos.cc#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B247%5D
-hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@trendslate.nem-osh-rkp.net:443?security=tls&sni=trendslate.nem-osh-rkp.net#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B299%5D
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@3.125.43.168:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B31%5D
+vless://ba373a70-295f-482d-a471-8bc17b54e23b@185.86.147.33:443?security=tls&fp=firefox&type=ws&path=/g189ws&sni=get.rtkdvbr.cc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B188%5D
+vless://d21d1bf2-206a-41c6-a40c-49bdd1f6f3be@104.27.25.196:443?path=/c216a10ece89acba&security=tls&alpn=http/1.1&host=net-bridge-c9d0c4-gw.prod-relay-3c3937.workers.dev&fp=chrome&type=ws&sni=net-bridge-c9d0c4-gw.prod-relay-3c3937.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B2092%5D
+vless://92720ee3-27b3-4204-ad2f-d5c8570a4404@104.21.209.174:443?encryption=none&security=tls&type=ws&host=auth-api-fbb93f-gw.dev-team-63276e.workers.dev&fp=chrome&alpn=http/1.1&path=/0df6c30383d404f8&sni=auth-api-fbb93f-gw.dev-team-63276e.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B2008%5D
+hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@147.45.73.182:443?sni=accountentry.comparecarprices.org#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B44%5D
+hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@144.31.1.76:443?sni=solidhealth.nemoi-self.co.uk#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B39%5D
+hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@headerruntime.bezl-self.co.uk:443?security=tls&sni=headerruntime.bezl-self.co.uk#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B37%5D
+trojan://Z-jckziI1rW4yrUMorrv0Q@ipfast.kingmna.com:443?host=looasaaa2boijji.global.ssl.fastly.net&path=/TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&type=ws&sni=cdn.akamai.steamstatic.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B163%5D
+vless://55d9ec38-1b8a-454b-981a-6acfe8f56d8c@fu.baiproxy.us.ci:2087?security=tls&fp=chrome&type=ws&headerType=none&host=fu.baiproxy.us.ci&path=/#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1855%5D
+hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@kiosklist.comparecarprices.org:443?security=tls&sni=kiosklist.comparecarprices.org#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B38%5D
+hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?sni=mother-earth.fyi#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%5B16%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@3.125.43.168:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B24%5D
+hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@91.196.32.60:443?sni=goldenlogin.newbuzideas.org#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B210%5D
+hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@trendslate.nem-osh-rkp.net:443?security=tls&sni=trendslate.nem-osh-rkp.net#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B244%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.133.241.233:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B131%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.171.191.130:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B13%5D
+hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@193.233.74.21:443?sni=circuitinsight.obshock.net#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%5B1%5D
