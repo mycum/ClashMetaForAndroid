@@ -1,14 +1,12 @@
-# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 28.11.2026 21:25)
-# 🛡️ Verified Elite: 10
-# 📊 Stats: Вход: 1169 | Пинг: 21 | >300KB/s: 10 | SB-Old: 1 | SB-HY: 10 | Clash: 10 | iOS: 10
+# profile-title: ⚡ Telegood Sing-box HY2 (ТОП-32 от 28.11.2026 22:32)
+# 🛡️ Verified Elite: 8
+# 📊 Stats: Вход: 1187 | Пинг: 30 | >300KB/s: 8 | SB-Old: 3 | SB-HY: 8 | Clash: 8 | iOS: 8
 
-hysteria2://f88bc31a-c30a-4a7f-bca6-5bc95d5bb593@88.119.176.54:443?sni=tuv10.harcho.shop#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B2%5D
-hysteria2://68eb9113-416b-4ac9-8b10-4de023aec876@129.101.107.158:443?pinSHA256=bf7bebeecc1878789d73090588553cc51b17fb3b64bcefb1a39f26426ac43281&sni=hysteria-gjrao4f1.concept7.ru#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%5B1%5D
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.133.241.233:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B102%5D
-trojan://Z-jckziI1rW4yrUMorrv0Q@ipfast.kingmna.com:443?allowInsecure=1&host=looasaaa2boijji.global.ssl.fastly.net&path=/TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&type=ws&fp=ios&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B49%5D
-hysteria2://fanvpn.net@107.148.145.129:443?sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B430%5D
-hysteria2://nDEKfD96Ue@jp.777678.xyz:43812?insecure=1&sni=jp.777678.xyz#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B83%5D
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.54:443?sni=vpn-hk-004.fastervpn.world#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B23%5D
-hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?alpn=h3&insecure=1&security=tls&sni=mother-earth.fyi#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%5B1%5D
-trojan://Z-jckziI1rW4yrUMorrv0Q@ipfast.kingmna.com:443?allowInsecure=1&host=looaboi4jji.global.ssl.fastly.net.&path=/TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&type=ws&sni=cdn.akamai.steamstatic.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B46%5D
-trojan://Z-jckziI1rW4yrUMorrv0Q@ipfast.kingmna.com:443?allowInsecure=1&host=looaboi4jji.global.ssl.fastly.net.&path=/TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&type=ws&fp=edge&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B47%5D
+hysteria2://68eb9113-416b-4ac9-8b10-4de023aec876@129.101.107.158:443?insecure=1&pinSHA256=bf7bebeecc1878789d73090588553cc51b17fb3b64bcefb1a39f26426ac43281&sni=hysteria-gjrao4f1.concept7.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B41%5D
+vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@48.102.202.183:443?flow=xtls-rprx-vision&security=reality&fp=chrome&pbk=Dtr_Vep-C3_LsBDGgwZ9sfBfpWcUp_SwMB_fnya5IDo&sid=5167e6149ceb3334&sni=lesson178.schoolpizorbz.xyz#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B579%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.133.241.233:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B135%5D
+hysteria2://2444df7f-4a0c-45bd-9c62-25a7ff8c4dba@193.124.66.172:443?security=tls&alpn=h3&insecure=0&sni=lv.0000000000000.space#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B37%5D
+hysteria2://fanvpn.net@107.148.145.129:443?sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B461%5D
+hysteria2://81f705b5-9039-4adf-8671-783095bba0e8@94.249.225.65:443?sni=nl1.nuvoryxdata.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B222%5D
+vless://c762af05-2e92-4133-bc30-8cf45dd40a28@188.114.99.137:80?type=ws&host=suh.cryptofront.uk&packetEncoding=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B141%5D
+hysteria2://81f705b5-9039-4adf-8671-783095bba0e8@nl1.nuvoryxdata.com:443?security=tls&sni=nl1.nuvoryxdata.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B221%5D
