@@ -1,20 +1,20 @@
-# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 28.11.2026 12:25)
+# profile-title: 🍎 Telegood VPN iOS (ТОП-16 от 28.11.2026 13:34)
 # 🛡️ Verified Elite: 16
-# 📊 Stats: Вход: 2034 | Пинг: 81 | >300KB/s: 56 | SB-Old: 31 | SB-HY: 32 | Clash: 32 | iOS: 16
+# 📊 Stats: Вход: 1622 | Пинг: 31 | >300KB/s: 21 | SB-Old: 15 | SB-HY: 21 | Clash: 21 | iOS: 16
 
-vless://c762af05-2e92-4133-bc30-8cf45dd40a28@188.114.99.137:80?type=ws&encryption=none&packetEncoding=none&path=/&host=suh.cryptofront.uk#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B446%5D
-vless://c3647117-baf4-4072-a872-fc762fc24ec9@188.114.98.5:443?security=tls&fp=chrome&type=ws&headerType=none&host=cdn-edge-2fba99-gw.eng-ops-7084b7.workers.dev&path=/9ea36182644d0f1f&sni=cdn-edge-2fba99-gw.eng-ops-7084b7.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1816%5D
-trojan://7a088a73-7232-4fa4-a4f7-2cedf6da6396@104.18.41.203:443?path=/&security=tls&host=studio-wbqrcx.edge-studio-gugby6.workers.dev&fp=chrome&type=ws&sni=studio-wbqrcx.edge-studio-gugby6.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1184%5D
-vless://ba373a70-295f-482d-a471-8bc17b54e23b@185.86.147.33:443?security=tls&fp=firefox&type=ws&path=/g189ws&sni=get.rtkdvbr.cc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B194%5D
-vless://92720ee3-27b3-4204-ad2f-d5c8570a4404@104.21.209.174:443?encryption=none&security=tls&type=ws&host=auth-api-fbb93f-gw.dev-team-63276e.workers.dev&fp=chrome&alpn=http/1.1&path=/0df6c30383d404f8&sni=auth-api-fbb93f-gw.dev-team-63276e.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B1817%5D
-hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@kiosklist.comparecarprices.org:443?security=tls&sni=kiosklist.comparecarprices.org#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B5%5D
-hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@headerruntime.bezl-self.co.uk:443?security=tls&sni=headerruntime.bezl-self.co.uk#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B8%5D
-trojan://Z-jckziI1rW4yrUMorrv0Q@ipfast.kingmna.com:443?host=looaboi4jji.global.ssl.fastly.net.&path=/TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&type=ws&fp=edge&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B146%5D
-hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@trendslate.nem-osh-rkp.net:443?security=tls&alpn=h3&sni=trendslate.nem-osh-rkp.net#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B10%5D
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@3.125.43.168:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B36%5D
-hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?sni=mother-earth.fyi#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%5B21%5D
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.135.5.220:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B29%5D
-hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@144.31.1.76:443?sni=solidhealth.nemoi-self.co.uk#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B6%5D
-vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@13.141.36.43:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&pbk=p35RUaaaItuoyNiCrLpGeStBUpEJMSiZ2AajdfhhmiM&sid=92aee92130b46fe2&fp=chrome&sni=6bf329t.nl18.h1clayd.click#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5B22%5D
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.133.241.233:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B123%5D
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.171.191.130:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B11%5D
+vless://c762af05-2e92-4133-bc30-8cf45dd40a28@188.114.99.137:80?security=none&type=ws&path=/&host=suh.cryptofront.uk#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B495%5D
+trojan://Z-jckziI1rW4yrUMorrv0Q@ipfast.kingmna.com:443?host=looasaaa2boijji.global.ssl.fastly.net&path=/TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&type=ws&fp=ios&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B149%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@3.125.43.168:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B34%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.135.5.220:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B30%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.133.241.233:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B137%5D
+hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%5B21%5D
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.171.191.130:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B12%5D
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEdlcm1hbnkgWzQ4Ml0iLCJhZGQiOiJmY3R3aS54aWFveWFuLmlvIiwicG9ydCI6MTY2NDgsInR5cGUiOiJub25lIiwiaWQiOiI5NjdmYmM5NC1mY2NkLTQ2YzItOTI0MS1iZTkyZDQ5MDYxODYiLCJhaWQiOjAsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiODY3MTRhY2M0Y2M1OTI0ZTgxMmRiMWMxMTdkYjgzMmYubW9iZ3NsYi50YmNhY2hlLmNvbSIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@23.227.38.48:443?security=tls&type=ws&headerType=none&host=uub01.gg9901.uk&path=/images&sni=uub01.gg9901.uk&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B2038%5D
+vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@uuafe56.cf.877774.xyz:443?security=tls&type=ws&headerType=none&host=uua01.gg9901.uk&path=/images&sni=uua01.gg9901.uk&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B2037%5D
+vless://3b237274-8afd-4d22-b359-4a71f57b114b@141.193.213.20:2083?security=tls&type=ws&path=/&host=cdn.zcstore.org&alpn=http/1.1&fp=chrome&encryption=none&sni=cdn.zcstore.org#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B494%5D
+hysteria2://fanvpn.net@107.148.145.129:443?sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B568%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1M2RlYTUwNjNkZmY0NWU0OTYxZmI5Y2JhNWQzZjgzYQ@jp-telegram-khp25-viber-09773510813.premiumx.giize.com:1080#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5B34%5D
+vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@jllp.cf.877774.xyz:443?security=tls&type=ws&headerType=none&host=jp.bbusxxxh.top&path=/images&sni=jp.bbusxxxh.top&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B2040%5D
+vmess://eyJhZGQiOiIxNjEuMzMuMjAuMjU1IiwiYWlkIjowLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlMDg1NjUwOC1kNjkzLTQ1MGEtYTA5OS00NTUwOTFkYzRmMjUiLCJuYW1lIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IHwgQFJheWRpa2FseCB8IEU0RTMxQiIsIm5ldCI6IndzIiwicGF0aCI6Ii9lMDg1NjUwOC1kNjkzLTQ1MGEtYTA5OS00NTUwOTFkYzRmMjUtdm0iLCJwb3J0Ijo4ODgwLCJwcyI6Ilx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSBKYXBhbiBbMzddIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.54:443?sni=vpn-hk-004.fastervpn.world#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%5B47%5D
